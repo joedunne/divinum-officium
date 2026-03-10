@@ -404,7 +404,7 @@ Ecce sacérdos magnus, qui in diébus suis plácuit Deo, et invéntus est justus
 !Eccli 44:16
 Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
 !Eccli 44:20
-Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja.
+V. Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja.
 !Ps 109:4
 Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja.
 
@@ -415,10 +415,9 @@ Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja.
 V. Hic est sacérdos, quem coronávit Dóminus. Allelúja.
 
 [Tractus]
-!Eccli 44:16
+!Eccli 44:16; 44:20
 Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
-!Eccli 44:20
-Non est invéntus símilis illi, qui conserváret legem Excélsi.
+V. Non est invéntus símilis illi, qui conserváret legem Excélsi.
 !Ps 111:1-3
 Beátus vir, qui timet Dóminum: in mandátis ejus cupit nimis.
 V. Potens in terra erit semen ejus: generátio rectórum benedicétur.

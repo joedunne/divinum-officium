@@ -32,8 +32,7 @@ In diébus illis: Ecce, vir Gabriël, quem víderam in visióne a princípio, ci
 [Graduale]
 !Ps 102:20 et 1
 Benedícite Dóminum, omnes Angeli ejus: poténtes virtúte, qui fácitis verbum ejus. 
-V. Bénedic, ánima mea, Dóminum, et ómnia interióra mea nomen sanctum ejus.
-Allelúja, allelúja.
+V. Bénedic, ánima mea, Dóminum, et ómnia interióra mea nomen sanctum ejus. Allelúja, allelúja.
 !Ps 102:21.
 Benedicite Dómino, omnes virtútes ejus: ministri ejus, qui fácitis voluntátem ejus. Allelúja.
 
@@ -48,8 +47,6 @@ Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Allel�
 !Ps 102:20 et 1
 Benedícite Dóminum, omnes Angeli ejus: poténtes virtúte, qui fácitis verbum ejus. 
 V. Benedic, ánima mea, Dóminum, et ómnia interióra mea nomen sanctum ejus.
-_
-!Tractus
 !Luc 1:28, 42, 31 et 35
 Ave, María, grátia plena; Dóminus tecum.
 V. Benedícta tu in muliéribus: et benedíctus fructus ventris tui.

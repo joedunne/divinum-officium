@@ -23,18 +23,22 @@ She conducted the just, when he fled from his brother's wrath, through the right
 
 [Graduale]
 !Ps 111:1-2
-v. Blessed is the man that feareth the Lord: he shall delight exceedingly in his commandments. His seed shall be mighty upon earth: the generation of the righteous shall be blessed. Allelúja, allelúja.
+V. Blessed is the man that feareth the Lord: he shall delight exceedingly in his commandments.
+V. His seed shall be mighty upon earth: the generation of the righteous shall be blessed. Allelúja, allelúja.
 !Ps 20:4
-v. For thou hast prevented him with blessings of sweetness: thou hast set on his head a crown of precious stones. Allelúja.
+For thou hast prevented him with blessings of sweetness: thou hast set on his head a crown of precious stones. Allelúja.
 
 [GradualeP]
 @Commune/C2p:Graduale
 
 [Tractus]
 !Ps 111:1-2
-v. Blessed is the man that feareth the Lord: he shall delight exceedingly in his commandments. His seed shall be mighty upon earth: the generation of the righteous shall be blessed.
+Blessed is the man that feareth the Lord: he shall delight exceedingly in his commandments.
+V. His seed shall be mighty upon earth: the generation of the righteous shall be blessed.
+_
+!Tractus
 !Ps 20:3-4
-v. Thou hast given him his heart's desire: end hast not withholden from him the will of his lips. 
+Thou hast given him his heart's desire: end hast not withholden from him the will of his lips.
 V. For thou hast prevented him with blessings of sweetness: 
 V. Thou hast set on his head a crown of precious stones.
 

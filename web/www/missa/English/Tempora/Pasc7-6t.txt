@@ -27,7 +27,7 @@ $Deo gratias
 [GradualeL1]
 Alleluia.
 !John 6:64
-!It is the Spirit that gives life; but the flesh profits nothing.
+It is the Spirit that gives life; but the flesh profits nothing.
 
 [OratioL1]
 May the Holy Spirit, we beseech You, O Lord, inflame us with that fire which our Lord Jesus Christ cast upon the earth and desired that it be fanned into flame.
@@ -101,8 +101,9 @@ Lesson from the letter of St. Paul the Apostle to the Romans
 Brethren: Having been justified by faith, let us have peace with God through our Lord Jesus Christ, through Whom we also have access by faith unto that grace in which we stand, and exult in the hope of the glory of the sons of God. And not only this, but we exult in tribulations also, knowing that tribulation works out endurance, and endurance tried virtue, and tried virtue hope. And hope does not disappoint, because the charity of God is poured forth in our hearts by the Holy Spirit Who has been given to us.
 
 [Graduale]
-Ps 116:1-2
-Praise the Lord, all you nations; glorify Him, all you peoples! For steadfast is His kindness toward us, and the fidelity of the Lord endures forever.
+!Ps 116:1-2
+Praise the Lord, all you nations; glorify Him, all you peoples!
+V. For steadfast is His kindness toward us, and the fidelity of the Lord endures forever.
 
 [Sequentia]
 @Tempora/Pasc7-0:Sequentia

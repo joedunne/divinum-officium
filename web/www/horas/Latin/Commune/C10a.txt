@@ -22,10 +22,9 @@ $Per eundem
 @Tempora/Adv3-3
 
 [Graduale]
-!Ps 23:7
+!Ps 23:7, 3-4
 Tóllite portas, príncipes, vestras: et elevámini, portæ æternáles: et introíbit Rex glóriæ.
-!Ps 23:3-4
-Quis ascéndet in montem Dómini? aut quis stabit in loco sancto ejus? Innocens mánibus et mundo corde. Allelúja, allelúja
+V. Quis ascéndet in montem Dómini? aut quis stabit in loco sancto ejus? Innocens mánibus et mundo corde. Allelúja, allelúja
 !Luc 1:28
 Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Allelúja.
 

@@ -14,11 +14,7 @@ V. To proclaim Your kindness at dawn and Your faithfulness throughout the night.
 V. Blessed is the man who endures temptation; for when he has been tried, he will receive the crown of life. Alleluia.
 
 [GradualeP]
-Alleluia, alleluia.
-!Jas 1:12
-V. Blessed is the man who endures temptation; for when he has been tried, he shall receive the crown of life. Alleluia.
-!Eccli 45:9
-V. The Lord loved him and adorned him; He clothed him with a robe of glory. Alleluia.
+@Commune/C5
 
 [Tractus]
 !Ps. 111:1-3.

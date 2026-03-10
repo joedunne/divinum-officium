@@ -26,7 +26,10 @@ In those days, the Lord spoke to Achaz: Ask for a sign from the Lord, your God; 
 
 [GradualeP]
 Alleluia, alleluia.
-V. Lk. 1:28 Hail, Mary, full of grace, the Lord is with thee; blessed art thou amongst women. Alleluia. Num. 17:8 The rod of Jesse has blossomed: a virgin has brought forth God and man: God has given peace, reconciling the lowest with the highest in Himself. Alleluia.
+!Lk. 1:28
+V. Hail, Mary, full of grace, the Lord is with thee; blessed art thou amongst women. Alleluia.
+!Num. 17:8
+The rod of Jesse has blossomed: a virgin has brought forth God and man: God has given peace, reconciling the lowest with the highest in Himself. Alleluia.
 
 [Tractus]
 !Ps 44:3, 5

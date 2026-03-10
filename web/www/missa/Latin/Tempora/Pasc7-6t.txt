@@ -104,7 +104,7 @@ Fratres: Justificáti ex fide, pacem habeámus ad Deum per Dóminum nostrum Jesu
 
 [Graduale]
 !Ps 116:1-2
- Laudáte Dóminum, omnes gentes: et collaudáte eum, omnes pópuli.
+Laudáte Dóminum, omnes gentes: et collaudáte eum, omnes pópuli.
 V. Quóniam confirmáta est super nos misericórdia ejus: et véritas Dómini manet in ætérnum.
 
 [Sequentia]

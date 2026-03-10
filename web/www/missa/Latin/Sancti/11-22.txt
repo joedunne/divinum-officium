@@ -20,11 +20,9 @@ $Per Dominum
 @Commune/C6-1
 
 [Graduale]
-!Ps 44:11; 44:12
+!Ps 44:11-12, 5
 Audi, fília, et vide, et inclína aurem tuam: quia concupívit Rex spéciem tuam.
-!Ps 44:5
-Spécie tua et pulchritúdine tua inténde, próspere procéde et regna. 
-Allelúja, allelúja.
+Spécie tua et pulchritúdine tua inténde, próspere procéde et regna. Allelúja, allelúja.
 !Matt 25:4; 25:6
 Quinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus: média autem nocte clamor factus est: Ecce, sponsus venit: exíte óbviam Christo Dómino. Allelúja.
 

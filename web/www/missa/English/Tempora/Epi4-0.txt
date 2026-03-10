@@ -24,11 +24,7 @@ Lesson from the letter of St. Paul the Apostle to the Romans
 Brethren: Owe no man anything except to love one another; for he who loves his neighbor has fulfilled the Law. For You shall not commit adultery. You shall not kill. You shall not steal. You shall not bear false witness. You shall not covet; and if there is any other commandment, it is summed up in this saying, You shall love your neighbor as yourself. Love does no evil to a neighbor. Love therefore is the fulfillment of the Law.
 
 [Graduale]
-!Ps 101:16-17
-The nations shall revere Your name, O Lord, and all the kings of the earth Your glory.
-V. For the Lord has rebuilt Sion, and He shall appear in His glory. Alleluia, alleluia.
-!Ps 96:1
-The Lord is King; let the earth rejoice; let the many isles be glad.  Alleluia.
+@Tempora/Epi3-0:Graduale
 
 [Evangelium]
 Continuation of the Holy Gospel according to St. Matthew

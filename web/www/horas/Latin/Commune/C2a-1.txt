@@ -30,18 +30,16 @@ Léctio Epístolæ beáti Pauli Apóstoli ad Timótheum
 Caríssime: Memor esto, Dóminum Jesum Christum resurrexísse a mórtuis ex sémine David, secúndum Evangélium meum, in quo labóro usque ad víncula, quasi male óperans: sed verbum Dei non est alligátum. Ideo ómnia sustíneo propter eléctos, ut et ipsi salútem consequántur, quæ est in Christo Jesu, cum glória coelésti. Tu autem assecútus es meam doctrínam, institutiónem, propósitum, fidem, longanimitátem, dilectiónem, patiéntiam, persecutiónes, passiónes: quália mihi facta sunt Antiochíæ, Icónii et Lystris: quales persecutiónes sustínui, et ex ómnibus erípuit me Dóminus. Et omnes, qui pie volunt vívere in Christo Jesu, persecutiónem patiéntur.
 
 [Graduale]
-!Ps 36:24
+!Ps 36:24, 26
 Justus cum cecíderit, non collidétur: quia Dóminus suppónit manum suam.
-!Ps 36:26
-Tota die miserétur, et cómmodat: et semen ejus in benedictióne erit. Allelúja, allelúja
+V. Tota die miserétur, et cómmodat: et semen ejus in benedictióne erit. Allelúja, allelúja
 !Joann 8:12
 Qui séquitur me, non ámbulat in ténebris: sed habébit lumen vitæ ætérnæ. Allelúja.
 
 [Tractus]
-!Ps 36:24
+!Ps 36:24, 26
 Justus cum cecíderit, non collidétur: quia Dóminus suppónit manum suam.
-!Ps 36:26
-Tota die miserétur, et cómmodat: et semen ejus in benedictióne erit.
+V. Tota die miserétur, et cómmodat: et semen ejus in benedictióne erit.
 !Ps 111:1-3
 Beátus vir, qui timet Dóminum: in mandátis ejus cupit nimis.
 V. Potens in terra erit semen ejus: generátio rectórum benedicétur.

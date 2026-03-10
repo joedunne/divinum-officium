@@ -26,9 +26,10 @@ v.  Beloved: Christ also died once for our sins, the just for the unjust: that h
 
 [Graduale]
 !Ps 117:24; 117:26-27
-v.  This is the day which the Lord hath made: let us be glad and rejoice therein. Blessed be he that cometh in the name of the Lord. The Lord is God, and he hath shone upon us. Allelúja, allelúja.
+This is the day which the Lord hath made: let us be glad and rejoice therein.
+V. Blessed be he that cometh in the name of the Lord. The Lord is God, and he hath shone upon us. Allelúja, allelúja.
 !Ps 95:10
-v.  Say ye among the Gentiles, the Lord hath reigned from a tree.
+V.  Say ye among the Gentiles, the Lord hath reigned from a tree.
 
 [Sequentia]
 @Tempora/Pasc0-0:Sequentia

@@ -30,9 +30,9 @@ $Per Dominum
 @Commune/C2a:Lectio
 
 [Graduale]
+!Ps 17:33, 35
 Deus, qui præcínxit me virtúte: et pósuit immaculátam viam meam.
-V. Qui docet manus meas ad prœ́lium: et posuísti, ut arcum æreum, bráchia mea.
-Allelúja, allelúja.
+V. Qui docet manus meas ad prœ́lium: et posuísti, ut arcum æreum, bráchia mea. Allelúja, allelúja.
 V. Dedísti mihi protectiónem salútis tuæ: et déxtera tua suscépit me. Allelúja.
 
 [GradualeP]
@@ -46,8 +46,6 @@ Benedíctus Dóminus, Deus meus, qui docet manus meas ad prœ́lium, et dígitos
 !Ps 17:33 et 35
 Deus, qui præcínxit me virtúte: et pósuit immaculátam viam meam.
 V. Qui docet manus meas ad prœ́lium: et posuísti, ut arcum æreum, bráchia mea.
-_
-!Tractus
 !Ps 38:39 et 50
 Pérsequar inimícos meos, et comprehéndam illos.
 V. Confríngam illos, nec poterunt stare: cadent subtus pedes meos.

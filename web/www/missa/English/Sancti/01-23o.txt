@@ -1,5 +1,14 @@
 [Officium]
 St. Emerentiana, Virgin and Martyr
 
+[Rank]
+;;Simplex;;1.1;;vide C6-1
+
+[Rule]
+vide C6-1;
+Gloria
+Suffragium=Maria2;Ecclesiæ,Papa;;
+
 [Name]
 Emerentiana
+Secreta=Emerentiánæ
