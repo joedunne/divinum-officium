@@ -20,8 +20,10 @@ In those days, behold, Gabriel, the one whom I had seen before in vision, came t
 
 [GradualeP]
 Alleluia, alleluia.
-V. Ps 103:4 You make the winds Your Angels, and flaming fire Your ministers. Alleluia.
-V. Luke 1:28 Hail, Mary, full of grace, the Lord is with you; blessed are you among women. Alleluia.
+!Ps 103:4
+You make the winds Your Angels, and flaming fire Your ministers. Alleluia.
+!Luke 1:28
+Hail, Mary, full of grace, the Lord is with you; blessed are you among women. Alleluia.
 
 [Tractus]
 !Ps 102:20, 1

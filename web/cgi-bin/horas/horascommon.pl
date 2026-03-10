@@ -511,7 +511,7 @@ sub occurrence {
 
       if (/\@([a-z0-9\/\-]+?)\:/isx) {
         my %s = %{setupstring('Latin', "$1.txt")};
-        $_ = "!Commemoratio " . $s{'Officium'};
+        $_ = "!Commemoratio " . $s{'Officium'}; #Not the reference
       }
       $officename[2] = "Commemoratio: $_" if (s/^!Commemoratio //);
       $officename[2] =~ s/:/ ad Laudes tantum:/ if ($srank[2] >= 5 && $saint{'Commemoratio 2'} || $version =~ /196/);

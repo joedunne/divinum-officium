@@ -531,7 +531,7 @@ sub getcommemoratio {
     $o = papal_prayer($lang, $plural, $class, $name, $type);
   }
   if (!$o) { return ''; }
-  my $comm = translate_label('Commemoratio', $lang);
+  my $comm = translate_label('Commemoratio', 'Latin') ;# $lang); #Don't know why but English translation of label has extra new line
   $comm =~ s/\s$//;
   $w = "!" . $comm . " $rank[0]\nv. $o\n";
   return $w;
@@ -874,8 +874,8 @@ sub Vidiaquam : ScriptFunc {
     return resolve_refs($w, $lang);
   } else {
     return '';
-  }
-}
+  }}
+
 
 sub Introibo {
   if ($votive =~ /Defunct|C9/ || DeTemporePassionis()) { push(@s, "!omit. psalm"); return 1; }
@@ -1154,6 +1154,7 @@ sub postcommunio : ScriptFunc {
   my $lang = shift;
   my $str = oratio($lang, 'Postcommunio');
   if ($rule =~ /Super pop/i) { $str .= "_\n_\n" . getitem('Super populum', $lang); }
+#  if ($rule =~ /Post Missam/i) { $str .= "_\n_\n" . getitem('Post Missam', $lang); }
   return $str;
 }
 
@@ -1219,7 +1220,7 @@ sub Ultimaev : ScriptFunc {
   } elsif (!exists($win{'Ultima Evangelium'})) {
 
     # Commemorated Last Gospel
-    my $comm = translate_label('Commemoratio', $lang);
+    my $comm = translate_label('Commemoratio', 'Latin');# $lang); #Don't know why but English translation of label has extra new line
     my @comrank = split(";;", $com{Rank});
 
     $comm =~ s/\s$//;

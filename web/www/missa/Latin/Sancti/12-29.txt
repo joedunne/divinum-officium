@@ -35,10 +35,9 @@ $Per Dominum
 @Sancti/11-14
 
 [Graduale]
-!Eccli 44:16
+!Eccli 44:16, 20
 Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
-!Eccli 44:20
-Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja.
+V. Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja.
 !Joann 10:14
 V. Ego sum pastor bonus: et cognósco oves meas, et cognóscunt me meæ. Allelúja.
 

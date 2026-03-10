@@ -387,8 +387,9 @@ V. O God, before Whom stands the choir of angels, give ear to the prayers of You
 I will worship at Your holy temple and give thanks to Your name. Alleluia.
 
 [GradualeP]
-Alleluia, alleluia. Ps 137:2
-V. I will worship at Your holy temple and give thanks to Your name. Alleluia.
+Alleluia, alleluia.
+!Ps 137:2
+I will worship at Your holy temple and give thanks to Your name. Alleluia.
 V. The house of the Lord is well founded upon a firm rock. Alleluia.
 
 [Tractus]
