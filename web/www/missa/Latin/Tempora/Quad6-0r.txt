@@ -20,6 +20,7 @@ no Ultima Evangelium
 !Matt 21:9
 Ant. Hosánna fílio David: benedíctus, qui venit in nómine Dómini. O Rex Israël: Hosánna in excélsis.
 _
+!
 V. Dóminus vobíscum.
 R. Et cum spíritu tuo.
 ! In sequenti oratione celebrans dicat, prout qualitati ramorum congruit, hos palmarum ramos, vel hos olivarum ramos, vel hos arborum ramos, vel hos palmarum et olivarum ramos, aut hos palmarum ((olivarum)) et aliarum arborum ramos.
@@ -194,7 +195,8 @@ Fratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in forma 
 Tenuísti manum déxteram meam: et in voluntáte tua deduxísti me: et cum glória assumpsísti me.
 V. Quam bonus Israël Deus rectis corde! mei autem pæne moti sunt pedes: pæne effúsi sunt gressus mei: quia zelávi in peccatóribus, pacem peccatórum videns.
 _
-!Tractus 21:2-9, 18, 19, 22, 24, 32
+!Tractus
+!Ps 21:2-9, 18, 19, 22, 24, 32
 Deus, Deus meus, réspice in me: quare me dereliquísti?
 V. Longe a salúte mea verba delictórum meórum.
 V. Deus meus, clamábo per diem, nec exáudies: in nocte, et non ad insipiéntiam mihi.

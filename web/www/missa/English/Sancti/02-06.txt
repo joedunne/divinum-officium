@@ -9,13 +9,7 @@ O God, Who adorned blessed Titus, Your Confessor and Bishop, with the virtues of
 $Per Dominum
 
 [Tractus]
-!Sir 44:16, 20
-Behold, a great priest, who in his days pleased God.
-V. There was not found the like to him, who kept the law of the Most High. 
-!Ps 111:1-3
-Happy the man who fears the Lord, who greatly delights in His commands.
-V. His posterity shall be mighty upon the earth; the upright generation shall be blessed.
-V. Wealth and riches shall be in his house; his generosity shall endure forever.
+@Commune/C4
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke

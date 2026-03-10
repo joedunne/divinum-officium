@@ -30,12 +30,14 @@ Alleluia, alleluia.
 !Ps 8:6-7
 V. O Lord, You have made him little less than the angels, and crowned him with glory and honor. You have given him rule over the works of Your hands. Alleluia.
 !Sir. 11:24
-God’s blessing is the lot of the just man, and in due time his hopes bear fruit. Alleluia.
+V. God’s blessing is the lot of the just man, and in due time his hopes bear fruit. Alleluia.
 
 [Tractus]
 !Ps 30:20
 How great is the goodness, O Lord, which You have in store for those who fear You.
 V. And which, toward those who take refuge in You, You show in the sight of men.
+_
+!Tractus
 !Ps 83:6-7, 11, 13
 Happy the men whose strength You are! their hearts are set upon the pilgrimage in the vale of tears, in the place they have set.
 V. I had rather lie at the threshold of the house of my God than dwell in the tents of the wicked.
