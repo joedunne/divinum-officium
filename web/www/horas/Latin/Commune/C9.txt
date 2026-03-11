@@ -417,10 +417,8 @@ $Per Dominum.
 
 [Communio]
 !4 Esdr 2:35; 2:34
-Lux ætérna lúceat eis, Dómine: 
-* Cum Sanctis tuis in ætérnum: quia pius es.
-V. Requiem ætérnam dona eis, Dómine: et lux perpétua lúceat eis. 
-* Cum Sanctis tuis in ætérnum: quia pius es.
+Lux ætérna lúceat eis, Dómine: * Cum Sanctis tuis in ætérnum: quia pius es.
+V. Requiem ætérnam dona eis, Dómine: et lux perpétua lúceat eis. * Cum Sanctis tuis in ætérnum: quia pius es.
 
 [Postcommunio]
 Animábus, quǽsumus, Dómine, famulórum famularúmque tuárum orátio profíciat supplicántium: ut eas et a peccátis ómnibus éxuas, et tuæ redemptiónis fácias esse partícipes:

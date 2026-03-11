@@ -7,12 +7,7 @@ Credo
 Prefatio=Trinitate
 
 [Introitus]
-!Tob 12:6
-v. Blessed be the Holy Trinity and undivided Unity: we will give glory to Him, because He has shown His mercy to us.
-!Ps 8:2
-O Lord, our Lord, how glorious is Your Name over all the earth!
-&Gloria
-v. Blessed be the Holy Trinity and undivided Unity: we will give glory to Him, because He has shown His mercy to us.
+@Tempora/Pent01-0:Introitus
 
 [Oratio]
 Almighty, eternal God, You Who have given Your servants, in the confession of the true faith, to acknowledge the glory of the eternal Trinity, and in the power of that majesty to adore its unity, grant, we beseech You, that in the firmness of this faith we may ever be protected from all harm.

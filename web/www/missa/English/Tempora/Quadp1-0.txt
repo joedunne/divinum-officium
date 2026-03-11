@@ -5,6 +5,7 @@ Dominica in Septuagesima
 no Gloria
 Credo
 Prefatio=Trinitate
+Suffr=Maria2;Sanctorum,Ecclesiæ;;
 
 [Introitus]
 !Ps 17:5-7

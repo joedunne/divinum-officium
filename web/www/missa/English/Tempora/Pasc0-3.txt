@@ -32,6 +32,9 @@ V. The right hand of the Lord hath wrought strength: the right hand of the Lord 
 V. The Lord is risen indeed, and hath appeared to Simon.
 V. Surréxit Dóminus vere: et appáruit Petro.
 
+[TODO]
+todo jjd translate
+
 [Sequentia]
 @Tempora/Pasc0-0:Sequentia
 
