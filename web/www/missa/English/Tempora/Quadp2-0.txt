@@ -5,6 +5,7 @@ Dominica in Sexagesima
 no Gloria
 Credo
 Prefatio=Trinitate
+Suffr=Maria2;Sanctorum,Ecclesiæ;;
 
 [Introitus]
 !Ps 43:23-26
@@ -51,8 +52,7 @@ But His disciples then began to ask Him what this parable meant, He said to them
 And that which fell among the thorns, these are they who have heard, and as they go their way are choked by the cares and riches and pleasures of life, and their fruit does not ripen. But that upon good ground, these are they who, with a right and good heart, having heard the word, hold it fast, and bear fruit in patience.
 
 [Offertorium]
-!Ps 16:5-7
-Make my steps steadfast in Your paths, that my feet may not falter. Incline Your ear to me; hear my word. Show Your wondrous kindness, O Lord, Saviour of those who trust in You.
+@Tempora/Pent06-0
 
 [Secreta]
 May this sacrifice which we offer You, O Lord, ever give us new life and protection.

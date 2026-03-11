@@ -5,6 +5,7 @@ Feria Quarta in Rogationibus in Vigilia Ascensionis
 In Vigilia Ascensionis
 
 [Rule]
+Oratio Dominica
 Gloria
 no Credo
 Suffr=Maria3

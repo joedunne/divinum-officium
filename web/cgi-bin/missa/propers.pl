@@ -209,7 +209,7 @@ sub oratio {
     $w = $w{$type};
     setbuild2("$type Dominica") if $w;
   }
-  $w = 'Oratio missing' unless $w;
+  $w = 'Oratio missing ppppppp' unless $w;
 
   if (($version =~ /196/ || "$month$day" =~ /1102/)
     && $w =~ /(.*?)\&psalm\([0-9]+\)\s*\_\s*(.*)/is)
@@ -840,7 +840,7 @@ sub getitem {
     $w = $w{$type};
     if ($type =~ /Graduale/i && $dayofweek > 0 && exists($w{GradualeF})) { $w = $w{'GradualeF'}; }
   }
-  if (!$w) { $w = "$type missing!\n" }
+  if (!$w) { $w = "$type missing! yyyy\n" }
 
   #if ($type =~ /(Introitus|Offertorium|Communio)/) {
   if ($dayname[0] =~ /Pasc/i) {
