@@ -85,6 +85,7 @@ sub postOrdo() {
 sub ordo {
 
   print "<H2 ID='$missastartid'>$missaname</H2>\n" if $content;
+  headline($head);
   my $savesolemn = $solemn;
   if ($winner =~ /Quad6-[456]/i) { $solemn = 1; }
   $column = 1;

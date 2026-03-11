@@ -159,7 +159,7 @@ if ($command =~ /setup(.*)/is) {
   $pmode = 'missa';
   $command =~ s/(pray|change|setup)//ig;
   $head = $title;
-  headline($head);
+  #headline($head);
   load_languages_data($lang1, $lang2, $langfb, $version, $missa);
 
   #eval($setup{'parameters'});

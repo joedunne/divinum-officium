@@ -88,6 +88,7 @@ _
 ! Then the celebrant, standing at the epistle corner and with hands joined, sings the following Collects:
 !Pro Ecclesia
 v. Let us pray, dearly beloved, for the holy Church of God: that our Lord and God may deign to give it peace, keep it in unity, and guard it throughout the world, subjecting to it principalities and powers: and may grant unto us that, leading a peaceful and quiet life, we may glorify God, the Father almighty.
+_
 P. Let us pray.
 D. Let us kneel.
 R. Arise.
@@ -97,6 +98,7 @@ _
 _
 !Pro papa
 v. Let us pray for our most holy Father Pope N., that our Lord and God, Who chose him to the order of the Episcopate, may keep him in health and safety for His holy Church to govern the holy people of God.
+_
 P. Let us pray.
 D. Let us kneel.
 R. Arise.
@@ -105,7 +107,8 @@ $Per Dominum
 _
 _
 !Pro clerici et populo
-v.  Let us pray also for all Bishops, Priests, Deacons, Subdeacons, Acolytes, Exorcists, Readers, Porters, Confessors, Virgins, Widows, and for all the holy people of God.
+v. Let us pray also for all Bishops, Priests, Deacons, Subdeacons, Acolytes, Exorcists, Readers, Porters, Confessors, Virgins, Widows, and for all the holy people of God.
+_
 P. Let us pray.
 D. Let us kneel.
 R. Arise.
@@ -116,6 +119,7 @@ _
 ! Pro Imperatore
 !
 v. Let us pray also for our most Christian Emperor N., that our Lord and God may subject to him all the barbarous nations, to our perpetual peace.
+_
 P. Let us pray.
 D. Let us kneel.
 R. Arise.
@@ -125,6 +129,7 @@ _
 _
 !Pro catechumenis
 v. Let us pray also for our Catechumens: that our Lord and God would open the ears of their hearts, and the gate of mercy; that, having received by the font of regeneration the remission of all their sins, they also may be found in Christ Jesus our Lord.
+_
 P. Let us pray.
 D. Let us kneel.
 R. Arise.
@@ -134,6 +139,7 @@ _
 _
 !Contra errores
 v. Let us pray, dearly beloved, to God the Father almighty, that He would cleanse the world of all errors: take away diseases, drive away famine, open prisons, break chains, grant a sure return to travellers, health to the sick, and a safe haven to those at sea.
+_
 P. Let us pray.
 D. Let us kneel.
 R. Arise.
@@ -143,6 +149,7 @@ _
 _
 !Pro hæreticis et schismaticis
 v. Let us pray also for heretics and schismatics: that our Lord God would be pleased to rescue them from all their errors; and recall them to our holy mother the Catholic and Apostolic Church.
+_
 P. Let us pray.
 D. Let us kneel.
 R. Arise.
@@ -159,6 +166,7 @@ _
 _
 !Pro paganis
 v. Let us pray also for the pagans: that almighty God would remove iniquity from their hearts: that, putting aside their idols, they may be converted to the true and living God, and His only Son, Jesus Christ our God and Lord.
+_
 P. Let us pray.
 D. Let us kneel.
 R. Arise.
@@ -170,13 +178,13 @@ _
 ! After these Collects, the priest lays aside his chasuble and goes to the epistle corner of the altar, where at the back angle he receives from the deacon the veiled Cross, which has been previously arranged on the altar. Then turning towards the people, he uncovers first the upper portion of the veiled Cross and intones the verse:
 !
 _
-V. Behold the wood of the Cross, on which hung the Saviour of the world.
+v. Behold the wood of the Cross, on which hung the Saviour of the world.
 R. Come, let us adore.
 ! When the choir sings these words, all kneel, except the celebrant. The priest then advances to the front corner, and uncovers the right arm; elevating the Crucifix a little, he sings on a higher tone than before:
-V. Behold the wood of the Cross, on which hung the Saviour of the world.
+v. Behold the wood of the Cross, on which hung the Saviour of the world.
 R. Come, let us adore.
 !  Then at the middle of the altar the Celebrant uncovers the whole Cross, and, lifting it up, begins still higher, the ministers and choir continuing as before:
-V. Behold the wood of the Cross, on which hung the Saviour of the world.
+v. Behold the wood of the Cross, on which hung the Saviour of the world.
 R. Come, let us adore.
 !  The celebrant carries the Cross to the place prepared for it in front of the altar, and kneeling, lays it on a cushion. After which he takes off his shoes and chasuble. Then the priest, his ministers, and the rest of the clergy, and the laity kneel thrice and adore the Cross in turn. During the adoration of the Cross, the Improperia or Reproaches are sung, while the priest, sitting, recites them with his ministers.
 _
@@ -232,7 +240,7 @@ _
 ! The following anthem is then sung:
 V. We adore Thy Cross, O Lord: and we praise and glorify Thy holy Resurrection: for behold by the wood of the Cross joy has come into the whole world. 
 !Ps 66. 2
-V, May God have mercy on us, and bless us: May He cause the light of His countenance to shine upon us, and have mercy on us. 
+V. May God have mercy on us, and bless us: May He cause the light of His countenance to shine upon us, and have mercy on us.
 R. We adore Thy Cross, O Lord: and we praise and glorify Thy holy Resurrection: for behold by the wood of the Cross joy has come into the whole world. 
 _
 _
@@ -321,6 +329,7 @@ Amen.
 Ant. Sweetest wood and sweetest iron, Sweetest weight is hung on thee.
 _
 ! When the adoration of the Cross is ended, the candles are lighted on the altar; and the Cross having been replaced, a procession to the Altar of Repose takes place; the celebrant and his ministers with the clergy go to the place where the Blessed Sacrament has reposed since the previous day. The Sacred Host is incensed and then It is taken from the tabernacle and is solemnly borne back to the High Altar. During the procession is sung the:
+!
 _
 _
 !VEXILLA REGIS
@@ -394,6 +403,7 @@ C. Amen.
 _
 ! The Host is then elevated, and the priest continues with the following prayer:
 v. Let not the partaking of Thy Body, O Lord Jesus Christ, which I, though unworthy, presume to receive, turn to my judgment and condemnation; but let it, through Thy mercy, become a safeguard and remedy, both for soul and body; Who with God the Father, in the unity of the Holy Ghost, livest and reignest God, for ever and ever. Amen.
+_
 !
 v. I will take the Bread of heaven, and will call upon the Name of the Lord.
 ! He says three times devoutly and humbly:
@@ -407,4 +417,5 @@ v. May the body of our Lord Jesus Christ preserve my soul unto life everlasting.
 _
 !
 v. Grant, O Lord, that what we have taken with our mouth, we may receive with a pure mind; and from a temporal gift may it become to us an eternal remedy.
+_
 ! Then the priest and his ministers, having bowed before the altar, depart in silence.
