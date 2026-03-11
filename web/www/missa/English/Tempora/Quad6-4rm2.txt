@@ -75,7 +75,11 @@ v. Who, the day before He suffered for our salvation and that of all men, that i
 
 [Maundi]
 !!Washing of the feet
-!   The washing of the feet takes place after the homily, though it may be done at some other time today. The celebrant girds himself with a cloth, and assisted by his ministers, begins the washing of the feet of twelve men chosen for the ceremony. While the subdeacon holds the right foot of each of those whose feet are to be washed, the celebrant, kneeling before him, washes the foot and wipes it, the deacon handing him a towel for the wiping. Meanwhile the following chants are sung:
+! The washing of the feet takes place after the homily, though it may be done at some other time today.
+! The celebrant girds himself with a cloth, and assisted by his ministers, begins the washing of the feet of twelve men chosen for the ceremony.
+! While the subdeacon holds the right foot of each of those whose feet are to be washed, the celebrant, kneeling before him, washes the foot and wipes it, the deacon handing him a towel for the wiping.
+!
+! Meanwhile the following chants are sung:
 _
 _
 !Antiphon 1
@@ -83,8 +87,9 @@ _
 Ant. A new commandment I give unto you: That you love one another, as I have loved you, saith the Lord.
 !Ps 118:1
 Blessed are the undefiled in the way: who walk in the law of the Lord.
+!
 Ant. A new commandment I give unto you: That you love one another, as I have loved you, saith the Lord.
-
+!
 _
 _
 !Antiphon 2
@@ -106,7 +111,8 @@ _
 !Antiphon 4
 !John 13: 6-8
 Ant. Lord, dost Thou wash my feet? Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me. 
-V. He came to Simon Peter, and Peter said to Him: Lord, dost Thou wash my feet? Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me. 
+V. He came to Simon Peter, and Peter said to Him:
+Ant. Lord, dost Thou wash my feet? Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me.
 V. What I do, thou knowest not now; but thou shalt know hereafter.
 Ant. Lord, dost Thou wash my feet? Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me. 
 _
@@ -134,6 +140,7 @@ Ant. Let these three, faith, hope, and charity, remain in you; but the greatest 
 _
 _
 !Antiphon 8
+!
 v.  Where charity and love are, there is God. 
 V. The love of Christ has gathered us together. 
 V. Let us rejoice in Him and be glad. 
@@ -152,6 +159,8 @@ V. For infinite ages of ages. Amen.
 _
 _
 ! After the Maundy, the officiating priest washes his hands. Then returning to the place whence he came he puts on maniple and chasuble and standing with his head uncovered, he says:
+!
+!
 _
 $Pater noster
 V. Thou hast commanded Thy commandments, O Lord. 	
@@ -165,13 +174,16 @@ R. And with thy spirit.
 v. Let us pray
 Be present, O Lord, we beseech Thee, at the performance of our service: and since Thou didst vouchsafe to wash the feet of Thy disciples, despise not the work of Thy hands, which Thou hast commanded us to retain: that as here the outward stains are washed away by us and from us, so the inward sins of us all may be blotted out by Thee. Which do Thou vouchsafe to grant, who livest and reignest God for ever and ever. 
 R. Amen.
+!
+!
+!
 
 [Post Missam]
 !!Pange Lingua
 ! Missa expleta, statim proceditur ad ! solemnem translationem et repositionem  ! Sacramenti, quod ad Communionem sequenti ! die faciendam in pyxide asservatur.
 ! Pro solemni Sacramenti repositione ! paretur locus aptus in aliquo sacello vel altari ! ecclesiæ, ac decenter, quoad fieri potest, ! ornetur velis et luminaribus; atque, servatis ! Sacræ Rituum Congregationis decretis ! de vitandis vel tollendis abusibus in hoc ! loco parando, plane commendatur severitas ! quæ liturgiæ horum dierum convenit.
 ! In translatione et repositione vero ! Sacramenti proceditur hoc modo: ! Accenduntur intorticia, et fit processio ! more solito. ! Si haberi potest, alius subdiaconus paratus ! ferat crucem; secus unus ex clericis vel ! ministrantibus. ! Celebrans, stans ante altare, imponit ! incensum in duobus thuribulis, absque ! benedictione. Deinde, in medio genuflexus, ter ! incensat Sacramentum. ! Tune assumit velum humerale albi ! coloris, et ascendens altare in medio, facta ! genuflexione, stans, accipit pyxidem, quam ! diaconus ei porrigit, et extremitatibus veli ! cooperit. ! Deinde, de altari descendens, procedit ! sub baldachino, duobus acolythis, vel ! ministrantibus, Sacramentum continue ! incensantibus, usque ad locum paratum. ! Ministri sacri, vel ministrantes, comitantur ! celebrantem, a dextris et a sinistris ! procedentes. ! Dum fit processio, cantatur hymnus Pange, ! lingua, gloriosi Corporis mysterium, ! usque ad verba Tantum ergo; si vero opus ! sit, idem hymnus repetitur.
-
+_
 v. Sing, my tongue, the Saviour's glory:
 Of His Flesh the mystery sing;
 Of His Blood all price exceeding.
@@ -199,7 +211,7 @@ Wine into His Blood He changes:
 What though sense no change discerns,
 Only be the heart in earnest,
 Faith her lesson quickly learns. 	
-
+_
 ! Cum autem ventum fuerit ad locum ! paratum, celebrans, adiuvante, si opus sit, ! diacono, deponit pyxidem super altare, ! genuflectit, et incensat, thure iterum imposito ! interim canitur Tantum ergo. 
 v. Down in adoration falling,
 Lo, the Sacred Host we hail,
@@ -215,7 +227,7 @@ Forth from each eternally,
 Be salvation, honor, blessing,
 Might and endless majesty.
 Amen.
-
+_
 ! Deinde diaconus, vel ipse celebrans, ! reponit pyxidem in tabernaculo seu capsa.
 _
 ! Postea, omnes, genibus flexis, per ! aliquod temporis spatium in silentio Sacramentum ! adorant. Signo dato, celebrans et ! ministri sacri, et ministrantes, surgunt, ! iterum, genibus flexis, adorant, et revertuntur ! in sacristiam, ubi celebrans et ministri sacri ! deponunt paramenta albi coloris; deinde ! celebrans et diaconus assumunt stolam ! violaceam.
@@ -224,9 +236,10 @@ _
 _
 _
 !!Stripping the altar
+_
 ! Deinde celebrans et ministri, seu ! ministrantes, exeunt ante altare maius; facta ! eidem reverentia, stantes, incipiunt ! denudationem altarium, hoc modo: ! Celebrans dicit clara voce sequentem ! antiphonam:
-
-
+_
+_
 !Antiphon
 !Ps 21:19
 Ant. They parted my garments amongst them; and upon my vesture they cast lots.
@@ -265,7 +278,7 @@ Ant. They parted my garments amongst them; and upon my vesture they cast lots.
 ~(21:31) And to him my soul shall live: * and my seed shall serve him.
 ~(21:32) There shall be declared to the Lord a generation to come: * and the heavens shall shew forth his justice to a people that shall be born, which the Lord hath made.
 Ant. They parted my garments amongst them; and upon my vesture they cast lots.
-
+_
 ! Clerici, si adsunt, prosequuntur recitationem ! huius psalmi, usque dum altarium ! denudatio peracta sit; alioquin celebrans dicat ! antiphonam et primum tantum versum ! psalmi ante denudationem altaris maioris. ! Celebrans vero cum ministris sacris, vel ! ministrantibus, denudat omnia altaria ! ecclesiæ, excepto illo in quo Sacramentum ! solemniter adoratur. ! Altaribus denudatis, redeunt ad altare ! maius, et, repetita a celebrante antiphona ! Dividunt, revertuntur in sacristiam.
 _
 ! Mox in choro dicitur Completorium, ! candelis exstinctis et absque cantu.

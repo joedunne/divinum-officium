@@ -1,6 +1,9 @@
 [Officium]
 Feria Quinta in Coena Domini
 
+[Rank]
+;;Feria privilegiata Duplex I classis;;7
+
 [Rule]
 Gloria
 Credo
@@ -132,8 +135,7 @@ From my mother's womb thou art my God: depart not from me.
 For tribulation is very near; for there is none to help me.
 Many calves have surrounded me: fat bulls have besieged me.  	
 They gaped upon me with their mouths, as a ravening and a roaring lion.
-I am poured out like water, and all my bones are scattered.
-My heart is like melting wax in the midst of my bowels.
+I am poured out like water, and all my bones are scattered. My heart is like melting wax in the midst of my bowels.
 My strength is dried up like a potsherd, and my tongue cleaveth to my jaws: and Thou hast brought me into the dust of death.  	
 For many dogs have compassed me: the council of the malignant have beseiged me.
 They pierced my hands and my feet: they have told all my bones.  	
@@ -142,19 +144,16 @@ But Thou, O Lord, remove not Thy help to a distance from me: look towards my def
  O God, deliver my soul from the sword: my darling from the power of the dog!
  Save me from the lion's mouth: and my affliction from the horns of the unicorns.
  I will declare Thy Name unto my brethren: in the midst of the church will I praise Thee.
-Ye that fear the Lord, praise Him: all ye seed of Jacob, glorify Him.
- Let all the seed of Israel fear Him. Because He hath not slighted nor despised the supplication of the poor man.  	
+Ye that fear the Lord, praise Him: all ye seed of Jacob, glorify Him. Let all the seed of Israel fear Him. Because He hath not slighted nor despised the supplication of the poor man.
  Neither hath He hid His face from me: but when I cried unto Him, He heard me.
  With Thee is my praise in the great church: I will pay my vows in the sight of them that fear Him.  	
 The poor shall eat and be filled, and they shall praise the Lord that seek Him: their hearts shall live for ever and ever.
-All the ends of the earth shall remember and turn unto the Lord.  	
-And all the kindreds of the Gentiles shall adore in His sight.  	
+All the ends of the earth shall remember and turn unto the Lord. And all the kindreds of the Gentiles shall adore in His sight.
 For the kingdom is the Lord's: and He shall have dominion over the nations.
  All the fat ones of the earth have eaten and have adored: all they that go down to the earth shall fall before Him.
  My soul also shall live unto Him: and my seed shall serve Him.
  The generation to come shall tell it unto the Lord: and the heavens shall declare His righteousness unto a people that shall be born, whom the Lord hath made.
-Ant. They parted my garments amongst them, and upon my vesture they cast lots.
-My God, my God, look upon me: why hast Thou forsaken me? Far from my salvation are the words of my sins.
+Ant. They parted my garments amongst them, and upon my vesture they cast lots. My God, my God, look upon me: why hast Thou forsaken me? Far from my salvation are the words of my sins.
 _
 _
 !!Washing of the feet
@@ -167,7 +166,6 @@ v. A new commandment I give unto you: That you love one another, as I have loved
 !Ps 118:1
 Blessed are the undefiled in the way: who walk in the law of the Lord.
 v. A new commandment I give unto you: That you love one another, as I have loved you, saith the Lord.
-
 _
 _
 !Antiphona
@@ -189,7 +187,8 @@ _
 !Antiphona
 !John 13: 6-8
 v. Lord, dost Thou wash my feet? Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me. 
-V. He came to Simon Peter, and Peter said to Him: Lord, dost Thou wash my feet? Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me. 
+V. He came to Simon Peter, and Peter said to Him: Lord, dost Thou wash my feet?
+V. Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me.
 V. What I do, thou knowest not now; but thou shalt know hereafter.
 v. Lord, dost Thou wash my feet? Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me. 
 _
@@ -225,6 +224,7 @@ v. Blessed be the Holy Trinity and undivided Unity: We will give praise to Him, 
 _
 _
 !Antiphona
+!1 Joann. 2; 3; 4.
 v.  Where charity and love are, there is God. 
 The love of Christ has gathered us together. 
 Let us rejoice in Him and be glad. 

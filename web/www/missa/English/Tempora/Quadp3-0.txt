@@ -50,8 +50,7 @@ At that time, Jesus taking to Himself the Twelve said to them, Behold, we are go
 Blessed are You, O Lord; teach me Your statutes. With my lips I declare all the ordinances of Your mouth.
 
 [Secreta]
-May these offerings, O Lord, we beseech You, wash away our sins; may it sanctify the bodies and souls of Your servants for the celebration of this sacrifice.
-$Per Dominum
+@Tempora/Epi3-0:Secreta
 
 [Communio]
 !Ps 77:29-30

@@ -127,7 +127,10 @@ $Per Dominum
 
 [Super populum]
 !Prayer over the people
+!
 v. Let us pray.
+!
 v. Bow your heads to God.
+_
 v. Look graciously O Lord, upon those who bow down before Your divine majesty, that they, being fed by Your holy gift, may always be nourished by help from heaven.
 $Per Dominum

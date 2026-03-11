@@ -540,6 +540,8 @@ _
 _
 ! In Solemn Masses the altar is here incensed. Whilst blessing the incense the priest says:
 Be blessed + by Him in whose honor thou art burnt. Amen.
+!
+!
 _
 _
 !! Gloria
@@ -645,6 +647,7 @@ S. May the Lord receive the Sacrifice from thy hands, to the praise and glory of
 ! The priest answers in a low voice:
 P. Amen.
 ! Then, with outstretched hands, he recites the Secret Prayers, not beginning with Oremus. The Secret Prayers vary with the Mass, and are found in the Mass of the Day. These being finished, the priest says or sings: P. World without end. S. Amen. 
+_
 !!Secret
 Accept, we beseech Thee, O Lord, the prayers of Thy people together with the sacrifice they offer: that what has begun by the Paschal Mysteries, may by Thine arrangement result in our eternal healing.
 $Per Dominum
@@ -690,6 +693,7 @@ _
 !!!FOR THIS IS MY BODY.
 _
 ! After pronouncing the words of the Consecration, the priest, kneeling, adores the Sacred Host; rising, he elevates It. -- Look up at the Sacred Host, with faith, piety, and love, saying: “My Lord and my God.” -- and then placing It on the corporal, again adores It. After this he never disjoins his fingers and thumbs, except when he is to take the Host, until after the washing of his fingers.
+wait5
 _
 _
 ~<span class="red"><i>Consecration of the Wine Then, uncovering the chalice, the priest says:</i></span> ~
@@ -759,6 +763,7 @@ _
 _
 ! He puts the Particle into the Chalice, saying:
 v. May this mixture and consecration of the Body and Blood of our Lord Jesus Christ be to us who receive it effectual unto eternal life. Amen.
+!
 _
 _
 v. O Lord Jesus Christ, Son of the living God, who, according to the will of Thy Father, with the cooperation of the Holy Ghost, hast by Thy death given life to the world; deliver me by this Thy most sacred Body and Blood, from all my iniquities and from all evils; and make me always cleave to Thy commandments, and suffer me never to be separated from Thee, Who livest and reignest, with the same God the Father and the Holy Ghost, God, world without end. Amen.
@@ -858,3 +863,4 @@ _
 !Then turning to the Gospel side of the altar, the priest says:
 !He then traces the Sign of the Cross, first upon the altar, and then upon his forehead, lips, and breast, and says:
 &Ultimaev
+!

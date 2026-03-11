@@ -23,6 +23,7 @@ _
 !7 a. Deficiente lectore, ipse celebrans; stans in loco suo, legit lectionem.
 !Lectio prima
 !Osee 6:1-6
+!
 Hæc dicit Dóminus: In tribulatióne sua mane consúrgent ad me: Veníte, et revertámur ad Dóminum: quia ipse cœpit, et sanábit nos: percútiet, et curábit nos. Vivificábit nos post duos dies: in die tértia suscitábit nos, et vivémus in conspéctu eius. Sciémus, sequemúrque, ut cognoscámus Dóminum: quasi dilúculum præparátus est egréssus eius, et véniet quasi imber nobis temporáneus, et serótinus terræ. Quid fáciam tibi Ephraim? quid fáciam tibi Iuda? Misericórdia vestra quasi nubes matutína, et quasi ros mane pertránsiens. Propter hoc dolávi in prophétis, occídi eos in verbis oris mei: et iudícia tua quasi lux egrediéntur. Quia misericórdiam vólui, et non sacrifícium, et sciéntiam Dei plus quam holocáusta.
 _
 !Sequitur responsorium, a schola cantandum, vel a clero assistente recitandum.
@@ -43,12 +44,11 @@ Deus, a quo et Iudas reátus sui pœnam, et confessiónis suæ latro prǽmium su
 $Qui tecum
 _
 _
-!9. Oratione expleta, sequitur altera lectio, a subdiacono dicenda ad legile, item sine titulo, et sine Deo gratias in fine. Celebrans ceterique omnes, sedentes, auscultant.
-!9a. Lectionem legat lector ad legile: secus vero ipse celebrans, stans in loco suo.
+!9. Oratione expleta, sequitur altera lectio, a subdiacono dicenda ad legile, item sine titulo, et sine Deo gratias in fine. Celebrans ceterique omnes, sedentes, auscultant. 9a. Lectionem legat lector ad legile: secus vero ipse celebrans, stans in loco suo.
 !Lectio
 !Exodus 12:1-11
+!
 In diébus illis: Dixit Dóminus ad Móysen et Aaron in terra Ægýpti: Mensis iste, vobis princípium ménsium: primus erit in ménsibus anni. Loquímini ad univérsum cœtum filiórum Israël, et dícite eis: Décima die mensis huius tollat unusquísque agnum per famílias et domos suas. Sin autem minor est númerus, ut suffícere possit ad vescéndum agnum, assúmet vicínum suum qui iunctus est dómui suæ, iuxta númerum animárum quæ suffícere possunt ad esum agni. Erit autem agnus absque mácula, másculus, annículus: iuxta quem ritum tollétis et hædum. Et servábitis eum usque ad quartamdécimam diem mensis huius: immolabítque eum univérsa multitúdo filiórum Israël ad vésperam. Et sument de sánguine eius, ac ponent super utrúmque postem, et in superlimináribus domórum, in quibus cómedent illum. Et edent carnes nocte illa assas igni, et ázymos panes cum lactúcis agréstibus. Non comedétis ex eo crudum quid, nec coctum aqua, sed tantum assum igni: caput cum pédibus eius et intestínis vorábitis. Nec remanébit quidquam ex eo usque mane. Si quid resíduum fúerit, igne comburétis. Sic autem comedétis illum: renes vestros accingétis, et calceaménta habébitis in pédibus, tenéntes báculos in mánibus, et comedétis festinánter: est enim Phase - id est tránsitus - Dómini.
-_
 !Sequitur responsorium, a schola cantandum, vel a clero assistente recitandum.
 !Responsorium
 !Ps 139:2-10, 14
@@ -87,6 +87,7 @@ C. Pilátus autem cum audísset hos sermónes, addúxit foras Jesum, et sedit pr
 Scripsit autem et títulum Pilátus: et pósuit super crucem. Erat autem scriptum: Jesus Nazarénus, Rex Judæórum. Hunc ergo títulum multi Judæórum legérunt, quia prope civitátem erat locus, ubi crucifíxus est Jesus. Et erat scriptum hebráice, græce et latíne. Dicébant ergo Piláto pontífices Judæórum: S. Noli scríbere Rex Judæórum, sed quia ipse dixit: Rex sum Judæórum. C. Respóndit Pilátus: S. Quod scripsi, scripsi. C. Mílites ergo cum crucifixíssent eum, accepérunt vestiménta ejus et fecérunt quátuor partes: unicuíque míliti partem, et túnicam.
 Erat autem túnica inconsútilis, désuper contéxta per totum. Dixérunt ergo ad ínvicem: S. Non scindámus eam, sed sortiámur de illa, cujus sit. C. Ut Scriptúra implerétur, dicens: Partíti sunt vestiménta mea sibi: et in vestem meam misérunt sortem. Et mílites quidem hæc fecérunt. Stabant autem juxta crucem Jesu Mater ejus et soror Matris ejus, María Cléophæ, et María Magdaléne. Cum vidísset ergo Jesus Matrem et discípulum stantem, quem diligébat, dicit Matri suæ: J. Múlier, ecce fílius tuus. C. Deínde dicit discípulo: J. Ecce mater tua. C. Et ex illa hora accépit eam discípulus in sua.
 Póstea sciens Jesus, quia ómnia consummáta sunt, ut consummarétur Scriptúra, dixit: J. Sítio. C. Vas ergo erat pósitum acéto plenum. Illi autem spóngiam plenam acéto, hyssópo circumponéntes, obtulérunt ori ejus. Cum ergo accepísset Jesus acétum, dixit: J. Consummátum est. C. Et inclináto cápite trádidit spíritum.
+_
 !Hic genuflectitur, et pausatur aliquantulum
 C. Judǽi ergo - quóniam Parascéve erat - ut non remanérent in cruce córpora sábbato - erat enim magnus dies ille sábbati - rogavérunt Pilátum, ut frangeréntur eórum crura et tolleréntur. Venérunt ergo mílites: et primi quidem fregérunt crura et altérius, qui crucifíxus est cum eo. Ad Jesum autem cum veníssent, ut vidérunt eum jam mórtuum, non fregérunt ejus crura, sed unus mílitum láncea latus ejus apéruit, et contínuo exívit sanguis et aqua. Et qui vidit, testimónium perhíbuit: et verum est testimónium ejus. Et ille scit, quia vera dicit: ut et vos credátis.
 Facta sunt enim hæc, ut Scriptúra implerétur: Os non comminuétis ex eo. Et íterum ália Scriptúra dicit: Vidébunt in quem transfixérunt.
@@ -170,7 +171,7 @@ R. Amen.
 _
 _
 !!DE TERTIA PARTE ACTIONIS LITURGICE SEU DE SOLEMNI SANCTAE CRUCIS ADORATIONE
-
+_
 !14. Orationibus solemnibus completis, celebrans et ministri redeunt ad sedilia, ubi celebrans deponit pluviale, ministri dalmaticam vel tunicellam; et datur initium solemni adorationi sanctæ Crucis.  Adhibeatur Crux satis magna, cum Crucifixo, velo violaceo obtecto, quod facile removere possit.
 !15. Primum portatur sancta Crux e sacristia in medium presbyterii, omnibus stantibus. Portatur autem hoc modo: Celebrans et subdiaconus manent ad sedilia stantes: diaconus cum acolythis, seu ministrantibus, adit sacristiam, ex qua processionaliter affert Crucem ad ecclesiam: præcedunt acolythi, seu ministrantes, sequitur diaconus cum Cruce, medius inter alios duos acolythos, seu ministrantes, candelabra accensa gestantes.  Cum presbyterium ingressi fuerint, celebrans et subdiaconus ipsis obviam veniunt, et in medio, ante altare, celebrans Crucem e manibus diaconi accipit.
 !15a. Celebrans cum ministrantibus sacristiam adit, indeque, ut supra, portat Crucem ante altare.
@@ -178,8 +179,10 @@ _
 !16 a. Celebrans, in detegenda sancta Cruce, adiuvatur a ministrantibus; antiphonam vero Ecce lignum Crucis, usque ad Venite, adoremus, cantat solus.
 V. Ecce lignum Crucis, in quo salus mundi pepéndit.
 R. Veníte, adorémus.
+!
 V. Ecce lignum Crucis, in quo salus mundi pepéndit.
 R. Veníte, adorémus.
+!
 V. Ecce lignum Crucis, in quo salus mundi pepéndit.
 R. Veníte, adorémus.
 !17. Post detectionem Crucis sequitur eiusdem solemnis adoratio, hoc modo: Crux, postquam detecta fuerit, traditur a celebrante duobus acolythis, vel ministrantibus, qui stantes in suppedaneo, ante medium altaris, et facie ad populum versa, eam hinc inde ita per bracchia sustentant, ut pes Crucis super suppedaneum consistat. Alii vero duo acolythi, vel ministrantes, qui candelabra accensa gestabant, eisdem candelabris a dextris et a sinistris Crucis super suppedaneum collocatis, genuflexi manent in later ibus suppedanei, in superiore gradu, facie versus Crucem.  Tune incipit adoratio sanctæ Crucis, ordine sequenti: primus accedit solus celebrans; deinde ministri, postea clerus, demum ministrantes. Hi omnes, si commode fieri possit, prius calceamenta deponunt, et, unus post alium, accedentes ad Crucem, simplici genuflexione ter repetita, pedes Crucifixi osculantur.
@@ -187,34 +190,21 @@ R. Veníte, adorémus.
 !19. Dum autem sanctse Crucis adoratio peragitur, cantantur a schola, in duos choros divisa, sic dicta Improperia, et alia quæ sequuntur; celebrans, ministri sacri, et ministrantes, ceterique omnes, qui adorationem sanctæ Crucis peregerunt, sedentes auscultant.  Cantus vero eousque producitur, prout adorantium numerus requirit. Concluditur tamen semper cum doxologia: Sempiteina sit beatæ Trinitati gloria, ut infra.
 !IMPROPERIA
 !Partes quæ ad singulos choros spectant, indicantur numeris 1 (chorus primus), et 2 (chorus secundus); quæ autem ab utroque choro simul cantanda sunt, indicantur hoc modo: 1 et 2.
-!1 et 2
 V. Pópule meus, quid feci tibi? aut in quo contristávi te? Respónde mihi.
 V. Quia edúxi te de terra Ægýpti, parásti crucem Salvatóri tuo.
-!1
 R. Agios o Theós!
-!2
 R. Sanctus Deus!
-!1
 R. Agios ischyrós!
-!2
 R. Sanctus fortis!
-!1
 R. Agios athánatos, eléison imas.
-!2
 R. Sanctus immortális, miserére nobis.
 ! 1 et 2
 V. Quia edúxi te per desértum quadragínta annis, et manna cibávi te, et introdúxi te in terram satis bonam: parásti Crucem Salvatóri tuo.
-!1
 R. Agios o Theós!
-!2
 R. Sanctus Deus!
-!1
 R. Agios ischyrós!
-!2
 R. Sanctus fortis!
-!1
 R. Agios athánatos, eléison imas.
-!2
 R. Sanctus immortális, miserére nobis.
 ! 1 et 2
 V. Quid ultra débui fácere tibi, et non feci? Ego quidem plantávi te víneam meam speciosíssimam: et tu facta es mihi nimis amára: acéto namque sitim meam potásti: et láncea perforásti latus Salvatóri tuo.
@@ -226,56 +216,35 @@ R. Agios athánatos, eléison imas.
 R. Sanctus immortális, miserére nobis.
 _
 _
-!1
+!
 V. Ego propter te flagellávi Ægýptum cum primogénitus suis: et tu me flagellátum tradidísti.
-!2
 R. Pópule meus, quid feci tibi? aut in quo contristávi te? Respónde mihi.
-!1
 V. Ego edúxi te de Ægýpto, demérso Pharaóne in Mare Rubrum: et tu me tradidísti princípibus sacerdótum.
-!2
 R. Pópule meus, quid feci tibi? aut in quo contristávi te? Respónde mihi.
-!1
 V. Ego ante te apérui mare: et tu aperuísti láncea latus meum.
-!2
 R. Pópule meus, quid feci tibi? aut in quo contristávi te? Respónde mihi.
-!1
 V. Ego ante te præívi in colúmna nubis: et tu me duxísti ad prætórium Piláti.
-!2
 R. Pópule meus, quid feci tibi? aut in quo contristávi te? Respónde mihi.
-!1
 V. Ego te pavi manna per desértum: et tu me cecidísti álapis et flagéllis.
-!2
 R. Pópule meus, quid feci tibi? aut in quo contristávi te? Respónde mihi.
-!1
 V. Ego te potávi aqua salútis de petra: et tu me potásti felle, et acéto.
-!2
 R. Pópule meus, quid feci tibi? aut in quo contristávi te? Respónde mihi.
-!1
 V. Ego propter te Chananæórum reges percússi: et tu percussísti arúndine caput meum.
-!2
 R. Pópule meus, quid feci tibi? aut in quo contristávi te? Respónde mihi.
-!1
 V. Ego dedi tibi sceptrum regále: et tu dedísti cápiti meo spíneam corónam.
-!2
 R. Pópule meus, quid feci tibi? aut in quo contristávi te? Respónde mihi.
-!1
 V. Ego te exaltávi magna virtúte: et tu me suspendísti in patíbulo Crucis.
-!2
 R. Pópule meus, quid feci tibi? aut in quo contristávi te? Respónde mihi.
 !1 et 2 Antiphóna
 Ant. Crucem tuam * adorámus, Dómine: et sanctam resurrectiónem tuam laudámus, et glorificámus: ecce enim propter lignum venit gáudium in univérso mundo.
-!1
-Deus misereátur nostri, et benedícat nobis.
-!2
-Illúminet vultum suum super nos, et misereátur nostri.
-!1 et 2 Antiphóna
+!Ps. 66:2
+Deus misereátur nostri, et benedícat nobis. Illúminet vultum suum super nos, et misereátur nostri.
 Ant. Crucem tuam * adorámus, Dómine: et sanctam resurrectiónem tuam laudámus, et glorificámus: ecce enim propter lignum venit gáudium in univérso mundo.
 _
 _
 !CRUX FIDELIS
 !1 et 2 Antiphona:
 Ant. Crux fidélis, inter omnes Arbor una nóbilis! Nulla silva talem profert, Fronde, flore, gérmine, * Dulce lignum, dulces clavos, Dulce pondus sústinet.
-! 1 Hymnus
 V. Pange, lingua, gloriósi,
 Láuream certáminis,
 Et super Crucis trophǽo
@@ -283,9 +252,7 @@ Dic triúmphum nóbilem:
 Quáliter Redémptor orbis
 Immolátus vícerit.
 _ `
-!2
 Ant. Crux fidélis, inter omnes Arbor una nóbilis! Nulla silva talem profert, Fronde, flore, gérmine.
-!1
 V. De paréntis protoplásti
 Fráude Factor cóndolens,
 Quando pomi noxiális
@@ -293,9 +260,7 @@ In necem morsu ruit:
 Ipse lignum tunc notávit.
 Damna ligni ut sólveret.
 _ `
-!2
 Ant. Dulce lignum, dulces clavos, Dulce pondus sústinet.
-!1
 V. Hoc opus nostræ salútis
 Ordo depopóscerat:
 Multifórmis proditóris
@@ -303,9 +268,7 @@ Ars ut artem fálleret:
 Et medélam ferret inde,
 Hostis unde lǽserat.
 _ `
-!2
 Ant. Crux fidélis, inter omnes Arbor una nóbilis! Nulla silva talem profert, Fronde, flore, gérmine.
-!1
 V. Quando venit ergo sacri
 Plenitúdo témporis,
 Missus est ab arce Patris
@@ -313,9 +276,7 @@ Natus, orbis Cónditor:
 Atque ventre virgináli
 Carne amíctus pródiit.
 _ `
-!2
 Ant. Dulce lignum, dulces clavos, Dulce pondus sústinet.
-!1
 V. Vagit infans inter arcta
 Cónditus præsépia:
 Membra pannis involúta
@@ -323,9 +284,7 @@ Virgo Mater álligat:
 Et Dei manus, pedésque
 Stricta cingit fáscia.
 _ `
-!2
 Ant. Crux fidélis, inter omnes Arbor una nóbilis! Nulla silva talem profert, Fronde, flore, gérmine.
-!1
 V. Lustra sex qui iam perégit,
 Tempus implens córporis,
 Sponte líbera Redémptor
@@ -333,9 +292,7 @@ Passióni déditus,
 Agnus in Crucis levátur
 Immolándus stípite.
 _ `
-!2
 Ant. Dulce lignum, dulces clavos, Dulce pondus sústinet.
-!1
 V. Felle potus ecce languet:
 Spina, clavi, láncea,
 Mite corpus perforárunt,
@@ -343,9 +300,7 @@ Unda manat, et cruor:
 Terra, pontus, astra, mundus.
 Quo lavántur flúmine!
 _ `
-!2
 Ant. Crux fidélis, inter omnes Arbor una nóbilis! Nulla silva talem profert, Fronde, flore, gérmine.
-!1
 V. Flecte ramos, arbor alta,
 Tensa lax víscera,
 Et rigor lentéscat ille,
@@ -353,9 +308,7 @@ Quem dedit natívitas:
 Et supérni membra Regis
 Tende miti stípite.
 _ `
-!2
 Ant. Dulce lignum, dulces clavos, Dulce pondus sústinet.
-!1
 V. Sola digna tu fuísti
 Ferre mundi víctimam:
 Atque portum præparáre
@@ -363,10 +316,8 @@ Arca mundo naúfrago:
 Quam sacer cruor perúnxit,
 Fusus Agni córpore.
 _ `
-!2
 Ant. Crux fidélis, inter omnes Arbor una nóbilis! Nulla silva talem profert, Fronde, flore, gérmine.
 !Conclusio numquam omittenda:
-!1
 V. Sempitérna sit beátæ
 Trinitáti glória:
 Æqua Patri, Filióque;
@@ -374,7 +325,6 @@ Par decus Paráclito:
 Unus Triníque nomen
 Láudet univérsitas.
 Amen.
-!2
 Ant. Dulce lignum, dulces clavos, Dulce pondus sústinet.
 _
 _
@@ -397,15 +347,14 @@ V. Oremus.
 Præcéptis salutáribus móniti, et divína institutióne formǽti, audémus dícere:
 ! Celebrans, item iunctis manibus, et omnes præsentes prosequuntur:
 V. Pater noster, qui es in coelis, sanctificetur nomen tuum.  Adveniat regnum tuum.  Fiat voluntas tua, sicut in coelo, et in terra.  Panem nostrum cotidianum da nobis hodie: et dimitte nobis debita nostra, sicut et nos dimittibus debitoribus nostris.  Et ne nos inducas in tentationem; sed libera nos a malo.  Amen.
-_
 !27. Celebrans solus, clara et distincta voce atque manibus extensis, prosequitur:
 V. Líbera nos, quǽsumus, Dómine, ab ómnibus malis, prætéritis, præséntibus, et futúris: et intercedénte beáta et gloriósa semper Vírgine Dei Genetríce María, cum beátis Apóstolis tuis Petro et Paulo, atque Andréa, et ómnibus Sanctis, da propítius pacem in diébus nostris: ut ope misericórdiæ tuæ adiúti, et a peccáto simus semper líberi, et ab omni perturbatióne secúri. Per eúmdem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.
 !Et ab omnibus respondetur:
 R. Amen.
-_ `
+_
 !28. Et continuo celebrans recitat, submissa voce, sequentem orationem, de more inclinatus, manibusque iunctis super altare positis:
 V. Percéptio Córporis tui, Dómine Iesu Christe, quod ego indígnus súmere præsúmo, non mihi provéniat in iudícium et condemnatiónem: sed pro tua pietáte prosit mihi ad tutaméntum mentis, et córporis, et ad medélam percipiéndam. Qui vivis et regnas cum Deo Patre in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum. Amen.
-_ `
+_
 !29. Turn discooperit pyxidem, et, facta genuflexione, accipit sacram particulam, et, tenens illam supra pyxidem, inclinatus et pectus percutiens, ter dicit, more solito:
 V. Dómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.
 V. Dómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur ánima mea.

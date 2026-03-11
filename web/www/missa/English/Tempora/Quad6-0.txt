@@ -10,7 +10,7 @@ Passio
 omit commemoratio
 
 [Prelude]
-!!The Blessing of the Palms,
+#The Blessing of the Palms,
 ! After the holy water has been sprinkled and the Asperges me has been sung, the priest in purple cope, with his ministers also vested in purple, proceeds to the blessing of the palms, or of branches of olive or other trees which are placed in front or on the epistle side of the altar. The choir sings first the following anthem:
 !Antiphon
 !Matt 21:9

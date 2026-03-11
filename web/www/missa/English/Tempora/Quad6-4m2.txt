@@ -70,6 +70,7 @@ v. Who, the day before He suffered for our salvation and that of all men, that i
 
 [Post Missam]
 !!Pange Lingua
+!
 v. Sing, my tongue, the Saviour's glory:
 Of His Flesh the mystery sing;
 Of His Blood all price exceeding.
@@ -112,10 +113,11 @@ Forth from each eternally,
 Be salvation, honor, blessing,
 Might and endless majesty.
 Amen.
+!
 _
 _
 !!Stripping the altar
-!  When Vespers are not recited, the celebrant proceeds to strip the altars, reciting alternately the following psalm:
+! When Vespers are not recited, the celebrant proceeds to strip the altars, reciting alternately the following psalm:
 !Antiphon
 !Ps 21:19
 Ant. They parted my garments amongst them; and upon my vesture they cast lots.
@@ -169,7 +171,6 @@ v. A new commandment I give unto you: That you love one another, as I have loved
 !Ps 118:1
 Blessed are the undefiled in the way: who walk in the law of the Lord.
 v. A new commandment I give unto you: That you love one another, as I have loved you, saith the Lord.
-
 _
 _
 !Antiphona
@@ -191,7 +192,8 @@ _
 !Antiphona
 !John 13: 6-7, 8
 v. Lord, dost Thou wash my feet? Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me. 
-V. He came to Simon Peter, and Peter said to Him: Lord, dost Thou wash my feet? Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me. 
+V. He came to Simon Peter, and Peter said to Him: Lord, dost Thou wash my feet?
+V. Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me.
 V. What I do, thou knowest not now; but thou shalt know hereafter.
 v. Lord, dost Thou wash my feet? Jesus answered and said to them: If I shall not wash thy feet, thou shalt have no part with Me. 
 _
@@ -227,7 +229,8 @@ v. Blessed be the Holy Trinity and undivided Unity: We will give praise to Him, 
 _
 _
 !Antiphona
-v.  Where charity and love are, there is God. 
+!
+v. Where charity and love are, there is God.
 V. The love of Christ has gathered us together. 
 V. Let us rejoice in Him and be glad. 
 V. Let us fear and love the living God. 

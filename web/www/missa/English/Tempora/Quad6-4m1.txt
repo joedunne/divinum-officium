@@ -1,6 +1,9 @@
 [Officium]
 De missa chrismatis
 
+[TODO]
+TODO JJD Translate
+
 [Rule]
 Gloria
 Credo
@@ -52,6 +55,3 @@ Prædicábant Apóstoli ut pæniténtiam ágerent, et ungébant óleo multos æg
 [Postcommunio]
 Præsta, quǽsumus, Dómine: ut, sicut de prætéritis ad nova transímus; ita, vetustáte depósita, sanctificátis méntibus innovémur.
 $Per Dominum
-
-[TODO]
-TODO JJD Translate

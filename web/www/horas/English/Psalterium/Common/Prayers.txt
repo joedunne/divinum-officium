@@ -271,6 +271,9 @@ Benedictio. The almighty and merciful Lord, + the Father, the Son and the Holy S
 Benedictio. May the blessing of almighty God, + the Father, the Son, and the Holy Spirit come down to us and remain forever.
 
 [Jube domne]
+(rubrica divino)$rubrica Jube
+V. Grant, Lord, a blessing.
+(sed rubrica 1960 dicitur)
 V. Grant, Lord, a blessing.
 
 [Lectio regulae]

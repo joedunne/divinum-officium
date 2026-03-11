@@ -16,6 +16,7 @@ no Qui dixisti
 Benedicamus Domino
 no Benedictio
 no Ultima Evangelium
+celebranda aut de missa chrismatis aut missa in coena Domini
 
 [Introitus]
 !Gal 6:14.
@@ -185,7 +186,7 @@ R. Amen.
 ! Missa expleta, statim proceditur ad ! solemnem translationem et repositionem  ! Sacramenti, quod ad Communionem sequenti ! die faciendam in pyxide asservatur.
 ! Pro solemni Sacramenti repositione ! paretur locus aptus in aliquo sacello vel altari ! ecclesiæ, ac decenter, quoad fieri potest, ! ornetur velis et luminaribus; atque, servatis ! Sacræ Rituum Congregationis decretis ! de vitandis vel tollendis abusibus in hoc ! loco parando, plane commendatur severitas ! quæ liturgiæ horum dierum convenit.
 ! In translatione et repositione vero ! Sacramenti proceditur hoc modo: ! Accenduntur intorticia, et fit processio ! more solito. ! Si haberi potest, alius subdiaconus paratus ! ferat crucem; secus unus ex clericis vel ! ministrantibus. ! Celebrans, stans ante altare, imponit ! incensum in duobus thuribulis, absque ! benedictione. Deinde, in medio genuflexus, ter ! incensat Sacramentum. ! Tunc assumit velum humerale albi ! coloris, et ascendens altare in medio, facta ! genuflexione, stans, accipit pyxidem, quam ! diaconus ei porrigit, et extremitatibus veli ! cooperit. ! Deinde, de altari descendens, procedit ! sub baldachino, duobus acolythis, vel ! ministrantibus, Sacramentum continue ! incensantibus, usque ad locum paratum. ! Ministri sacri, vel ministrantes, comitantur ! celebrantem, a dextris et a sinistris ! procedentes. ! Dum fit processio, cantatur hymnus Pange, ! lingua, gloriosi Corporis mysterium, ! usque ad verba Tantum ergo; si vero opus ! sit, idem hymnus repetitur.
-
+_
 v. Pange língua, gloriósi
 Córporis mystérium,
 Sanguinísque pretiósi,
@@ -213,7 +214,7 @@ Fitque sanguis Christi merum:
 Et si sensus déficit,
 Ad firmándum cor sincérum
 Sola fides súfficit.
-
+_
 ! Cum autem ventum fuerit ad locum ! paratum, celebrans, adiuvante, si opus sit, ! diacono, deponit pyxidem super altare, ! genuflectit, et incensat, thure iterum imposito ! interim canitur Tantum ergo. 
 v. Tantum ergo Sacraméntum
 Venerémur cérnui:
@@ -229,8 +230,7 @@ Sit et benedíctio
 Procedénti ab utróque
 Compar sit laudátio.
 Amen.
-
-
+_
 ! Deinde diaconus, vel ipse celebrans, ! reponit pyxidem in tabernaculo seu capsa.
 _
 ! Postea, omnes, genibus flexis, per ! aliquod temporis spatium in silentio Sacramentum ! adorant. Signo dato, celebrans et ! ministri sacri, et ministrantes, surgunt, ! iterum, genibus flexis, adorant, et revertuntur ! in sacristiam, ubi celebrans et ministri sacri ! deponunt paramenta albi coloris; deinde ! celebrans et diaconus assumunt stolam ! violaceam.
@@ -241,8 +241,8 @@ _
 !!Denudatione altaris
 _
 ! Deinde celebrans et ministri, seu ! ministrantes, exeunt ante altare maius; facta ! eidem reverentia, stantes, incipiunt ! denudationem altarium, hoc modo: ! Celebrans dicit clara voce sequentem ! antiphonam:
-
-
+_
+_
 !Antiphona
 !Ps 21:19
 Ant. Divisérunt sibi vestiménta mea: et super vestem meam misérunt sortem.
@@ -281,7 +281,7 @@ Ant. Divisérunt sibi vestiménta mea: et super vestem meam misérunt sortem.
 ~(21:31) Et ánima mea illi vivet: * et semen meum sérviet ipsi.
 ~(21:32) Annuntiábitur Dómino generátio ventúra: * et annuntiábunt cœli justítiam ejus pópulo qui nascétur, quem fecit Dóminus.
 Ant. Divisérunt sibi vestiménta mea: et super vestem meam misérunt sortem.
-
+_
 ! Clerici, si adsunt, prosequuntur recitationem ! huius psalmi, usque dum altarium ! denudatio peracta sit; alioquin celebrans dicat ! antiphonam et primum tantum versum ! psalmi ante denudationem altaris maioris. ! Celebrans vero cum ministris sacris, vel ! ministrantibus, denudat omnia altaria ! ecclesiæ, excepto illo in quo Sacramentum ! solemniter adoratur. ! Altaribus denudatis, redeunt ad altare ! maius, et, repetita a celebrante antiphona ! Dividunt, revertuntur in sacristiam.
 _
 ! Mox in choro dicitur Completorium, ! candelis exstinctis et absque cantu.

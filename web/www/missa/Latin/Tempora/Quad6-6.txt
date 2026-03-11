@@ -313,7 +313,7 @@ _
 !!Prophetiæ
 ! Completa benedictione Cerei, Diaconus, depositis albis, sumit violacea paramenta, et vadit ad Celebrantem: qui exuitur Pluviali, et sumit Manipulum et Casulam violacei coloris. Postea leguntur Prophetiæ sine titulo, nec in earum fine respondetur Deo grátias, et Celebrans legit eas submissa voce ad Altare in cornu Epistolæ. In fine Prophetiarum dicuntur Orationes modo subscripto. Ante, vel interim dum Prophetiæ leguntur, Presbyteri catechizent catechumenos baptizandos, et præparent ad baptismum.
 !!Prophetia Prima
-!!Gen 2:1-2.
+!!Gen. 1:1-31; 2:1-2
 !
 In princípio creavit Deus cœlum et terram. Terra autem erat inánis et vácua, et ténebræ erant super fáciem abýssi: et Spíritus Dei ferebátur super aquas. Dixítque Deus: Fiat lux. Et facta est lux. Et vidit Deus lucem, quod esset bona: et divísit lucem a ténebris. Appellavítque lucem Diem, et ténebras Noctem: factúmque est véspere et mane, dies unus. Dixit quoque Deus: Fiat firmaméntum in médio aquárum: et dívidat aquas ab aquis. Et fecit Deus firmaméntum, divisítque aquas, quæ erant sub firmaménto, ab his, quæ erant super firmaméntum. Et factum est ita. Vocavítque Deus firmaméntum, Cœlum: et factum est véspere et mane, dies secúndus.
 Dixit vero Deus: Congregéntur aquæ, quæ sub cœlo sunt, in locum unum: et appáreat árida. Et factum est ita. Et vocávit Deus áridam, Terram: congregationésque aquárum appellávit Maria. Et vidit Deus, quod esset bonum. Et ait: Gérminet terra herbam viréntem et faciéntem semen, et lignum pomíferum fáciens fructum juxta genus suum, cujus semen in semetípso sit super terram. Et factum est ita. Et prótulit terra herbam viréntem et faciéntem semen juxta genus suum, lignúmque fáciens fructum, et habens unumquódque seméntem secúndum spéciem suam. Et vidit Deus, quod esset bonum. Et factum est véspere et mane, dies tértius.
@@ -596,13 +596,11 @@ R. Et cum spíritu tuo.
 Sequéntia ++ sancti Evangélii secúndum Matthǽum.
 !Mt 28:1-7.
 Véspere autem sábbati, quæ luce scit in prima sábbati, venit María Magdaléne et áltera María vidére sepúlcrum. Et ecce, terræmótus factus est magnus. Angelus enim Dómini descéndit de cœlo: et accédens revólvit lápidem, et sedébat super eum: erat autem aspéctus ejus sicut fulgur: et vestiméntum ejus sicut nix. Præ timóre autem ejus extérriti sunt custódes, et facti sunt velut mórtui. Respóndens autem Angelus, dixit muliéribus: Nolíte timére vos: scio enim, quod Jesum, qui crucifíxus est, quæritis: non est hic: surréxit enim, sicut dixit. Veníte, et vidéte locum, ubi pósitus erat Dóminus. Et cito eúntes, dícite discípulis ejus, quia surréxit: et ecce, præcédit vos in Galilæam: ibi eum vidébitis. Ecce, prædíxi vobis.
-R. Laus tibi, Christe!
-S. Per Evangélica dicta, deleántur nostra delícta.
+$Laus tibi
 _
 _
 ! Non dicitur Credo, sed finito Evangelio Sacerdos dicit:
-V. Dóminus vobíscum.
-R. Et cum spiritu tuo.
+&DominusVobiscum
 v. Orémus.
 ! Non dicitur Offertorium
 _
@@ -638,8 +636,7 @@ _
 ! Sacerdos lavat manus, dicens:
 !Ps. 25, 6-12.
 v. Lavábo inter innocéntes manus meas: et circúmdabo altáre tuum, Dómine: Ut áudiam vocem laudis, et enárrem univérsa mirabília tua. Dómine, diléxi decórem domus tuæ et locum habitatiónis glóriæ tuæ. Ne perdas cum ímpiis, Deus, ánimam meam, et cum viris sánguinum vitam meam: In quorum mánibus iniquitátes sunt: déxtera eórum repléta est munéribus. Ego autem in innocéntia mea ingréssus sum: rédime me et miserére mei. Pes meus stetit in dirécto: in ecclésiis benedícam te, Dómine.
-V. Glória Patri, et Fílio, et Spirítui Sancto.
-R. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen
+&Gloria
 _
 _
 ! Deinde, aliquantulum inclinatus in medio Altaris, junctis manibus super eo, dicit:
@@ -738,7 +735,7 @@ _
 _
 v. Per quem hæc ómnia, Dómine, semper bona creas, <span class="text-sm red">Signat ter super Hostiam, et Calicem simul, dicens:</span> sanctí + ficas, viví + ficas, bene + dícis et præstas nobis.
 ! Discooperit Calicem, genuflectit, accipit Hostiam inter pollicem et indicem manus dexteræ: et tenens sinistra Calicem, cum Hostia signat ter a labio ad labium Calicis, dicens:
-v.Per Ip + sum, et cum Ip + so, et in Ip + so, <span class="text-sm red">Cum ipsa Hostia signat bis inter se et Calicem, dicens:</span> est tibi Deo Patri omnipoténti, in unitáte Spíritus + Sancti,
+v. Per Ip + sum, et cum Ip + so, et in Ip + so, <span class="text-sm red">Cum ipsa Hostia signat bis inter se et Calicem, dicens:</span> est tibi Deo Patri omnipoténti, in unitáte Spíritus + Sancti,
 ! Elevans parum Calicem cum Hostia, dicit:
 omnis honor, et glória.
 ! ponit Hostiam, Calicem Palla cooperit, genuflectit, surgit, et dicit intellegibili voce vel cantat:
