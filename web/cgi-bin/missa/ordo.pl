@@ -7,14 +7,9 @@ use utf8;
 # Divine Office
 $a = 1;
 
-#*** ordo()
-# collects and prints the ordo
-# first let specials to fill the chapters
-# then break the text into units (separated by double newline)
-# resolves the references (formatting characters, prayers hash references and subs)
-#and prints the result
-sub ordo {
-
+sub anteOrdo() {
+  @script1 = ();
+  @script2 = ();
   print "<H2 ID='AnteMissatop'>Orationes Ante Sancta Missa</H2>\n" if $content;
 
   my @prepatoryPrayers = ("FormulaIntensionisAnteMissam", "ActOfOblationBeforeMass", "ForSinners","ForTheChurch",
@@ -42,11 +37,54 @@ sub ordo {
   }
 
   print_content($lang1, \@script1, $lang2, \@script2, 1);
-
   @script1 = ();
   @script2 = ();
 
-  print "<H2 ID='Missatop'>Sancta Missa</H2>\n" if $content;
+}
+
+sub postOrdo() {
+
+  @script1 = ();
+  @script2 = ();
+  print "<H2 ID='PostMissatop'>Gratiarum Actio Post Missam</H2>\n"  if $content;
+
+  my @thanksgiving = ("ThanksgivingAfterMass", "SaintThomasAquinas", "SaintBonaventure","PrayerToJesusInThanksgiving",
+  "HymnStThomasAquinas","PrayerToOurLord","AnimaChristi","PrayerStAugustine","ObsecroTe",
+#  "PrayerBlessedVirgin1","PrayerBlessedVirgin2",
+  "PrayerBlessedVirginMaryAfterHolyMass","PrayerStPadrePio","PrayerBeforeCrucifix","Psalm95","PrayerStJosephAfterMass","AllThingsNecessarySalvation"
+#  ,"TrinitarianAfterMass1","TrinitarianAfterMass2","TrinitarianAfterMass3","TrinitarianAfterMass4","TrinitarianAfterMass5",
+#  "TrinitarianAfterMass6","TrinitarianAfterMass7","TrinitarianAfterMass8","TrinitarianAfterMass9"
+  );
+  foreach (@thanksgiving) {
+    my $str = prayer("$_", $lang1);
+
+    $str =  resolve_refs($str, $lang1);
+    push(@script1, "\n");
+    push(@script1, split('_', $str));
+
+    if (!$only) {
+      $str = prayer("$_", $lang2);
+
+      $str =  resolve_refs($str, $lang2);
+      push(@script2, "\n");
+      push(@script2, split('_', $str));
+    }
+  }
+
+  print_content($lang1, \@script1, $lang2, \@script2, 1);
+  @script1 = ();
+  @script2 = ();
+}
+
+#*** ordo()
+# collects and prints the ordo
+# first let specials to fill the chapters
+# then break the text into units (separated by double newline)
+# resolves the references (formatting characters, prayers hash references and subs)
+#and prints the result
+sub ordo {
+
+  print "<H2 ID='$missastartid'>$missaname</H2>\n" if $content;
   my $savesolemn = $solemn;
   if ($winner =~ /Quad6-[456]/i) { $solemn = 1; }
   $column = 1;
@@ -94,35 +132,6 @@ sub ordo {
       $str = $winner2{'Post Missam'};
 
       # $str = norubr1($str);
-      push(@script2, split('_', $str));
-    }
-  }
-
-  print_content($lang1, \@script1, $lang2, \@script2, 1);
-
-  @script1 = ();
-  @script2 = ();
-  print "<H2 ID='PostMissatop'>Gratiarum Actio Post Missam</H2>\n"  if $content;
-
-  my @thanksgiving = ("ThanksgivingAfterMass", "SaintThomasAquinas", "SaintBonaventure","PrayerToJesusInThanksgiving",
-  "HymnStThomasAquinas","PrayerToOurLord","AnimaChristi","PrayerStAugustine","ObsecroTe",
-#  "PrayerBlessedVirgin1","PrayerBlessedVirgin2",
-  "PrayerBlessedVirginMaryAfterHolyMass","PrayerStPadrePio","PrayerBeforeCrucifix","Psalm95","PrayerStJosephAfterMass","AllThingsNecessarySalvation"
-#  ,"TrinitarianAfterMass1","TrinitarianAfterMass2","TrinitarianAfterMass3","TrinitarianAfterMass4","TrinitarianAfterMass5",
-#  "TrinitarianAfterMass6","TrinitarianAfterMass7","TrinitarianAfterMass8","TrinitarianAfterMass9"
-  );
-  foreach (@thanksgiving) {
-    my $str = prayer("$_", $lang1);
-
-    $str =  resolve_refs($str, $lang1);
-    push(@script1, "\n");
-    push(@script1, split('_', $str));
-
-    if (!$only) {
-      $str = prayer("$_", $lang2);
-
-      $str =  resolve_refs($str, $lang2);
-      push(@script2, "\n");
       push(@script2, split('_', $str));
     }
   }

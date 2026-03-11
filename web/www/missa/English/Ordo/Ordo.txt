@@ -114,7 +114,8 @@ S. And with thy spirit.
 v. Cleanse my heart and my lips, O almighty God, who didst cleanse the lips of the prophet Isaias with a burning coal, and vouchsafe, through Thy gracious mercy, so to purify me, that I may worthily announce Thy holy Gospel. Through Christ our Lord. Amen. 	
 v. Give me Thy blessing, O Lord. The Lord be in my heart and on my lips, that I may worthily and in a becoming manner, proclaim His holy Gospel. Amen. 	
 P. The Lord be with you. 	
-S. And with thy spirit. 	
+S. And with thy spirit.
+!
 &evangelium
 
 !*D
@@ -123,7 +124,8 @@ S. And with thy spirit.
 Clease my heart and my lips, O almighty God, who didst cleanse the lips of the prophet Isaias with a burning coal, and vouchsafe, through Thy gracious mercy, so to purify me, that I may worthily announce Thy holy Gospel. Through Christ our Lord. Amen. 	
 !  
 P. The Lord be with you. 	
-S. And with thy spirit. 	
+S. And with thy spirit.
+!
 &evangelium
 
 # Creed
