@@ -49,3 +49,6 @@ Put in thy hand, and know the place of the nails, alleluia; and be not faithless
 [Postcommunio]
 We beseech Thee, O Lord, our God, to make the most holy Mysteries which Thou hast given us as a defense of our renewal, a remedy for us now, and in the future.
 $Per Dominum
+
+[Pinsert]
+in hoc potíssimum gloriósius prædicáre.

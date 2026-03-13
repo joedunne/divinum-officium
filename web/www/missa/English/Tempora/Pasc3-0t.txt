@@ -8,14 +8,10 @@ Credo
 Prefatio=Joseph
 
 [Introitus]
-!Ps 32:20-21
-v. Our soul waiteth for the Lord: for he is our helper and protector. For in him our heart shall rejoice: and in his holy name we have trusted, allelúja, allelúja
-!Ps 79:2
-v. O thou that rulest Israel: thou that leadest Joseph like a sheep. Thou that sittest upon the cherubims, shine forth, allelúja, allelúja
+@Tempora/Pasc2-3:Introitus
 
 [Oratio]
-God, Who in thine unspeakable foreknowledge didst choose thy blessed servant Joseph to be the husband of thine Own most holy Mother; mercifully grant that now that he is in heaven with thee, we who on earth do reverence him for our Defender, may worthily be holpen by the succour of his prayers to thee on our behalf;
-$Qui vivis
+@Tempora/Pasc2-3:Oratio
 
 [Lectio]
 Lesson from the book of Genesis
@@ -47,6 +43,3 @@ v. And Jacob begot Joseph the husband of Mary, of whom was born Jesus, who is ca
 [Postcommunio]
 Refreshed at the fount of divine blessing, we beseech thee, O Lord our God, that as thou dost gladden us by the protection of blessed Joseph, so by his merits and intercession thou woulds make us partakers of his heavenly glory.
 $Per Dominum
-	prefatio= found in Latin/Sancti files with prefix :
-
-04-25 =1

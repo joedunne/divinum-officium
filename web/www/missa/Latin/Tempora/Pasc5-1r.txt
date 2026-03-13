@@ -5,6 +5,7 @@ Feria Secunda in Rogationibus
 ;;Feria;;1
 
 [Rule]
+ex Pasc5-1;
 Gloria
 no Credo
 Suffr=Maria3;Ecclesiæ,Papa;;
