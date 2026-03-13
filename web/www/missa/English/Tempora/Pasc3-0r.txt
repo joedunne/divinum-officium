@@ -7,12 +7,7 @@ Credo
 Suffr=Maria3;Ecclesiae,Papa;;
 
 [Introitus]
-!Ps 65:1-2
-v. Shout with joy to God, all the earth, allelúja, sing ye a psalm to his name, allelúja; give glory to his praise, allelúja, allelúja, allelúja.
-!Ps 65:3
-v.  Say unto God, How terrible are thy works, O Lord! in the multitude of thy strength thy enemies shall lie to thee.
-&Gloria
-v. Shout with joy to God, all the earth, allelúja, sing ye a psalm to his name, allelúja; give glory to his praise, allelúja, allelúja, allelúja.
+@Tempora/Pasc3-0:Introitus
 
 [Oratio]
 Almighty God, Who showest to them that be in error the light of thy truth, to the intent that they may return into the way of righteousness, grant unto all them that are admitted into the fellowship of Christ's Religion, that they may eschew those things that are contrary to their profession, and follow all such things as are agreeable to the same. 

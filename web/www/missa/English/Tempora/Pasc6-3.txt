@@ -5,6 +5,7 @@ Feria IV infra Octavam Ascensionis
 Feria IV post Ascensionem
 
 [Rule]
+Evangelium non appropriatum
 ex Tempora/Pasc5-4;
 Gloria
 Suffr=Maria3;Ecclesiae,Papa;;

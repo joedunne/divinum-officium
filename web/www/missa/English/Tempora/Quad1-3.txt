@@ -55,8 +55,7 @@ At that time, certain of the Scribes and Pharisees answered Him, saying: Master,
 I will delight in Your commands, which I love exceedingly. And I will lift up my hands to Your commands which I love.
 
 [Secreta]
-We offer You, O Lord, this sacrifice of atonement, that You would mercifully absolve our sins and direct our faltering hearts.
-$Per Dominum
+@Tempora/Epi5-0:Secreta
 
 [Communio]
 !Ps 5:2-4

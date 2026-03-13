@@ -39,8 +39,7 @@ v. In that time, Jesus said to His disciples: Amen, amen I say to you: if you as
 v.  O bless our God, ye Gentiles: and make the voice of his praise to be heard. Who hath set my soul to live: and hath not suffered my feet to be moved: Blessed be God, who hath not turned away my prayer, nor his mercy from me, allelúja.
 
 [Secreta]
-Receive, O Lord, the prayers of thy faithful with offerings of victims, that by these services of pious devotion we may pass to heavenly glory.
-$Per Dominum
+@Tempora/Pasc0-2:Secreta
 
 [Communio]
 !Ps 95:2

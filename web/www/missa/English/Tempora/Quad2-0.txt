@@ -46,12 +46,10 @@ At that time, Jesus took Peter, James and his brother John, and led them up a hi
 I will delight in Your commands, which I love exceedingly; and I will lift up my hands to Your commands, which I love.
 
 [Secreta]
-Look with favor, we beseech You, O Lord, upon the offerings here before You, that they may be beneficial for our devotion and for our salvation.
-$Per Dominum
+@Tempora/Quadp3-4:Secreta
 
 [Communio]
-!Ps 5:2-4
-Attend to my sighing; heed my call for help, my King and my God! To You I pray, O Lord.
+@Tempora/Quad1-3:Communio
 
 [Postcommunio]
 O almighty God, we humbly beseech You that those whom You refresh with Your sacrament may also worthily serve You in a way pleasing to You.

@@ -81,8 +81,7 @@ $Per Dominum
 @Tempora/093-6
 
 [OratioL5]
-O God, Who tempered the flames of fire for the three young men, mercifully grant that the flames of sin may not burn us, Your servants.
-$Per Dominum
+@Tempora/093-6
 
 [Oratio]
 Look graciously upon Your people, we beseech You, O Lord, and in Your mercy turn away from them the scourges of Your wrath.

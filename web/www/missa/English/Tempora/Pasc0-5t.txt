@@ -8,12 +8,7 @@ Sequentia
 Suffr=Ecclesiae,Papa;;
 
 [Introitus]
-!Ps 77:53
-v. And he brought them out in hope, and they feared not: band the sea overwhelmed their enemies, allelúja, allelúja, allelúja.
-!Ps 77:1
-v. Attend, O my people, to my law: incline your ears to the words of my mouth.
-&Gloria
-v. And he brought them out in hope, and they feared not: band the sea overwhelmed their enemies, allelúja, allelúja, allelúja.
+@Tempora/Pasc0-5:Introitus
 
 [Oratio]
 Almighty and eternal God, in the Easter sacrament thou instituted the covenant, whereby thou forgavest mankind; grant to our souls, that what we outwardly profess we may show forth in our deeds. 

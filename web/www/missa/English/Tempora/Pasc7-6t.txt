@@ -11,12 +11,7 @@ Credo
 Prefatio=Spiritu
 
 [Introitus]
-!Rom 5:5.
-v. The charity of God is poured forth in our hearts, alleluia: by His Spirit dwelling in us, alleluia, alleluia.
-!Ps 102:1
-Bless the Lord, O my soul; and, all my being, bless His holy Name.
-&Gloria
-v. The charity of God is poured forth in our hearts, alleluia: by His Spirit dwelling in us, alleluia, alleluia.
+@Tempora/Pasc7-6:Introitus
 
 [LectioL1]
 Lesson from the book of Joel
@@ -60,7 +55,8 @@ Alleluia.
 V. When the days of Pentecost were accomplished, they were all sitting together.
 
 [OratioL3]
-Grant, we beseech You, almighty God, that we, disciplined by wholesome fasting and refraining from all wrong-doing, may the more readily obtain Your forgiveness. $Per Dominum
+Grant, we beseech You, almighty God, that we, disciplined by wholesome fasting and refraining from all wrong-doing, may the more readily obtain Your forgiveness.
+$Per Dominum
 
 [LectioL4]
 Lesson from the book of Leviticus
@@ -86,6 +82,9 @@ $Deo Gratias
 Alleluia.
 !Dan 3:52
 Blessed are You, O Lord, the God of our fathers, and worthy to be praised forever.
+_
+#Gloria
+v. Glory be to God on high, and on earth peace to men of good will. We praise Thee. We bless Thee. We adore Thee. We glorify Thee. We give Thee thanks for Thy great glory. O Lord God, heavenly King, God the Father almighty. O Lord Jesus Christ, the only begotten Son. O Lord God, Lamb of God, Son of the Father. Who takest away the sins of the world, have mercy on us. Who takest away the sins of the world, receive our prayer. Who sittest at the right hand of the Father, have mercy on us. For Thou only art holy. Thou only art the Lord. Thou only art most high, O Jesus Christ. Together with the Holy Ghost + in the glory of God the Father. Amen.
 
 [OratioL5]
 O God, You Who tempered the flames of fire for the three young men, mercifully grant that the flames of sin may not burn us, Your servants.

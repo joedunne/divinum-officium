@@ -7,12 +7,7 @@ Suffragium=Sanctorum;Vivis;;
 Super popul
 
 [Introitus]
-!Ps 54:2-3
-v. Hearken, O God, to my prayer; turn not away from my pleading; give heed to me, and answer me.
-!Ps 54:3-4
-I rock with grief, and am troubled at the voice of the enemy and the clamor of the wicked.
-&Gloria
-v. Hearken, O God, to my prayer; turn not away from my pleading; give heed to me, and answer me.
+@Tempora/Quad4-2:Introitus
 
 [Oratio]
 May the sacred practice of fasting, we beseech You, O Lord, win for us increased holiness of life and the continuing help of Your mercy.

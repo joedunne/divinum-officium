@@ -117,7 +117,7 @@ Fratres: Justificáti ex fide, pacem habeámus ad Deum per Dóminum nostrum Jesu
 
 [Graduale]
 !Ps 116:1-2
- Laudáte Dóminum, omnes gentes: et collaudáte eum, omnes pópuli.
+Laudáte Dóminum, omnes gentes: et collaudáte eum, omnes pópuli.
 V. Quóniam confirmáta est super nos misericórdia ejus: et véritas Dómini manet in ætérnum.
 
 [Graduale](missa brevior)
@@ -125,10 +125,10 @@ Allelúja.
 V. (Hic genuflectitur) Veni, Sancte Spíritus, reple tuórum corda fidélium: et tui amóris in eis ignem accénde.
 
 [Sequentia]
-@Tempora/Pasc7-0
+@Tempora/Pasc7-0:Sequentia
 
 [Sequentia](missa longior)
-@Tempora/Pasc7-0::s/Allelúja.//
+@Tempora/Pasc7-0:Sequentia::s/Alleluia.//
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam

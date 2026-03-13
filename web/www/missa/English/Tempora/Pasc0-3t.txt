@@ -8,12 +8,7 @@ Sequentia
 Suffr=Ecclesiae,Papa;;
 
 [Introitus]
-!Matt 25:34
-v. Come, ye blessed of my Father, possess you the kingdom alleluia, prepared for you from the foundation of the world, allelúja, allelúja, allelúja.
-!Ps 95:1
-v. Sing ye to the Lord a new canticle: sing to the Lord, all the earth.
-&Gloria
-v. Come, ye blessed of my Father, possess you the kingdom alleluia, prepared for you from the foundation of the world, allelúja, allelúja, allelúja.
+@Tempora/Pasc0-3:Introitus
 
 [Oratio]
 O God, Who dost every year fill us with holy gladness for the Again rising of the Lord, mercifully grant that these Feast-days which we are now keeping here in time, may be to us a mean whereby in the end we may worthily attain unto those pleasures which are at thy right hand for evermore. 
@@ -31,7 +26,6 @@ V.  This is the day which the Lord hath made: let us be glad and rejoice therein
 V. The right hand of the Lord hath wrought strength: the right hand of the Lord hath exalted me: Allelúja,allelúja.
 !Luke 24:34
 V. The Lord is risen indeed, and hath appeared to Simon.
-V. Surréxit Dóminus vere: et appáruit Petro.
 
 [TODO]
 todo jjd translate

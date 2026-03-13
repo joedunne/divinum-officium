@@ -46,8 +46,7 @@ $Per Dominum
 When I call, answer me, O my just God, You Who relieve me when I am in distress; have pity on me, O Lord, and hear my prayer!
 
 [Postcommunio]
-We beseech You, almighty God, that we may obtain that salvation whose pledge we have received in this divine sacrament.
-$Per Dominum
+@Tempora/Epi5-0:Postcommunio
 
 [Super populum]
 !Prayer over the people
