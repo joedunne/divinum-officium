@@ -5,6 +5,7 @@ use utf8;
 # Date : 01-11-04
 # WEB dialogs
 #use warnings;
+no warnings qw(experimental::vlb);
 #use strict "refs";
 #use strict "subs";
 my $a = 4;

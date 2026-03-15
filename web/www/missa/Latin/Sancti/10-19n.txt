@@ -1,3 +1,7 @@
+[Rule]
+vide C3;
+Gloria
+
 [Officium]
 Ss. Isaaci Jogues, Joannis de Brebeuf et Sociorum Martyrum
 

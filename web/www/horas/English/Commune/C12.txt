@@ -13,7 +13,7 @@ $Per Dominum
 (sed rubrica 1955 aut rubrica 196 omittitur)
 
 [Hymnus minor_]
-
+_
 #Hymnus
 v. Remember, O creator Lord,
 That in the Virgin's sacred womb
@@ -30,6 +30,7 @@ Immortal glory be to thee;
 Praise to the Father infinite,
 And Holy Ghost eternally.
 Amen.
+@Psalterium/Doxologies:Nat: s/^/r. /
 
 [Lectio1]
 !Sir 24:11-13

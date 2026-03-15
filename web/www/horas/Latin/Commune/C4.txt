@@ -45,7 +45,7 @@ Trinus et unus.
 Amen.
 
 [Hymnus1 Vespera]
-@:Hymnus Vespera:s/beátas/suprémos/ s/Scándere sedes/Laudis honóres/ 
+@:Hymnus Vespera:s/beátas/suprémos/ s/Scándere sedes/Laudis honóres/
 
 [Hymnus1M Vespera]
 @:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
