@@ -1,3 +1,13 @@
+[Rule]
+vide C4b;
+Gloria
+Credo
+Prefatio=Nat
+Evangelium non appropriatum
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
 [Officium]
 St. Sylvester, Pope and Confessor
 
@@ -10,3 +20,6 @@ Behold, a great priest, who in his days pleased God.
 V. There was not found the like to him, who kept the law of the Most High.  Alleluia, alleluia.
 !Ps 88:21
 V. I have found David my servant: with my holy oil I have anointed him. Alleluia.
+
+[Postcommunio]
+@Commune/C4b

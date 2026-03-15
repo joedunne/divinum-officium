@@ -1,3 +1,13 @@
+[Rule]
+ex C1a;
+no Gloria
+Suffr=Maria3;Ecclesiæ,Papa;;
+
+[Rank]
+;;Vigilia;;1.5
+(sed rubrica 196)
+;;Duplex II classis;;5
+
 [Officium]
 Vigil of Sts. Peter and Paul, Apostles
 
@@ -35,3 +45,6 @@ $Per Dominum
 [Communio]
 !John 21:15, 17
 Simon, son of John, do you love Me more than these do? Lord, You know all things; You know, Lord, that I love You.
+
+[Postcommunio]
+@Sancti/06-29

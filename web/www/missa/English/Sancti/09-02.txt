@@ -1,3 +1,10 @@
+[Rule]
+vide C5
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C5
+
 [Officium]
 St. Stephen, King of Hungary, Confessor
 

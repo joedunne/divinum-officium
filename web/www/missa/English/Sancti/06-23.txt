@@ -1,3 +1,12 @@
+[Rule]
+no Gloria
+Suffr=Maria3;Ecclesiæ,Papa;;
+
+[Rank]
+;;Simplex;;1.5
+(sed rubrica 196)
+;;Duplex II classis;;5
+
 [Officium]
 Vigil of the Nativity of St. John the Baptist
 

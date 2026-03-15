@@ -1,3 +1,6 @@
+[Rank]
+;;Feria privilegiata Duplex I classis;;7
+
 [Officium]
 Feria Sexta in Passione et Morte Domini
 

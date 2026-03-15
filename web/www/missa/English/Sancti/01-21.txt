@@ -1,3 +1,14 @@
+[Rule]
+vide C6-1;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C6-1
+(sed rubrica 1930)
+;;Duplex majus;;4;;ex C6-1
+(sed rubrica cisterciensis)
+;;Semiduplex;;2.2;;vide C6-1
+
 [Officium]
 S. Agnetis Virginis et Martyris
 

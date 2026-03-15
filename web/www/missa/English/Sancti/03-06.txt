@@ -1,3 +1,12 @@
+[Rule]
+vide C7b;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C7b
+(rubrica innovata)
+;;Duplex;;3.91;;vide C7b
+
 [Officium]
 Sts. Perpetua and Felicity, Martyrs
 

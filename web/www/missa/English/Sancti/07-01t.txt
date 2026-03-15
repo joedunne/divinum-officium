@@ -1,2 +1,9 @@
+[Rule]
+ex Sancti/06-24;
+Gloria
+
+[Rank]
+;;Duplex;;3.1;;vide Sancti/06-24
+
 [Officium]
 Octave of the Nativity of St. John the Baptist

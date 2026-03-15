@@ -1,3 +1,10 @@
+[Rule]
+vide C2a;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C2a
+
 [Officium]
 St. Fidelis of Sigmaringen, Martyr
 

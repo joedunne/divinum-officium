@@ -1,3 +1,6 @@
+[Rank]
+;;Simplex;;1.1;;vide C3a
+
 [Officium]
 Ss. Processus et Martinian, Martyrs
 

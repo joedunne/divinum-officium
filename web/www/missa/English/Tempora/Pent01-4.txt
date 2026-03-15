@@ -1,3 +1,6 @@
+[Rank]
+;;Duplex I classis;;7
+
 [Officium]
 Festum Sanctissimi Corporis Christi
 

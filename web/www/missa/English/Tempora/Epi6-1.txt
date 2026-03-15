@@ -1,3 +1,6 @@
+[Rank]
+;;Feria;;1;;vide Epi6-0
+
 [Officium]
 Feria II infra Hebdomadam VI post Epiphaniam
 

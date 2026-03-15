@@ -1,3 +1,8 @@
+[Rank]
+;;Duplex majus;;5.61
+(sed rubrica 1960)
+;;Duplex II classis;;5
+
 [Officium]
 Sanctae Familiae Jesu Mariae Joseph
 

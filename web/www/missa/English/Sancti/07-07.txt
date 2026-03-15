@@ -1,3 +1,10 @@
+[Rule]
+Evangelium non appropriatum
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C4-1
+
 [Officium]
 Sts. Cyril and Methodius, Bishops and Confessors
 

@@ -1,3 +1,10 @@
+[Rule]
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex majus;;4;;
+
 [Officium]
 Apparition of St. Michael the Archangel
 

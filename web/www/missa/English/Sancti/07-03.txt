@@ -1,3 +1,10 @@
+[Rule]
+vide C4b;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C4b
+
 [Officium]
 St. Leo II, Pope and Confessor
 

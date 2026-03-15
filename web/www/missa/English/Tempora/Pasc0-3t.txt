@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex I classis;;6;;ex Pasc0-0
+
 [Officium]
 Die IV infra octavam Paschae
 

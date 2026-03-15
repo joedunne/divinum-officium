@@ -5,3 +5,6 @@ In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli.;;Duplex maius;;4;;ex 
 ex C8;
 Gloria
 CredoDA
+
+[Oratio]
+@Commune/C8

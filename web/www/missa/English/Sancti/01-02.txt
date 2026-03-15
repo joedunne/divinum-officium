@@ -1,2 +1,15 @@
+[Rule]
+vide Sancti/12-26;
+Feria Te Deum
+Comkey=70
+Lectio1 TempNat
+Gloria
+Prefatio=Nat
+
+[Rank]
+;;Simplex;;1.4;;vide Sancti/12-26
+(sed rubrica tridentina)
+;;Duplex;;3.1;;ex Sancti/12-26
+
 [Oratio] (rubrica Divino aut rubrica Tridentina aut rubrica Monastica)
 @Sancti/12-26:Oratio1

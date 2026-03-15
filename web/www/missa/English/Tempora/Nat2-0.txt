@@ -1,3 +1,6 @@
+[Rank]
+;;Duplex 2 class;;5;;
+
 [Officium]
 Sanctissimi Nominis Jesu
 

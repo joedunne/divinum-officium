@@ -1,3 +1,10 @@
+[Rule]
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex;;3;;vide C4a
+
 [Officium]
 S. Athanasius, Confessor and Doctor of the Church
 
@@ -36,3 +43,6 @@ I have found David, My servant; with My holy oil I have anointed him, that My ha
 [Communio]
 !Matt 10:27
 What I tell you in darkness, speak it in the light, says the Lord; and what you hear whispered, preach it on the housetops. Alleluia.
+
+[Postcommunio]
+@Commune/C4-1

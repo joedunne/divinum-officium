@@ -1,5 +1,18 @@
+[Rule]
+ex Sancti/06-30;
+Gloria
+no Credo
+Prefatio=Apostolis
+Sub unica conclusione
+
+[Rank]
+;;Duplex majus;;4;;ex Sancti/01-25
+
 [Officium]
 Conversion of St. Paul the Apostle
 
 [Tractus]
+@Sancti/01-25
+
+[Postcommunio]
 @Sancti/01-25

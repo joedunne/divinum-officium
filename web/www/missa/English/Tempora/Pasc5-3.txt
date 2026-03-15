@@ -1,3 +1,9 @@
+[Rank] (rubrica 196)
+;;Feria;;5
+
+[Rank]
+;;Feria;;1
+
 [Officium]
 Feria Quarta in Rogationibus in Vigilia Ascensionis
 

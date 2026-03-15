@@ -1,3 +1,9 @@
+[Rule]
+vide C2a;
+
+[Rank]
+;;Simplex;;1.1;;vide C2a
+
 [Officium]
 St. Boniface, Martyr
 
@@ -7,3 +13,6 @@ Boniface
 [Oratio]
 Grant, almighty God, we beseech You, that we who keep the feast of Your blessed Martyr Boniface may be helped by his intercession with You.
 $Per Dominum
+
+[Postcommunio]
+@Commune/C2a-1

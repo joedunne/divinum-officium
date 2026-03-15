@@ -1,3 +1,9 @@
+[Rule]
+vide C6;
+
+[Rank]
+;;Duplex optional;;2;;vide C6
+
 [Officium]
 S. Maria Goretti, virgin and martyr
 

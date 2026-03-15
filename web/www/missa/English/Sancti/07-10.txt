@@ -1,3 +1,10 @@
+[Rule]
+vide C3
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C3
+
 [Officium]
 Seven Brothers, Martyrs, and Sts. Rufina and Secunda, Virgins and Martyrs
 

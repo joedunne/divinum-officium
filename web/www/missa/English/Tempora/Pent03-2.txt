@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex;;2.1;;vide Tempora/Pent02-5
+
 [Officium]
 Die V infra Octavam SSmi Cordis Jesu
 

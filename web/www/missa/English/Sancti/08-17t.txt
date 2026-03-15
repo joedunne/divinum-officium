@@ -1,3 +1,12 @@
+[Rule]
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex;;3.1;;vide Sancti/08-10
+(sed rubrica divino)
+;;Simplex;;1.4;;vide Sancti/08-10
+
 [Officium]
 Octave of St. Lawrence, Martyr
 

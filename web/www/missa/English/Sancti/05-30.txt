@@ -1,3 +1,10 @@
+[Rule]
+vide C2b;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C2b
+
 [Officium]
 St. Felix, Pope and Martyr
 

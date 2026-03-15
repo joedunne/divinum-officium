@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex I classis;;5.9;;
+
 [Officium]
 Dominica I. Post Pentecosten
 

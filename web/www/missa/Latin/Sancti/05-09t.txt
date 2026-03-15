@@ -4,3 +4,6 @@
 vide C4a;
 Gloria
 CredoDA
+
+[Lectio]
+@Commune/C4a:Lectio1

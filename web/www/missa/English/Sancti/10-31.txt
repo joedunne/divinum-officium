@@ -1,3 +1,10 @@
+[Rule]
+no Gloria
+Suffragium=Spiritu;Papa,Ecclesiæ;;
+
+[Rank]
+;;Vigilia;;1.5
+
 [Officium]
 Vigil of All Saints
 
