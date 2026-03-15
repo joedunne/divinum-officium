@@ -1,3 +1,6 @@
+[Rule]
+no Gloria
+
 [Rank]
 In Vigilia Nativitatis Domini;;Duplex I classis;;6
 

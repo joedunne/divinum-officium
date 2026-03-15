@@ -1,3 +1,17 @@
+[Rule]
+vide C5a;
+(sed rubrica tridentina)
+vide C5;
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex;;3;;vide C5a
+(sed rubrica tridentina)
+;;Duplex;;3;;vide C5
+(sed rubrica 1963)
+;;Simplex;;1.1;;vide C5a
+
 [Officium]
 St. John of the Cross, Confessor and Doctor of the Church
 

@@ -1,3 +1,13 @@
+[Rule]
+vide C5a;
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex;;3;;vide C5a
+(sed rubrica innovata)
+;;Duplex optional;;2;;vide C5a
+
 [Officium]
 St. Bede the Venerable, Confessor and Doctor of the Church
 
@@ -7,3 +17,6 @@ Bede
 [Oratio]
 O God, Who enlightened Your Church with the learning of blessed Bede, Your Confessor and Doctor, graciously grant that Your servants may ever be enlightened by his wisdom and helped by his merits.
 $Per Dominum
+
+[Communio]
+@Commune/C4

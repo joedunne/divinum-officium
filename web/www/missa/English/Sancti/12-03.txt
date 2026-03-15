@@ -1,3 +1,16 @@
+[Rule]
+vide C5-1;
+Gloria
+
+[Rank]
+;;Duplex majus;;4;;vide C5-1
+(sed rubrica 1888)
+;;Duplex;;3;;vide C5-1
+(sed rubrica monastica)
+;;Simplex;;1.1;;vide C5-1
+(sed rubrica cisterciensis)
+;;Simplex;;1.2;;vide C5-1
+
 [Officium]
 St. Francis Xavier, Confessor
 
@@ -25,3 +38,6 @@ Brethren: With the heart a man believes unto justice, and with the mouth profess
 Continuation + of the Holy Gospel according to Mark
 !Mark 16:15-18
 At that time, Jesus said to His disciples, Go into the whole world and preach the gospel to every creature. He who believes and is baptized shall be saved, but he who does not believe shall be condemned. And these signs shall attend those who believe: in My name they shall cast out devils; they shall speak in new tongues; they shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands upon the sick and they shall get well.
+
+[Communio]
+@Commune/C4-1

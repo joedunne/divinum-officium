@@ -1,3 +1,9 @@
+[Rank] (rubrica 196)
+;;Duplex I classis;;7
+
+[Rank]
+;;Duplex I classis cum Octava Privilegiata III classis;;7
+
 [Officium]
 In Ascensione Domini
 

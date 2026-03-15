@@ -1,3 +1,6 @@
+[Rank]
+;;Feria;;1
+
 [Officium]
 Feria Tertia infra Hebdomadam XXI post Octavam Pentecostes
 

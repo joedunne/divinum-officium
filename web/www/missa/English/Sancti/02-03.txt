@@ -1,3 +1,12 @@
+[Rule]
+vide C2-1;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C2-1
+(sed rubrica innovata)
+;;Duplex optional;;2;;vide C2-1
+
 [Officium]
 St. Blase, Bishop and Martyr
 

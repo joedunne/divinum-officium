@@ -1,2 +1,9 @@
+[Rule]
+vide C5;
+Gloria
+
+[Rank]
+;;Duplex optional;;2;;vide C5
+
 [Officium]
 S. Peter Claver, priest

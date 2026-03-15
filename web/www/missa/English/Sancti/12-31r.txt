@@ -1,2 +1,5 @@
+[Rank]
+;;Simplex;;1.1;;vide C4b
+
 [Officium]
 St. Sylvester, Pope and Confessor

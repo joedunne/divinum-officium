@@ -1,3 +1,9 @@
+[Rule]
+Gloria
+Credo
+Prefatio=Nat
+celebranda aut missa prima aut missa secunda aut missa tertia
+
 [Rank]
 In Nativitate Domini in nocte;;Duplex I Classis;;7
 

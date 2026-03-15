@@ -6,3 +6,6 @@ ex Sancti/08-15;
 Gloria
 CredoDA
 Prefatio=Maria=Assumptionis
+
+[Postcommunio]
+@Sancti/08-18bmv

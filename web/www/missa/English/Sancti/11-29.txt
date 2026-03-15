@@ -1,3 +1,6 @@
+[Rank]
+;;Vigilia;;1.5;;ex C1v
+
 [Officium]
 Vigil of St. Andrew the Apostle
 

@@ -1,5 +1,18 @@
+[Rule]
+ex C4;
+Gloria
+Credo
+!Prefatio Apostolis
+Sub unica conclusione
+
+[Rank]
+;;Duplex majus;;4;;ex C4
+
 [Officium]
 Chair of St. Peter at Rome
 
 [GradualeP]
 @Commune/Coronatio
+
+[Postcommunio]
+@Sancti/02-22

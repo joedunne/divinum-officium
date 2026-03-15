@@ -1,3 +1,10 @@
+[Rule]
+vide C3a;
+Suffragium=Maria3;;
+
+[Rank]
+;;Simplex;;1.1;;vide C3a
+
 [Officium]
 Sts. Sergius, Bacchus, Marcellus and Apuleius, Martyrs
 

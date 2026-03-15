@@ -1,3 +1,10 @@
+[Rule]
+vide Sancti/12-26;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide Sancti/12-26
+
 [Officium]
 Finding of St. Stephen the First Martyr
 

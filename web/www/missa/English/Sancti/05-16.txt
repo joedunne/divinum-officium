@@ -1,3 +1,10 @@
+[Rule]
+vide C4;
+9 lectiones
+
+[Rank]
+;;Semiduplex;;2.2;;vide C4
+
 [Officium]
 St. Ubald, Bishop and Confessor
 

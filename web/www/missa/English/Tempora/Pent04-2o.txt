@@ -1,3 +1,6 @@
+[Rank]
+;;Feria;;1
+
 [Officium]
 Feria tertia infra Hebdomadam IV post Octavam Pentecostes
 

@@ -1,3 +1,6 @@
+[Rank]
+;;Duplex;;3;;vide C3
+
 [Officium]
 Ss. Jean de Brébeuf, Isaac Jogues, priests and companions, Martyrs
 

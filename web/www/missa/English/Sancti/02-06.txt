@@ -1,3 +1,12 @@
+[Rule]
+vide C4;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C4
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C4
+
 [Officium]
 St. Titus, Bishop and Confessor
 
@@ -19,3 +28,6 @@ At that time, the Lord appointed seventy-two others, and sent them forth two by 
 [Offertorium]
 !Ps 88:21-22
 I have found David, My servant; with My holy oil I have anointed him, that My hand may be always with him, and that My arm may make him strong.
+
+[Communio]
+@Commune/C4

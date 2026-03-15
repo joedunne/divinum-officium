@@ -1,3 +1,10 @@
+[Rule]
+vide C4b;
+Suffragium=Maria3;
+
+[Rank]
+;;Simplex;;1.1;;vide C4
+
 [Officium]
 St. Mark, Pope and Confessor
 

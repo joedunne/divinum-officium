@@ -1,3 +1,13 @@
+[Rule]
+Gloria
+CredoDA
+Prefatio=Apostolis
+Suffr=Maria3;Ecclesiæ,Papa;;
+(feria 1 aut feria 6 et tempore Octava SSmi Cordis)Evangelium non appropriatum
+
+[Rank]
+;;Semiduplex;;2;;vide C1
+
 [Officium]
 Sixth Day Within the Octave of the Apostles Sts. Peter and Paul
 
@@ -7,3 +17,6 @@ Sixth Day Within the Octave of the Apostles Sts. Peter and Paul
 [Offertorium]
 !Ps 18:5
 Through all the earth their voice resounds, and to the ends of the world, their message.
+
+[Postcommunio]
+@Sancti/06-29

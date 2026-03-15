@@ -1,3 +1,10 @@
+[Rule]
+ex Sancti/01-01;
+Gloria
+CredoDA
+Prefatio=Nat
+Suffragium=Maria2;;
+
 [Rank]
 In Vigilia Epiphaniae;;Semiduplex;;5;;ex Sancti/01-01
 

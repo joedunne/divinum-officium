@@ -1,3 +1,14 @@
+[Rule]
+vide C2-1;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C2-1
+(sed rubrica 1570 aut rubrica monastica aut rubrica 1962)
+;;Simplex;;1.1;;vide C2-1
+(sed rubrica 1617)
+;;Semiduplex;;2.2;;vide C2-1
+
 [Officium]
 St. Polycarp, Bishop and Martyr
 
@@ -27,3 +38,6 @@ I have found David My servant, with My holy oil I have anointed him; for My hand
 [Communio]
 !Ps 20:4
 Thou hast set on his head, O Lord, a crown of precious stones.
+
+[Postcommunio]
+@Commune/C2

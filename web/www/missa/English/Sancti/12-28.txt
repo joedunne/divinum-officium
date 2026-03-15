@@ -1,3 +1,15 @@
+[Rule]
+no Gloria
+Credo
+Prefatio=Nat
+
+[Rank]
+;;Duplex II class cum octava simplici;;5.2;;ex C3
+(sed rubrica 196)
+;;Duplex II class;;5;;ex C3
+(sed rubrica tridentina)
+;;Duplex II class cum octava;;5.2;;ex C3
+
 [Officium]
 Holy Innocents
 
@@ -45,3 +57,6 @@ A voice was heard in Rama, weeping and loud lamentation; Rachel weeping for her 
 [Postcommunio]
 We have partaken, O Lord, of the dedicated gifts: may they, we beseech You, help us through the intercession of Your saints both for this life and life eternal.
 $Per Dominum
+
+[Commemoratio Postcommunio]
+@Sancti/12-26

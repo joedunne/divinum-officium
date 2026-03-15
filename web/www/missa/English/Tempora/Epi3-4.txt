@@ -1,3 +1,6 @@
+[Rank]
+;;Feria;;1;;vide Epi3-0
+
 [Officium]
 Feria V infra Hebdomadam III post Epiphaniam
 

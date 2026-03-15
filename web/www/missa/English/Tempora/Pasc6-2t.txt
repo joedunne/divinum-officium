@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex;;2;;ex Tempora/Pasc5-4
+
 [Officium]
 Feria III infra Octavam Ascensionis
 

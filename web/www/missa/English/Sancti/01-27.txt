@@ -1,3 +1,11 @@
+[Rule]
+vide C4a
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex;;3;;vide C4a
+
 [Officium]
 St. John Chrysostom, Bishop, Confessor, and Doctor of the Church
 
@@ -37,3 +45,6 @@ At that time Jesus said to His disciples: “You are the salt of the earth; but 
 [Offertorium]
 !Ps 91:13
 The just shall flourish like the palm tree; like a cedar of Libanus shall he grow.
+
+[Communio]
+@Commune/C4

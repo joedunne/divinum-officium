@@ -1,3 +1,10 @@
+[Rule]
+vide C5a
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C5a
+
 [Officium]
 St. Lawrence of Brindisi, Confessor and Doctor of the Church
 

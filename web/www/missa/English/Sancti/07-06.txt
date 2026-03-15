@@ -1,3 +1,13 @@
+[Rule]
+Gloria
+CredoDA
+Prefatio=Apostolis
+
+[Rank]
+;;Duplex majus;;4.1;;vide C1
+(sed rubrica tridentina)
+;;Duplex;;3.1;;vide C1
+
 [Officium]
 Octave of Sts. Peter and Paul
 

@@ -1,2 +1,9 @@
+[Rule]
+vide Sancti/11-01;
+9 lectiones
+
+[Rank]
+;;Semiduplex;;2;;vide Sancti/11-01
+
 [Officium]
 Fifth Day Within the Octave of All Saints

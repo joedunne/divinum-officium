@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex;;5;;ex Tempora/Pasc5-4
+
 [Officium]
 Dominica infra Octavam Ascensionis
 

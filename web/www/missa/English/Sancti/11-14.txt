@@ -1,3 +1,9 @@
+[Rule]
+vide C2;
+
+[Rank]
+;;Duplex;;3;;vide C2
+
 [Officium]
 St. Josaphat, Bishop and Martyr
 

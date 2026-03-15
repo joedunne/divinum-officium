@@ -1,3 +1,14 @@
+[Rule]
+ex Sancti/06-30;
+Gloria
+Credo
+Prefatio=Apostolis
+
+[Rank]
+;;Duplex majus;;4;;ex Sancti/06-30
+(sed rubrica innovata)
+;;Duplex Fest;;5;;ex Sancti/06-30
+
 [Officium]
 Conversion of St. Paul the Apostle
 

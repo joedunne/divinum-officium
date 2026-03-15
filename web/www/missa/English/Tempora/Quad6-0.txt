@@ -1,3 +1,6 @@
+[Rank]
+;;I classis Semiduplex;;6.91
+
 [Officium]
 Dominica in Palmis
 

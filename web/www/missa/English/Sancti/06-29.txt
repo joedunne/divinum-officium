@@ -1,3 +1,14 @@
+[Rule]
+vide C1;
+Gloria
+Credo
+Prefatio=Apostolis
+
+[Rank]
+;;Duplex I classis cum octava communi;;6.5;;ex C1
+(sed rubrica 196)
+;;Duplex I classis;;6;;ex C1
+
 [Officium]
 Sts. Peter and Paul, Apostles
 

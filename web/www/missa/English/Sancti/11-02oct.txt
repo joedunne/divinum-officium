@@ -1,2 +1,10 @@
+[Rule]
+vide Sancti/11-01
+9 lectiones
+Add Defunctorum
+
+[Rank]
+;;Semiduplex;;2;;vide Sancti/11-01
+
 [Officium]
 Second Day Within the Octave of All Saints

@@ -1,3 +1,12 @@
+[Rule]
+ex C2a;
+Gloria
+
+[Rank]
+;;Duplex majus;;4;;ex C2a
+(sed rubrica 196 aut rubrica 1617)
+;;Duplex;;3;;vide C2a
+
 [Officium]
 Beheading of St. John the Baptist
 

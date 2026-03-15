@@ -1,3 +1,10 @@
+[Rule]
+vide C5-1;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C5-1
+
 [Officium]
 St. Peter of Alcantara, Confessor
 
@@ -12,3 +19,6 @@ $Per Dominum
 Continuation + of the Holy Gospel according to Luke
 !Luke 12:32-34
 At that time, Jesus said to His disciples, Do not be afraid, little flock, for it has pleased your Father to give you the kingdom. Sell what you have and give alms. Make for yourselves purses that do not grow old, a treasure unfailing in heaven, where neither thief draws near nor moth destroys. For where your treasure is, there also will your heart be.
+
+[Communio]
+@Commune/C5-1

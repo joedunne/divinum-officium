@@ -1,3 +1,15 @@
+[Rule]
+Gloria
+no Credo
+(sed tempore Octava aut rubrica 196)
+Credo
+Prefatio=Baptista
+
+[Rank]
+;;Duplex I classis cum Octava communi;;6.5;;
+(sed rubrica 196)
+;;Duplex I classis;;6;;
+
 [Officium]
 Nativity of St. John the Baptist
 

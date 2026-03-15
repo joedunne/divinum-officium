@@ -1,3 +1,11 @@
+[Rule]
+vide C2a-1;
+
+[Rank]
+;;Duplex;;3;;vide C2a-1
+(sed rubrica 1617)
+;;Semiduplex;;2.2;;vide C2a-1
+
 [Officium]
 St. Peter the Martyr
 

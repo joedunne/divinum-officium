@@ -1,2 +1,9 @@
+[Rule]
+vide Sancti/08-10;
+Gloria
+
+[Rank]
+;;Semiduplex;;2;;vide Sancti/08-10
+
 [Officium]
 Seventh day in the Octave of S. Lawrence

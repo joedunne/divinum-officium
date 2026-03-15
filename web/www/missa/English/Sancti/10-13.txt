@@ -1,3 +1,10 @@
+[Rule]
+vide C5;mtv
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C5
+
 [Officium]
 St. Edward the Confessor, King
 

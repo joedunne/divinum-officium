@@ -1,3 +1,15 @@
+[Rule]
+Evangelium non appropriatum
+vide C5;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C5
+(sed rubrica 1570 aut rubrica 1617)
+;;Simplex;;1.1;;vide C5
+(sed rubrica 196)
+;;Duplex;;3;;vide C5
+
 [Officium]
 St. Louis, Confessor
 

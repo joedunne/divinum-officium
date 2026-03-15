@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex;;2.2;;vide C2b-1
+
 [Officium]
 St. Anacletus, Pope and Martyr
 
