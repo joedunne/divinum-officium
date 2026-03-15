@@ -26,9 +26,7 @@ V. To proclaim Your kindness at dawn and Your faithfulness throughout the night.
 V. For the Lord is a great God, and a great King over all the earth. Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Luke
-!Luke 7:11-16
-At that time, Jesus went to a town called Naim; and His disciples and a large crowd went with Him. And as He drew near the gate of the town, behold, a dead man was being carried out, the only son of his mother, and she was a widow; and a large gathering from the town was with her. And the Lord, seeing her, had compassion on her, and said to her, Do not weep. And He went up and touched the stretcher; and the bearers stood still. And He said, Young man, I say to you, arise. And he who was dead, sat up, and began to speak. And He gave him to his mother. But fear seized upon all, and they began to glorify God, saying, A great prophet has risen among us, and God has visited His people.
+@Tempora/Quad4-4
 
 [Offertorium]
 !Ps 39:2-4
@@ -39,8 +37,7 @@ May Your sacrament, O Lord, always keep us and guard us from the assaults of the
 $Per Dominum
 
 [Communio]
-!John 6:52
-The bread that I will give is My Flesh for the life of the world.
+@Tempora/Quad1-4:Communio
 
 [Postcommunio]
 May the working of the heavenly gift, O Lord, so possess us, mind and body, that the action of the sacrament, rather than our senses, may continually prevail in us.

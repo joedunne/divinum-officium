@@ -7,21 +7,14 @@ Credo
 Prefatio=Trinitate
 
 [Introitus]
-!Ps 96:7-8
-v. Adore God, all you His angels: Sion heard, and was glad; and the daughters of Juda rejoiced.
-!Ps 96:1
-The Lord has reigned; let the earth rejoice: let many islands be glad.
-&Gloria
-v. Adore God, all you His angels: Sion heard, and was glad; and the daughters of Juda rejoiced.
+@Tempora/Epi3-0:Introitus
 
 [Oratio]
 O Lord, we beseech You to keep Your household continually under Your mercy: that as it leans only upon the hope of Your heavenly grace, so it may always be protected by Your mighty power.
 $Per Dominum
 
 [Lectio]
-Lesson from the letter of St. Paul the Apostle to the Colossians
-!Col 3:12-17
-Brethren: Put on, as God’s chosen ones, holy and beloved, a heart of mercy, kindness, humility, meekness, patience. Bear with one another and forgive one another, if anyone has a grievance against any other; even as the Lord has forgiven you, so also do you forgive. But above all these things have charity, which is the bond of perfection. And may the peace of Christ reign in your hearts; unto that peace, indeed, you were called in one body. Show yourselves thankful. Let the word of Christ dwell in you abundantly: in all wisdom teach and admonish one another by psalms, hymns and spiritual songs, singing in your hearts to God by His grace. Whatever you do in word or in work, do all in the name of the Lord Jesus Christ, giving thanks to God the Father through Jesus Christ our Lord.
+@Tempora/Epi1-0
 
 [Graduale]
 !Ps 101:16
@@ -44,8 +37,7 @@ We offer You, O Lord, this sacrifice of atonement, that You would mercifully abs
 $Per Dominum
 
 [Communio]
-!Luke 4:22
-They all marveled at these things that came from the mouth of God.
+@Tempora/Epi3-0:Communio
 
 [Postcommunio]
 We pray You, almighty God, that we may obtain that salvation whose pledge we have received in this divine sacrament.

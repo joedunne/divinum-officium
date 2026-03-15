@@ -1,5 +1,7 @@
 [Officium]
 St. Thomas Aquinas, Confessor and Doctor of the Church
+(sed rubrica 1570 aut rubrica 1617)
+St. Thomas Aquinas, Confessor and Doctor of the Church
 
 [Name]
 Thomas

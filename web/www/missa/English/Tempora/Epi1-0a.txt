@@ -8,7 +8,6 @@ Credo
 Prefatio=Epi
 
 [Introitus]
-!  
 v. Upon a high throne I saw a man sitting, Whom a multitude of angels adore, singing in unison: Behold Him, the name of Whose empire is forever.
 !Ps 99:1
 Sing joyfully to God, all you lands; serve the Lord with gladness.
@@ -18,6 +17,10 @@ v. Upon a high throne I saw a man sitting, Whom a multitude of angels adore, sin
 [Oratio]
 O Lord, we beseech You, in Your heavenly goodness, hear Your people who pray to You; that they may perceive what they ought to do, and have the strength to fulfill what they have seen.
 $Per Dominum
+
+[Commemoratio Oratio]
+!Pro Octavam Epiphaniæ
+@Sancti/01-06:Oratio
 
 [Lectio]
 From the Epistle of St. Paul to the Romans
@@ -40,6 +43,10 @@ When Jesus was twelve years old, they went up to Jerusalem according to the cust
 !Ps 99:1-2
 Sing joyfully to God, all you lands; serve the Lord with gladness; come before Him with joyful song. Know that the Lord is God.
 
+[Commemoratio Secreta]
+!Pro Octavam Epiphaniæ
+@Sancti/01-06:Secreta
+
 [Secreta]
 May this sacrifice that we offer You, O Lord, ever give us new life and protection.
 $Per Dominum
@@ -51,3 +58,7 @@ Son, why have You done so to us? In sorrow Your father and I have been seeking Y
 [Postcommunio]
 O Almighty God, grant, we humbly beseech You, that those whom You refresh with Your sacrament may also worthily serve You in a way that is well pleasing to You.
 $Per Dominum
+
+[Commemoratio Postcommunio]
+!Pro Octavam Epiphaniæ
+@Sancti/01-06:Postcommunio

@@ -7,19 +7,13 @@ use utf8;
 # Divine Office
 $a = 1;
 
-sub anteOrdo() {
+sub includePrayers {
+
+  my (@prayers_to_print) = @_;
   @script1 = ();
   @script2 = ();
-  print "<H2 ID='AnteMissatop'>Orationes Ante Sancta Missa</H2>\n" if $content;
 
-  my @prepatoryPrayers = ("FormulaIntensionisAnteMissam", "ActOfOblationBeforeMass", "ForSinners","ForTheChurch",
-  "ForTheFaithful","InPreparationToReceiveCommunion","CommemorateThePassionOfChrist","ActOfFaith","ActOfHope",
-  "ActOfCharity","ActOfHumility","LetTheReceivingOfThyBody","PrayerStThomasAquinasBeforeMass","PrayerStAmbroseBeforeMass","PrayerBlessedVirginMaryBeforeMass",
-  "PrayerStJosephBeforeMass","AllTheAngelsAndSaintsBeforeMass","SaintInWhoseHonorMassIsCelebrated","FormingOfOnesIntention","SoulsLongingForGod"
-#  ,"TrinitarianPreparation1","TrinitarianPreparation2","TrinitarianPreparation3","TrinitarianPreparation4","TrinitarianPreparation5",
-#  "TrinitarianPreparation6","TrinitarianPreparation7","TrinitarianPreparation8","TrinitarianPreparation9"
-  );
-  foreach (@prepatoryPrayers) {
+  foreach (@prayers_to_print) {
 
     my $str = prayer("$_", $lang1);
 
@@ -42,7 +36,30 @@ sub anteOrdo() {
 
 }
 
+sub anteOrdo() {
+
+  if (!$antemissaprayers || $antemissaprayers==0) {
+    return;
+  }
+  print "<H2 ID='AnteMissatop'>Orationes Ante Sancta Missa</H2>\n" if $content;
+
+  my @prepatoryPrayers = ("FormulaIntensionisAnteMissam", "ActOfOblationBeforeMass", "ForSinners","ForTheChurch",
+  "ForTheFaithful","InPreparationToReceiveCommunion","CommemorateThePassionOfChrist","ActOfFaith","ActOfHope",
+  "ActOfCharity","ActOfHumility","LetTheReceivingOfThyBody","PrayerStThomasAquinasBeforeMass","PrayerStAmbroseBeforeMass","PrayerBlessedVirginMaryBeforeMass",
+  "PrayerStJosephBeforeMass","AllTheAngelsAndSaintsBeforeMass","SaintInWhoseHonorMassIsCelebrated","FormingOfOnesIntention","SoulsLongingForGod"
+#  ,"TrinitarianPreparation1","TrinitarianPreparation2","TrinitarianPreparation3","TrinitarianPreparation4","TrinitarianPreparation5",
+#  "TrinitarianPreparation6","TrinitarianPreparation7","TrinitarianPreparation8","TrinitarianPreparation9"
+  );
+
+  includePrayers(@prepatoryPrayers);
+
+}
+
 sub postOrdo() {
+
+  if (!$postmissaprayers || $postmissaprayers==0) {
+    return;
+  }
 
   @script1 = ();
   @script2 = ();
@@ -55,25 +72,8 @@ sub postOrdo() {
 #  ,"TrinitarianAfterMass1","TrinitarianAfterMass2","TrinitarianAfterMass3","TrinitarianAfterMass4","TrinitarianAfterMass5",
 #  "TrinitarianAfterMass6","TrinitarianAfterMass7","TrinitarianAfterMass8","TrinitarianAfterMass9"
   );
-  foreach (@thanksgiving) {
-    my $str = prayer("$_", $lang1);
 
-    $str =  resolve_refs($str, $lang1);
-    push(@script1, "\n");
-    push(@script1, split('_', $str));
-
-    if (!$only) {
-      $str = prayer("$_", $lang2);
-
-      $str =  resolve_refs($str, $lang2);
-      push(@script2, "\n");
-      push(@script2, split('_', $str));
-    }
-  }
-
-  print_content($lang1, \@script1, $lang2, \@script2, 1);
-  @script1 = ();
-  @script2 = ();
+  includePrayers(@thanksgiving);
 }
 
 #*** ordo()

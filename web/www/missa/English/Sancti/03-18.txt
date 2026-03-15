@@ -5,6 +5,9 @@ St. Cyril of Jerusalem, Confessor and Doctor of the Church
 Grant us, we beseech You, almighty God, through the intercession of the blessed Bishop Cyril, so to acknowledge You, the only true God, and Jesus Christ Whom You have sent, that we may be found worthy to be forever numbered among the sheep who hear His voice.
 $Per eumdem
 
+[Lectio]
+@Commune/C4a:Lectio in 2 loco
+
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
 !Matt 10:23-28.

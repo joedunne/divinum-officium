@@ -101,6 +101,16 @@ our $missanumber = strictparam('missanumber');
 if (!$missanumber) { $missanumber = 1; }
 our $caller = strictparam('caller');
 
+our $antemissaprayers = strictparam('antemissaprayers');
+our $postmissaprayers = strictparam('postmissaprayers');
+our $allmissaofday = strictparam('allmissaofday');
+our $trinitarianprayers = strictparam('trinitarianprayers');
+
+if (!$antemissaprayers) { $antemissaprayers = 0; }
+if (!$postmissaprayers) { $postmissaprayers = 0; }
+if (!$allmissaofday) { $allmissaofday = 0; }
+if (!$trinitarianprayers) { $trinitarianprayers = 0; }
+
 $setupsave = strictparam('setupm');
 loadsetup($setupsave);
 
@@ -167,7 +177,7 @@ if ($command =~ /setup(.*)/is) {
   anteOrdo();
 
   ordo();
-  if ($winner{Rule} =~ /(multiple|celebranda aut\s+)(.*)/) {
+  if ($allmissaofday==1 && $winner{Rule} =~ /(multiple|celebranda aut\s+)(.*)/) {
     my $object = $2;
     my $lim;
     my @missae;

@@ -52,8 +52,7 @@ May our fasting, we beseech You, O Lord, be acceptable to You, and by its purify
 $Per Dominum
 
 [Communio]
-!Isa 7:14
-Behold, the virgin shall be with child and bear a Son, and shall name Him Emmanuel.
+@Commune/C10a:Communio
 
 [Postcommunio]
 Refreshed by the sacramental gift of Your salvation, we humbly beseech You, O Lord, that enjoying its savor we may be made new by its action.
