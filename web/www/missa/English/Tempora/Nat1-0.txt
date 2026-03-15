@@ -1,6 +1,11 @@
 [Officium]
 Dominica Infra Octavam Nativitatis
 
+[Rule]
+Gloria
+Credo
+Prefatio=Nat
+
 [Introitus]
 !Wis 18:14-15
 v. When a profound stillness compassed everything and the night in its swift course was half spent, Your all-powerful Word, O Lord, bounded from heaven’s royal throne.

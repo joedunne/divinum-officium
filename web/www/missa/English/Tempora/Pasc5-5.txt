@@ -5,6 +5,7 @@ Feria VI infra Octavam Ascensionis
 Feria VI post Ascensionem
 
 [Rule]
+Evangelium non appropriatum
 ex Tempora/Pasc5-4;
 Gloria
 Suffr=Maria3;Ecclesiae,Papa;;

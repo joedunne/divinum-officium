@@ -53,8 +53,7 @@ $Per Dominum
 All my enemies shall be put to shame in utter terror; they shall fall back in sudden shame.
 
 [Postcommunio]
-By the working of this sacrament, O Lord, may our sins be erased, and our just desires fulfilled.
-$Per Dominum
+@Sancti/01-05:Postcommunio
 
 [Super populum]
 !Prayer over the people

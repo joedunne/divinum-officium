@@ -5,3 +5,4 @@ Octava Sanctissimi Corporis Christi
 ex Tempora/Pent01-4;
 Oratio Dominica
 Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;
+Comkey=20

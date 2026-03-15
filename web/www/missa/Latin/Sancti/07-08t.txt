@@ -1,1 +1,9 @@
 @Sancti/07-08
+
+[Rule]
+vide C7a;
+Gloria
+
+[Rank]
+S. Elisabeth Reg. Portugaliae Viduae;;Semiduplex;;2;;vide C7a
+

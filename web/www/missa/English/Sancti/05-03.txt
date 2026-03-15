@@ -26,7 +26,7 @@ v.  Brothers: For let this mind be in you, which was also in Christ Jesus: Who b
 [Graduale]
 Allelúja, allelúja
 !Ps 95:10
-v.  Say ye among the Gentiles, the Lord hath reigned from the wood. Allelúja.
+V. Say ye among the Gentiles, the Lord hath reigned from the wood. Allelúja.
 V. Sweet woods, sweet nails, bearing a sweet weigth, which alone wast worthy to bear the King of heaven and the Lord. Allelúja.
 
 [Evangelium]
@@ -41,6 +41,9 @@ v.  The right hand of the Lord hath wrought strength: the right hand of the Lord
 [Secreta]
 Sacrifícium, Dómine, quod tibi immolámus, placátus inténde: ut ab omni nos éruat bellórum nequítia, et per vexíllum sanctæ Crucis Fílii tui, ad conteréndas potestátis advérsa? insídias, nos in tuæ protectiónis securitáte constítuat.
 $Per eumdem
+
+[TODO]
+todo jjd translate
 
 [Communio]
 !  

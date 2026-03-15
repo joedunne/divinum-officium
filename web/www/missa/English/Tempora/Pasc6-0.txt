@@ -5,6 +5,7 @@ Dominica infra Octavam Ascensionis
 Dominica post Ascensionem
 
 [Rule]
+Evangelium non appropriatum
 ex Tempora/Pasc5-4;
 Gloria
 Credo
@@ -20,6 +21,11 @@ v. Hear, O Lord, the sound of my call, alleluia; to You my heart speaks; Your gl
 [Oratio]
 Almighty and eternal God, give us a will ever dedicated to You, and a true heart to serve Your majesty.
 $Per Dominum
+
+[Commemoratio Oratio]
+!Pro Octava Ascensionis
+Grant, we beseech Thee, almighty God, that we who believe Thine only-begotten Son, our Redeemer, to have this day ascended into heaven, may ourselves dwell in spirit amid heavenly things.
+$Per eumdem
 
 [Lectio]
 Lesson from the first letter of St. Peter the Apostle
@@ -46,6 +52,11 @@ God mounts His throne amid shouts of joy; the Lord, amid trumpet blasts. Allelui
 May this pure sacrifice cleanse us, O Lord, and impart to our minds the strength of heavenly grace.
 $Per Dominum
 
+[Commemoratio Secreta]
+!Pro Octava Ascensionis
+Receive, O Lord, the gifts which we offer for the glorious Ascension of thy Son, and mercifully grant that we may be delivered from present dangers and attain eternal life.
+$Per eumdem
+
 [Communio]
 !John 17:12-13; 17:15
 Father, while I was with them, I kept them whom You have given Me, alleluia; but now I am coming to You; I do not pray that You take them out of the world, but that You keep them from evil, alleluia, alleluia.
@@ -53,3 +64,8 @@ Father, while I was with them, I kept them whom You have given Me, alleluia; but
 [Postcommunio]
 We who have been filled with heavenly gifts beseech You, O Lord, grant us to continue giving thanks to You.
 $Per Dominum
+
+[Commemoratio Postcommunio]
+!Pro Octava Ascensionis.
+Grant us, we beseech thee, almighty and merciful God, that what we have taken and received in visible mysteries, may profit us by its invisible effects.
+$Per Dominum.

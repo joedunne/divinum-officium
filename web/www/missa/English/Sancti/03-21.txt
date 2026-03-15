@@ -3,6 +3,8 @@ St. Benedict, Abbot
 
 [Name]
 Benedict
+Secrata=Benedict
+Postcommunio=Benedict
 
 [Nomen]
 Benedict

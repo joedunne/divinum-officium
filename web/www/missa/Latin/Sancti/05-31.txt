@@ -27,10 +27,9 @@ Lectio libri Sapientiæ
 Ego ex ore Altíssimi prodívi, primogénita ante omnem creatúram; ego in altíssimis habitávi, et thronus meus in colúmna nubis. In omni terra steti; et in omni pópulo, et in omni gente primátum hábui, et ómnium excelléntium et humílium corda virtúte calcávi. Qui audit me, non confundétur, et qui operántur in me, non peccábunt; qui elúcidant me, vitam ætérnam habébunt.
 
 [Graduale]
-!Apo 19:16
+!Apo 19:16; Ps 44:10
 Ipse habet in vestiménto et in fémore suo scriptum: Rex regum et Dóminus dominántium.
-!Ps 44:10
-Regína adstat ad déxteram eius, ornáta auro ex Ophir. Allelúia, allelúia.
+V. Regína adstat ad déxteram eius, ornáta auro ex Ophir. Allelúia, allelúia.
 V. Salve, Regína misericórdiæ, tu nos ab hoste prótege, et mortis hora súscipe. Allelúia.
 
 [GradualeP]

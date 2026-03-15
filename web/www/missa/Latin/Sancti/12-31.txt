@@ -24,9 +24,8 @@ Evangelium non appropriatum
 @Commune/C4a:Lectio
 
 [Graduale]
-!Eccli 44:16
+!Eccli 44:16; 44:20
 Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
-!Eccli 44:20
 V. Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja.
 !Ps 88:21
 V. Invéni David servum meum: óleo sancto meo unxi eum. Allelúja.

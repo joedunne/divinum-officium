@@ -1,6 +1,9 @@
 [Officium]
 De missa chrismatis
 
+[TODO]
+TODO JJD Translate
+
 [Rule]
 Gloria
 Credo

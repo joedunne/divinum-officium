@@ -44,8 +44,7 @@ At that time, Jesus went away to the other side of the sea of Galilee, which is 
 Praise the Lord, for He is good; sing praise to His Name, for He is sweet; all that He wills He does in heaven and on earth.
 
 [Secreta]
-Look with favor, we beseech You, O Lord, upon the offerings here before You, that they may be beneficial for our devotion and salvation.
-$Per Dominum
+@Tempora/Quadp3-4:Secreta
 
 [Communio]
 !Ps 121:3-4

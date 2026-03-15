@@ -38,8 +38,7 @@ At that time, when the feast was already half over, Jesus went up into the templ
 I have waited, waited for the Lord, and He stooped toward me and heard my cry. And He put a new song into my mouth, a hymn to our God.
 
 [Secreta]
-May this offering, O Lord, we beseech You, wipe away our sins, and make holy the minds and bodies of Your servants for celebrating this Sacrifice.
-$Per Dominum
+@Tempora/Epi3-0:Secreta
 
 [Communio]
 !Ps 19:6

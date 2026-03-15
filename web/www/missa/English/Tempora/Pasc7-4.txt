@@ -16,8 +16,7 @@ God arises; His enemies are scattered, and those who hate Him flee before Him.
 v. The Spirit of the Lord fills the world, alleluia, is all-embracing, and knows man’s utterance, alleluia, alleluia, alleluia.
 
 [Oratio]
-O God, You Who on this day have taught the hearts of the faithful by the light of the Holy Spirit, grant us by that Holy Spirit Himself, to know what is right and ever to rejoice in His help.
-$Per Dominum eiusdem
+@Tempora/Pasc7-0:Oratio
 
 [Lectio]
 Lesson from the Acts of Apostles
@@ -51,5 +50,4 @@ $Per Dominum eiusdem
 Suddenly there came a sound from heaven, as of a violent wind blowing, where they were sitting, alleluia: and they were all filled with the Holy Spirit, speaking of the wonderful works of God, alleluia, alleluia.
 
 [Postcommunio]
-May the inpouring of the Holy Spirit cleanse our hearts, O Lord, and make them fertile through the dew He sprinkles upon them.
-$Per Dominum eiusdem
+@Tempora/Pasc7-0:Postcommunio

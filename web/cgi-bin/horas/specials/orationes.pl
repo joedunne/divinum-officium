@@ -1115,7 +1115,7 @@ sub getrefs {
         $o =~ s/Oremus/Oremus solemnis/;
       }
 
-      $before ||= "!" . translate('Commemoratio', $lang) . " $s{Officium}";
+      $before ||= "!" . translate('Commemoratio', $lang) . " $s{Officium}"; #This is in the horas
       $w = $before . "\nAnt. $a\n" . "_\n$v" . "_\n$o" . "_\n$after";
       next;
     }

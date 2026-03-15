@@ -15,8 +15,7 @@ Sing to the Lord a new song; sing to the Lord, all you lands.
 v. Splendor and majesty go before Him; praise and grandeur are in His sanctuary.
 
 [Oratio]
-We beseech You, O Lord, look graciously upon the fervor of Your people, who mortify themselves in the flesh through abstinence: that they may be refreshed in mind by the fruit of these good works.
-$Per Dominum
+@Tempora/Quad1-3:OratioL1
 
 [Lectio]
 Lesson from the Prophecy of Ezechiel
