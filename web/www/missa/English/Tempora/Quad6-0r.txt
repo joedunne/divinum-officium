@@ -1,3 +1,6 @@
+[Rank]
+;;I classis Semiduplex;;6
+
 [Officium]
 Dominica II Passionis seu in Palmis
 

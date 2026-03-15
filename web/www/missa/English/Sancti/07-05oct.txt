@@ -1,2 +1,14 @@
+[Rule]
+Gloria
+CredoDA
+Prefatio=Apostolis
+Suffr=Maria3;Ecclesiæ,Papa;;
+
+[Rank]
+;;Semiduplex;;2;;ex C1
+
 [Officium]
 Seventh Day Within the Octave of the Apostles Sts. Peter and Paul
+
+[Postcommunio]
+@Sancti/06-29

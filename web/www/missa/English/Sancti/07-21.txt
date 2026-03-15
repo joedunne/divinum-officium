@@ -1,5 +1,16 @@
+[Rule]
+vide C6a;
+Gloria
+Evangelium non appropriatum
+
+[Rank]
+;;Simplex;;1.1;;vide C6a
+
 [Officium]
 St. Praxedes, Virgin
 
 [Name]
 Praxedes
+
+[Communio]
+@Commune/C6a-1

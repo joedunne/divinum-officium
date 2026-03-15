@@ -1,3 +1,10 @@
+[Rule]
+vide C6a
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C6a
+
 [Officium]
 St. Marguerite-Marie Alacoque, Virgin
 

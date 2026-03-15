@@ -1,3 +1,14 @@
+[Rule]
+vide C2;
+Gloria
+
+[Rank]
+;;Duplex;;3.01;;vide C2
+(sed rubrica 1570)
+;;Semiduplex;;2.2;;vide C2
+(sed rubrica 1960)
+;;Duplex;;3;;vide C2
+
 [Officium]
 St. Ignatius, Bishop and Martyr
 

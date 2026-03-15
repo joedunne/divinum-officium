@@ -1,2 +1,5 @@
+[Rank]
+;;Feria;;1;;vide Epi2-0
+
 [Officium]
 Sabbato infra Hebdomadam II post Epiphaniam

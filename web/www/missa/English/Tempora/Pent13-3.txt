@@ -1,2 +1,5 @@
+[Rank]
+;;Feria;;1
+
 [Officium]
 Feria Quarta infra Hebdomadam XIII post Octavam Pentecostes

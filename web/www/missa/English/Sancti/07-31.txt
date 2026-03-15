@@ -1,3 +1,12 @@
+[Rule]
+vide C5;
+Gloria
+
+[Rank]
+;;Duplex majus;;4;;vide C5
+(sed rubrica monastica)
+;;Duplex;;3;;vide C5
+
 [Officium]
 St. Ignatius of Loyola, Confessor
 

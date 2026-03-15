@@ -1,3 +1,6 @@
+[Rank]
+;;Duplex majus;;4.1
+
 [Officium]
 Septem Dolorum Beatae Mariae Virgine
 

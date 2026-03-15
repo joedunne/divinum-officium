@@ -1,3 +1,14 @@
+[Rule]
+vide C5;;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C5c
+(sed rubrica 196)
+;;Duplex;;2.1;;vide C5c
+(sed rubrica 1930)
+;;Simplex;;1.1;;vide C5c
+
 [Officium]
 Seven Holy Founders of the Order of the Servants of the Blessed Virgin Mary
 

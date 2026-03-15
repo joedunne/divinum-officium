@@ -1,2 +1,5 @@
+[Rank]
+;;Feria;;1
+
 [Officium]
 Feria quinta infra Hebdomadam VI post Octavam Pentecostes

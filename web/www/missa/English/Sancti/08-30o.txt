@@ -1,3 +1,10 @@
+[Rule]
+vide C3a;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C3a
+
 [Officium]
 St. Felix and Adauctus, Martyrs
 

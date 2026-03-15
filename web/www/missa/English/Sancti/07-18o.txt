@@ -1,5 +1,15 @@
+[Rule]
+vide C3a;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C3a
+
 [Officium]
 S. Symphorosa with her Seven Sons, Martyrs
 
 [Name]
 Symphorosa and her sons
+
+[Communio]
+@Sancti/03-10

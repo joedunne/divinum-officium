@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex I class;;6;;ex Pasc0-0
+
 [Officium]
 Sabbato in Albis
 

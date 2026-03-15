@@ -1,3 +1,8 @@
+[Rank]
+;;Duplex majus;;6.3;;ex Tempora/Pent01-4
+(sed rubrica 196 aut rubrica 1955)
+;;Feria;;1
+
 [Officium]
 Octava Sanctissimi Corporis Christi
 

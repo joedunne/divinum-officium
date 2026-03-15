@@ -1,2 +1,5 @@
+[Rank]
+;;Feria;;1
+
 [Officium]
 Feria V infra Hebdomadam VI quae superfluit post Epiphaniam

@@ -1,3 +1,12 @@
+[Rule]
+vide C5;
+9 lectiones
+
+[Rank]
+;;Duplex;;3;;vide C5
+(sed rubrica 196)
+;;Simplex;;1.1;;vide C5
+
 [Officium]
 Impression of the Stigmata of St. Francis
 

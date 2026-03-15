@@ -1,3 +1,12 @@
+[Rule]
+vide C5b;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C5b
+(sed rubrica 1963)
+;;Simplex;;1.1;;vide C5b
+
 [Officium]
 St. Sylvester, Abbot
 

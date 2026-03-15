@@ -1,3 +1,12 @@
+[Rank] (rubrica tridentina)
+;;Semiduplex;;2.93;;ex Sancti/12-25
+
+[Rank] (rubrica 196)
+;;Semiduplex;;5.4;;ex Sancti/12-25
+
+[Rank]
+;;Semiduplex;;5;;ex Sancti/12-25
+
 [Officium]
 Dominica Infra Octavam Nativitatis
 

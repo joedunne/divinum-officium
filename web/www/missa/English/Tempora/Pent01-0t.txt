@@ -1,3 +1,6 @@
+[Rank]
+;;Duplex I classis;;6.5
+
 [Officium]
 Festum Sanctissimæ Trinitatis
 

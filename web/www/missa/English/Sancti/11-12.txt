@@ -1,3 +1,10 @@
+[Rule]
+vide C2b-1;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C2b-1
+
 [Officium]
 St. Martin I, Pope and Martyr
 

@@ -1,3 +1,10 @@
+[Rule]
+vide C2b;
+Prefatio=Epi 
+
+[Rank]
+;;Simplex;;1.1;;vide C2b
+
 [Officium]
 St. Hyginus, Pope and Martyr
 

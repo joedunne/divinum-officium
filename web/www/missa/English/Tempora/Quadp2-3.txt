@@ -1,2 +1,5 @@
+[Rank]
+;;Feria;;1;;vide Quadp2-0
+
 [Officium]
 Feria IV infra Hebdomadam Sexagesimae

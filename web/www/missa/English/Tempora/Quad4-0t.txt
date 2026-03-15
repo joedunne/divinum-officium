@@ -1,3 +1,6 @@
+[Rank]
+;;I classis Semiduplex;;6.1
+
 [Officium]
 Dominica IV in Quadragesima
 

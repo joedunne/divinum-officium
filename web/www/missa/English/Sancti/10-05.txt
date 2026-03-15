@@ -1,5 +1,19 @@
+[Rule]
+vide C3a-1;
+Suffragium=Maria3;Papa;Ecclesia;;
+
+[Rank]
+;;Simplex;;1.1;;vide C3a-1
+(sed rubrica 1930)
+;;Duplex II. classis;;5;;ex C3a-1
+(sed rubrica 1617)
+;;Duplex;;3;;ex C3a-1
+
 [Officium]
 Sts. Placidus and Companions Martyrs
 
 [Name]
 Placid and his companions
+
+[Postcommunio]
+@Commune/C3a

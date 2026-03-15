@@ -1,3 +1,9 @@
+[Rule]
+ex C11;
+Gloria
+Credo
+Prefatio=Maria=Festivitate;
+
 [Rank]
 Our Lady of the Rosary;;Duplex 2 classis;;5.1;;ex C11
 

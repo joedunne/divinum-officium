@@ -1,3 +1,9 @@
+[Rank] (rubrica 1955 aut rubrica 196)
+;;Feria privilegiata;;7
+
+[Rank]
+;;Feria privilegiata;;6.9
+
 [Officium]
 Feria Tertia Majoris Hebdomadæ
 

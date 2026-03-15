@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex;;6.9
+
 [Officium]
 Dominica I Adventus
 

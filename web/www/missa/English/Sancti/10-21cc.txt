@@ -1,3 +1,9 @@
+[Rule]
+vide C6b;
+
+[Rank]
+;;Simplex;;1.1;;vide C6b
+
 [Officium]
 Ss. Ursula and Companions, Virg. and Mart.
 

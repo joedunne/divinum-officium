@@ -1,3 +1,13 @@
+[Rule]
+vide C4a;
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex;;3;;vide C4a
+(sed rubrica 196)
+;;Duplex;;2.1;;vide C4a
+
 [Officium]
 St. Cyril of Alexandria, Bishop, Confessor, and Doctor of the Church
 

@@ -1,2 +1,5 @@
+[Rank]
+;;Feria;;1;;vide Quadp3-0
+
 [Officium]
 Feria III infra Hebdomadam Quinquagesimae

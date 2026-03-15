@@ -1,3 +1,10 @@
+[Rule]
+vide C2-1b;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C2-1b
+
 [Officium]
 St. Zephyrinus, Pope and Martyr
 

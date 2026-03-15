@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex;;5
+
 [Officium]
 Dominica IX Post Pentecosten
 

@@ -1,3 +1,14 @@
+[Rule]
+vide C6;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C6
+(sed rubrica 1570 aut rubrica 1617)
+;;Semiduplex;;2.2;;vide C6
+(sed rubrica 1930)
+;;Duplex majus;;4;;vide C6
+
 [Officium]
 St. Cecilia, Virgin and Martyr
 
@@ -15,3 +26,6 @@ The five wise virgins took oil in their vessels with the lamps: and at midnight 
 [Secreta]
 May this sacrifice of atonement and praise, we beseech You, O Lord, by the intercession of blessed Cecilia, Your Virgin and Martyr, always make us worthy of your forgiveness.
 $Per Dominum
+
+[Postcommunio]
+@Commune/C6a

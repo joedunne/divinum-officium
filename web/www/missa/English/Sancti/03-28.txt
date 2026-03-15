@@ -1,3 +1,8 @@
+[Rank]
+;;Semiduplex;;2.2;;vide C5
+(sed rubrica 196)
+;;Semiduplex;;2.1;;vide C4a
+
 [Officium]
 St. John of Capistrano, Confessor
 

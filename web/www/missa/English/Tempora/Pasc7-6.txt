@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex I classis;;6.9;;ex Pasc7-0
+
 [Officium]
 Sabbato Quattuor Temporum Pentecostes
 

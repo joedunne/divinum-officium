@@ -1,2 +1,5 @@
+[Rank]
+;;Feria;;1;;vide Epi4-0
+
 [Officium]
 Feria V infra Hebdomadam IV post Epiphaniam

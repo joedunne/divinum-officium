@@ -1,3 +1,12 @@
+[Rule]
+Gloria
+Evangelium non appropriatum
+
+[Rank]
+;;Duplex;;3;;vide C7a
+(sed rubrica 1570 aut rubrica monastica)
+;;Simplex;;1.1;;vide C7a
+
 [Officium]
 St. Monica, Widow
 
@@ -7,3 +16,6 @@ Monica
 [Oratio] (nisi rubrica cisterciensis)
 O God, the consoler of those Who mourn and the safety of those who put their trust in You; Who mercifully accepted the holy tears of blessed Monica for the conversion of Augustine, her son; grant us through the intercession of both to bewail our sins and to obtain the grace of Your forgiveness.
 $Per Dominum
+
+[Evangelium]
+@Tempora/Quad4-4

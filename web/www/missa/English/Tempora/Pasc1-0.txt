@@ -1,3 +1,6 @@
+[Rank]
+;;Duplex majus I. classis;;7;;
+
 [Officium]
 Dominica in Albis in Octava Paschae
 

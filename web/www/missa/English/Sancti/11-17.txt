@@ -1,3 +1,15 @@
+[Rule]
+Evangelium non appropriatum
+vide C4;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C4
+(sed rubrica 1570)
+;;Simplex;;1.1;;vide C4
+(sed rubrica 196)
+;;Duplex;;3;;vide C4
+
 [Officium]
 St. Gregory the Wonderworker, Bishop and Confessor
 

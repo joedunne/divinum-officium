@@ -1,3 +1,10 @@
+[Rule]
+vide C4-1;mtv
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C4-1
+
 [Officium]
 St. Augustine of Canterbury, Bishop and Confessor
 

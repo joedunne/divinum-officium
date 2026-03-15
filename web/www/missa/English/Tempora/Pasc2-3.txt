@@ -1,3 +1,6 @@
+[Rank]
+;;Duplex I classis;;6;;
+
 [Officium]
 Patrocinii St. Joseph Confessoris Sponsi B.M.V. confessoris
 

@@ -1,5 +1,15 @@
+[Rule]
+vide C4;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C4
+
 [Officium]
 St. Paulinus of Nola, Bishop and Confessor
 
 [Name]
 Paulinus
+
+[Communio]
+@Commune/C4

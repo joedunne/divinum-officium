@@ -1,3 +1,6 @@
+[Rank](rubrica 196)
+In Apparitione Beatæ Mariæ Virginis;;Duplex;;2.1;;ex C11
+
 [Rank]
 In apparitione Beatae Mariae Virginis;;Duplex majus;;4;;ex C11
 

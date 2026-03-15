@@ -1,3 +1,12 @@
+[Rule]
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex;;3;;vide C4a
+(sed rubrica innovata)
+;;Duplex optional;;1.1;;vide C4a
+
 [Officium]
 St. Robert Bellarmine, Bishop, Confessor and Doctor of the Church
 

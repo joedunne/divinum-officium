@@ -1,5 +1,11 @@
+[Rank]
+;;Vigilia;;1.5;;ex C1v
+
 [Officium]
 In Vigilia S. Matthew Apostle
 
 [Name]
 Matthew
+
+[Postcommunio]
+@Commune/C1v:Postcommunio pro Evangelistae
