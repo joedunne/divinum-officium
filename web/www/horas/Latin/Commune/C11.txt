@@ -75,6 +75,10 @@ Sancta María, * succúrre míseris, juva pusillánimes, réfove flébiles, ora 
 Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.
 $Per Dominum
 
+[Oratio] (ad missam)
+Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.
+$Per Dominum
+
 [Invit]
 Sancta María, Dei Génetrix Virgo, * Intercéde pro nobis.
 
@@ -382,6 +386,7 @@ V. Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus. All
 Benedícta et venerábilis es, Virgo María: quæ sine tactu pudóris invénia es Mater Salvatóris.
 V. Virgo, Dei Génetrix, quem totus non capit orbis, in tua se clausit víscera factus homo. 
 _
+!Tractus
 Gaude, María Virgo, cunctas hǽreses sola interemísti.
 V. Quæ Gabriélis Archángeli dictis credidísti.
 V. Dum Virgo Deum et hóminem genuísti: et post partum, Virgo, invioláta permansísti.

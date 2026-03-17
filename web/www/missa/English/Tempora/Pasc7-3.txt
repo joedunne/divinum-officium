@@ -8,7 +8,7 @@ Feria Quarta Quattuor Temporum Pentecostes
 LectioL1
 no Gloria
 Sequentia
-Suffr=Ecclesiae;Papa
+Suffr=Ecclesiæ;Papa;;
 Credo
 Prefatio=Spiritu
 

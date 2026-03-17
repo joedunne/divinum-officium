@@ -3,7 +3,7 @@ Inventione Sanctae crucis;;Duplex II classis;;5.1;;
 
 [Rule]
 Gloria
-CredoDA
+Credo
 Praefatio=Quad5
 
 [Introitus]

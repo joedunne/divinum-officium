@@ -53,11 +53,7 @@ V. Potens in terra erit semen ejus: generátio rectórum benedicétur. Allelúja
 Posuísti, Dómine, super caput ejus corónam de lápide pretióso. Allelúja.
 
 [GradualeP]
-Allelúja, allelúja.
-!Ps 88:6.
-Confitebúntur cœli mirabília tua, Dómine: étenim veritátem tuam in ecclésia sanctórum. Allelúja.
-!Ps 20:4
-Posuísti, Dómine, super caput ejus corónam de lápide pretióso. Allelúja.
+@Commune/C2p:Graduale
 
 [Tractus]
 !Ps 111:1-2.

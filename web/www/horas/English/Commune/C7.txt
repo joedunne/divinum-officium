@@ -1,3 +1,5 @@
+@Commune/C6
+
 [Officium]
 Common of a Widow Martyr
 
@@ -38,15 +40,40 @@ Be glory while the ages flow,
 From all above, and all below.
 Amen.
 
+[HymnusM Vespera]
+@:Hymnus Vespera:s/sancto/Christi/
+
+[Ant 1]
+@Commune/C6:Ant 2
+
 [Oratio]
-O God, Who, amidst the wondrous work of thy divine power, dost make even weak women to be more than conquerors in the uplifting of their testimony, mercifully grant unto all us which do keep the birthday of thy blessed witness N., grace to follow her steps toward thee.
-$Per Dominum.
+@Commune/C6::s/Vírginis et // s/N\./N./
 
 [Invit]
 For the confession of Blessed N. * Let us praise our God.
 
+[Hymnus Matutinum]
+@Commune/C6::16-25
+
+[HymnusM Matutinum]
+@Commune/C6::16-25
+
+[Ant Matutinum]
+@Commune/C6::1
+@:Ant Matutinum2
+@Commune/C6::3-9
+
 [Ant Matutinum2]
 His left hand is under my head, * and his right hand doth embrace me.;;18
+
+[Lectio1]
+@Commune/C6:Lectio1 in 2 loco
+
+[Lectio2]
+@Commune/C6:Lectio2 in 2 loco
+
+[Lectio3]
+@Commune/C6:Lectio3 in 2 loco
 
 [Lectio4]
 From the Book upon Widows by St Ambrose, Bishop of Milan.
@@ -97,10 +124,19 @@ R. Whom, having seen, I loved Whom, having believed, I longed after.
 The treasure is the desire for heaven, the field wherein it is hidden is the earnest observance wherewith this desire is surrounded. Whosoever turneth his back upon the enjoyments of the flesh, and by earnest striving heavenward, putteth all earthly lusts under the feet of discipline, so that he smileth back no more when the flesh smileth at him, and shuddereth no more at anything that can only kill the body whosoever doth thus, hath sold all that he had, and bought that field.
 &teDeum
 
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//g
+
 [Capitulum Laudes]
 !Sir 51:1-3
 v. I will give glory to thee, O Lord, O King, and I will praise thee, O God my Saviour. I will give glory to thy name: for thou hast been a helper and protector to me, and hast preserved my body from destruction.
 $Deo gratias.
+
+[Hymnus Laudes]
+@:Hymnus Vespera
+
+[HymnusM Laudes]
+@:HymnusM Vespera
 
 [Ant 2]
 Give her of the fruit of her hands, * and let her own works praise her in the gates.
@@ -114,8 +150,15 @@ v. My soul shall praise the Lord even to death. How thou deliverest them that wa
 v. And thou hast delivered me, according to the multitude of the mercy of thy name, from them that did roar, prepared to devour. Out of the hands of them that sought my life, and from the gates of afflictions, which compassed me about.
 $Deo gratias.
 
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias.
+
 [Ant 3]
 She spreadeth out her hand to the poor, * yea, she reacheth forth her hands to the needy, and eateth not the bread of idleness.
+
+[Introitus]
+@Commune/C6-1
 
 [Graduale]
 !Ps 44:8
@@ -130,8 +173,29 @@ Alleluia, alleluia.
 In your splendor and your beauty ride on triumphant, and reign. Alleluia.
 V. In the cause of truth and mercy and for the sake of justice: may your right hand show you wondrous deeds. Alleluia.
 
+[Evangelium]
+@Commune/C6-1
+
+[Offertorium]
+@Commune/C6-1
+
 [Secreta]
 @Commune/C6::s/Virgin and // s/N\./N./
 
+[Communio]
+!Ps 118:161-162
+PPrinces have persecuted me without cause, and my heart hath been in awe of thy words: I will rejoice at thy words, as one that hath found much spoil. (Allelúja.)
+
 [Postcommunio]
 @Commune/C6::s/Virgin and // s/N\./N./
+
+[Lectio4 in 2 loco]
+Sermon of St. John Chrysostom.
+!Serm. 67. from various places in the New Testament.
+I especially love the commemorations of the Martyrs; I love and embrace them all indeed, but then most specifically when the struggles of women are set before us. For the weaker the vessel is, so much greater is the grace, so much more illustrious is the trophy, so much more distinguished is the victory—not because of any weakness in the sex of the athletes, but because the enemy is now defeated by the very same means through which he once had triumphed.
+
+[Lectio5 in 2 loco]
+Through a woman he [the devil] conquered, and through a woman he has been overcome. She was once his weapon; she has now become the instrument of his slaughter; this vessel has appeared insuperable. The former [Eve] sinned first and died; the latter [the martyr] died so that she might not sin. The former, then inflated by the hope of a futile promise, violated the laws of God; the latter despised this present life so that she would not renounce faith in her Benefactor. What excuse, therefore, can men hope for hereafter if they are soft and cowardly? What pardon indeed can they expect, when women bear themselves so bravely and manfully—when they gird themselves so generously for the struggles of piety?
+
+[Lectio6 in 2 loco]
+She had a weak body, and a sex subject to injury; nevertheless, the coming of grace hid the weakness of all these things. For there is nothing, absolutely nothing, more powerful than one who holds the fear of God fixed in their mind with great zeal; but even if the enemies threaten fires, or the sword, or wild beasts, or anything else whatever, they despise all these things with no trouble—as indeed this Blessed woman also did.

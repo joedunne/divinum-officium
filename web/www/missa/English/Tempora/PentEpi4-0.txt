@@ -3,6 +3,9 @@
 [Officium]
 Dominica IV quæ superfuit Post Epiphaniam
 
+[Rank]
+;;Semiduplex;;5
+
 [Rule]
 Gloria
 Credo

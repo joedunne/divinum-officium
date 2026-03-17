@@ -19,6 +19,9 @@ It is good to give thanks to the Lord, to sing praise to Your name, Most High.
 &Gloria
 v. In the midst of the assembly he opened his mouth; and the Lord filled him with the spirit of wisdom and understanding; He clothed him with a robe of glory, alleluia, alleluia.
 
+[Oratio]
+@Commune/C4-1
+
 [Lectio]
 Lesson from the second letter of St. Paul the Apostle to the Corinthians
 !2 Cor. 4:5-14
@@ -31,6 +34,14 @@ V. You are a priest forever, according to the order of Melchisedec. Alleluia.
 !Jas 1:12
 V. Blessed is the man who endures temptation; for when he has been tried, he will receive the crown of life. Alleluia.
 
+[Graduale1]
+!Ecclus 44:16
+Behold a great priest, who in his days pleased God.
+!Ecclus 44:20
+V. There was not any found the like to him, who kept the law of the Most High. Alleluia, alleluia.
+!Gal. 2:19-20
+V. With Christ I am nailed to the cross: I live, now not I, but Christ liveth in me. Alleluia.
+
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
 !Matt 10:23-28
@@ -39,6 +50,9 @@ At that time, Jesus said to His disciples, When they persecute you in one town, 
 [Offertorium]
 !Ps 88:21-22
 I have found David, My servant; with My holy oil I have anointed him, that My hand may be always with him, and that My arm may make him strong, alleluia.
+
+[Secreta]
+@Commune/C4-1
 
 [Communio]
 !Matt 10:27

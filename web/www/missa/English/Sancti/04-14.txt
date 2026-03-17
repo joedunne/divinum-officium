@@ -32,13 +32,15 @@ v.  For the word of the cross, to them indeed that perish, is foolishness; but t
 [Graduale]
 !1 Cor 3:19; 3:20
 V.  For the wisdom of this world is foolishness with God. For it is written: The Lord knoweth the thoughts of the wise, that they are vain, alleluia.
-!1 Cor 1:19
-V. I will destroy the wisdom of the wise, and the prudence of the prudent I will reject, alleluia, alleluia.
-V.  For the wisdom of this world is foolishness with God. For it is written: The Lord knoweth the thoughts of the wise, that they are vain, alleluia.
 !Phil 3:8
 V.  Furthermore I count all things to be but loss for the excellent knowledge of Jesus Christ my Lord, alleluja.
 
 [Tractus]
+!1 Cor 3:19; 3:20
+V. For the wisdom of this world is foolishness with God. For it is written: The Lord knoweth the thoughts of the wise, that they are vain.
+V. I will destroy the wisdom of the wise, and the prudence of the prudent I will reject.
+_
+!Tractus
 !1 Cor 2:2; 2:7-8
 For I judged not myself to know anything among you, but Jesus Christ, and him crucified.
 V. But we speak the wisdom of God in a mystery, a wisdom which is hidden, which God ordained before the world, unto our glory : 

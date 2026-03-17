@@ -1,3 +1,5 @@
+@Commune/C7
+
 [Officium]
 Common of Widows
 
@@ -19,6 +21,9 @@ Lesson from the book of Proverbs
 15 And she hath risen in the night, and given a prey to her household, and victuals to her maidens.
 16 She hath considered a field, and bought it: with the fruit of her hands she hath planted a vineyard.
 17 She hath girded her loins with strength, and hath strengthened her arm
+
+[Responsory1]
+@Commune/C6a
 
 [Lectio2]
 !Prov 31:18-24
@@ -54,6 +59,10 @@ v. Many daughters have gathered together riches: thou hast surpassed them all. F
 v. She hath opened her hand to the needy, and stretched out her hands to the poor. She shall not fear for her house in the cold of snow.
 $Deo gratias
 
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
+
 [Introitus]
 !Ps 118:75; 118:120
 v. I know, O Lord, that Your ordinances are just, and in Your faithfulness You have afflicted me. Pierce my flesh with Your fear; I fear Your ordinances. (Alleluja, alleluja.)
@@ -85,9 +94,15 @@ V. Come, O spouse of Christ, receive the crown which the Lord has prepared for y
 You love justice and hate wickedness; therefore God, your God, has anointed you with the oil of gladness above your fellows.
 V. In your splendor and your beauty ride on triumphant, and reign.
 
+[Secreta]
+@Commune/C6a
+
 [Communio]
 !Ps 44:8
 You love justice and hate wickedness; therefore God, your God, has anointed you with the oil of gladness above your fellows. (Alleluja.)
+
+[Postcommunio]
+@Commune/C6a
 
 [Lectio in 2 loco]
 Lesson from the first letter of St Paul the Apostle to Timotheus

@@ -3,6 +3,9 @@
 [Officium]
 Dominica III Post Pentecosten infra Octavam SSmi Cordis D.N.J.C
 
+[Rank]
+;;Semiduplex;;5
+
 [Rule]
 Gloria
 Credo

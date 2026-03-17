@@ -1,9 +1,20 @@
+@Commune/C3
+
 [Missa]
 Salus autem
 
 [Oratio]
 O God, Who gladden us by the annual festival of Your Martyrs N. and N., grant that we may be inspired by the example of those in whose merits we rejoice.
 $Per Dominum
+
+[Lectio7]
+@Commune/C3:Lectio7 in 3 loco
+
+[Lectio8]
+@Commune/C3:Lectio8 in 3 loco
+
+[Lectio9]
+@Commune/C3:Lectio9 in 3 loco
 
 [Introitus]
 !Ps 36:39

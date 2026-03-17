@@ -1,3 +1,5 @@
+@Commune/C3
+
 [Officium]
 Commune Plurimorum Martyrum
 
@@ -8,6 +10,19 @@ Sapientiam Sanctorum
 O God, who dost permit us to keep the birthday of thy holy Martyrs N. and N., grant that we may enjoy their fellowship in everlasting happiness.
 $Per Dominum
 
+[Oratio] (ad missam)
+O God, Who permits us to celebrate the anniversary of the death of Your holy Martyrs, N. and N., grant that we may enjoy their companionship in everlasting happiness.
+$Per Dominum
+
+[Lectio7]
+@Commune/C3:Lectio7 in 2 loco
+
+[Lectio8]
+@Commune/C3:Lectio8 in 2 loco
+
+[Lectio9]
+@Commune/C3:Lectio9 in 2 loco
+
 [Introitus]
 !Sir 44:15; 44:14
 v. Let the people shew forth their wisdom, and the church declare their praise. Their name liveth unto generation and generation.
@@ -15,10 +30,6 @@ v. Let the people shew forth their wisdom, and the church declare their praise. 
 v. Rejoice in the Lord, O ye just: praise becometh the upright.
 &Gloria
 v. Let the people shew forth their wisdom, and the church declare their praise. Their name liveth unto generation and generation.
-
-[Oratio] (ad missam)
-O God, Who permits us to celebrate the anniversary of the death of Your holy Martyrs, N. and N., grant that we may enjoy their companionship in everlasting happiness.
-$Per Dominum
 
 [Lectio]
 Lesson from the book of Wisdom

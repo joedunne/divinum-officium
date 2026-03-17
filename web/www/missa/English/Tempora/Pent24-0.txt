@@ -3,6 +3,9 @@
 [Officium]
 Dominica XXIV et ultima Post Pentecosten
 
+[Rank]
+;;Semiduplex;;5
+
 [Rule]
 Gloria
 Credo

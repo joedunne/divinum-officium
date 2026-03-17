@@ -10,6 +10,10 @@ Sapientiam Sanctorum
 Deus, qui nos concédis sanctórum Mártyrum tuórum N. et N. natalítia cólere: da nobis in ætérna beatitúdine de eórum societáte gaudére.
 $Per Dominum
 
+[Oratio] (ad missam)
+Deus, qui nos concédis sanctórum Mártyrum tuórum N. et N. natalítia cólere: da nobis in ætérna beatitúdine de eórum societáte gaudére.
+$Per Dominum
+
 [Lectio7]
 @Commune/C3:Lectio7 in 2 loco
 

@@ -16,6 +16,8 @@ CredoDA
 
 [Officium]
 St. Leo the Great, Pope, Confessor and Doctor of the Church
+(sed rubrica 1570 aut rubrica 1617)
+St. Leo the Great, Pope, Confessor
 
 [Name]
 Leo

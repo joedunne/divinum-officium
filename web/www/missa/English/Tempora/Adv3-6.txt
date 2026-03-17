@@ -8,7 +8,7 @@ Sabbato Quattuor Temporum in Adventu
 Oratio Dominica
 no Gloria
 no Credo
-(si rubrica 1960 et missa breivor) LectioL1
+(rubrica 1960 et missa brevior) LectioL1
 (rubrica 1960) celebranda aut forma longior aut forma brevior
 LectioL5
 Suffr=Maria1;Ecclesiae,Papa;;

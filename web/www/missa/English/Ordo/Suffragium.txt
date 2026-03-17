@@ -1,40 +1,41 @@
 [Oratio Maria1]
 !de S. Maria Advent
-O God, Who, by the message of an Angel, willed to take flesh in the womb of the~
-Blessed Virgin Mary, grant that we, your suppliants, who believe her to be truly~
-the Mother of God, may be helped by her intercession with You.
+O God, Who, by the message of an Angel, willed to take flesh in the womb of the Blessed Virgin Mary, grant that we, your suppliants, who believe her to be truly the Mother of God, may be helped by her intercession with You.
 $Per eumdem 
 
 [Secreta Maria1]
 !de S. Maria Adveny
-Through Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin,~
-the Mother of Your only-begotten Son, may this offering profit us for prosperity~
-and peace, now and forevermore.
+Through Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin, the Mother of Your only-begotten Son, may this offering profit us for prosperity and peace, now and forevermore.
 $Per eumdem
+
+[Oratio Maria2]
+!de S. Maria tempore post partum
+@Commune/C10b:Oratio
+
+[Secreta Maria2]
+!de S. Maria tempore post partum
+@Commune/C10b:Secreta
 
 [Postcommunio Maria1]
 !de S. Maria Advent
-May this Communion, O Lord, cleanse us of sin, and by the intercession of the~
-Blessed Virgin Mary, the Mother of God, may it make us sharers of heavenly~
-healing.
+May this Communion, O Lord, cleanse us of sin, and by the intercession of the Blessed Virgin Mary, the Mother of God, may it make us sharers of heavenly healing.
 $Per eumdem
 
 [Postcommunio Maria2]
 !de S. Maria (vel ad libitum)
-May this Communion, O Lord, cleanse us from sin and, through the intercession of~
-the Blessed Virgin Mary, Mother of God, make us sharers of Your heavenly~
-healing.
-$Per eundem 
+@Commune/C10b:Postcommunio
+
+[Oratio Maria3]
+!de S. Maria (vel ad libitum)
+@Commune/C10:Oratio
 
 [Secreta Maria3]
 !of the Blessed Virgin Mary (vel ad libitum)
-Through thy mercy, O Lord, and the intercession of blessed Mary ever Virgin, may this oblation obtain for us prosperity and peace both now and forever.
-$Per Dominum
+@Commune/C10:Secreta
 
 [Postcommunio Maria3]
 !of the Blessed Virgin Mary (vel ad libitum)
-Grant, O Lord, that we, who had partaken of the aids of salvation, may be everywhere protected by the patronage of blessed Mary ever Virgin, in whose honor we have offered these gifts of thy majesty.
-$Per Dominum
+@Commune/C10:Postcommunio
 
 [Oratio Ecclesiæ]
 !for the Church

@@ -1,5 +1,10 @@
+@Commune/C6a
+
 [Missa]
 Vultum tuum
+
+[Introitus]
+@Commune/C10b
 
 [Lectio]
 A reading from the Epistle of blessed Paul the Apostle to the Corinthians.
@@ -11,6 +16,9 @@ Brethren: Now concerning virgins, I have no commandment of the Lord; but I give 
 The king greatly desires thy beauty, since he is the Lord, your God.
 V. Hearken, O daughter, and see, and incline thy ear. Alleluia, alleluia.
 V. This is a wise virgin, and one of the number of the prudent. Alleluia.
+
+[GradualeP]
+@Commune/C6-1
 
 [Tractus]
 !Ps 44:12 et 11
@@ -25,6 +33,15 @@ V. All the rich among the people, shall entreat thy countenance. the daughters o
 After her shall virgins be brought to the king: her neighbours shall be brought to thee.
 V. They shall be brought with gladness and rejoicing: they shall be brought into the temple of the king.
 
+[Evangelium]
+@Commune/C6-1
+
+[Offertorium]
+@Commune/C6
+
 [Communio]
 !Matt 13:45-46
 The kingdom of heaven is like a merchant in search of fine pearls. When he finds a single pearl of great price, he goes and sells all that he has and buys it. (Alleluja.)
+
+[Evangelium in 2 loco]
+@Commune/C6
