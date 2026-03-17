@@ -1,3 +1,5 @@
+@Commune/C10
+
 [Missa]
 Salve Sancta parens (post Purificationem usque ad Dominica Palmarum)
 
@@ -10,3 +12,9 @@ Blessed and venerable are you, O Virgin Mary, who, with unsullied virginity, wer
 V. O Virgin, Mother of God, He Whom the whole world does not contain, becoming man, shut Himself in your womb. Alleluia, alleluia.
 !Num 17:8
 The rod of Jesse has blossomed: a Virgin has brought forth God and man: God has given peace, reconciling in Himself the lowest with the highest. Alleluia.
+
+[Tractus]
+@Commune/C11
+
+[Offertorium]
+@Commune/C10b

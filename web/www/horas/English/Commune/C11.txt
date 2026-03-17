@@ -4,6 +4,14 @@ In Festis Beatae Mariae Virginis
 [Missa]
 Salve Sancta Parens
 
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+Doxology=Nat
+Gloria
+Credo
+Prefatio=Maria=Festivitate
+
 [Ant VesperaBMV]
 His left hand is under my head, * and his right hand doth embrace me.;;112
 O Holy Mother of God, thou art become beautiful * and gentle in thy gladness.;;147
@@ -46,6 +54,34 @@ Give we equal glory
 Equal praise and blessing.
 Amen.
 
+[HymnusM Vespera]
+@:Hymnus Vespera
+
+[HymnusM Laudes]
+v. O gloriósa Dómina,
+Excélsa super sídera:
+Qui te creávit, próvide
+Lactásti sacro úbere.
+_
+Quod Heva tristis ábstulit,
+Tu reddis almo gérmine:
+Intrent ut astra flébiles,
+Cæli fenéstra facta es.
+_
+Tu Regis alti jánua,
+Et porta lucis fúlgida:
+Vitam datam per Vírginem,
+Gentes redémptæ, pláudite.
+_
+Glória tibi Dómine,
+Qui natus es de Vírgine,
+Cum Patr[e] et Sancto Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[TODO]
+Translate HymnusM Laudes
+
 [Versum 1]
 V. Holy Virgin, my praise by thee accepted be.
 R. Give me strength against thine enemies.
@@ -86,6 +122,14 @@ O Jesu, Virgin-born to thee;
 All glory, as is ever meet,
 To Father and to Paraclete.
 Amen.
+
+[HymnusM Matutinum]
+@:Hymnus Matutinum:s/sídera/ǽthera/
+
+[Ant Matutinum]
+@:Ant MatutinumBMV:1-3
+@Commune/C6::4-5
+@:Ant MatutinumBMV:4-7
 
 [Ant MatutinumBMV]
 Blessed art thou among women, * and blessed is the fruit of thy womb.;;8
@@ -213,6 +257,51 @@ Yea, rather, blessed are they that hear the Word of God and keep it. How nobly d
 V. Pray for us, holy Mother of God. 
 R. That we may be made worthy of the promises of Christ. 
 
+[Ant Laudes]
+@Commune/C7:Ant Vespera:1 s/;;.*//g
+@:Ant VesperaBMV:1 s/;;.*//g
+@Commune/C6:Ant Matutinum:7 s/;;.*//
+@Commune/C7:Ant Vespera:3 s/;;.*//
+@:Ant VesperaBMV:2 s/;;.*//
+
+[Ant Vespera]
+@Commune/C7::1
+@:Ant VesperaBMV:1
+@Commune/C6:Ant Matutinum:7 s/95/121/
+@Commune/C7::3 s/121/126/
+@:Ant VesperaBMV:2
+
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
+
+[Nocturn 1 Versum]
+@Commune/C6:Versum 1
+
+[Nocturn 2 Versum]
+@Commune/C6
+
+[Nocturn 3 Versum]
+@Commune/C6
+
+[Responsory Breve Nona]
+@Commune/C6
+
+[Versum Nona]
+@Commune/C6:Versum 2
+
+[Responsory Breve Sexta]
+@Commune/C6
+
+[Responsory Breve Tertia]
+@Commune/C6
+
+[Versum 2]
+@Commune/C6
+
+[Versum 3]
+@:Versum 1
+
 [Capitulum Laudes]
 !Sir 24:14
 v. From the beginning, and before the world, was I created, and unto the world to come I shall not cease to be, and in the holy dwelling place I have ministered before him.
@@ -255,6 +344,12 @@ $Deo gratias.
 [Ant 3]
 All generations shall call me blessed, * for God hath regarded the lowliness of His hand-maiden.
 
+[Ant 43] (rubrica Ordo Praedicatorum)
+With heart and soul let us sing glory to Christ, in this sacred solemnity of the most high Mother of God, Mary
+
+[Ant 44] (rubrica Ordo Praedicatorum)
+@:Ant 43
+
 [Introitus]
 !Sedulius
 v. Hail, holy Mother, who in childbirth brought forth the King Who rules heaven and earth world without end.
@@ -293,7 +388,8 @@ V. Hail, full of grace, the Lord is with thee: blessed art thou among women. All
 [Tractus]
 Blessed and venerable are you, O Virgin Mary, who, with unsullied virginity, were found to be the Mother of the Saviour.
 V. O Virgin, Mother of God, He Whom the whole world does not contain, becoming man, shut Himself in your womb. 
-_ 
+_
+!Tractus
 Rejoice, O Virgin Mary; alone you have put an end to all heresies.
 V. You who believed the words of the Archangel Gabriel.
 V. Still a virgin, you brought forth God and man; and after childbirth you remained an inviolate virgin.

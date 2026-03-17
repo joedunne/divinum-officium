@@ -4,6 +4,24 @@ Officium Defunctorum
 [Missa]
 Missa Defunctorum quotidianis: Requiem aeternam
 
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+Capitulum Versum 2 ad Laudes et Vesperas
+(sed rubrica cisterciensis omittitur)
+Omit Incipit Hymnus Capitulum Lectio Preces Capitulum Commemoratio Suffragium
+Special Conclusio
+Limit Benedictiones Oratio
+Requiem gloria
+Votive nocturn
+9 lectiones
+
+[Rule] (ad missam)
+no Gloria
+no Credo
+Prefatio=Defunctorum
+Sequentia
+
 [Ant Vespera]
 I will walk before the Lord * in the land of the living.;;114
 Woe is me! O Lord, * that my sojourn is long;;119
@@ -17,6 +35,17 @@ R. Blessed are the dead which die in the Lord.
 
 [Ant 1]
 All that the Father giveth Me shall come to Me; * and him that cometh to Me I will in no wise cast out.
+
+[Oratio 1]
+@:Oratio_a_porta
+@:Oratio_Fid
+
+[Oratio_a_porta]
+$Pater noster Et
+_
+&psalm(145)
+(sed rubrica 1955 aut rubrica 1960 aut rubrica monastica aut die Omnium Defunctorum omittitur)
+$A porta inferi
 
 [Oratio_Fid]
 $Oremus
@@ -219,12 +248,35 @@ Thy right hand * upholdeth me.;;62
 From the gates of hell * deliver my soul, O Lord.;;222
 Let everything that hath breath * praise the Lord.;;150
 
+[Ant Laudes]
+@:Ant Laudes_
+(sed rubrica tridentina)
+@:Ant Laudes_:s/;;62/;;62;66/ s/;;150/;;148;149;150/
+
+[Versum 2]
+@:Versum 1
+
 [Ant 2]
 I am the resurrection and the life: * he that believeth in me, though he were dead, yet shall he live; and whosoever liveth and believeth in me shall never die.
+
+[Oratio 2]
+@:Oratio_a_porta:s/145/129/s
+@:Oratio_Fid
+
+[Oratio 21]
+$Pater noster Et
+&psalm(129)
+_
+$A porta inferi
+_
+@:Oratio_Fid
 
 [Oratio2]
 v. O Lord God, who art the great pardoner, grant rest and refreshment, peace and blessing, light and glory, unto the souls of thy men-servants and thy maid-servants, (or, the soul of thy servant, or, of thine handmaid,) whose year's-mind we are keeping.
 $Per Dominum
+
+[Versum 3]
+@:Versum 1
 
 [Introitus]
 !4 Esd. 2:34-35
@@ -355,3 +407,27 @@ V. Grant them eternal rest, O Lord; and let perpetual light shine upon them: wit
 [Postcommunio]
 May the prayers of Your suppliants be helpful to the souls of Your servants and handmaids, we beseech You, O Lord, that You may free them from all sin and make them sharers in Your redemption.
 $Qui vivis
+
+[Oratio1] (ad missam)
+O God, who didst make thy servants to be strengthened with the pontifical or priestly dignity among the apostolic priests: grant, we beseech Thee, that they may be united to them in perpetual fellowship.
+$Per Dominum
+
+[Oratio2] (ad missam)
+O God, the bestower of pardon and the lover of human salvation, we beseech Thy clemency, that through the intercession of the Blessed Mary ever Virgin and of all Thy saints, Thou wouldst grant the brethren, relatives, and benefactors of our congregation, who have passed out of this world, to come to the fellowship of eternal happiness.
+$Per Dominum.
+
+[Secreta1]
+Receive, O Lord, we beseech Thee, the sacrifice we offer for the souls of Thy servants, Bishops or Priests: that they, to whom Thou didst grant the pontifical or priestly dignity in this world, may be joined to the fellowship of Thy Saints in the kingdom of heaven
+$Per Dominum
+
+[Secreta2]
+O God, whose mercies are without number, graciously receive the prayers of our humility: and through these sacraments of our salvation, grant the remission of all sins to the souls of our brethren, relations, and benefactors, to whom You gave the grace to confess Your name.
+$Per Dominum.
+
+[Postcommunio1]
+We beseech Thee, O Lord, that the implored clemency of Thy mercy may profit the souls of Thy servants, the Bishops or Priests: that by Thy mercy, they may obtain the eternal fellowship of Him in whom they hoped and believed.
+$Per Dominum
+
+[Postcommunio2]
+Grant, we beseech thee, Almighty and merciful God, that the souls of our brothers, relatives, and benefactors, for whom we have offered this sacrifice of praise to thy majesty, being cleansed of all sins by the virtue of this sacrament, may by thy mercy be received into the happiness of eternal light.
+$Per Dominum

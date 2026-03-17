@@ -13,9 +13,7 @@ Grant, we beseech You, almighty God, that we who celebrate the anniversary of th
 $Per Dominum
 
 [Lectio]
-A reading from the Epistle of blessed Paul the Apostle to the Romans.
-!Rom 5:1-5
-Brethren: Being justified therefore by faith, let us have peace with God, through our Lord Jesus Christ: By whom also we have access through faith into this grace, wherein we stand, and glory in the hope of the glory of the sons of God. And not only so; but we glory also in tribulations, knowing that tribulation worketh patience; And patience trial; and trial hope; And hope confoundeth not: because the charity of God is poured forth in our hearts, by the Holy Ghost, who is given to us.
+@Tempora/Pasc7-6
 
 [Graduale]
 !Sap 3:1-2; 3:3
@@ -28,6 +26,9 @@ Alleluia, alleluia.
 V. These were true brothers, who could not be overcome in combat: who shedding their blood, followed the Lord. Alleluia.
 V. The noble army of Martyrs praise thee, O Lord. Alleluia.
 
+[Evangelium]
+@Sancti/10-25
+
 [Offertorium]
 !Ps 123:7
 Our soul hath been delivered as a sparrow out of the snare of the fowlers. The snare is broken, and we are delivered.
@@ -35,6 +36,9 @@ Our soul hath been delivered as a sparrow out of the snare of the fowlers. The s
 [Secreta]
 Sanctify the offerings dedicated to You, O Lord, and through the intercession of blessed Mark and Marcellianus, Your Martyrs, look upon us with mercy because of them.
 $Per Dominum
+
+[Communio]
+@Tempora/Quad1-1:Communio
 
 [Postcommunio]
 Refreshed by the sacramental gift of Your salvation, we humbly beseech You, O Lord, through the intercession of blessed Mark and Marcellianus, Your Martyrs, that, enjoying its savor, we may be made new by its action.

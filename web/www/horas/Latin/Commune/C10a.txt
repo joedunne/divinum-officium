@@ -3,6 +3,10 @@
 [Missa]
 Rorate coeli (in Adventu)
 
+[Comment]
+# I Mass of the B. V. M. – Rorate
+! Advent
+
 [Oratio]
 @Commune/C12:Oratio 2
 

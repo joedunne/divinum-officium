@@ -1,3 +1,5 @@
+@Commune/C2
+
 [Officium]
 Common of a Single Martyr
 
@@ -7,6 +9,28 @@ In virtute
 [Oratio]
 Grant, we beseech thee, almighty God, that we who celebrate the martyrdom of blessed N., through his intercession be strengthened in your love.
 $Per Dominum
+
+[Oratio altera]
+Grant, we beseech Thee, almighty God: that we, who celebrate the solemnity of blessed N., Thy Martyr, may be helped by his intercessions before Thee.
+$Per Dominum
+
+[Lectio1]
+@Commune/C3
+
+[Lectio2]
+@Commune/C3
+
+[Lectio3]
+@Commune/C3
+
+[Lectio7]
+@Commune/C2:Lectio7 in 3 loco
+
+[Lectio8]
+@Commune/C2:Lectio8 in 3 loco
+
+[Lectio9]
+@Commune/C2:Lectio9 in 3 loco
 
 [Introitus]
 !Ps 20:2-3

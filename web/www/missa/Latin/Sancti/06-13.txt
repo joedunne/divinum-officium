@@ -29,7 +29,7 @@ Ecclésiam tuam, Deus, beáti Antónii Confessóris tui atque Doctóris sollémn
 $Per Dominum
 
 [Oratio]
-@:Oratio_:s/atque\ Doctóris//
+@:Oratio_:s/and Doctor//
 (sed rubrica 195 aut rubrica 196)
 @:Oratio_
 

@@ -25,6 +25,10 @@ Similábo eum * viro sapiénti, qui ædificávit domum suam supra petram.
 Deus, qui nos beáti N. Confessóris tui ánnua solemnitáte lætíficas: concéde propítius; ut cujus natalítia cólimus, étiam actiónes imitémur.
 $Per Dominum.
 
+[Oratio] (ad missam)
+Deus, qui nos beáti N. Confessóris tui ánnua solemnitáte lætíficas: concéde propítius; ut cujus natalítia cólimus, étiam actiónes imitémur.
+$Per Dominum
+
 [Nocturn 2 Versum]
 V. Os justi meditábitur sapiéntiam.
 R. Et lingua ejus loquétur judícium.

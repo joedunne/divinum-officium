@@ -7,7 +7,7 @@ Commune Virginum tantum
 Dilexisti
 
 [Oratio]
-@Commune/C7a:: s/N\./N. Vírginis tuæ/
+@Commune/C7a::s/N\./N. Vírginis tuæ/
 
 [Hymnus Matutinum Virgo tantum]
 {:H-Virginisproles:}v. Vírginis Proles, Opiféxque Matris,
@@ -45,6 +45,10 @@ v. Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deu
 Eructávit cor meum verbum bonum: dico ego ópera mea Regi.
 &Gloria
 v. Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis. (Allelúja, allelúja.)
+
+[Oratio] (ad missam)
+Exáudi nos, Deus salutáris noster: ut, sicut de beátæ N. vírginis tuæ festivitáte gaudémus; ita piæ devotiónis erudiámur afféctu.
+$Per Dominum
 
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios

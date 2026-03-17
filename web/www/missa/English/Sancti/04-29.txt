@@ -13,6 +13,9 @@ St. Peter the Martyr
 Grant us grace, we beseech thee, O Almighty God, to follow with zeal conformable thereto after the pattern of that great example of faith, thy blessed Martyr Peter, who, for the spreading of the same faith, did so run as to obtain the palm of martyrdom. 
 $Per Dominum.
 
+[Lectio]
+@Commune/C2a-1
+
 [Secreta]
 Graciously regard, O Lord, the prayers we offer thee, through the intercession of blessed Peter, thy Martyr; and keep ever under thy protection the champions of the faith.
 $Per Dominum

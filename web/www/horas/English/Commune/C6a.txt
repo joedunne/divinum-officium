@@ -1,3 +1,5 @@
+@Commune/C6
+
 [Officium]
 Common of a Virgin not a Martyr
 
@@ -13,6 +15,15 @@ Thou, rod and blossom from a stem unstainèd,
 Now while a virgin fair of fame we honour,
 Hear our devotion!
 
+[Hymnus Matutinum]
+@:Hymnus Matutinum Virgo tantum
+_
+@Commune/C6::16-25
+
+[HymnusM Matutinum] (nisi rubrica cisterciensis)
+@Commune/C6::1-4
+@Commune/C6::15-25
+
 [Responsory1]
 R. Come, O My chosen one, and I will establish My throne in thee;
 * For the King hath greatly desired thy beauty.
@@ -22,6 +33,10 @@ R. For the King hath greatly desired thy beauty.
 [Lectio Prima]
 !Wis 4:1
 v. O how beautiful is the chaste generation with glory: for the memory thereof is immortal: because it is known both with God and with men.
+
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
 
 [Introitus]
 !Ps 44:8

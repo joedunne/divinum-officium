@@ -7,5 +7,4 @@ Sabbato infra Hebdomadam II post Octavam Paschæ
 [Rule]
 Gloria
 Credo
-Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;

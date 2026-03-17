@@ -1,8 +1,15 @@
+@Commune/C4
+
 [Officium]
 Common of a Confessor not a Bishop
 
 [Missa]
 Os justi
+
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+Psalm5 Vespera=116
 
 [Ant Vespera]
 Lord, Thou deliverest unto me five talents * behold, I have gained beside them five talents more.
@@ -65,6 +72,8 @@ R. This is he which knew righteousness, and saw great wonders, and made his pray
 * And he is numbered among the Saints.
 V. This is he which loved not his life in this world, and is come unto an everlasting kingdom.
 R. And he is numbered among the Saints.
+&Gloria
+R. And he is numbered among the Saints.
 
 [Lectio4]
 From the Sermons of St. John Chrysostom, Patriarch (of Constantinople.)
@@ -119,6 +128,9 @@ Here, then, are two commandments, to gird our loins about, and to keep our light
 And ye yourselves like unto men that wait for their lord, when he will return from the wedding that, when he cometh and knocketh, they may open unto him immediately. The Lord cometh at the hour of judgment He knocketh when, by the pains of sickness, He biddeth us know that death is nigh. To Him open we immediately, if we receive Him in love. Whoso feareth to leave this body, will not open to the Judge when He knocketh, for he dreadeth to see that Judge, Whom he knoweth that he hath despised. But whosoever knoweth that his hope and works are built upon a good foundation, when he heareth the Judge knock, openeth to Him immediately, for to such an one that coming is blessed, yea, when the hour of death is at hand, such an one haileth with gladness a glorious reward.
 &teDeum
 
+[Ant Laudes]
+@:Ant Vespera
+
 [Capitulum Laudes]
 !Sir 31:8-9
 v. Blessed is the rich man that is found without blemish: and that hath not gone after gold, nor put his trust in money nor in treasures. Who is he, and we will praise him? for he hath done wonderful things in his life.
@@ -166,8 +178,64 @@ Praise, holy Paraclete, to thee;
 While endless ages run.
 Amen.
 
+[HymnusM Laudes]
+v. O Jesus, Crown [of Saints] most high,
+And Truth most sublime,
+Who to Thy servant confessing Thee
+Restorest an everlasting reward:
+-
+Grant to this suppliant company,
+Through the intercession of this best of men,
+The remission of our sins,
+By breaking the bond of our chains.
+_
+In the returning course of the year,
+A day has dawned with light,
+On which this Saint, from the body departing,
+Passed all-powerful to the heavens.
+_
+He, regarding the vain joys of earth
+And its glittering estates
+As polluted with filth,
+Now triumphantly possesses celestial things.
+_
+By continually confessing Thee,
+O Christ, most loving King,
+He bravely trod upon the Enemy,
+And his proud follower [the devil].
+_
+Through the practice of virtues and faith,
+In the rank of his confession,
+Offering up his fasting limbs,
+He now enjoys the heavenly feast.
+_
+Therefore, O most loving [Lord],
+We all humbly pray Thee,
+That by the grace of this holy man,
+Thou wouldst forgive us our debts.
+_
+Glory be to the Father, the Lord,
+Glory to the Only-begotten,
+Together with the Holy Spirit,
+Unto everlasting ages.
+Amen.
+
+[Lectio4 in 2 loco]
+From the Book of Marals by Pope St. Gregory
+!Lib. 10. cap. 16. in cap. 12. Job.
+The simplicity of the just man is mocked. The wisdom of this world consists in hiding the heart with machinations, veiling one's meaning with words: showing things that are false as true, and demonstrating things that are true to be false. This 'prudence' is known by the young through experience; it is learned by children at a price. Those who know it are proud in their despising of others; those who know it not, being submissive and timid, admire it in others. For this very iniquity of duplicity is loved by them, cloaked under a name, while the perversity of the mind is called 'urbanity' (sophistication). This [wisdom] commands its followers to seek the heights of honors, to rejoice in the vanity of temporal glory attained, and to return the evils inflicted by others manifold; to yield to no resistance when strength is sufficient; and when the possibility of power is lacking, to feign in peaceful goodness whatever they cannot fulfill through malice.
+
+[Lectio5 in 2 loco]
+But on the contrary, the wisdom of the righteous is: to feign nothing for show, to reveal one's meaning with words, to love truths as they are, to shun falsehoods; to bestow good things freely, to endure evils more willingly than to commit them; to seek no revenge for injury, and to consider insult for the sake of truth as gain. But this simplicity of the righteous is mocked; because by the wise of this world, the virtue of purity is believed to be foolishness. For everything that is done innocently is undoubtedly thought stupid by them; and whatever truth approves in work, sounds fatuous to carnal wisdom. For what indeed seems more foolish to the world than to reveal the mind with words, to simulate nothing with clever machination, to return no insults for injuries, to pray for those who speak evil, to seek poverty, to abandon possessions, not to resist the one who robs, and to offer the other cheek to the one who strikes?
+
+[Lectio6 in 2 loco]
+!Cap. 17 post init.
+The lamp is despised in the thoughts of the rich. It often happens that each chosen one, who is being led toward eternal happiness, is weighed down here by continual adversity; no abundance of things supports him, no glory of dignities shows him to be honorable, no crowd of followers is at his hand, no pomp of garments makes him composed in human eyes. Indeed, he is seen by all as despicable, and is judged unworthy of the favor of this world; yet, before the eyes of the Hidden Judge, he shines with virtues and sparkles with the merits of life. He fears to be honored and does not shrink from being despised: he afflicts the body with continence, while his soul grows fat on love alone. He always prepares his mind for patience, and, standing upright for justice, he exults in the insults he has received. He feels compassion from the heart for the afflicted, and rejoices in the prosperities of the good as if they were his own; he carefully ruminates in his mind on the food of the Sacred Word, and, when questioned, he knows not how to speak with duplicity.
+
 [Ant 2]
 Well done, thou good and faithful servant; * thou hast been faithful over a few things, I will make thee ruler over many things; enter thou into the joy of thy Lord.
+(sed rubrica Barroux)
+Thou good and faithful servant; * thou hast been faithful over a few things, I will make thee ruler over many things; enter thou into the joy of thy Lord.
 
 [Lectio Prima]
 !Wis 10:10
@@ -194,8 +262,15 @@ R. In his heart.
 &Gloria
 R. The law of his God * is in his heart.
 
+[Versum 3]
+@:Versum 2
+
 [Ant 3]
 Lo, a servant of God * who esteemed but little things earthly. And by word and work laid him up treasure in heaven.
+
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
 
 [Lectio1 in 2 loco]
 Lesson from the book of Wisdom
@@ -307,9 +382,15 @@ Continuation ++ of the Holy Gospel according to Luke
 !Luke 12:35-40
 At that time, Jesus said to His disciples, Let your loins be girt about and your lamps burning, and you yourselves like men waiting for their master’s return from the wedding; so that when he comes and knocks, they may straight-way open to him. Blessed are those servants whom the master, on his return, shall find watching. Amen I say to you, he will gird himself, and will make them recline at table, and will come and serve them. And if he comes in the second watch, and if in the third, and finds them so, blessed are those servants! But of this be assured, that if the householder had known at what hour the thief was coming, he would certainly have watched, and not have let his house be broken into. You also must be ready, because at an hour that you do not expect, the Son of Man is coming.
 
+[Offertorium]
+@Commune/C2
+
 [Secreta]
 We offer You sacrifices of praise, O Lord, in memory of Your Saints; trusting that by them we may be delivered from both present and future evils.
 $Per Dominum
+
+[Communio]
+@Commune/C4-1
 
 [Postcommunio]
 Refreshed with heavenly food and drink, we humbly pray You, our God, that we also may be helped by his prayers in memory of whom we have partaken of these gifts.

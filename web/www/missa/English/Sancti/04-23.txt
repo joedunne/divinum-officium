@@ -14,6 +14,9 @@ St. George, Martyr
 O God, Who dost gladden us through the worthy deeds and prayers of thy blessed martyr George, mercifully grant that all they which seek thy mercy through him may effectually obtain the gift of thy grace. 
 $Per Dominum
 
+[Lectio]
+@Commune/C2a-1
+
 [Secreta]
 Hallow, O Lord, the gifts we offer, and through the intercession of blessed George, thy Martyr, clease us by their means from the stains of our sins.
 $Per Dominum

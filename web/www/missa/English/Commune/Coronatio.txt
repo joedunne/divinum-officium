@@ -1,8 +1,18 @@
+@Commune/C4b
+
 [Officium]
 Missa Votiva in Creatione et Coronatione Papae et in die anniversarii
 
+[Rule]
+Gloria
+Credo
+Prefatio=Apostolis
+
 [Missa]
 Statuit (altera)
+
+[Introitus]
+@Commune/C2
 
 [Oratio]
 O God, shepherd and ruler of all the faithful, look with favor upon Your servant N.p, whom You willed to designate shepherd of Your Church; grant him, we beseech You, that by word and example he may so benefit those in his charge, that together with the flock committed to his care, he may attain life everlasting.

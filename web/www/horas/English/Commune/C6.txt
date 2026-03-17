@@ -4,6 +4,10 @@ Common of a Virgin Martyr
 [Missa]
 Loquebar
 
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+
 [Ant Vespera]
 This is one of the wise virgins, * one chosen out of the number of the careful.;;109
 This is one of the wise virgins, * whom the Lord found watching.;;112
@@ -37,6 +41,9 @@ All praise, eternal Son, to thee;
 All glory as is ever meet,
 To God, the holy Paraclete.
 Amen. 
+
+[HymnusM Vespera]
+@:Hymnus Vespera:s/pergis/pascis/ s/tendis/pergis/ s/súpplices/lárgius/ s/ut addas/adáuge/ s/Virtus, honor, laus/Laus, honor, virtus/ s/cum/et/
 
 [Versum 1]
 V. In thy comeliness and thy beauty.
@@ -205,6 +212,9 @@ R. Behold, the Bridegroom cometh, go ye out to meet him.
 The body of every man doth consist of five senses, and five being doubled, is ten. Forasmuch, therefore, as the whole body of the faithful doth consist of two sexes, the Holy Church is likened unto ten virgins. And forasmuch as in the Church the good are for the present mingled with the bad, and the reprobate with the elect, it is rightly said that, of the ten virgins, five are wise and five are foolish. There are many who have self-control, which do keep themselves from lusting after things outward, whose hope beareth them to things inward, who chastise the flesh, who long with intense home-sickness for their Fatherland which is in heaven, who seek an eternal reward, and who will not to receive for their labours the praise of men. These are they who reckon their glory, not in the mouths of men, but in the testimony of their own conscience. And many there be likewise who afflict the body by self-control, and yet who seek for their self-control applause from men.
 &teDeum
 
+[Ant Laudes]
+@:Ant Vespera: s/;;.*//g
+
 [Capitulum Laudes]
 !2 Cor 10:17-18
 v. Brothers: But he that glorieth, let him glory in the Lord. For not he who commendeth himself, is approved, but he, whom God commendeth.
@@ -292,6 +302,84 @@ This doctrine He establisheth somewhat thus. Supposing that thou hadst been born
 [Lectio9 in 3 loco]
 When, therefore, He had spoken of such as are eunuchs by nature, or by mutilation, and are eunuchs vainly and uselessly, unless they also bridle their thoughts, and of such as deny themselves for the kingdom of heaven's sake, He added He that is able to receive it, let him receive it, that He might make them the readier by showing the very sternness of the work, and, in His unspeakable goodness, He would not include any such precept within the requirements of the law, and, by saying this, showeth it to be the more possible, that He might increase the desire of freely choosing it.
 &teDeum
+
+[Versum 3]
+@:Versum 2
+
+[Ant 3]
+@:Ant 1
+
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
+
+[Hymnus Laudes]
+@Commune/C6:Hymnus Vespera
+
+[HymnusM Laudes]
+@Commune/C6:HymnusM Vespera
+
+[TODO]
+translate HymnusM Matutinum
+
+[HymnusM Matutinum]
+v. Vírginis Proles, Opiféxque Matris,
+Virgo quem gessit, peperítque Virgo:
+Vírginis festum cánimus trophǽum
+Accipe votum.
+_
+Hæc tua Virgo dúplici beáta
+Sorte, dum gestit frágilem domáre
+Córporis sexum, dómuit cruéntum
+Corpóre sæclum.
+_
+Unde nec mortem, nec amíca mortis
+Sæva pœnárum génera pavéscens,
+Sánguine fuso méruit sacrátum
+Scándere cælum.
+_
+Hujus obténtu, Deus alme, nostris
+Parce jam culpis, vítia remíttens,
+Quo tibi puri resonémus almum
+Péctoris hymnum.
+_
+Glória Patri genitǽque Proli,
+Et tibi compar utriúsque semper
+Spíritus alme, Deus unus, omni
+Témpore sæcli.
+Amen.
+
+[Versum 0]
+V. Pray for us, blessed N..
+R. Ut digni efficiámur promissiónibus Christi.
+
+[Responsory Breve Sexta] (tempore paschali)
+R.br. God will help her with his countenance, * Alleluia, alleluia.
+R. od will help her with his countenance, * Alleluia, alleluia.
+V. God is in the midst, and will not be moved.
+R. Alleluia, alleluia.
+&Gloria
+R. God will help her with his countenance, * Alleluia, alleluia.
+
+[Lectio4 in 2 loco]
+From the book of St. Cyprian, Bishop and Martyr, on the discipline and habit of virgins
+!Lib. de hab. Virg. n. 3-5
+Our discourse is now to virgins, whose glory, as it is more sublime, so is our care for them the greater. They are the flower of the ecclesiastical seed, the grace and ornament of spiritual endowment, a joyful disposition, a work of praise and honor, whole and incorrupt, the image of God responding to the holiness of the Lord, the more illustrious portion of Christ’s flock. Through them the glorious fruitfulness of Mother Church rejoices and flowers abundantly; and the more that copious virginity adds to its number, the more the joy of the mother increases. To these we speak, these we exhort with affection rather than with power: not that we—who are the last and least, and fully conscious of our lowliness—claim anything for the censure of license, but because, being more cautious through solicitude, we fear more from the infestation of the devil.
+
+[Lectio5 in 2 loco]
+For this is not an empty caution, nor a vain fear, which looks to the way of salvation, which guards the life-giving precepts of the Lord, so that those who have dedicated themselves to Christ, and departing from carnal concupiscence, have vowed themselves to God in both body and mind, may complete their work destined for a great reward, and no longer strive to be adorned or to please anyone except their Lord, from whom they also expect the reward of virginity, as He Himself says: 'Not all receive this word, but those to whom it is given. For there are eunuchs who were so born from their mother's womb; and there are eunuchs who were made so by men; and there are eunuchs who have made themselves eunuchs for the sake of the kingdom of heaven
+
+[Lectio6 in 2 loco]
+Once again, through this voice of the Angel, the gift of continence is shown and virginity is preached: 'These are they who have not defiled themselves with women; for they have remained virgins; these are they who follow the Lamb wherever He goes.' For the Lord does not promise the grace of continence only to males and pass over females; but since the woman is a portion of the man, and was taken and formed from him, in almost all the Scriptures God speaks to the first-formed [Adam], because the two are one flesh, and in the male the female is signified at the same time. But if continence follows Christ, and virginity is destined for the kingdom of God, what have they to do with earthly attire and with ornaments, by which, while they strive to please men, they offend God?
+
+[Lectio7 in 2 loco]
+@Commune/C7:Lectio7
+
+[Lectio8 in 2 loco]
+@Commune/C7:Lectio8
+
+[Lectio9 in 2 loco]
+@Commune/C7:Lectio9
 
 [Introitus]
 !Ps 118:46-47.

@@ -1,6 +1,16 @@
 [Officium]
 Vigilia Apostolorum
 
+[Missa]
+Ego autem
+
+[Rule]
+Responsory Feria
+Preces feriales
+no Gloria
+no Credo
+Suffr=Maria3;Ecclesiæ,Papa;;
+
 [Oratio 1 loco]
 Grant, we beseech thee, O Almighty God, that the worshipful feast of thy blessed Apostle, N. on the eve whereof we now stand, may avail us to the increase both of godliness toward thee, and of health to our own souls.
 $Per Dominum
@@ -8,6 +18,11 @@ $Per Dominum
 [Oratio 2 loco]
 Grant, we beseech thee, O Almighty God, that the worshipful Feast of thy blessed Apostle, N. on the eve whereof we now stand, may avail us to the increase both of godliness toward thee, and of health to our own souls.
 $Per Dominum
+
+[Oratio]
+@:Oratio 1 loco
+(sed commune C4)
+@:Oratio 2 loco
 
 [Oratio pro Evangelistae]
 @:Oratio 1 loco:s/(Apostle)/$1 and Evangelist/

@@ -10,6 +10,8 @@ CredoDA
 
 [Officium]
 St. Gregory Nazianzen, Bishop, Confessor and Doctor of the Church
+(sed rubrica tridentina)
+St. Gregory Nazianzen, Bishop, Confessor
 
 [Name]
 Gregory

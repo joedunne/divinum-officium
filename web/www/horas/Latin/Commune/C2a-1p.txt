@@ -8,3 +8,7 @@
 
 [Postcommunio]
 @Commune/C2a-1
+
+[Oratio] (ad missam)
+Infirmitátem nostram réspice, omnípotens Deus: et, quia pondus própriæ actiónis gravat, beáti N. Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat.
+$Per Dominum

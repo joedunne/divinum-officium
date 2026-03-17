@@ -3,6 +3,10 @@
 [Missa]
 Vultum tuum (a Nativitate usque ad Purificationem)
 
+[Comment]
+# II Mass of the B. V. M. – Vultum Tuum
+! From Nativity until Purification
+
 [Ant 1]
 @Sancti/01-01:Ant 3
 
