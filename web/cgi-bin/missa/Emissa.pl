@@ -119,6 +119,16 @@ our $missanumber = strictparam('missanumber');
 if (!$missanumber) { $missanumber = 1; }
 our $caller = strictparam('caller');
 
+our $antemissaprayers = strictparam('antemissaprayers');
+our $postmissaprayers = strictparam('postmissaprayers');
+our $allmissaofday = strictparam('allmissaofday');
+our $trinitarianprayers = strictparam('trinitarianprayers');
+
+if (!$antemissaprayers) { $antemissaprayers = 0; }
+if (!$postmissaprayers) { $postmissaprayers = 0; }
+if (!$allmissaofday) { $allmissaofday = 0; }
+if (!$trinitarianprayers) { $trinitarianprayers = 0; }
+
 #*** handle different actions
 #after setup
 if ($command =~ /change(.*)/is) {

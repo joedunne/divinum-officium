@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex;;5;;
+
 [Officium]
 Dominica V Post Pascha
 
@@ -27,7 +30,7 @@ v. Dearly beloved: But be ye doers of the word, and not hearers only, deceiving 
 Allelúja, allelúja.
 V. Christ is risen and hath shone upon us whom he redeemed with his blood. Alleluia.
 !John 16:28
-v. I came forth from the Father, and am come into the world: again I leave the world, and I go to the Father. Allelúja.
+V. I came forth from the Father, and am come into the world: again I leave the world, and I go to the Father. Allelúja.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
@@ -39,8 +42,7 @@ v. In that time, Jesus said to His disciples: Amen, amen I say to you: if you as
 v.  O bless our God, ye Gentiles: and make the voice of his praise to be heard. Who hath set my soul to live: and hath not suffered my feet to be moved: Blessed be God, who hath not turned away my prayer, nor his mercy from me, allelúja.
 
 [Secreta]
-Receive, O Lord, the prayers of thy faithful with offerings of victims, that by these services of pious devotion we may pass to heavenly glory.
-$Per Dominum
+@Tempora/Pasc0-2:Secreta
 
 [Communio]
 !Ps 95:2

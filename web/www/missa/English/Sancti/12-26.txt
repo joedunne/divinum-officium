@@ -1,3 +1,14 @@
+[Rule]
+ex C2a;
+Gloria
+Credo
+Prefatio=Nat
+
+[Rank]
+;;Duplex II class cum octava simplici;;5.4;;ex C2a
+(sed rubrica 196)
+;;Duplex II class;;5.4;;ex C2a
+
 [Officium]
 St. Stephen the First Martyr
 
@@ -24,7 +35,8 @@ In those days, Stephen, full of grace and power, was working great wonders and s
 
 [GradualeP]
 Alleluia, alleluia.
-V. Acts 7:56 I see the heavens opened, and Jesus standing at the right hand of God. Alleluia.
+!Acts 7:56
+V. I see the heavens opened, and Jesus standing at the right hand of God. Alleluia.
 !Ps 20:4
 V. O Lord, You placed on his head a crown of precious stones. Alleluia.
 

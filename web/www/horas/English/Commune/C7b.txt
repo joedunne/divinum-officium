@@ -1,3 +1,5 @@
+@Commune/C7
+
 [Officium]
 Common of multiple widowed Martyrs
 
@@ -12,7 +14,25 @@ For theirs is * the Kingdom of heaven who love not their lives in this world, an
 @Commune/C6b::s/Virgins and // s/N\. and N\./N. and N./
 
 [Invit]
-@Commune/C7:: s/N\./N. and N./
+@Commune/C7::s/N\./N. and N./
+
+[Nocturn 1 Versum]
+@Commune/C6:Versum 1
+
+[Versum 2]
+@:Versum 1
+
+[Ant 2]
+@:Ant 1
+
+[Versum Nona]
+@Commune/C6:Versum 2
+
+[Versum 3]
+@:Versum 1
+
+[Ant 3]
+@:Ant 1
 
 [Oratio] (ad missam)
 @Commune/C6b::s/Virgins and // s/N\. and N\./N. and N./

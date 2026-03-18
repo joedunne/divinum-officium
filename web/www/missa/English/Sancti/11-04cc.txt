@@ -1,3 +1,9 @@
+[Rule]
+vide C3a;
+
+[Rank]
+;;Simplex;;1.1;;vide C3a
+
 [Officium]
 Sts. Vitalis and Agricola, Martyrs
 
@@ -7,3 +13,6 @@ Vitalis and Agricola
 [Oratio]
 Grant, almighty God, we beseech You, that we who keep the feast of Your blessed Martyrs, Vitalis and Agricola, may be helped by their intercession with You.
 $Per Dominum
+
+[Postcommunio]
+@Commune/C3a-1

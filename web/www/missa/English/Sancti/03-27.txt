@@ -1,3 +1,16 @@
+[Rule]
+Evangelium non appropriatum
+vide C5;
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex;;3;;vide C5a
+(sed rubrica 1960 aut rubrica innovata)
+;;Duplex;;2.1;;vide C4a
+(sed rubrica 1963)
+;;Simplex;;1.1;;vide C5
+
 [Officium]
 St. John Damascene, Confessor
 
@@ -14,15 +27,12 @@ Almighty, eternal God, Who to defend the honor paid to sacred images, filled ble
 $Per Dominum
 
 [Lectio]
-Lesson from the book of Wisdom
-!Wis 10:10-17.
-The Lord guided the just in direct ways, showed him the kingdom of God, and gave him knowledge of holy things; He prospered him in his labors and made abundant the fruit of his works, stood by him against the greed of his defrauders, and enriched him; He preserved him from foes, and secured him against ambush, and He gave him the prize for his stern struggle that he mighty recognize that devotion to God is mightier than all else. He did not abandon the just man when he was sold, but delivered him from sin. He went down with him into the dungeon, and did not desert him in his bonds, until He brought him the scepter of royalty and authority over his oppressors, showed those who had defamed him false, and gave him eternal glory. The holy people and blameless race - it was He Who delivered them from the nation that oppressed them. He entered the soul of God’s servant, and withstood fearsome kings with signs and portents. He gave the holy ones the recompense of their labors.
+@Commune/C2a:Lectio
 
 [Graduale]
 !Ps 17:33, 35
 The God Who girded me with strength and kept my way unerring.
-V. Who trained my hands for war and my arms to bend a bow of brass.
-v. Alleluia, alleluia.
+V. Who trained my hands for war and my arms to bend a bow of brass. Alleluia, alleluia.
 V. Thou hast given me the protection of thy salvation: and thy right hand hath held me up. Alleluia.
 
 [GradualeP]
@@ -36,6 +46,8 @@ V. Blessed be the Lord my God, Who trains my hands for battle, my fingers for wa
 !Ps 17:33, 35
 The God Who girded me with strength and kept my way unerring.
 V. Who trained my hands for war and my arms to bend a bow of brass.
+_
+!Tractus
 !Ps 17:38-39, 50
 I pursued my enemies, and overtook them.
 V. I smote them, and they could not rise; they fell beneath my feet.

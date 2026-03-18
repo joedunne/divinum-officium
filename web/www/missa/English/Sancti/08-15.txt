@@ -1,3 +1,8 @@
+[Rule]
+Gloria
+Credo
+Prefatio=Maria=Assumptióne;
+
 [Rank]
 In Assumptione Beatae Mariae Virginis;;Duplex I classis cum Octava Communi;;7;;ex C11
 

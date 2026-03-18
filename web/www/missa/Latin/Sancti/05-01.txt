@@ -44,7 +44,7 @@ Confitebúntur cœli mirabília tua, Dómine: et veritátem tuam in ecclésia sa
 
 [Secreta]
 Múnera, Dómine, quæ pro Apostolórum tuórum Philippi et Jacóbi sollemnitáte deférimus, propítius súscipe: et mala ómnia, quæ merémur avérte.
-$Per Dominum.
+$Per Dominum
 
 [Communio]
 !Joannes 14:9; 14:10

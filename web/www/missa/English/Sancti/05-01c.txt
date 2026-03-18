@@ -1,2 +1,17 @@
+[Rule]
+proper
+Psalmi Dominica
+Antiphonas horas
+9 lectiones;
+Una Antiphona
+Psalm5 Vespera=116
+
+[Rank]
+;;Duplex II classis;;5;;
+
 [Officium]
 Patronage of St. Joseph, Spouse of the Blessed Virgin Mary, Confessor
+
+[Oratio]
+O God, who in Thine unspeakable providence didst vouchsafe to choose blessed Joseph for Thy most holy Mother’s spouse: grant, we beseech Thee, that we who revere him as our protector upon earth, may become worthy to have him for our intercessor in heaven.
+$Qui vivis

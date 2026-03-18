@@ -8,7 +8,7 @@ Sabbato Quattuor Temporum Septembris
 
 [Rule]
 (rubrica 1960) celebranda aut forma longior aut forma brevior
-(si missa brevior et rubrica 1960) LectioL1 
+(si missa brevior et rubrica 1960) LectioL1
 LectioL5
 
 [Introitus]

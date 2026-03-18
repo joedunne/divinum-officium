@@ -1,3 +1,10 @@
+[Rank]
+;;Feria major;;2.1
+(sed rubrica 1930)
+;;Feria major;;4.9
+(sed rubrica 196)
+;;Feria major;;3.9
+
 [Officium]
 Feria Quarta infra Hebdomadam Passionis
 
@@ -53,8 +60,7 @@ $Per Dominum
 I wash my hands in innocence, and I go around Your altar, O Lord, giving voice to my thanks, and recounting all Your wondrous deeds.
 
 [Postcommunio]
-We who have shared in the blessing of the heavenly gift humbly pray You, almighty God, that it may be for us the source of sacramental grace and salvation.
-$Per Dominum
+@Tempora/Quadp3-4:Postcommunio
 
 [Super populum]
 !Prayer over the people

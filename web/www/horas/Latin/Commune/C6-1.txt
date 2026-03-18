@@ -7,6 +7,10 @@ Me exspectaverunt
 Indulgéntiam nobis, quǽsumus, Dómine, beáta N. Virgo et Martyr implóret: quæ tibi grata semper éxstitit, et mérito castitátis, et tuæ professióne virtútis.
 $Per Dominum
 
+[Oratio] (ad missam)
+Indulgéntiam nobis, quǽsumus, Dómine, beáta N. Virgo et Martyr implóret: quæ tibi grata semper éxstitit, et mérito castitátis, et tuæ professióne virtútis.
+$Per Dominum
+
 [Introitus]
 !Ps 118:95-96
 v. Me exspectavérunt peccatóres, ut pérderent me: testimónia tua, Dómine, intelléxi: omnis consummatiónis vidi finem: latum mandátum tuum nimis. (Allelúja, allelúja.)
@@ -23,15 +27,14 @@ Dómine, Deus meus, exaltásti super terram habitatiónem meam, et pro morte def
 [Graduale]
 !Ps 45:6; 45:5
 Adjuvábit eam Deus vultu suo: Deus in médio ejus, non commovébitur.
-V. Flúminis ímpetus lætíficat civitátem Dei: sanctificávit tabernáculum suum Altíssimus. 
-Allelúja, allelúja.
+V. Flúminis ímpetus lætíficat civitátem Dei: sanctificávit tabernáculum suum Altíssimus. Allelúja, allelúja.
 V. Hæc est Virgo sápiens, et una de número prudéntum. Allelúja.
 
 [GradualeP]
 Allelúja, allelúja.
 V. Hæc est Virgo sápiens, et una de número prudéntum. Allelúja.
 !Sap 4:1
-O quam pulchra et casta generátio cum claritáte! Allelúja.
+V. O quam pulchra et casta generátio cum claritáte! Allelúja.
 
 [Tractus]
 !Ps 45:6; 45:5

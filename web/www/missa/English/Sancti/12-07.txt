@@ -1,3 +1,16 @@
+[Rule]
+vide C4a;
+Gloria
+CredoDA
+no Vigil1960
+
+[Rank]
+;;Duplex;;3;;vide C4a
+(sed rubrica 1930)
+;;Duplex majus;;4;;vide C4a
+(sed rubrica cisterciensis)
+;;nihil;;0;;
+
 [Officium]
 St. Ambrose, Bishop, Confessor and Doctor of the Church
 

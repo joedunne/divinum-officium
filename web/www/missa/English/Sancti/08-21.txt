@@ -1,3 +1,11 @@
+[Rule]
+vide C7a;
+Gloria
+(rubrica tridentina aut rubrica divino) Credo
+
+[Rank]
+;;Duplex;;3;;vide C7a
+
 [Officium]
 St. Jeanne-Françoise Frémiot de Chantal, Widow;Duplex
 

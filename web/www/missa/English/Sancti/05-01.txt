@@ -1,3 +1,11 @@
+[Rule]
+ex C1;
+Gloria
+Credo
+
+[Rank]
+;;Duplex II classis;;5.1;;ex C1
+
 [Officium]
 Sts. Philip and James, Apostles
 
@@ -43,5 +51,4 @@ $Per Dominum
 Have I been so long a time with you, and you have not known Me? Philip, he who sees Me sees also My Father. Alleluia. Do you not believe that I am in the Father and the Father in Me? Alleluia, alleluia.
 
 [Postcommunio]
-Filled with the sacrament of salvation, we beseech You, O Lord, to help us by the prayers of those whose feast we are celebrating.
-$Per Dominum
+@Commune/C3:Postcommunio

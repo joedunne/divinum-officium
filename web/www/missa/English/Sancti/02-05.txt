@@ -1,3 +1,16 @@
+[Rule]
+vide C6;
+Gloria
+
+[Rank]
+;;Duplex;;3.01;;vide C6
+(sed rubrica 1570 aut rubrica 1617 aut rubrica cisterciensis)
+;;Semiduplex;;2.2;;vide C6
+(sed rubrica 1930)
+;;Duplex majus;;4;;ex C6
+(sed rubrica 196)
+;;Duplex;;3;;vide C6
+
 [Officium]
 S. Agathae Virginis et Martyris
 
@@ -33,6 +46,9 @@ _
 Those that sow in tears shall reap rejoicing.
 V. Although they go forth weeping, carrying the seed to be sown.
 V. They shall come back rejoicing, carrying their sheaves.
+
+[Evangelium]
+@Commune/C6-1:Evangelium in 2 loco
 
 [Offertorium]
 !Ps 44:15

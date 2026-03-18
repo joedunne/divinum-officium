@@ -18,13 +18,11 @@ Suffr=Maria3;Ecclesiæ,Papa;;
 @Sancti/06-29
 
 [Lectio]
-Léctio Actuum Apostolórum
-!Act 5:12-16
-In diébus illis: Per manus Apostolórum fiébant signa et prodígia multa in plebe. Et erant unanímiter omnes in pórticu Salomónis. Ceterórum autem nemo audébat se conjúngere illis: sed magnificábat eos pópulus. Magis autem augebátur credéntium in Dómino multitúdo virórum ac mulíerum, ita ut in plateas ejícerent infírmos, et pónerent in léctulis ac grabátis, ut, veniénte Petro, saltem umbra illíus obumbráret quemquam illórum, et liberaréntur ab infirmitátibus suis. Concurrébat autem et multitúdo vicinárum civitátum Jerúsalem, afferéntes ægros et vexátos a spirítibus immúndis: qui curabántur omnes.
+@Tempora/Pasc7-3
 
 [Graduale]
 !Ps 44:17; 44:18
-Constítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine.~
+Constítues eos príncipes super omnem terram: mémores erunt nóminis tui, Dómine.
 V. Pro patribus tuis nati sunt tibi fílii: proptérea pópuli confitebúntur tibi. Allelúja, allelúja.
 !Luc 22:32.
 V. Rogavi pro te, Petre, ut non defíciat fides tua: et tu aliquándo convérsus confírma fratres tuos. Allelúja.

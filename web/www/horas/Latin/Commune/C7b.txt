@@ -14,7 +14,7 @@ Istárum est enim * regnum cælórum, quæ contempsérunt vitam mundi, et perven
 @Commune/C6b::s/Vírginum et // s/N\. et N\./N. et N./
 
 [Invit]
-@Commune/C7:: s/beátæ N\./beatárum N. et N./
+@Commune/C7::s/beátæ N\./beatárum N. et N./
 
 [Nocturn 1 Versum]
 @Commune/C6:Versum 1
@@ -33,6 +33,9 @@ Istárum est enim * regnum cælórum, quæ contempsérunt vitam mundi, et perven
 
 [Ant 3]
 @:Ant 1
+
+[Oratio] (ad missam)
+@Commune/C6b::s/Vírginum et // s/N\. et N\./N. et N./
 
 [Secreta]
 @Commune/C6b::s/Vírginum et // s/N\. et N\./N. et N./

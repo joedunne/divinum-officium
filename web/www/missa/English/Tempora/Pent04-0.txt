@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex;;5
+
 [Officium]
 Dominica IV Post Pentecosten
 
@@ -41,8 +44,7 @@ At that time, while the crowds were pressing upon Jesus to hear the word of God,
 Give light to my eyes that I may never sleep in death, lest my enemy say, I have overcome him.
 
 [Secreta]
-Be appeased, we beseech You, O Lord, by accepting our offerings, and in Your kindness make even our rebellious wills turn to You.
-$Per Dominum
+@Tempora/Quad4-6:Secreta
 
 [Communio]
 !Ps. 17:3

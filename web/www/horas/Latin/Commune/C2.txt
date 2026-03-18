@@ -58,6 +58,10 @@ Iste Sanctus * pro lege Dei sui certávit usque ad mortem, et a verbis impiórum
 Infirmitátem nostram réspice, omnípotens Deus: et, quia pondus própriæ actiónis gravat, beáti N. Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat.
 $Per Dominum
 
+[Oratio] (ad missam)
+Infirmitátem nostram réspice, omnípotens Deus: et, quia pondus própriæ actiónis gravat, beáti N. Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat.
+$Per Dominum
+
 [Invit]
 Regem Mártyrum Dóminum, * Veníte, adorémus.
 
@@ -364,7 +368,7 @@ Caríssimi: Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúer
 Invéni David servum meum, óleo sancto meo unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum.
 V. Nihil profíciet inimícus in eo, et fílius iniquitátis non nocébit ei. Allelúja, allelúja
 !Ps 109:4
-Jurávit Dóminus, et non pœnitébit eum: Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja.
+V. Jurávit Dóminus, et non pœnitébit eum: Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja.
 
 [Tractus]
 !Ps 88:21-23

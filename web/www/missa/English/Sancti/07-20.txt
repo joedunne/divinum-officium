@@ -1,3 +1,10 @@
+[Rule]
+vide C5
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C5
+
 [Officium]
 St. Jerome Emiliani, Confessor
 
@@ -25,6 +32,13 @@ Let your water sources be dispersed abroad, and in the streets divide your water
 V. Well for the man who is gracious and lends, who conducts his affairs with justice; he shall never be moved. Alleluia, alleluia.
 !Ps 111:9
 Lavishly he gives to the poor; his generosity shall endure forever. Alleluia.
+
+[GradualeP]
+Alleluia, alleluia.
+!Ps 111:1
+Blessed is the man who feareth the Lord: he hath great delight in His commandments. Alleluia.
+V. Ibid., 9, 3
+He hath dispersed, he hath given to the poor: his justice endureth for ever and ever. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew

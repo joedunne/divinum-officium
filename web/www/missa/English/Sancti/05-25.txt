@@ -1,9 +1,28 @@
+[Rule]
+vide C4b;
+9 lectiones
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
 [Officium]
 St. Gregory VII, Pope and Confessor
+(sed rubrica 1930 aut rubrica 1963)
+St. Gregory VII, Pope and Confessor O. N.
 
 [Name]
 Gregory
 
+[Introitus]
+@Commune/C4b
+
 [Oratio]
 O God, the strength of those who trust in You, Who fortified blessed Gregory, Your Confessor and Pontiff, with the virtue of firmness to protect the freedom of the Church, grant us, by his example and intercession, bravely to overcome all evil.
 $Per Dominum
+
+[Secreta] (nisi rubrica 196)
+@Commune/C4
+
+[Postcommunio] (nisi rubrica 196)
+@Commune/C4

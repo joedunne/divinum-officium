@@ -1,3 +1,9 @@
+[Rule]
+ex Sancti/12-25m3;
+Gloria
+Credo
+Prefatio=Nat
+
 [Rank]
 In Circumcisione Domini;;Duplex II classis;;5.1;;ex Sancti/12-25m3
 

@@ -1,5 +1,38 @@
+[Rule]
+vide C3a;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C3a
+
 [Officium]
 S. Symphorosa with her Seven Sons, Martyrs
 
 [Name]
 Symphorosa and her sons
+
+[Introitus]
+!Ps 33:18
+v. When the just cry out, the Lord hears them, and from all their distress He rescues them.
+!Ps 33:2
+I will bless the Lord at all times; His praise shall be ever in my mouth.
+&Gloria
+v. When the just cry out, the Lord hears them, and from all their distress He rescues them.
+
+[Lectio]
+@Sancti/01-20
+
+[Graduale]
+@Sancti/06-26
+
+[Evangelium]
+@Commune/C3a-1
+
+[Offertorium]
+@Commune/C3p
+
+[Secreta]
+@Commune/C3a
+
+[Communio]
+@Sancti/03-10

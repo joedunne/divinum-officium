@@ -4,6 +4,10 @@ Sanctæ Mariæ Sabbato
 [Missa]
 Salve Sancta Parens (a Trinitate usque ad Adventum)
 
+[Comment]
+# V Mass of the B. V. M. – Salve, Sancta Parens
+! From Trinity Sunday until Advent
+
 [Rank]
 ;;Simplex;;1.3;;vide C10
 

@@ -37,6 +37,9 @@ our $missa = 1;
 our $NewMass = 0;
 our $officium = 'missa.pl';
 
+our $missaname = 'Sancta Missa';
+our $missastartid = 'Missa1top';
+
 #***common variables arrays and hashes
 #filled  getweek()
 our @dayname;    #0=Advn|Natn|Epin|Quadpn|Quadn|Pascn|Pentn 1=winner title|2=other title
@@ -98,6 +101,16 @@ our $missanumber = strictparam('missanumber');
 if (!$missanumber) { $missanumber = 1; }
 our $caller = strictparam('caller');
 
+our $antemissaprayers = strictparam('antemissaprayers');
+our $postmissaprayers = strictparam('postmissaprayers');
+our $allmissaofday = strictparam('allmissaofday');
+our $trinitarianprayers = strictparam('trinitarianprayers');
+
+if (!$antemissaprayers) { $antemissaprayers = 0; }
+if (!$postmissaprayers) { $postmissaprayers = 0; }
+if (!$allmissaofday) { $allmissaofday = 0; }
+if (!$trinitarianprayers) { $trinitarianprayers = 0; }
+
 $setupsave = strictparam('setupm');
 loadsetup($setupsave);
 
@@ -156,12 +169,45 @@ if ($command =~ /setup(.*)/is) {
   $pmode = 'missa';
   $command =~ s/(pray|change|setup)//ig;
   $head = $title;
-  headline($head);
+  #headline($head);
   load_languages_data($lang1, $lang2, $langfb, $version, $missa);
 
   #eval($setup{'parameters'});
   $background = ($whitebground) ? ' class="contrastbg"' : '';
+  anteOrdo();
+
   ordo();
+  if ($allmissaofday==1 && $winner{Rule} =~ /(multiple|celebranda aut\s+)(.*)/) {
+    my $object = $2;
+    my $lim;
+    my @missae;
+
+    if ($object =~ /[0-9]/) {
+      @missae = 1 .. $object;
+    } else {
+      @missae = split /\baut\s+/i, $object;
+    }
+    my $first_element = shift @missae; #already did the first Mass
+    my $i = 1;
+    for (@missae) {
+       $i = $i + 1;
+       our $missanumber = $i;
+       s/\bmissa/Missa/;
+       our $missaname = $_;
+       our $missastartid = 'Missa' . $i . 'top';
+
+       loadsetup($setupsave);
+       set_runtime_options('general');       #$expand, $version, $lang2
+       set_runtime_options('parameters');    # priest, lang1 ... etc
+
+       precedence();
+       setsecondcol();
+#       headline($head);
+       load_languages_data($lang1, $lang2, $langfb, $version, $missa);
+       ordo();
+    }
+  }
+  postOrdo();
 
   exit if $content;
 

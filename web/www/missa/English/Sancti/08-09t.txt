@@ -1,3 +1,13 @@
+[Rule]
+vide C2b;
+no Gloria
+Suffragium=Maria3;Papa;Ecclesia;;
+
+[Rank]
+;;Vigilia Simplex;;1.5
+(sed rubrica 196)
+;;Vigilia;;3
+
 [Officium]
 Vigil of St. Lawrence, Martyr
 

@@ -651,6 +651,7 @@ sub setupstring($$%) {
   }
 
   if ($params{'resolve@'} == RESOLVE_ALL) {
+#   if (exists $sections{'Rule'}) {warn "xxxxxSetupRule $lang";}
 
     # Iterate over all sections, resolving inclusions. We make sure we
     # do [Rule] first, if it exists: we need to use the rule to work

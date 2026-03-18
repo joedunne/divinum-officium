@@ -1,3 +1,12 @@
+[Rule]
+vide C3a;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C3a
+(sed rubrica 196)
+;;Simplex;;1.1;;vide C3a
+
 [Officium]
 Sts. Denis, Bishop, Rusticus et Eleutherius, Martyrs
 

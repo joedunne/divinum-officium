@@ -1,3 +1,12 @@
+[Rule]
+vide C6a;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C6a
+(sed rubrica 1962)
+;;Simplex;;1.1;;vide C6a
+
 [Officium]
 St. Angela Merici, Virgin
 

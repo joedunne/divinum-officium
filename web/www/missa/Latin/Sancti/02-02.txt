@@ -12,6 +12,8 @@ Prelude
 [Prelude](rubrica 1570 aut rubrica divino)
 !! Benedictio Candelarum
 ! Finita Tertia, Sacerdos indutus Pluviali violaceo, vel sine Casula, cum Ministris similiter indutis, procedit ad benedicendum Candelas, in medio ante Altare vel ad cornu Epistolæ positas, et ipse, ibidem stans versus ad Altare, dicit manibus junctis in tono Orationis Missæ ferialis:
+!
+_
 V. Dóminus vobíscum.
 R. Et cum spíritu tuo.
 v. Orémus. Domine sancte, Pater omnípotens, ætérne Deus, qui ómnia ex níhilo creásti, et jussu tuo per ópera apum hunc liquorem ad perfectionem cérei veníre fecísti: et qui hodiérna die petitiónem justi Simeónis implésti: te humíliter deprecámur; ut has candélas ad usus hóminum et sanitátem córporum et animárum, sive in terra sive in aquis, per invocatiónem tui sanctíssimi nóminis et per intercessiónem beátæ Maríæ semper Vírginis, cujus hódie festa devóte celebrántur, et per preces ómnium Sanctórum tuórum, bene + dícere et sancti + ficáre dignéris: et hujus plebis tuæ, quæ illas honorífice in mánibus desíderat portare teque cantando laudare, exáudias voces de cœlo sancto tuo et de sede majestátis tuæ: et propítius sis ómnibus clamántibus ad te, quos redemísti pretióso Sánguine Fílii tui:
@@ -32,8 +34,10 @@ _
 _
 v. Orémus. Dómine Jesu Christe, qui hodiérna die, in nostræ carnis substántia inter hómines appárens, a paréntibus in templo es præsentátus: quem Símeon venerábilis senex, lúmine Spíritus tui irradiátus, agnóvit, suscépit et benedíxit: præsta propítius; ut, ejúsdem Spíritus Sancti grátia illumináti atque edócti, te veráciter agnoscámus et fidéliter diligámus: Qui cum Deo Patre in unitáte ejúsdem Spíritus Sancti vivis et regnas Deus, per ómnia sǽcula sæculórum.
 R. Amen.
+!
 _
 _
+!!  De Distributione Candelarum
 ! Finitis Orationibus, Celebrans ponit incensum in thuríbulum: deinde ter aspergit Candelas aqua benedícta, dicendo Antiphonam Aspérges me, sine cantu et sine Psalmo: et ter adolet incenso. Tum dignior ex Clero accedit ad Altare, et ab eo Celebrans accipit Candelam, non genuflectens nec osculans manum illius. Postea Celebrans stans in medio ante Altare versus ad populum, distríbuit Candelas, primum digniori, a quo ipse acceperat; deinde Diacono et Subdiacono paratis, et aliis Clericis singulatim per ordinem, ultimo laicis: omnibus genuflectentibus, Candelam et manum Celebrantis osculantibus, exceptis Prælatis, si adsint. Et cum inceperit distribuere Candelas, a Choro cantatur:
 _
 !Antiphona Luc 2:32.
@@ -70,6 +74,7 @@ v. Exáudi, quǽsumus, Dómine, plebem tuam: et, quæ extrinsécus ánnua tríbu
 R. Amen.
 _
 _
+!! De Processione
 ! Deinde fit Processio. Et primo Celebrans ponit incensum in thuribulum: postea Diaconus vertens se ad populum, dicit:
 V. Procedámus in pace.
 R. In nómine Christi. Amen.
@@ -87,7 +92,7 @@ R. Sicut scriptum est in lege Dómini.
 !  Finita Processione, Celebrans et Ministri, depositis violaceis, accipiunt paramenta alba pro Missa. Et Candelæ tenentur in manibus accensæ, dum legitur Evangelium, et iterum ab incepto Canone usque ad expletam Communionem.
 ! Hodie prohibetur quælibet Missa votiva, etiam sollemnis, de Christo Domino.
 
-[Prelude](rubrica 1960)
+[Prelude] (rubrica 1960)
 !!De Benedictione Candelarum
 ! Si candelarum benedictio et processio, ob defectum ministrorum sacrorum, forma solemni fieri nequeat, licet formam simplicem adhibere, etiam absque cantu, dummodo tres saltem ministrantes celebranti inserviant.
 ! Celebrans indutus pluviali albo, vel sine Casula, cum ministris similiter indutis, procedit ad benedicendum Candelas, in medio ante Altare vel ad latus Epistolæ positas, et ipse ibidem stans versus ad Altare, dicit manibus junctis in tono feriali:
@@ -173,8 +178,7 @@ Hæc dicit Dóminus Deus: Ecce, ego mitto Angelum meum, et præparábit viam ant
 [Graduale]
 !Ps 47:10-11; 47:9
 Suscépimus, Deus, misericórdiam tuam in médio templi tui: secúndum nomen tuum, Deus, ita et laus tua in fines terræ.
-V. Sicut audívimus, ita et vídimus in civitáte Dei nostri, in monte sancto ejus. 
-Allelúja, allelúja.
+V. Sicut audívimus, ita et vídimus in civitáte Dei nostri, in monte sancto ejus. Allelúja, allelúja.
 V. Senex Púerum portábat: Puer autem senem regébat. Allelúja.
 
 [Tractus]

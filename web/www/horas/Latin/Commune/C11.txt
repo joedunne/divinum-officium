@@ -75,6 +75,10 @@ Sancta María, * succúrre míseris, juva pusillánimes, réfove flébiles, ora 
 Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.
 $Per Dominum
 
+[Oratio] (ad missam)
+Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia.
+$Per Dominum
+
 [Invit]
 Sancta María, Dei Génetrix Virgo, * Intercéde pro nobis.
 
@@ -369,14 +373,14 @@ V. Post partum, Virgo, invioláta permansísti: Dei Génetrix, intercéde pro no
 Benedícta et venerábilis es, Virgo María: quæ sine tactu pudóris invénia es Mater Salvatóris.
 V. Virgo, Dei Génetrix, quem totus non capit orbis, in tua se clausit víscera factus homo. Allelúja, allelúja.
 !Luc 1:28
-Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Allelúja.
+V. Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Allelúja.
 
 [GradualeP]
 Allelúja, allelúja.
 !Num 17:8
-v. Virga Jesse flóruit: Virgo Deum et hóminem génuit: pacem Deus réddidit, in se reconcílians ima summis. Allelúja.
+V. Virga Jesse flóruit: Virgo Deum et hóminem génuit: pacem Deus réddidit, in se reconcílians ima summis. Allelúja.
 !Luc 1:28
-Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Allelúja.
+V. Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Allelúja.
 
 [Tractus]
 Benedícta et venerábilis es, Virgo María: quæ sine tactu pudóris invénia es Mater Salvatóris.

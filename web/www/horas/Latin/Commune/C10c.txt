@@ -3,6 +3,10 @@
 [Missa]
 Salve Sancta parens (post Purificationem usque ad Dominica Palmarum)
 
+[Comment]
+# III Mass of the B. V. M. – Salve, Sancta Parens
+! From Feb 3 until Holy Wednesday
+
 [Graduale]
 Benedícta et venerábilis es, Virgo María: quæ sine tactu pudóris invénta es Mater Salvatóris.
 V. Virgo, Dei Génetrix, quem totus non capit orbis, in tua se clausit víscera factus homo. Allelúja, allelúja.

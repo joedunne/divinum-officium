@@ -1,3 +1,10 @@
+[Rule]
+vide C5;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C5
+
 [Officium]
 St. Aloysius Gonzaga, Confessor
 
@@ -20,6 +27,13 @@ My trust, O Lord, from my youth; on You I depend from birth; from my mother’s 
 V. But because of my integrity You sustain me and let me stand before You forever. Alleluia, alleluia.
 !Ps 64:5
 V. Happy the man You choose, and bring to dwell in Your courts. Alleluia.
+
+[GradualeP]
+Alleluia, alleluia
+!Ps 64:5
+V. Happy the man You choose, and bring to dwell in Your courts. Alleluia.
+!Ps 70:17
+hou hast taught me, O God, from my youth: and till now I will declare thy wonderful works. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew

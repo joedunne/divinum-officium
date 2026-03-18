@@ -1,3 +1,13 @@
+[Rule]
+Gloria
+Credo
+Prefatio=Nat
+
+[Rank]
+;;Duplex II Class cum octava simplici;;5.3;;ex C1
+(sed rubrica 196)
+;;Duplex II class;;5.3;;ex C1
+
 [Officium]
 St. John the Apostle, Evangelist
 
@@ -54,3 +64,6 @@ $Per Dominum
 [Communio]
 !John 21:23
 A saying went abroad among the brethren, that that disciple was not to die. But Jesus had not said, He is not to die; but rather, So I wish him to remain until I come.
+
+[Commemoratio Postcommunio]
+@Sancti/12-26

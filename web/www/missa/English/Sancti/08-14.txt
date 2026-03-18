@@ -4,7 +4,7 @@ In Vigilia Assumptionis B.M.V.;;Simplex;;1.5;;
 [Rule]
 no Gloria
 Prefatio=Communis
-Suffragium=Spiritu
+Suffragium=Spiritu;;
 
 [Introitus]
 !Ps 44:13; 44:15-16.
@@ -19,7 +19,6 @@ O God, Who chose for Your dwelling the virginal womb of the blessed Mary, grant,
 $Qui vivis
 
 [Graduale]
-!  
 V. Blessed and venerable are you, O Virgin Mary, who, without spot were made the Mother of the Saviour.
 V. O Virgin, Mother of God, He Whom the whole world cannot contain, shut Himself in your womb, becoming Man.
 

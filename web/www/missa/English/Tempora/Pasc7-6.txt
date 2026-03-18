@@ -1,10 +1,13 @@
+[Rank]
+;;Semiduplex I classis;;6.9;;ex Pasc7-0
+
 [Officium]
 Sabbato Quattuor Temporum Pentecostes
 
 [Rule]
 no Gloria
-(rubrica 1960) celebranda aut forma longior aut forma brevior
 (rubrica 1960 et missa brevior) LectioL1
+(rubrica 1960) celebranda aut forma longior aut forma brevior
 LectioL5
 Sequentia
 Credo
@@ -89,7 +92,7 @@ $Per Dominum
 Lesson from the book of Daniel
 !Dan. 3:47-51.
 In those days, the Angel of the Lord went down into the furnace with Azaria and his companions, drove the fiery flames out of the furnace, and made the inside of the furnace as though a dew-laden breeze were blowing through it. And the flames rose forty-nine cubits above the furnace, and spread out, burning the Chaldeans nearby, the king’s men who were stoking the furnace. And the fire in no way touched them or caused them pain or harm. Then these three in the furnace with one voice sang, glorifying and blessing God:
-$Deo Gratias
+$Deo gratias
 
 [GradualeL5]
 Alleluia.
@@ -114,7 +117,8 @@ Brethren: Having been justified by faith, let us have peace with God through our
 
 [Graduale]
 !Ps 116:1-2
-Praise the Lord, all you nations; glorify Him, all you peoples! For steadfast is His kindness toward us, and the fidelity of the Lord endures forever.
+Praise the Lord, all you nations; glorify Him, all you peoples!
+V. For steadfast is His kindness toward us, and the fidelity of the Lord endures forever.
 
 [Graduale](missa brevior)
 Alleluia. 

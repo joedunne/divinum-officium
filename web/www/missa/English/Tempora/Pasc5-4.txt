@@ -1,3 +1,9 @@
+[Rank] (rubrica 196)
+;;Duplex I classis;;7
+
+[Rank]
+;;Duplex I classis cum Octava Privilegiata III classis;;7
+
 [Officium]
 In Ascensione Domini
 
@@ -26,14 +32,21 @@ v. The former treatise I made, O Theophilus, of all things which Jesus began to 
 [Graduale]
 Allelúja, allelúja.
 !Ps 46:6
-v. God is ascended with jubilee, and the Lord with the sound of trumpet. Allelúja.
+V. God is ascended with jubilee, and the Lord with the sound of trumpet. Allelúja.
 !Ps 67:18-19
-v. The Lord is in Sinai, in the holy place. Thou hast ascended on high, thou hast led captivity captive. Allelúja.
+V. The Lord is in Sinai, in the holy place. Thou hast ascended on high, thou hast led captivity captive. Allelúja.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Mark
 !Mark 16:14-20
 v. At length he appeared to the eleven as they were at table: and he upbraided them with their incredulity and hardness of heart, because they did not believe them who had seen him after he was risen again. And he said to them: Go ye into the whole world, and preach the gospel to every creature. He that believeth and is baptized, shall be saved: but he that believeth not shall be condemned. And these signs shall follow them that believe: In my name they shall cast out devils; they shall speak with new tongues; they shall take up serpents; and if they shall drink any deadly thing, it shall not hurt them; they shall lay their hands upon the sick, and they shall recover. And the Lord Jesus, after he had spoken to them, was taken up into heaven and sitteth on the right hand of God. But they going forth preached everywhere, the Lord working withal, and confirming the word with signs that followed.
+!
+
+[Evangelium](rubrica 1960)
+Continuation + of the Holy Gospel according to Mark
+!Mark 16:14-20
+v. At length he appeared to the eleven as they were at table: and he upbraided them with their incredulity and hardness of heart, because they did not believe them who had seen him after he was risen again. And he said to them: Go ye into the whole world, and preach the gospel to every creature. He that believeth and is baptized, shall be saved: but he that believeth not shall be condemned. And these signs shall follow them that believe: In my name they shall cast out devils; they shall speak with new tongues; they shall take up serpents; and if they shall drink any deadly thing, it shall not hurt them; they shall lay their hands upon the sick, and they shall recover. And the Lord Jesus, after he had spoken to them, was taken up into heaven and sitteth on the right hand of God. But they going forth preached everywhere, the Lord working withal, and confirming the word with signs that followed.
+!Dicto Evangelio exstinguitur Cereus paschalis.
 
 [Offertorium]
 !Ps 46:6

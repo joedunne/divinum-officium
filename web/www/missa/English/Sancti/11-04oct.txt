@@ -1,2 +1,8 @@
+[Rule]
+ex Sancti/11-01;
+
+[Rank]
+;;Semiduplex;;2;;vide Sancti/11-01
+
 [Officium]
 Fourth Day Within the Octave of All Saints

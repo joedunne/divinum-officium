@@ -1,5 +1,29 @@
+[Rule]
+Evangelium non appropriatum
+ex C1;
+Gloria
+CredoDA
+Prefatio=Apostolis
+Sub unica concl
+
+[Rank]
+;;Duplex majus;;4;;ex C1
+(sed rubrica 196 aut rubrica 1617)
+;;Duplex;;3;;vide C1
+
 [Officium]
 Commemoration of St. Paul the Apostle
+
+[Introitus]
+@Sancti/01-25
+
+[Oratio]
+@:Oratio Pauli
+(deinde dicuntur semper)
+_
+$Oremus
+(sed rubrica 196 omittuntur)
+@Sancti/01-25:Oratio Petri
 
 [Oratio Pauli]
 O God, Who taught vast numbers of the Gentiles by the preaching of the blessed Apostle Paul, grant we beseech You that, by honoring his memory, we may enjoy the benefit of his patronal intercession.
@@ -17,11 +41,38 @@ He Who worked in Peter for the apostleship, worked also in me among the Gentiles
 V. The grace of God in me has not been fruitless; but His grace always remains in me. Alleluia, alleluia.
 V. Holy Apostle Paul, preacher of truth, and teacher of the Gentiles, intercede for us. Alleluia.
 
+[GradualeP]
+Alleluia, alleluia.
+!Ps 106:8
+Let the mercies of the Lord give glory to him: and his wonderful works to the children of men. Alleluia.
+V. Holy Apostle Paul, preacher of truth, and doctor of the Gentiles, intercede for us. Alleluia.
+
+[Tractus]
+Thou art the chosen Vessel, O holy Paul the Apostle:  meet indeed to be glorified.
+V.  Preacher of truth and teacher of the Gentiles in faith and verity.
+V.  By thee all nations have known the grace of God.
+V.  Pray for us to God Who chose thee.
+
 [Evangelium]
-Continuation + of the Holy Gospel according to Matthew
-!Matt 10:16-22
-At that time, Jesus said to His disciples, Behold, I am sending you forth like sheep in the midst of wolves. Be therefore wise as serpents, and guileless as doves. But beware of men; for they will deliver you up to councils, and scourge you in their synagogues, and you will be brought before governors and kings for My sake, for a witness to them and to the Gentiles. But when they deliver you up, do not be anxious how or what you are to speak; for what you are to speak will be given you in that hour. For it is not you who are speaking, but the Spirit of your Father Who speaks through you. And brother will hand over brother to death, and the father of his child; children will rise up against parents and put them to death. And you will be hated by all for My name’s sake; but he who has persevered to the end will be saved.
+@Sancti/06-11:Evangelium
+
+[Offertorium]
+@Sancti/01-25
+
+[Secreta]
+@Sancti/01-25
+
+[Communio]
+@Commune/C5-1
+
+[Postcommunio]
+@:Postcommunio Pauli
+(deinde dicuntur semper)
+_
+$Oremus
+(sed rubrica 196 omittuntur)
+@Sancti/01-25:Postcommunio Petri
 
 [Postcommunio Pauli]
 Having received Your sacrament, O Lord, we implore You, that what we have celebrated in honor of St. Paul, Your Apostle, may by his intercession benefit us as a healing remedy.
-$Per Dominum.
+$Per Dominum

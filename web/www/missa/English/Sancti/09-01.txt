@@ -1,3 +1,9 @@
+[Rule]
+vide C5;
+
+[Rank]
+;;Simplex;;1.1;;vide C5
+
 [Officium]
 St. Giles, Abbot
 

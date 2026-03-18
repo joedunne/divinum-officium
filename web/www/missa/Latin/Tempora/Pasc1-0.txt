@@ -18,7 +18,7 @@ v. Quasi modo géniti infántes, allelúja: rationábiles, sine dolo lac concup�
 
 [Oratio]
 Præsta, quǽsumus, omnípotens Deus: ut, qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus.
-$Per Dominum.
+$Per Dominum
 
 [Lectio]
 Léctio Epístolæ beáti Joánnis Apóstoli
@@ -43,7 +43,7 @@ Angelus Dómini descéndit de cœlo, et dixit muliéribus: Quem quǽritis, surr�
 
 [Secreta]
 Súscipe múnera, Dómine, quǽsumus, exsultántis Ecclésiæ: et, cui causam tanti gáudii præstitísti, perpétuæ fructum concéde lætítiæ.
-$Per Dominum.
+$Per Dominum
 
 [Communio]
 !Joannes 20:27
@@ -51,7 +51,7 @@ Mitte manum tuam, et cognósce loca clavórum, allelúja: et noli esse incrédul
 
 [Postcommunio]
 Quǽsumus, Dómine, Deus noster: ut sacrosáncta mystéria, quæ pro reparatiónis nostræ munímine contulísti; et præsens nobis remédium esse fácias et futúrum.
-$Per Dominum.
+$Per Dominum
 
 [Pinsert]
 in hoc potíssimum gloriósius prædicáre.

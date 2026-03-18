@@ -1,3 +1,10 @@
+[Rule]
+vide C6a;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C6a
+
 [Officium]
 St. Mary Magdalene de Pazzi, Virgin
 

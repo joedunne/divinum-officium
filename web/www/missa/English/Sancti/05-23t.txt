@@ -1,6 +1,13 @@
 [Officium]
 St. John Baptist de Rossi, Confessor
 
+[Rank]
+;;Duplex;;3;;vide C5
+
 [Rule]
 vide C5;
-Gloria
+9 lectiones
+
+[Oratio]
+O God, who adorned your holy Confessor John the Baptist with charity and patience in evangelizing the poor: grant, we beseech you, that we may venerate his pious merits and imitate his examples of virtue.
+$Per Dominum
