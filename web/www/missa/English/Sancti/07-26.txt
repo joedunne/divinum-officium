@@ -24,9 +24,18 @@ v. Let us all rejoice in the Lord, celebrating a festival in honor of blessed An
 O God, Who in Your kindness gave blessed Anne the grace to be the mother of her who mothered Your only-begotten Son, graciously grant that we who keep her feast may be helped by her intercession with You. 
 $Per eundem
 
+[Graduale]
+@Sancti/07-22
+
+[Offertorium]
+@Commune/C6a
+
 [Secreta]
 Look with favor, O Lord, upon the offerings here before You, that, through the intercession of blessed Anne who bore the Mother of Your Son, our Lord Jesus Christ, they may help toward our holiness and our salvation. 
 $Per eundem
+
+[Communio]
+@Commune/C6-1:Offertorium
 
 [Postcommunio]
 Strengthened by the heavenly sacrament, we beseech You, O Lord our God, that, by the intercession of blessed Anne, whom You willed to be the mother of Your Son’s Mother, we may be found worthy of reaching eternal salvation.

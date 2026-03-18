@@ -12,6 +12,8 @@ CredoDA
 
 [Officium]
 St. Peter Damian, Confessor and Doctor of the Church
+(sed rubrica 1930 aut rubrica 1963)
+St. Peter Damian, Confessor and Doctor of the Church
 
 [Name]
 Peter

@@ -433,7 +433,7 @@ In illo témpore: Dixit Jesus discípulis suis parábolam hanc: Homo péregre pr
 
 [Secreta]
 Sancti tui, quǽsumus, Dómine, nos ubíque lætíficant: ut, dum eórum mérita recólimus, patrocínia sentiámus.
-$Per Dominum.
+$Per Dominum
 
 [Communio]
 !Luc 12:42

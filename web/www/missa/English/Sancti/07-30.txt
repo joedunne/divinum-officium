@@ -25,13 +25,10 @@ V. Your right hand, O Lord, is magnificent in power; Your right hand has shatter
 V. The bodies of the Saints are buried in peace, but their name lives on and on. Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Matthew
-!Matt 5:1-12
-At that time, Jesus, seeing the crowds, went up the mountain. And when He was seated, His disciples came to Him. And opening His mouth He taught them, saying, Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are they who mourn, for the shall be comforted. Blessed are they who hunger and thirst for justice, for they shall be satisfied. Blessed are the merciful, for they shall obtain mercy. Blessed are the clean of heart, for they shall see God. Blessed are the peacemakers, for they shall be called children of God. Blessed are they who suffer persecution for justice’ sake, for theirs is the kingdom of heaven. Blessed are you when men reproach you, and persecute you, and speaking falsely, say all manner of evil against you, for My sake. Rejoice and exult, because your reward is great in heaven.
+@Sancti/06-05
 
 [Offertorium]
-!Ps 67:36
-God is wonderful in His Saints; the God of Israel is He Who gives power and strength to His people. Blessed be God! Alleluia.
+@Commune/C3
 
 [Secreta]
 May this sacrificial gift, we beseech You, O Lord, which we offer in commemorating the anniversary of the death of Your Saints, both loose the bonds of our sins and secure for us the gifts of Your grace.

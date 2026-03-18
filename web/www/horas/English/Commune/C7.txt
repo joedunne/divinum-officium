@@ -130,7 +130,7 @@ The treasure is the desire for heaven, the field wherein it is hidden is the ear
 [Capitulum Laudes]
 !Sir 51:1-3
 v. I will give glory to thee, O Lord, O King, and I will praise thee, O God my Saviour. I will give glory to thy name: for thou hast been a helper and protector to me, and hast preserved my body from destruction.
-$Deo gratias.
+$Deo gratias
 
 [Hymnus Laudes]
 @:Hymnus Vespera

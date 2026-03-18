@@ -57,7 +57,7 @@ v. For God is the king of all the earth: sing ye wisely. God shall reign over th
 Ant. The Hebrew children laying their clothes on the road, went forth to meet the Lord, crying out and saying, Hosanna in the highest.
 v. The princes of the people are gathered together: with the God of Abraham. For the strong gods of the earth: are exceedingly exalted.
 Ant. The Hebrew children laying their clothes on the road, went forth to meet the Lord, crying out and saying, Hosanna in the highest.
-&Gloria
+$Gloria
 Ant. The Hebrew children laying their clothes on the road, went forth to meet the Lord, crying out and saying, Hosanna in the highest.
 !
 _
@@ -128,7 +128,7 @@ He sendeth His crystal like morsels: * Who shall stand before the face of His co
 He shall send out His Word and shall melt them: * His wind shall blow and the waters shall run.
 Who declareth His word to Jacob: * His justice and His judgements to Israel.
 He hath not done in like manner to every nation: * and His judgements He hath not made manifest to them.
-&Gloria
+$Gloria
 Ant. All praise Thy name highly and say: Blessed is He who cometh in the name of the Lord: Hosanna in the highest.
 _
 _

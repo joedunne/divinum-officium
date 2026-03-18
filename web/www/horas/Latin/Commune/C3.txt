@@ -90,7 +90,7 @@ Istórum est enim * regnum cælórum qui contempsérunt vitam mundi, et pervené
 
 [Oratio]
 Beatórum Mártyrum paritérque Pontíficum N. et N. nos, quǽsumus, Dómine, festa tueántur: et eórum comméndet orátio veneránda.
-$Per Dominum.
+$Per Dominum
 
 [Invit]
 @Commune/C2
@@ -443,7 +443,7 @@ Mirábilis Deus in Sanctis suis: Deus Israël, ipse dabit virtútem et fortitúd
 
 [Secreta]
 Adésto, Dómine, supplicatiónibus nostris, quas in Sanctórum tuórum commemoratióne deférimus: ut, qui nostræ justítiæ fidúciam non habémus, eórum, qui tibi placuérunt, méritis adjuvémur.
-$Per Dominum.
+$Per Dominum
 
 [Communio]
 !Sap 3:4-6

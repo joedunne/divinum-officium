@@ -9,7 +9,7 @@ Gloria
 [Officium]
 St. Gregory VII, Pope and Confessor
 (sed rubrica 1930 aut rubrica 1963)
-S. Gregorii VII Papæ et Confessoris O. N.
+St. Gregory VII, Pope and Confessor O. N.
 
 [Name]
 Gregory

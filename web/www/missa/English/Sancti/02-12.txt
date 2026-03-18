@@ -37,6 +37,13 @@ Their bodies are buried in peace, and their name lives to generation and generat
 !Sir 44:15
 V. At gatherings their wisdom is retold, and the assembly sings their praises. Alleluia.
 
+[GradualeP]
+Alleluia, alleluia.
+!Eccli 44:15.
+Let the peoples recount their wisdom, and let the Church proclaim their praise.
+!Ps 36:28.
+The Lord will not forsake His saints: they shall be preserved forever. Alleluia.
+
 [Tractus]
 !Isa 65:23
 My elect shall not toil in vain, nor beget children for sudden destruction; for a race blessed by the Lord are they and their offspring.
@@ -46,6 +53,9 @@ Their bodies are buried in peace, and their name lives to generation and generat
 Those that sow in tears shall reap rejoicing.
 V. Although they go forth weeping, carrying the seed to be sown.
 V. They shall come back rejoicing, carrying their sheaves.
+
+[Evangelium]
+@Commune/C5b
 
 [Offertorium]
 !Isa 56:7

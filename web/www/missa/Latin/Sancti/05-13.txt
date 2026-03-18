@@ -39,16 +39,13 @@ Bonum est confitéri Dómino: et psállere nómini tuo, Altíssime.
 V. Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem.
 V. Quia delectásti me, Dómine, in factúra tua, et in opéribus mánuum tuárum exsultábo.
 
-[TODO]
-Graduale and Tractus are likely not needed....and they are not translated...
-
 [Offertorium]
 !Ps 72:28
 Mihi autem adhærére Deo bonum est, pónere in Dómino Deo spem meam: ut annúntiem omnes prædicatiónes tuas in portis fíliæ Sion, allelúja.
 
 [Secreta]
 Hóstias tibi, Dómine, in odórem suavitátis offérimus: et præsta; ut, beáti Robérti mónitis et exémplis edócti, per sémitam mandatórum tuórum dilatáto corde currámus.
-$Per Dominum.
+$Per Dominum
 
 [Communio]
 !Matt 5:14; 5:16

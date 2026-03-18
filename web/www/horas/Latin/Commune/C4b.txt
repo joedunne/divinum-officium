@@ -12,7 +12,7 @@ Prefatio=Apostolis
 
 [Oratio pro commemoratio] (communi Summorum Pontificum)
 Deus, qui Ecclésiam tuam, in apostólicæ petræ soliditáte fundátam, ab infernárum éruis terróre portárum: præsta, quǽsumus; ut, intercedénte beáto N. Summo Pontífice, in tua veritáte persístens, contínua securitáte muniátur.
-$Per Dominum.
+$Per Dominum
 
 [Oratio] (communi Summorum Pontificum)
 Gregem tuum, Pastor ætérne, placátus inténde: et, per beátum N. Summum Pontíficem, perpétua protectióne custódi; quem totíus Ecclésiæ præstitísti esse pastórem.

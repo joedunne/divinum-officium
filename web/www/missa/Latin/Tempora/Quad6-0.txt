@@ -114,7 +114,7 @@ _
 $Dominus vobiscum
 $Oremus
 v. Deus, qui Fílium tuum Jesum Christum, Dóminum nostrum, pro salute nostra in hunc mundum misísti, ut se humiliáret ad nos et nos revocáret ad te: cui étiam, dum Jerúsalem veniret, ut adimpléret Scripturas, credentium populorum turba, fidelissima devotione, vestimenta sua cum ramis palmarum in via sternébant: præsta, quǽsumus; ut illi fídei viam præparémus, de qua, remoto lápide offensiónis et petra scándali, fróndeant apud te ópera nostra justítiæ ramis: ut ejus vestigia sequi mereámur:
-$Qui tecum.
+$Qui tecum
 _
 _
 !!Pueri Hebræorum

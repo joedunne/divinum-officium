@@ -181,6 +181,9 @@ R. Amen.
 !
 !
 
+[TODO]
+Translate directions Post Missam
+
 [Post Missam]
 !!Pange Lingua
 ! Missa expleta, statim proceditur ad ! solemnem translationem et repositionem  ! Sacramenti, quod ad Communionem sequenti ! die faciendam in pyxide asservatur.

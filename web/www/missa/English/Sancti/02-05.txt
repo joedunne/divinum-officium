@@ -47,6 +47,9 @@ Those that sow in tears shall reap rejoicing.
 V. Although they go forth weeping, carrying the seed to be sown.
 V. They shall come back rejoicing, carrying their sheaves.
 
+[Evangelium]
+@Commune/C6-1:Evangelium in 2 loco
+
 [Offertorium]
 !Ps 44:15
 Behind her the virgins of her train are brought to the King. They are borne in to You.

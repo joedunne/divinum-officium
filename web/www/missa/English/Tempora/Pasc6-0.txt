@@ -71,4 +71,4 @@ $Per Dominum
 [Commemoratio Postcommunio]
 !Pro Octava Ascensionis.
 Grant us, we beseech thee, almighty and merciful God, that what we have taken and received in visible mysteries, may profit us by its invisible effects.
-$Per Dominum.
+$Per Dominum

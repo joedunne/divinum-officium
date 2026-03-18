@@ -27,6 +27,9 @@ Brethren: The Saints by faith conquered kingdoms, wrought justice, obtained prom
 [Graduale]
 @Sancti/06-26
 
+[Evangelium]
+@Commune/C3a-1
+
 [Offertorium]
 !Ps 149:5-6
 Let the faithful exult in glory; let them sing for joy upon their couches; let the high praises of God be in their throats. Alleluia.

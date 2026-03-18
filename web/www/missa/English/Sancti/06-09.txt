@@ -11,6 +11,9 @@ Sts. Primus and Felician, Martyrs
 [Introitus]
 @Commune/C3a
 
+[TODO]
+Translate Primus et Felician in Oratio....
+
 [Oratio]
 Grant O Lord, we pray, that we may ever honor the festival of thy holy martyrs, Primus et Felician, and thy truth of the Church of Saints.
 $Per Dominum

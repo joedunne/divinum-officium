@@ -75,4 +75,4 @@ $Oremus
 
 [Postcommunio Pauli]
 Having received Your sacrament, O Lord, we implore You, that what we have celebrated in honor of St. Paul, Your Apostle, may by his intercession benefit us as a healing remedy.
-$Per Dominum.
+$Per Dominum

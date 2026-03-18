@@ -8,6 +8,9 @@ Sabbato Sancto
 Full text
 Prefatio=Pasch;
 
+[TODO]
+Translate phrase below : Per Evangélica dicta, deleántur nostra delícta
+
 [Prelude]
 !! The Blessing of the New Fire
 ! At the appointed hour, the altar is prepared, but candles are not lit until the beginning of Mass. Meanwhile, fire is struck from a flint, and coals are enkindled from it.
