@@ -12,5 +12,20 @@ St. Praxedes, Virgin
 [Name]
 Praxedes
 
+[Introitus]
+@Commune/C6
+
+[Lectio]
+@Commune/C6a-1
+
+[Evangelium]
+@Commune/C6-1
+
+[Graduale]
+@Commune/C7
+
+[Offertorium]
+@Commune/C6-1
+
 [Communio]
 @Commune/C6a-1

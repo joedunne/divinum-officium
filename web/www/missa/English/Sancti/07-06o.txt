@@ -8,6 +8,12 @@ Prefatio=Apostolis
 [Introitus]
 @Commune/C3a
 
+[Oratio]
+@Sancti/07-06
+
+[Lectio]
+@Sancti/06-26
+
 [Graduale]
 @Sancti/07-06
 

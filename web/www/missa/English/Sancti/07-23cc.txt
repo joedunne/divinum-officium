@@ -6,3 +6,18 @@ St. Liborius, Bishop and Confessor
 
 [Name]
 Liborius
+
+[Oratio]
+@Commune/C4
+(sed feria 7 nisi rubrica 1955 nisi rubrica 196)
+@Commune/C4-1
+
+[Secreta]
+@Commune/C4
+(sed feria 7 nisi rubrica 1955 nisi rubrica 196)
+@Commune/C4-1
+
+[Postcommunio]
+@Commune/C4
+(sed feria 7 nisi rubrica 1955 nisi rubrica 196)
+@Commune/C4-1

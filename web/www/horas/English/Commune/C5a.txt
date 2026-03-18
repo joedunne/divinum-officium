@@ -89,7 +89,7 @@ Gloria
 
 [Secreta]
 May the pious prayer of holy N. thy Confessor and illustrious Doctor be not wanting to us, O Lord, but make our offerings acceptable to thee and ever win for us thy mercy.
-$Per Dominum.
+$Per Dominum
 
 [Communio]
 @Commune/C4

@@ -5,8 +5,7 @@
 St. Anacletus, Pope and Martyr
 
 [Rule]
-OPapaM=Anacletus;
-vide C4D;
+vide C4b-1;
 Gloria
 
 [Name]

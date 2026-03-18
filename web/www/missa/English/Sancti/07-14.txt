@@ -25,5 +25,14 @@ V. The law of his God is in his heart, and his steps do not falter. Alleluia, al
 !Ps 109:4
 V. The Lord has sworn, and He will not repent: You are a priest forever, according to the order of Melchisedec. Alleluia.
 
+[Offertorium]
+@Commune/C2
+
+[Secreta]
+@Commune/C4-1
+
+[Communio]
+@Commune/C4
+
 [Postcommunio]
 @Commune/C4-1

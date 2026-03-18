@@ -20,7 +20,7 @@ v. Omnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis.
 
 [Oratio]
 Deus, cujus providéntia in sui dispositióne non fállitur: te súpplices exorámus; ut nóxia cuncta submóveas, et ómnia nobis profutúra concédas.
-$Per Dominum.
+$Per Dominum
 
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Romános

@@ -25,7 +25,7 @@ v. To me, Your friends, O God, are made exceedingly honorable; their principalit
 
 [Oratio]
 O God, Who didst choose thy blessed servant Matthias to be of the number of the twelve Apostles, grant, we beseech thee, that thy Church, being upholden by his prayers, may ever feel about her the arms of thy most mighty protection.
-$per Dominum 
+$Per Dominum
 
 [Lectio]
 Lesson from the Acts of Apostles
@@ -49,9 +49,7 @@ V. For You welcomed him with goodly blessings.
 V. You placed on his head a crown of pure gold.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Matthew
-!Matt 11:25-30
-At that time, Jesus spoke and said, I praise You, Father, Lord of heaven and earth, that You hid these things from the wise and prudent, and revealed them to little ones. Yes, Father, for such was Your good pleasure. All things have been delivered to Me by My Father; and no one knows the Son except the Father; nor does anyone know the Father except the Son, and him to whom the Son chooses to reveal Him. Come to Me, all you who labor and are burdened, and I will give you rest. Take My yoke upon you, and learn from Me, for I am meek and humble of heart; and you will find rest for your souls. For My yoke is easy, and My burden light.
+@Sancti/01-15
 
 [Offertorium]
 !Ps 44:17-18

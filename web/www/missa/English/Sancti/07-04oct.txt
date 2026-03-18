@@ -11,12 +11,35 @@ Suffr=Maria3;Ecclesiæ,Papa;;
 [Officium]
 Sixth Day Within the Octave of the Apostles Sts. Peter and Paul
 
+[Introitus]
+@Sancti/02-24
+
+[Oratio]
+@Sancti/06-29
+
 [Lectio]
 @Tempora/Pasc7-3
+
+[Graduale]
+!Ps 44:17-18
+You shall make them princes through all the land; they shall remember Your name, O Lord.
+V. The place of your fathers your sons shall have; therefore shall nations praise You. Alleluia, alleluia.
+!Luc 22:32.
+V. But I have prayed for thee, Peter, that thy faith fail not: and thou, being once converted, confirm thy brethren. Alleluia.
+
+[Evangelium]
+@Commune/C5b
 
 [Offertorium]
 !Ps 18:5
 Through all the earth their voice resounds, and to the ends of the world, their message.
+
+[Secreta]
+May the prayer of the Apostle(s) accompany the sacrificial hosts, O Lord, which we offer to be consecrated to Thy name: through which grant that we may be cleansed and defended.
+$Per Dominum
+
+[Communio]
+@Sancti/02-24
 
 [Postcommunio]
 @Sancti/06-29

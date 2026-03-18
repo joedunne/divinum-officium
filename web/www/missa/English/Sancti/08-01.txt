@@ -9,6 +9,9 @@ CredoDA
 [Officium]
 St. Peter in Chains
 
+[Introitus]
+@Sancti/06-29
+
 [Oratio]
 O God, who didst loose the blessed Apostle, Peter, from his chains and didst make him go forth unharmed, loose, we pray, the chains of our sins, and in thy mercy ward off from us every evil.
 $Per Dominum
@@ -18,20 +21,32 @@ $Oremus
 O God, Who, through the preaching of the Blessed Apostle Paul, hast caused the light of the Gospel to shine throughout the world, grant, we beseech thee, that we, who do keep his memorial, may continually be helped by his intercession with thee.
 $Per Dominum
 
+[Lectio]
+@Sancti/06-29
+
 [Graduale]
 !Ps 44:17-18
-V. Thou shalt make them princes over all the earth. They shall remember thy name throughout all generations. Therefore shall people praise thee for ever; yea, for ever and ever. Allelúja, allelúja.
+You shall make them princes through all the land; they shall remember Your name, O Lord.
+V. The place of your fathers your sons shall have; therefore shall nations praise You. Alleluia, alleluia.
 V. Loose, O Peter, by God's command, all our earthly chains; thou who keepest open the kingdom of heaven to the blessed. Allelúja.
+
+[Evangelium]
+@Commune/C4b
+
+[Offertorium]
+@Sancti/02-24
 
 [Secreta]
 May the sacrifice offered to thee, O Lord, through the intercession of thy blessed Apostle, Peter, enliven us always.
 $Per Dominum
 _
 !Commemoration of St. Paul
-_
 $Oremus
 Hallow, O Lord, the gifts of thy people through the prayers of Paul, thy apostle: that this sacrifice, which is pleasing to thee as thine own institution, may became yet more pleasing through his patronage and intercession.
 $Per Dominum
+
+[Communio]
+@Commune/C4b
 
 [Postcommunio]
 Filled with the offering of Your sacred Body and Your precious Blood, we beseech You, O Lord, our God, that what we have done in holy devotion may become an assurance of our redemption.

@@ -54,7 +54,7 @@ Serve the Lord with fear, and rejoice before Him with trembling; embrace discipl
 
 [Postcommunio]
 Fill us, O Lord, with the spirit of Your love, to unite in charity those whom You have filled with one and the same heavenly Bread.
-$Per Dominum
+$Per Dominum eiusdem
 
 [Super populum]
 !Prayer over the people

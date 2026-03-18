@@ -65,7 +65,7 @@ Meditábor in mandátis tuis, quæ diléxi valde: et levábo manus meas ad mand�
 
 [Secreta]
 Accipe, quǽsumus, Dómine, munus oblátum: et dignánter operáre; ut, quod mystériis ágimus, piis efféctibus celebrámus.
-$Per Dominum.
+$Per Dominum
 
 [Communio]
 !Joannes 14:27
@@ -73,4 +73,4 @@ Pacem relínquo vobis, allelúja: pacem meam do vobis, allelúja, allelúja.
 
 [Postcommunio]
 Suméntes, Dómine, cœléstia sacraménta, quǽsumus cleméntiam tuam: ut quod temporáliter gérimus ætérnis gáudiis consequámur
-$Per Dominum.
+$Per Dominum

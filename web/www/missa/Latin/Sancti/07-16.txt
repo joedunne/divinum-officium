@@ -1,6 +1,12 @@
 [Rank]
 Beatæ Mariæ Virginis de Monte Carmelo;;Duplex majus;;4;;ex C11
 
+[Rank1960]
+In Commemoratione Beatae Mariae Virgine de Monte Carmelo.;;Simplex;;1.1;;vide C11
+
+[TODO]
+Unsure of the Rank1960...it was not in the original latin
+
 [Rule]
 ex C11;
 Gloria

@@ -67,4 +67,4 @@ Imitatóres mei estóte, fratres, et observáte eos, qui ita ámbulant, sicut ha
 
 [Postcommunio]
 Cœlésti dape, qua pasti sumus, Dómine Jesu Christe, eo corda nostra caritátis igne flamméscant: quo beátus Antónius María salutáris hóstiæ vexíllum, contra Ecclésiæ tuæ hostes, éxtulit ad victóriam:
-$Qui vivis.
+$Qui vivis

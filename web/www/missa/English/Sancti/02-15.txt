@@ -11,5 +11,8 @@ Sts. Faustinus and Jovita, Martyrs
 [Name]
 Faustinus and Jovita
 
+[Secreta]
+@Commune/C3
+
 [Postcommunio]
 @Commune/C3
