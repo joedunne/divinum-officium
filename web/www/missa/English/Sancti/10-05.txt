@@ -15,5 +15,11 @@ Sts. Placidus and Companions Martyrs
 [Name]
 Placid and his companions
 
+[Oratio]
+@Commune/C3a
+
+[Secreta]
+@Commune/C3
+
 [Postcommunio]
 @Commune/C3a

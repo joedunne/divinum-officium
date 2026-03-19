@@ -1,11 +1,12 @@
 [Rank]
-In festo Domino nostro Jesu Christi Regis;;Duplex 1 class;;6.5;;
+In festo Domino nostro Jesu Christi Regis;;Duplex 1 class;;6;;
 
 [Rule]
 9 lectiones
 Gloria
 Credo
 Prefatio=Regis
+Festum Domini
 
 [Introitus]
 !Apoc 5:12; 1:6

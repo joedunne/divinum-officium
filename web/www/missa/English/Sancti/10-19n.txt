@@ -3,7 +3,3 @@
 
 [Officium]
 Ss. Jean de Brébeuf, Isaac Jogues, priests and companions, Martyrs
-
-[Rule]
-vide C3;
-Gloria

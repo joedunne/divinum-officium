@@ -707,6 +707,7 @@ sub special : ScriptFunc {
     @scriptum = specials(\@scriptum, $lang, 1);
     $r = join("\n", @scriptum);
   } else {
+#    print STDERR "$name is missing!\n";
     $r = "$name is missing";
   }
   return $r;
