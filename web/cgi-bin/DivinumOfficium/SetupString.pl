@@ -523,6 +523,7 @@ sub get_loadtime_inclusion($$$$$$$) {
     do_inclusion_substitutions($text, $substitutions);
     return $text;
   }
+#  print STDERR "$ftitle:$section is missing!\n";
   return "$ftitle:$section is missing!";
 }
 

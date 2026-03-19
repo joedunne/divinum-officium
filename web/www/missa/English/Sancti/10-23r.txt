@@ -40,5 +40,8 @@ Continuation + of the Holy Gospel according to Matthew
 !Matt 24:42-47
 At that time, Jesus said to His disciples, “Watch, for you do not know at what hour your Lord is to come. But of this be assured, that if the householder had known at what hour the thief was coming, he would certainly have watched, and not have let his house be broken into. Therefore you also must be ready, because at an hour that you do not expect, the Son of Man will come. Who, do you think, is the faithful and prudent servant whom his master has set over his household to give them their food in due time? Blessed is that servant whom his master, when he comes, shall find so doing. Amen I say to you, he will set him over all his goods.”
 
+[Offertorium]
+@Commune/C2
+
 [Communio]
 @Commune/C4-1

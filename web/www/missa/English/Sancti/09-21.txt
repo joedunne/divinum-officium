@@ -12,14 +12,15 @@ Prefatio=Apostolis
 [Officium]
 St. Matthew, Apostle and Evangelist
 
+[Introitus]
+@Commune/C5b
+
 [Oratio]
 May we be helped, O Lord, by the prayers of the blessed Apostle and Evangelist Matthew, that what we ourselves cannot obtain, may be granted by his intercession.
 $Per Dominum
 
 [Lectio]
-Lesson from the book of Ezekiel
-!Ezek 1:10-14
-The faces of the living creatures were like this: each of the four had the face of a man, but on the right side was the face of a lion, and on the left the face of an ox, and finally each had the face of an eagle. Their faces and their wings looked out on all their four sides; each had two wings spread out above so that they touched one another’s, while the other two wings of each covered his body. Each went straight forward; wherever the spirit wished to go, there they went; they did not turn when they moved. In among the living creatures something like burning coals of fire could be seen; they seemed like torches, moving to and fro among the living creatures. The fire gleamed, and from it came forth flashes of lightning. And the living creatures ran and returned like flashes of lightning.
+@Sancti/04-25
 
 [Graduale]
 !Ps 111:1-2

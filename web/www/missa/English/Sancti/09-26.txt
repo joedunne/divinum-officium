@@ -15,5 +15,8 @@ Cyprian and Justina
 May the continual protection of the blessed Martyrs Cyprian and Justina comfort us, O Lord, for You do not cease to behold with favor those whom You have granted the grace of such assistance.
 $Per Dominum
 
+[Secreta]
+@Commune/C3a
+
 [Postcommunio]
 @Commune/C3a

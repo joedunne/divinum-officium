@@ -22,6 +22,9 @@ v. Behold, the Virgin shall be with child and bear a Son, and shall name Him Emm
 O God, Who, by the message of an Angel, willed to take flesh in the womb of the Blessed Virgin Mary, grant that we, your suppliants, who believe her to be truly the Mother of God, may be helped by her intercession with You.
 $Per eumdem
 
+[Lectio]
+@Sancti/07-16
+
 [Graduale]
 !Isa 11:1-2
 A shoot shall sprout from the stump of Jesse, and from his roots a bud shall blossom.
@@ -38,9 +41,10 @@ At that time, when they were returning, the Boy Jesus remained in Jerusalem, and
 When Mary His Mother had been betrothed to Joseph, she was found to be with child by the Holy Spirit.
 
 [Secreta]
-Through Your mercy, O Lord, and by the intercession of blessed Mary, ever Virgin, the Mother of Your only-begotten Son, may this offering profit us for prosperity and peace, now and forevermore.
-$Per eumdem
+@Commune/C10
+
+[Communio]
+@Commune/C10
 
 [Postcommunio]
-May this Communion, O Lord, cleanse us of sin, and by the intercession of the Blessed Virgin Mary, the Mother of God, may it make us sharers of heavenly healing.
-$Per eumdem
+@Commune/C10b

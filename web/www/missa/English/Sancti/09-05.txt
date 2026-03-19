@@ -13,6 +13,12 @@ St. Lawrence Justinian, Bishop and Confessor
 [Name]
 Laurence
 
+[Introitus]
+@Commune/C2a
+
+[Oratio]
+@Commune/C4::s/N\./Lawrence/
+
 [Evangelium]
 @Commune/C4
 

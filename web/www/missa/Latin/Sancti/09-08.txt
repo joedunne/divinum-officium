@@ -30,7 +30,7 @@ Dóminus possedit me in inítio viárum suárum, ántequam quidquam fáceret a p
 
 [Secreta]
 Unigéniti tui, Dómine, nobis succúrrat humánitas: ut, qui natus de Vírgine, matris integritátem non mínuit, sed sacrávit; in Nativitátis ejus sollémniis, nostris nos piáculis éxuens, oblatiónem nostram tibi fáciat accéptam Jesus Christus, Dóminus noster:
-$Qui tecum.
+$Qui tecum
 
 [Communio]
 @Commune/C10
