@@ -13,9 +13,16 @@ CredoDA
 ;;Duplex;;3;;vide C5b
 
 [Officium]
-St. Bernard of Clairvaux, Abbot and Doctor of the Church 
+St. Bernard of Clairvaux, Abbot and Doctor of the Church
+(sed rubrica 1930 aut rubrica 1963)
+St. Bernard of Clairvaux, Abbot and Doctor of the Church
 (sed rubrica 1570 aut rubrica 1617)
 St. Bernard of Clairvaux, Abbot
 
 [Name]
 Bernard
+
+[Lectio]
+@Commune/C5a:Lectio in 2 loco
+(sed rubrica 1570 aut rubrica 1617)
+@Commune/C5b

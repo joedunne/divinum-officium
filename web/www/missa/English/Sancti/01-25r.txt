@@ -11,8 +11,32 @@ Sub unica conclusione
 [Officium]
 Conversion of St. Paul the Apostle
 
+[Introitus]
+@Sancti/01-25
+
+[Oratio]
+@Sancti/01-25
+
+[Lectio]
+@Sancti/01-25
+
+[Graduale]
+@Sancti/01-25
+
 [Tractus]
 @Sancti/01-25
+
+[Evangelium]
+@Commune/C5-1
+
+[Offertorium]
+@Sancti/01-25
+
+[Secreta]
+@Sancti/01-25
+
+[Communio]
+@Commune/C5-1
 
 [Postcommunio]
 @Sancti/01-25

@@ -5,7 +5,13 @@ CredoDA
 Prefatio=Maria=Assumptionis
 
 [Rank]
-Sixth Day Within the Octave of Assumption
+Sixth Day Within the Octave of Assumption;;Semiduplex;;2;;ex sancti/08-15
+
+[Oratio]
+@Sancti/08-18bmv
+
+[Secreta]
+@Sancti/08-18bmv
 
 [Postcommunio]
 @Sancti/08-18bmv

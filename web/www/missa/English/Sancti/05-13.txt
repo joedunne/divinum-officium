@@ -28,19 +28,16 @@ V. Those who lead the many to justice, shall be like the stars forever. Alleluia
 
 [Tractus]
 !Ps 91:2; 91:3; 91:5
-Bonum est confitéri Dómino: et psállere nómini tuo, Altíssime.
-V. Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem.
-V. Quia delectásti me, Dómine, in factúra tua, et in opéribus mánuum tuárum exsultábo.
+It is good to give praise to the Lord: and to sing to Thy name, O Most High.
+V. To show forth Thy mercy in the morning, and Thy truth throughout the night.
+V. For Thou hast given me delight, O Lord, in Thy doings: and in the works of Thy hands I shall rejoice.
 
 [Graduale]
 !Eccli 44:16
-Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
+Behold a great priest, who in his days pleased God.
 !Eccli 44:20
-Non est invéntus símilis illi, qui conserváret legem Excélsi. Allelúja, allelúja.
-V. Qui ad justítiam erúdiunt multos quasi stellæ in perpétuas æternitátes. Allelúja.
-
-[TODO]
-Graduale and Tractus are not translated...
+There was not found any like him, who kept the law of the Most High. Alleluia, alleluia.
+V. They that instruct many unto justice [shall shine] as stars for all eternity. Alleluia.
 
 [Offertorium]
 !Ps. 72:28

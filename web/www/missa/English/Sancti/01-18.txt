@@ -11,8 +11,35 @@ Sub unica conclusione
 [Officium]
 Chair of St. Peter at Rome
 
+[Introitus]
+@Commune/C2a
+
+[Oratio]
+@Sancti/02-22
+
+[Lectio]
+@Commune/Coronatio
+
+[Graduale]
+@Commune/C4b
+
 [GradualeP]
 @Commune/Coronatio
+
+[Tractus]
+@Commune/Coronatio
+
+[Evangelium]
+@Commune/Coronatio
+
+[Offertorium]
+@Commune/Coronatio
+
+[Secreta]
+@Sancti/02-22
+
+[Communio]
+@Commune/C4b
 
 [Postcommunio]
 @Sancti/02-22
