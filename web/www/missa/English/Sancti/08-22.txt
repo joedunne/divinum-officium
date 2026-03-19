@@ -1,5 +1,5 @@
 [Rank]
-Immaculate Heart of the Blessed Virgin Mary;;Duplex II classis;;5;;ex C11
+Immaculate Heart of the Blessed Virgin Mary;;Duplex II classis;;5.1;;ex C11
 
 [Rule]
 ex C11;
@@ -19,6 +19,9 @@ v. Let us draw near with confidence to the throne of grace, that we may obtain m
 Almighty, everlasting God, Who in the Heart of the Blessed Virgin Mary prepared a dwelling place worthy of the Holy Spirit; graciously grant that we, who are devoutly keeping the feast of her Immaculate Heart, may be able to live according to Your Heart.
 $Per Dominum
 
+[Lectio]
+@Sancti/07-16
+
 [Graduale]
 !Ps 12:6
 Let my Heart rejoice in Your salvation; let me sing of the Lord, He has been good to me. Yes, I will sing to the name of the Lord, Most High.
@@ -35,7 +38,8 @@ V. All generations shall call me blessed, because God has regarded His humble ha
 
 [Tractus]
 !Prov 8:32-35
-So now, O children, listen to me; happy those who keep my ways. Hear instruction, and be wise, and refuse it not.
+So now, O children, listen to me; happy those who keep my ways.
+V. Hear instruction, and be wise, and refuse it not.
 V. Happy the man who obeys me, watching daily at my gates, waiting at my doorposts.
 V. For he who finds me finds life, and wins favor from the Lord.
 

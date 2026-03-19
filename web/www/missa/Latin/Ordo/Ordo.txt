@@ -390,7 +390,6 @@ R. Et cum spíritu tuo.
 &Ultimaev
 !Finito Evangelio sancti Joannis, discedens ab Altari, pro gratiarum actione dicit Ant. Trium puerórum, cum reliquis, ut habetur in principio Missalis.
 
-!*R
 # Orationes Leonis XIII
 S. Ave María, grátia plena, Dóminus tecum, benedícta tu in muliéribus et benedíctus fructus ventris tui, Jesus.
 O. Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostræ. Amen.

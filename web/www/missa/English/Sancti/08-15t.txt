@@ -1,10 +1,13 @@
 [Rank]
-In Assumptione Beatae Mariae Virginis;;Duplex I classis;;6.5;;ex C11
+In Assumptione Beatae Mariae Virginis;;Duplex I classis;;7;;ex C11
 
 [Rule]
 Gloria
 Credo
 Prefatio=Maria=Assumptione;
+
+[Introitus]
+@Sancti/07-16
 
 [Oratio]
 O God who dost manifest Thine power almighty most chiefly in sparing and showing mercy: multiply upon us Thy mercy: that as we hasten towards Thy promises, Thou mayest make us partakers of the heavenly treasures.
@@ -20,6 +23,9 @@ In all things, I sought rest and I shall abide in the inheritance of the Lord. T
 Because of truth, and meekness, and justice, and thy right hand shall conduct thee wonderfully. 
 V. Hearken, O daughter, and see and incline thy ear: for the King hath greatly desired thy beauty. Alleluia, alleluia.
 V. Mary is taken up into Heaven: the host of angels rejoice. Alleluia.
+
+[Evangelium]
+@Sancti/07-29
 
 [Offertorium]
 Mary is taken up into heaven: the Angels rejoice: and blessing God, with one voice offer high praise to Him, alleluia.
