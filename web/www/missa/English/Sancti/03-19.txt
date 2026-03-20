@@ -21,7 +21,7 @@ May the merits of Your most holy Mother’s spouse help us, we beseech You, O Lo
 $Qui vivis
 
 [Lectio]
-@Commune/C5-1
+@Commune/C5b
 
 [Graduale]
 !Ps 20:4-5

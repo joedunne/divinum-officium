@@ -14,6 +14,9 @@ Prefatio=Apostolis
 [Officium]
 St. Andrew the Apostle
 
+[Introitus]
+@Sancti/02-24
+
 [Oratio]
 We humbly pray Your majesty, O Lord, that, as blessed Andrew was a preacher and ruler in Your Church, so he may always intercede for us with You.
 $Per Dominum
@@ -32,7 +35,10 @@ V. The Lord loved Andrew in an odor of sweetness. Alleluia.
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
 !Matt 4:18-22
- At that time, as Jesus was walking by the sea of Galilee, He saw two brothers, Simon, who is called Peter, and his brother Andrew, casting a net into the sea - for they were fishermen -. And He said to them, Come, follow Me, and I will make you fishers of men. And at once they left the nets, and followed Him. And going farther on, He saw two other brothers, James the son of Zebedee, and his brother John, in a boat with Zebedee their father, mending their nets; and He called them. And immediately they left their nets and their father, and followed him.
+At that time, as Jesus was walking by the sea of Galilee, He saw two brothers, Simon, who is called Peter, and his brother Andrew, casting a net into the sea - for they were fishermen -. And He said to them, Come, follow Me, and I will make you fishers of men. And at once they left the nets, and followed Him. And going farther on, He saw two other brothers, James the son of Zebedee, and his brother John, in a boat with Zebedee their father, mending their nets; and He called them. And immediately they left their nets and their father, and followed him.
+
+[Offertorium]
+@Sancti/01-25
 
 [Secreta]
 O Lord, we beseech You, that the holy prayer of blessed Andrew may make our sacrifice pleasing to You, so that it would be acceptable to You, through the merits of him in whose honor it is solemnly offered.

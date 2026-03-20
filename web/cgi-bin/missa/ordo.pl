@@ -43,7 +43,9 @@ sub anteOrdo() {
   }
   print "<H2 ID='AnteMissatop'>Orationes Ante Sancta Missa</H2>\n" if $content;
 
-  my @prepatoryPrayers = ("FormulaIntensionisAnteMissam", "ActOfOblationBeforeMass", "ForSinners","ForTheChurch",
+  my @prepatoryPrayers = (#"FormulaIntensionisAnteMissam",
+  "PrayerBeforeMass", #"ActOfOblationBeforeMass",
+  "ForSinners","ForTheChurch",
   "ForTheFaithful","InPreparationToReceiveCommunion","CommemorateThePassionOfChrist","ActOfFaith","ActOfHope",
   "ActOfCharity","ActOfHumility","LetTheReceivingOfThyBody","PrayerStThomasAquinasBeforeMass","PrayerStAmbroseBeforeMass","PrayerBlessedVirginMaryBeforeMass",
   "PrayerStJosephBeforeMass","AllTheAngelsAndSaintsBeforeMass","SaintInWhoseHonorMassIsCelebrated","FormingOfOnesIntention","SoulsLongingForGod"
@@ -67,6 +69,7 @@ sub postOrdo() {
 
   my @thanksgiving = ("ThanksgivingAfterMass", "SaintThomasAquinas", "SaintBonaventure","PrayerToJesusInThanksgiving",
   "HymnStThomasAquinas","PrayerToOurLord","AnimaChristi","PrayerStAugustine","ObsecroTe",
+  "PrayerToJesusCrucified","OfferingOfAllMassesWorld", "AnOblationAfterMass","ActOfResignation","PrayerForPerseverance",
 #  "PrayerBlessedVirgin1","PrayerBlessedVirgin2",
   "PrayerBlessedVirginMaryAfterHolyMass","PrayerStPadrePio","PrayerBeforeCrucifix","Psalm95","PrayerStJosephAfterMass","AllThingsNecessarySalvation"
 #  ,"TrinitarianAfterMass1","TrinitarianAfterMass2","TrinitarianAfterMass3","TrinitarianAfterMass4","TrinitarianAfterMass5",

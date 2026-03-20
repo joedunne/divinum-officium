@@ -16,6 +16,9 @@ St. Cecilia, Virgin and Martyr
 O God, Who gladden us by the annual feast of blessed Cecilia, Your Virgin and Martyr, grant, we beseech You, that we may by virtuous conduct follow her whom we venerate in this sacred rite.
 $Per Dominum
 
+[Lectio]
+@Commune/C6-1
+
 [Graduale]
 !Ps 44:11-12, 5
 Hear, O daughter, and see; turn your ear; for the King shall desire your beauty.

@@ -36,15 +36,17 @@ V. No enemy shall deceive him, nor shall the wicked afflict him. Alleluia, allel
 The just man shall flourish like the palm tree, like a cedar of Lebanon shall he grow. Alleluia.
 
 [Evangelium]
-@Commune/C4
+@Commune/C4:Evangelium
+
+[Offertorium]
+@Commune/C2
 
 [Secreta]
 Sanctify, we beseech You, O Lord God, the gifts we offer on the feast of Your holy Bishop, Nicholas, that through them our life, whether in fortune or misfortune, may be directed aright.
 $Per Dominum
 
 [Communio]
-!Ps 88:36-38
-Once, by My holiness, have I sworn; his posterity shall continue forever, and his throne shall be like the sun before Me; like the moon, which remains forever - a faithful witness in the sky.
+@Commune/C2
 
 [Postcommunio]
 May the sacrifice in which we have shared on the feast of Your holy Bishop Nicholas guard us with its lasting protection.

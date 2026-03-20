@@ -10,5 +10,11 @@ S. Menna, Martyr
 [Name]
 Menna
 
+[Oratio]
+@Commune/C2a
+
+[Secreta]
+@Commune/C2a
+
 [Postcommunio]
 @Commune/C2a

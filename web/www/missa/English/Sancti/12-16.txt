@@ -9,6 +9,8 @@ Gloria
 
 [Officium]
 St. Eusebius, Bishop and Martyr
+(sed rubrica 1617)
+St. Eusebius, Bishop and Martyr
 
 [Name]
 Eusebius

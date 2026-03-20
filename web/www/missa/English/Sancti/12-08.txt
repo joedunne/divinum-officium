@@ -19,6 +19,9 @@ v. I will heartily rejoice in the Lord, in my God is the joy of my soul; for He 
 O God, Who by the Immaculate Conception of the Virgin, prepared a worthy dwelling for Your Son, and Who, by Your Son’s death, foreseen by You, preserved her from all taint, grant, we beseech You, through her intercession, that we too may come to You unstained by sin.
 $Per Dominum
 
+[Lectio]
+@Sancti/09-08
+
 [Graduale]
 !Judith 13:23
 Blessed are you, O Virgin Mary, by the Lord the most high God, above all women upon the earth.
@@ -26,6 +29,21 @@ Blessed are you, O Virgin Mary, by the Lord the most high God, above all women u
 V. You are the glory of Jerusalem, you are the joy of Israel, you are the honor of our people. Alleluia, alleluia.
 !Cant. 4:7 
 V. You are all-beautiful, O Mary, and there is in you no stain of original sin. Alleluia.
+
+[GradualeP]
+Alleluia, alleluia.
+!Judith 15:10
+Thou art the glory of Jerusalem, thou art the joy of Israel, thou art the honor of our people.
+!Cant 4:7 (Song of Songs)
+V. Thou art all fair, O Mary: and the stain of original sin is not in thee. Alleluia.
+
+[Tractus]
+!Ps 86:1-2
+Her foundations are in the holy mountains: the Lord loveth the gates of Sion above all the tabernacles of Jacob.
+!Ps 86:3
+Glorious things are said of thee, O city of God.
+!Ps 86:5
+A man is born in her, and the Highest Himself hath founded her.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
