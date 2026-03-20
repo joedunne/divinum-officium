@@ -16,3 +16,7 @@ St. Damasus, Pope and Confessor
 
 [Name]
 Damasus
+
+[Oratio] (nisi communi Summorum Pontificum)
+Graciously hear our prayers, O Lord: and through the intercession of blessed Damasus, Thy Confessor and Bishop, being appeased, grant us pardon and peace.
+$Per Dominum

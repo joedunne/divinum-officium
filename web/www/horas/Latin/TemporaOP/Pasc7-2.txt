@@ -25,7 +25,7 @@ Forte ipsi per jánuam intravérunt? Absit.
 [Responsory3]
 @Tempora/Pasc7-5:Responsory2:1-4
 &Gloria
-@Psalterium/Common/Prayers:Alleluia Duplex: s/^/R. /
+@Psalterium/Common/Prayers:Alleluia Duplex:s/^/R. /
 
 [Ant Laudes]
 @Tempora/Pasc7-0:Ant Vespera:1 s/$/;;92;99;62;210;148/ s/Cum/Dum/

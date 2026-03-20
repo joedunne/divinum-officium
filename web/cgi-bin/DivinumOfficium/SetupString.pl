@@ -523,7 +523,22 @@ sub get_loadtime_inclusion($$$$$$$) {
     do_inclusion_substitutions($text, $substitutions);
     return $text;
   }
-#  print STDERR "$ftitle:$section is missing!\n";
+  my @ignorelist = ("Lectio7", "Lectio8", "Lectio9", "Alleluia Duplex");
+
+  my $found = 0;
+  foreach my $item (@ignorelist) {
+      if ($item eq $section) {
+          $found = 1;
+          last;
+      }
+  }
+
+  if (!$found) {
+    print STDERR "$basedir : $lang : $ftitle:$section is missing!\n";
+    print STDERR "section : $section\n";
+    print STDERR "substitutions : $substitutions\n";
+    print STDERR "callerfname : $callerfname\n";
+  }
   return "$ftitle:$section is missing!";
 }
 

@@ -1,9 +1,6 @@
 [Rank]
 In Commemoratione Omnium Fidelium Defunctorum;;Duplex;;3;;ex C9
 
-[Rank1960]
-In Commemoratione Omnium Fidelium Defunctorum;;I. classis;;6;;ex C9
-
 [Rule]
 ex C9
 no Gloria
@@ -11,7 +8,6 @@ no Credo
 Prefatio=Defunctorum
 celebranda aut missa prima aut missa secunda aut missa tertia
 Sequentia
-Requiem gloria
 
 [Oratio]
 O God, Who forgives sins and desires to save mankind, we beseech Your mercy to grant, by the intercession of Blessed Mary, ever Virgin, and that of all Your Saints, that the souls of Your servants and handmaids who have departed this life may enter upon the enjoyment of unending happiness.

@@ -270,7 +270,7 @@ Gospel
 Commemoration
 
 [ThanksgivingAfterMass]
-!Quilibet Sacerdos, ex concessione Leonis XIII sub die 20 Dec. 1884, lucrari potest Indulgentiam unius anni, si post Missam celebratam, dicto Cantico trium Puerorum et Psalmo 150 cum adnexa Antiphona, Versiculis et Orémus, item ut infra, recitet Orationem S. Thomæ Aquinatis Gratias tibi ago, et Orationem S. Bonaventuræ Transfíge.
+<span class="text-sm"><i>Quilibet Sacerdos, ex concessione Leonis XIII sub die 20 Dec. 1884, lucrari potest Indulgentiam unius anni, si post Missam celebratam, dicto Cantico trium Puerorum et Psalmo 150 cum adnexa Antiphona, Versiculis et Orémus, item ut infra, recitet Orationem S. Thomæ Aquinatis Gratias tibi ago, et Orationem S. Bonaventuræ Transfíge.</i></span>
 Ant. Trium puerórum * cantémus hymnum, quem cantábant Sancti in camíno ignis, benedicéntes Dóminum. (T. P. Allelúja.)
 !Quæ Antiphona in Duplicibus tantum duplicatur.
 !Canticum trium Puerorum
@@ -325,8 +325,9 @@ v. Deus, qui tribus púeris mitigásti flammas ígnium: concéde propítius; ut 
 v. Da nobis, quǽsumus, Dómine, vitiórum nostrórum flammas exstínguere: qui beáto Lauréntio tribuísti tormentórum suórum incéndia superáre. Per Christum, Dóminum nostrum.
 R. Amen.
 
-[SaintThomasAquinas]`
+[SaintThomasAquinas]
 # Oratio S. Thomæ Aquinatis
+<span class="text-sm"><i>Indulgéntia trium annórum toties quóties; si vero quotídie per mensem recitétur, indulgéntia plenária suétis conditiónibus, visitáta áliqua ecclésia (Pius XI, MCMXXXVI)</i></span>
 _
 v. Grátias tibi ago, Dómine sancte, Pater omnípotens, ætérne Deus, qui me peccatórem, indígnum fámulum tuum, nullis meis méritis, sed sola dignatióne misericórdiæ tuæ satiáre dignátus es pretióso Córpore et Sánguine Fílii tui, Dómini nostri Jesu Christi.
 Et precor, ut hæc sancta commúnio non sit mihi reátus ad pœnam, sed intercéssio salutáris ad véniam.
@@ -341,8 +342,8 @@ Per eúndem Christum, Dóminum nostrum. Amen.
 [SaintBonaventure]
 # Oratio S. Bonaventuræ
 _
-v. Transfíge, dulcíssime Dómine Jesu, medúllas et víscera ánimæ meæ suavíssimo ac salubérrimo amóris tui vúlnere, vera serenáque et apostólica sanctíssima caritáte, ut lángueat et liquefíat ánima mea solo semper amóre et desidério tui;
-te concupíscat et defíciat in átria tua, cúpiat dissólvi et esse tecum. Da, ut ánima mea te esúriat, panem Angelórum, refectiónem animárum sanctárum, panem nostrum  cotidiánum, supersubstantiálem, habéntem omnem dulcédinem et sapórem et omne delectaméntum suavitátis.
+v. Transfíge, dulcíssime Dómine Jesu, medúllas et víscera ánimæ meæ suavíssimo ac salubérrimo amóris tui vúlnere, vera serenáque et apostólica sanctíssima caritáte, ut lángueat et liquefíat ánima mea solo semper amóre et desidério tui; te concupíscat et defíciat in átria tua, cúpiat dissólvi et esse tecum.
+Da, ut ánima mea te esúriat, panem Angelórum, refectiónem animárum sanctárum, panem nostrum  cotidiánum, supersubstantiálem, habéntem omnem dulcédinem et sapórem et omne delectaméntum suavitátis.
 Te, in quem desíderant Angeli prospícere, semper esúriat et comédat cor meum, et dulcédine sapóris tui repleántur víscera ánimæ meæ; te semper sítiat fontem vitæ, fontem sapiéntiæ et sciéntiæ, fontem ætérni lúminis, torréntem voluptátis, ubertátem domus Dei.
 Te semper ámbiat, te quærat, te invéniat, ad te tendat, ad te pervéniat, te meditétur, te loquátur, et ómnia operétur in laudem et glóriam nóminis tui, cum humilitáte et discretióne, cum dilectióne et delectatióne, cum facilitáte et afféctu, cum perseverántia usque in finem;
 ut tu sis solus semper spes mea, tota fidúcia mea, divítiæ meæ, delectátio mea, jucúnditas mea, gáudium meum, quies et tranquíllitas mea, pax mea, suávitas mea, odor meus, dulcédo mea, cibus meus, reféctio mea, refúgium meum, auxílium meum, sapiéntia mea, portio mea, posséssio mea, thesáurus meus, in quo fixa et firma et immobíliter semper sit radicáta mens mea et cor meum. Amen.
@@ -401,6 +402,7 @@ Ex intimo ígitur corde Tibi grátias ago, et fírmiter statuo peccátum ejúsqu
 
 [AnimaChristi]
 # Anima Christi
+<span class="text-sm"><i>Indulgéntia trecentórum diérum toties quóties; septem vero annórum post Sacram Communiónem. Si vero quotídie per mensem recitétur, indulgéntia plenária suétis conditiónibus. (Pius IX, MDCCCLVIII).</i></span>
 v. SANIMA Christi, sanctifica me.
 Corpus Christi, salva me.
 Sanguis Christi, inebria me.
@@ -630,6 +632,15 @@ r. O ever-blessed Trinity, three Persons and one God, help me to live according 
 # Formula Intensionis Ante Missam
 v. Ego volo celebrare Missam, et conficere Corpus et Sanguinem Domini nostri Iesu Christi, iuxta ritum sanctae Romanae Ecclesiae, ad laudem omnipotentis Dei totiusque Curiae triumphantis, ad utilitatem meam totiusque Curiae militantis, pro omnibus, qui se commendaverunt orationibus meis in genere et in specie, et pro felici statu sanctae Romanae Ecclesiae.
 r. Gaudium cum pace, emendationem vitae, spatium verae paenitentiae, gratiam et consolationem Sancti Spiritus, perseverantiam in bonis operibus, tribuat nobis omnipotens et misericors Dominus. Amen.
+
+[PrayerBeforeMass]
+#Orátio ante Missam
+v. Pater ætérne, me unítum fáciens cum intentiónibus et afféctibus Beátæ Maríæ Vírginis Perdoléntis in Calvário, óffero Tibi Sacrifícium, quod diléctus Fílius Tuus de seípso fecit in Cruce, et quod nunc rénovat in hoc sancto Altári.
+V. Óffero illud nómine totíus géneris humáni, cum Missis quæ nunc offerúntur, et ómnibus illis quæ per totum mundum hoc die offeréntur:
+V. Ut Te adórem et Tibi honórem tríbuam qui Tibi debétur, confiténdo suprémum domínium Tuum super ómnia, et absolútam ómnium rerum a Te dependéntiam, qui es noster unus et últimus Finis;
+V. Ut Tibi grátias agam pro innumerábilibus benefíciis accéptis; Ut Tuam justítiam placet, contra nos propter tot peccáta excitátam, et pro eis satisfáciam;
+V. Ut grátiam et misericórdiam implórem pro meípsó, pro Ecclésia Tua, pro ómnibus afflíctis et mæréntibus, pro paupéribus peccatóribus, pro iis quibus oratiónes promísi, pro univérso mundo, et pro animábus sánctis in Purgatório. Amen.
+
 
 [ActOfOblationBeforeMass]
 # Actus Oblationis
@@ -872,3 +883,27 @@ r. Wash me from all stain of sin, and save me.
 r. I pray that the most holy body of Jesus may be in me as that balm of Gilead against which no diseases of the spirit can prevail.
 Let it be to me that light of salvation against which no thickness of darkness has power.
 r. Jesus, coming to me from Thy altar, fill my soul with love, and bring me at last safely to the whiteness of the streets in Thy heavenly city, where Thy elect dwell with Thee for ever.
+
+[ActOfResignation]
+# Actus Resignatiónis
+Dómine Deus meus, iam nunc quodcúmque mortis genus tibi placúerit, cum ómnibus suis angústiis, pœnis et dolóribus, de manu tua æquo et libénti ánimo suscípio. In manus tuas, Dómine, comméndo spíritum meum.
+
+[PrayerToJesusCrucified]
+# En ego, o bone et dulcíssime Jesu
+v. En ego, o bone et dulcissime Iesu, ante conspectum tuum genibus me provolvo, ac maximo animi ardore te oro atque obtestor, ut meum in cor vividos fidei, spei et caritatis sensus, atque veram peccatorum meorum paenitentiam, eaque emendandi firmissimam voluntatem velis imprimere; dum magno animi affectu et dolore tua quinque vulnera mecum ipse considero ac mente contemplor, illud prae oculis habens, quod iam in ore ponebat tuo1 David propheta de te, o bone Iesu: Foderunt manus meas et pedes meos: dinumeraverunt omnia ossa mea. Amen.
+!Psalm 21, 17, 18
+
+[OfferingOfAllMassesWorld]
+# Oblatio omnium Missarum in Mundo
+Unio me omnibus Missis, quae hoc tempore in toto orbe terrarum celebrantur; easque in manus Mariae, Mediatricis omnium gratiarum, depono; ut ipsa, per hanc Sanguinis Christi praesentationem Sanctissimae Trinitati, obtineat animarum liberationem e purgatorio, solatium infirmis et moribundis, conversionem infidelium et peccatorum, atque omnium fidelium perseverantiam.
+
+[AnOblationAfterMass]
+# Oblatio
+!Ex Exercitiis Spiritualibus Sancti Ignatii Loyolae
+Súscipe, Dómine, et accipe univérsam meam libertátem. Accipe memóriam, intelléctum, atque voluntátem omnem. Quidquid hábeo vel possídeo, Tu mihi dedísti; id Tibi totum restítuo, ac tuæ prorsus voluntáti trado gubernándum. Amórem tui solum cum grátia tua mihi dones, et dives sum satis, nec áliud quidquam ultra posco. Amen.
+
+[PrayerForPerseverance]
+# Precatio pro Perseverantia
+Summe et ætérne Deus, grátias Tibi ago, quia me creásti, per Jesum Christum redemísti, christiánum ad veram fidem vocásti, et post tot peccáta mea pæniténtiam exspectásti.
+O infiníta Bónitas, Te super ómnia díligo, et ex toto corde meo pænitet me Te offendísse. Spéro quod jam mihi ignovísti; sed quia semper in perículo sum itérum cadéndi in peccátum, Te per amórem Jesu Christi déprecor, ut mihi concédas sanctam perseverántiam usque ad mortem. Adjuva me, Dómine, quia Tu nosti infirmitátem meam, et ne sinas me amplíus a Te separári; málem móri míllies quam íterum habére infortúnium perdéndi grátiam Tuam.
+O María, Mater mea, óbtine mihi sanctam perseverántiam. Amen.

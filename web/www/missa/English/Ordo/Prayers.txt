@@ -270,7 +270,7 @@ Gospel
 Commemoration
 
 [ThanksgivingAfterMass]
-!Pope Leo XIII on the 20th of December 1884, allowed a one year indulgence for any priest saying the Canticle Tres pueri, Psalm 150 and the accompanied antiphons, versicles and prayers, and the prayers of Saint Thomas Aquinas and Saint Bonaventure as below.
+<span class="text-sm"><i>Pope Leo XIII on the 20th of December 1884, allowed a one year indulgence for any priest saying the Canticle Tres pueri, Psalm 150 and the accompanied antiphons, versicles and prayers, and the prayers of Saint Thomas Aquinas and Saint Bonaventure as below.</i></span>
 Ant. Let us sing the hymn of the three children * which these holy ones sang of old in the fiery furnace, giving praise to the Lord. (Alleluia.)
 !The antiphon is only duplicated on feasts of double rite.
 !Canticum trium Puerorum
@@ -325,8 +325,9 @@ v. God, who allayed the flames of fire for three children, grant in your mercy t
 v. Quench in us, we beseech you, Lord, the flame of vice, even us you enabled blessed Lawrence to overcome his fire of sufferings. Through Christ our Lord.
 R. Amen.
 
-[SaintThomasAquinas]`
+[SaintThomasAquinas]
 # Prayer of St. Thomas Aquinas
+<span class="text-sm"><i>Indulgence of 3 years each time; if said daily during a month, a plenary indulgence on the usual conditions with a visit to a church (Pius XI, 1936).</i></span>
 _
 v. I give thanks to Thee, O Lord, most holy, Father almighty, eternal God, that Thou hast vouchsafed, for no merit of mine own, but out of Thy pure mercy, to appease the hunger of my soul with the precious body and blood of Thy Son, Our Lord Jesus Christ.
 Humbly I implore Thee, let not this holy communion be to me an increase of guilt unto my punishment, but an availing plea unto pardon and salvation.
@@ -342,8 +343,8 @@ Through the same Christ our Lord. Amen.
 # Prayer of S. Bonaventure
 _
 v. Pierce, O most sweet Lord Jesus, my inmost soul with the most joyous and healthful wound of Thy love, and with true, calm and most holy apostolic charity, that my soul may ever languish and melt with entire love and longing for Thee, may yearn for Thee and for thy courts, may long to be dissolved and to be with Thee.
-Grant that my soul may hunger after Thee, the Bread of Angels, the refreshment of holy souls, our daily and supersubstantial bread, having all sweetness and savor and every delightful taste. May my heart ever hunger after and feed upon Thee, Whom the angels desire to look upon, and may my inmost soul be filled with the sweetness of Thy savor;
-may it ever thirst for Thee, the fountain of life, the fountain of widsom and knowledge, the fountain of eternal light, the torrent of pleasure, the fulness of the house of God;
+Grant that my soul may hunger after Thee, the Bread of Angels, the refreshment of holy souls, our daily and supersubstantial bread, having all sweetness and savor and every delightful taste.
+May my heart ever hunger after and feed upon Thee, Whom the angels desire to look upon, and may my inmost soul be filled with the sweetness of Thy savor; may it ever thirst for Thee, the fountain of life, the fountain of widsom and knowledge, the fountain of eternal light, the torrent of pleasure, the fulness of the house of God;
 may it ever compass Thee, seek Thee, find Thee, run to Thee, come up to Thee, meditate on Thee, speak of Thee, and do all for the praise and glory of Thy name, with humility and discretion, with love and delight, with ease and affection, with perseverence to the end;
 and be Thou alone ever my hope, my entire confidence, my riches, my delight, my pleasure, my joy, my rest and tranquility, my peace, my sweetness, my food, my refreshment, my refuge, my help, my wisdom, my portion, my possession, my treasure; in Whom may my mind and my heart be ever fixed and firm and rooted immovably. Amen.
 
@@ -401,6 +402,7 @@ From the bottom of my heart, therefore, do I thank Thee and I firmly resolve eve
 
 [AnimaChristi]
 # Anima Christi
+<span class="text-sm"><i>An indulgence of 300 days each time; of seven years after Holy Communion. If said every day during the month, a plenary indulgence on the usual conditions. (Pius IX, 1854).</i></span>
 v. SOUL of Christ, sanctify me.
 Body of Christ, save me.
 Blood of Christ, inebriate me.
@@ -630,6 +632,14 @@ r. O ever-blessed Trinity, three Persons and one God, help me to live according 
 # Statement of Intention Before Mass by Pope Gregory XIII
 v. My purpose is to celebrate Mass and to make present the Body and Blood of our Lord Jesus Christ according to the rite of the holy Roman Church to the praise of our all-powerful God and all His assembly in the glory of heaven, for my good and the good of all His pilgrim Church on earth, and for all who have asked me to pray for them in general and in particular, and for the good of the holy Roman Church.
 r. May the almighty and merciful Lord grant us joy and peace, amendment of life, room for true repentance, the grace and comfort of the Holy Spirit and perseverance in good works. Amen.
+
+[PrayerBeforeMass]
+# Prayer before Mass
+v. Eternal Father, I unite myself with the intentions and affections of our Lady of Sorrows on Calvary, and I offer to Thee the Sacrifice which Thy beloved Son made of Himself on the Cross, and which He now renews on this holy Altar.
+V. I offer it in the name of all mankind, with the Masses which are now being offered, and all those which will be offered throughout the world this day:
+V. To adore Thee and give Thee the honour which is due to Thee, confessing Thy supreme dominion over all things, and the absolute dependence of everything upon Thee, Who art our one and last End;
+V. To thank Thee for the innumerable benefits we have received: To appease Thy justice, aroused against us by so many sins, and to make satisfaction for them;
+V. To implore grace and mercy for myself, for Thy Church, for all afflicted and sorrowing, for poor sinners, for those whom I have promised prayers, for all the world, and for the holy souls in Purgatory. Amen.
 
 [ActOfOblationBeforeMass]
 # Act of Oblation:
@@ -872,3 +882,27 @@ r. Wash me from all stain of sin, and save me.
 r. I pray that the most holy body of Jesus may be in me as that balm of Gilead against which no diseases of the spirit can prevail.
 Let it be to me that light of salvation against which no thickness of darkness has power.
 r. Jesus, coming to me from Thy altar, fill my soul with love, and bring me at last safely to the whiteness of the streets in Thy heavenly city, where Thy elect dwell with Thee for ever.
+
+[ActOfResignation]
+# Act of Resignation
+O Lord, my God, from this day I accept from your hand willingly and with submission, the kind of death that it may please you to send me, with all its sorrows, pains, and anguish. Into your hands, O Lord, I commend my spirit.
+
+[PrayerToJesusCrucified]
+# Prayer to Jesus Crucified
+v. BEHOLD, O good and sweetest Jesus, I cast myself upon my knees in Thy sight, and with the most fervent desire of my soul I pray and beseech  Thee to impress upon my heart lively sentiments of faith, hope and charity, with true repentance for my sins and a most firm desire of amendment: whilst with deep affection and grief of soul I consider within myself and mentally contemplate Thy five most precious Wounds, having before mine eyes that which David, the prophet, long ago spoke in Thine Own person concerning Thee, my Jesus: They have pierced My hands and My feet, they have numbered all My bones. Amen.
+!Psalm 21, 17, 18
+
+[OfferingOfAllMassesWorld]
+# Offering of all Masses in the World
+I unite myself with every Mass which at this time is being offered throughout the world. I place them in the hands of Mary, the Mediatrix of all grace, that she may obtain by this presentation of the Blood of Christ to the most Holy Trinity, the deliverance of souls from purgatory, relief for the sick and dying, the conversion of infidels and sinners, and the perseverance of all the faithful.
+
+[AnOblationAfterMass]
+# An Oblation
+!From the Spiritual Exercises of St Ignatius Loyola
+Take, O Lord, and receive my entire liberty, my memory, my understanding and my whole will. All that I am and all that I possess You have given me. I surrender it all to You to be disposed of according to Your holy will. Give me only Your love and Your grace; with these I will be rich enough and will desire nothing more. Amen.
+
+[PrayerForPerseverance]
+# Prayer for Perseverance
+O supreme and eternal God, I thank Thee for creating me, redeeming me by Jesus Christ, making me a Christian called to the true faith, and having waited for my repentance after so many sins.
+O infinite Bounty, I love Thee above all things, and I repent with all my heart for having offended Thee. I have confidence that Thou hast already pardoned me, but being always in danger of again falling into sin, I beg of Thee for the love of Jesus Christ, to grant me holy perseverance until death. Help me, O Lord, for Thou knowest my weakness and suffer me not again to be separated from Thee, may I die a thousand times rather than again have the misfortune of losing Thy grace,
+O, Mary, my Mother, obtain for me holy perseverance. Amen.
