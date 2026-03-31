@@ -7,6 +7,9 @@ Feria Sexta in Parasceve
 [Rule]
 Full text
 
+[Station]
+Basilica of the Holy Cross in Jerusalem
+
 [Prelude]
 !!Lectiones
 ! None being ended, the priest and his ministers, in black vestments, proceed without lights or incense to the altar and, prostrate before it, pray for a few moments. Meanwhile the acolytes spread a single cloth upon the altar. The priest, having finished his prayer, proceeds to the steps, with his ministers. The celebrant kisses the altar in the middle and goes to the epistle side. Then a reader reads the prophecy, and begins without any title or introduction.

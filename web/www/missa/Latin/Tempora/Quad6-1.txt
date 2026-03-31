@@ -16,6 +16,12 @@ Suffragium=Ecclesiæ,Papa;;
 Prefatio=Quad5
 Super popul
 
+[Station]
+S. Prassede
+
+[CollectStation]
+S. Balbina
+
 [Introitus]
 !Ps 34:1-2.
 v. Júdica, Dómine, nocéntes me, expúgna impugnántes me: apprehénde arma et scutum, et exsúrge in adjutórium meum, Dómine, virtus salútis meæ.

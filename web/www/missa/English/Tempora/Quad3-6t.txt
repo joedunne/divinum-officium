@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+St. Susanna
+
+[CollectStation]
+St. Vitalis and Companion Martyrs in Fovea
+
 [Introitus]
 !Ps 5:2-3
 v. Hearken to my words, O Lord, attend to my sighing. Heed my call for help, my King and my God!

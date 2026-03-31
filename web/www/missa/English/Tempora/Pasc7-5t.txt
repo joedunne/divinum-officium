@@ -10,6 +10,9 @@ Sequentia
 Credo
 Prefatio=Spiritu
 
+[Station]
+Church of the Holy Apostles
+
 [Introitus]
 !Ps 70:8; 70:23
 v. Let my mouth be filled with Your praise, alleluia: that I may sing, alleluia. My lips shall shout for joy as I sing Your praises, alleluia, alleluia.

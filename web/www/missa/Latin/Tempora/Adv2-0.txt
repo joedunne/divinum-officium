@@ -15,6 +15,9 @@ no Gloria
 Credo
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[Station]
+S. Croce in Gerusalemme
+
 [Introitus]
 !Is 30:30
 v. Pópulus Sion, ecce, Dóminus véniet ad salvándas gentes: et audítam fáciet Dóminus glóriam vocis suæ in lætítia cordis vestri.

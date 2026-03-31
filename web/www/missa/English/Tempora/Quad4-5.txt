@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+St. Eusebius
+
+[CollectStation]
+Saints Vitus and Modestus
+
 [Introitus]
 !Ps 18:15
 v. Let the thought of my heart find favor before You, O Lord, my Rock and my Redeemer.

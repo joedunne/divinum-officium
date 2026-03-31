@@ -10,6 +10,9 @@ Credo
 Sequentia
 Suffr=Ecclesiæ,Papa;;
 
+[Station]
+SS. Apostoli
+
 [Introitus]
 !Sap 10:20-21
 v. Victrícem manum tuam, Dómine, laudavérunt páriter, allelúja: quia sapiéntia apéruit os mutum, et linguas infántium fecit disértas, allelúja, allelúja.

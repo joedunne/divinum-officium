@@ -6,6 +6,9 @@ Gloria
 Credo
 Prefatio=Epi
 
+[Station]
+St. Peter's Basilica
+
 [Introitus]
 !Mal 3:1; 1 Par. 29:12
 v. Behold, the Lord and Ruler is come; and the kingdom is in His hand, and power, and dominion.

@@ -10,6 +10,9 @@ Sequentia
 Credo
 Prefatio=Spiritu=hodierna die;
 
+[Station]
+S. Anastasia
+
 [Introitus]
 !Esdr 2:36 2:37
 v. Accípite jucunditátem glóriæ vestræ, allelúja: grátias agéntes Deo, allelúja: qui vos ad cœléstia regna vocávit, allelúja, allelúja, allelúja.

@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+St. Pudentiana
+
+[TODO]
+Statin church is St. Pudentiana and St. Agatha in missal
+
 [Introitus]
 !Ps 16:6-8
 v. I call upon You, for You will answer me, O God; incline Your ear to me; hear my word. Keep me, O Lord, as the apple of Your eye; hide me in the shadow of Your wings.

@@ -10,6 +10,9 @@ Credo
 Sequentia
 Suffr=Ecclesiae,Papa;;
 
+[Station]
+St. Mary and the Martyrs
+
 [Introitus]
 !Ps 77:53
 v. And he brought them out in hope, and they feared not: and the sea overwhelmed their enemies, allelúja, allelúja, allelúja.

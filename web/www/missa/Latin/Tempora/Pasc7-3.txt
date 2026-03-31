@@ -12,6 +12,9 @@ Suffr=Ecclesiæ;Papa;;
 Credo
 Prefatio=Spiritu=hodierna die;
 
+[Station]
+S. Maria Maggiore
+
 [Introitus]
 !Ps 67:8 67:9
 v. Deus, dum egrederéris coram pópulo tuo, iter fáciens eis, hábitans in illis, allelúja: terra mota est, cœli distillavérunt, allelúja, allelúja.

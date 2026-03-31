@@ -1,6 +1,9 @@
 [Officium]
 Dominica de Passione
 
+[Station]
+S. Pietro in Vaticano
+
 [Rank]
 ;;I classis Semiduplex;;6.9
 

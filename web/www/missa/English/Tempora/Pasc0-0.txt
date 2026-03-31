@@ -9,6 +9,9 @@ Sequentia
 Credo
 Prefatio=Pasch
 
+[Station]
+Basilica of Saint Mary Major
+
 [Introitus]
 !Ps 138:18; 138:5-6
 v. I arose, and am still with Thee, alleluia; Thou hast laid Thy hand upon me, alleluia; Thy knowledge is become wonderful, alleluia, alleluia.

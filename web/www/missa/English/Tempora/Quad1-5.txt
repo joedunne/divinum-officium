@@ -11,6 +11,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+Church of the Twelve Holy Apostles
+
+[CollectStation]
+St. Mark
+
 [Introitus]
 !Ps 24:17-18
 v. Bring me out of distress, O Lord; put an end to my affliction and my suffering, and take away all my sins.

@@ -15,6 +15,9 @@ no Gloria
 Credo
 Suffr=Maria1;Ecclesiae,Papa;;
 
+[Station]
+Church of the Holy Apostles
+
 [Introitus]
 !Isa 45:8
 v. Let the Just One descend, O heavens, like dew from above, like gentle rain let the skies drop Him down. Let the earth open and a Saviour bud forth.

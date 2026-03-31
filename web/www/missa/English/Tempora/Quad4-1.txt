@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+Basilica of the Four Crowned Saints
+
+[CollectStation]
+St. Stephen in the Round
+
 [Introitus]
 !Ps 53:3-4
 v. O God, by your Name save me, and by your might deliver me, O God, hear my prayer; hearken to the words of my mouth.

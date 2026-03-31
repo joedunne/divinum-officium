@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+S. Susanna
+
+[CollectStation]
+S. Vitale in Fovea
+
 [Introitus]
 !Ps 5:2-3.
 v. Verba mea áuribus pércipe, Dómine, intéllege clamórem meum: inténde voci oratiónis meæ, Rex meus et Deus meus.

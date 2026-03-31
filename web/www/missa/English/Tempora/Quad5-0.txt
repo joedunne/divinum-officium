@@ -2,7 +2,10 @@
 ;;I classis Semiduplex;;6.9
 
 [Officium]
-Dominica de Passione
+Passion Sunday
+
+[Station]
+St. Peter's Basilica
 
 [Rule]
 no Gloria

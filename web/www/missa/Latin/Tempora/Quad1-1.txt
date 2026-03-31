@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super populum
 
+[Station]
+S. Pietro in Vincoli
+
+[CollectStation]
+SS. Cosmas and Damian
+
 [Introitus]
 !Ps 122:2
 v. Sicut óculi servórum in mánibus dominórum suórum: ita óculi nostri ad Dóminum, Deum nostrum, donec misereátur nobis: miserére nobis, Dómine, miserére nobis.

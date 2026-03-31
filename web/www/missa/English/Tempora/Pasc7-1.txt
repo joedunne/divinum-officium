@@ -10,6 +10,9 @@ Sequentia
 Credo
 Prefatio=Spiritu
 
+[Station]
+St. Peter in Chains
+
 [Introitus]
 !Ps. 80:17
 v. He fed them with the best of wheat, alleluia: and filled them with honey from the rock, alleluia, alleluia.

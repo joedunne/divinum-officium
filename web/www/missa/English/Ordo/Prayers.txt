@@ -310,19 +310,19 @@ _
 Lord have mercy on us, Christ have mercy on us, Lord have mercy on us.
 v.  Our Father, who art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation:
 R. But deliver us from evil. Amen.
-V. Let all your works praise you. Lord.
-R. And let your saints bless you.
-V. Your saints shall rejoice in glory.
-R. They shall rejoice in their resting place.
-V. Not unto us, Lord, nor unto us,
-R. But unto your name give glory.
-V. O Lord. hear my prayer.
-R. And let my cry come unto you.
+V. Let all Thy works praise Thee, O Lord.
+R. And let Thy Saints bless Thee.
+V. The Saints shall exult in glory.
+R. They shall rejoice in their beds.
+V. Not unto us, O Lord, not unto us.
+R. But unto Thy name give the glory.
+V. O Lord, hear my prayer.
+R. And let my cry come unto Thee.
 V. The Lord be with you.
-R. And with your spirit.
+R. And with thy spirit.
 V. Let us pray.
-v. God, who allayed the flames of fire for three children, grant in your mercy that the flame of vice may not consume us, your servants. Direct, we beseech thee, Lord our actions by your inspirations and further them by your assistance, so that every word and work of ours may begin always from you and by you be likewise ended.
-v. Quench in us, we beseech you, Lord, the flame of vice, even us you enabled blessed Lawrence to overcome his fire of sufferings. Through Christ our Lord.
+v. O God, who for the three boys mitigated the flames of fire: graciously grant that the flame of vices may not consume us, Thy servants. Direct, we beseech Thee, O Lord, our actions by Thy inspirations, and further them with Thy continual help: so that every prayer and work of ours may always begin from Thee, and through Thee, once begun, be finished.
+v. Grant to us, we beseech Thee, O Lord, to extinguish the flames of our vices: Thou who didst grant to blessed Lawrence to overcome the fires of his torments. Through Christ our Lord.
 R. Amen.
 
 [SaintThomasAquinas]
@@ -664,8 +664,8 @@ v. TO ALL who live in the Truths of the Faith give grace, most tender Father, th
 [InPreparationToReceiveCommunion]
 # In Preparation to Receive Communion
 <span class="red, text-sm"><i>Direct Your Intention</i></span>
-v. O Lord, Jesus Christ, King of everlasting glory, behold I desire to come to you this day, and to receive your Body and Blood in this heavenly Sacrament, for your honor and glory, and the good of my soul. I desire to receive you, because it is your desire, and you have so willed it: blessed be your Name forever.
-V. I desire to come to you like Magdalen, that I may be delivered from all my evils, and embrace you, my only Good. I desire to come to you, that I may be happily united to you, that I may henceforth abide in you, and you in me; and that nothing in life or death may ever separate me from you. Amen.
+v. O Lord Jesus Christ, King of eternal glory, behold, I desire to come to Thee today, and to receive Thy Body and Blood in this heavenly Sacrament, to Thy honor and glory, and for the benefit of my soul. I desire to receive Thee, because this is Thy desire, and so Thou hast willed: blessed be Thy Name forever.
+V. I desire to come to Thee as Magdalene did, so that I may be freed from all my evils, and embrace Thee, my only Good. I desire to come to Thee, that I may be happily united to Thee, so that henceforth I may remain in Thee, and Thou in me; and that nothing in life, nor in death, may ever separate me from Thee. Amen."
 
 [CommemorateThePassionOfChrist]
 # Commemorate the Passion of Christ
@@ -740,7 +740,7 @@ r. O God, who hast given unto us a royal priesthood, vouchsafe, we beseech Thee,
 
 [AllTheAngelsAndSaintsBeforeMass]
 # Prayer to All the Angels and Saints
-v. Angels, Archangels, Thrones, Dominations, Principalities, Powers, heavenly Virtues, Cherubim and Seraphim; all Saints of God, holy men and women, and for you especially my patrons: deign to intercede for me that I may be worthy to offer this Sacrifice to almighty God, to the praise and glory of His name, for my own welfare and also that of all His holy Church. Amen.
+v. Angels, Archangels, Thrones, Dominions, Principalities, Powers, Virtues of the heavens, Cherubim and Seraphim, all holy men and women of God, especially my Patrons, deign to intercede for me, so that I may be worthily able to offer this sacrifice to God Almighty, to the praise and glory of His name, and for my benefit and that of all His holy Church. Amen.
 
 [SaintInWhoseHonorMassIsCelebrated]
 # Prayer to the Saint in Whose Honor the Mass is Celebrated
@@ -885,7 +885,7 @@ r. Jesus, coming to me from Thy altar, fill my soul with love, and bring me at l
 
 [ActOfResignation]
 # Act of Resignation
-O Lord, my God, from this day I accept from your hand willingly and with submission, the kind of death that it may please you to send me, with all its sorrows, pains, and anguish. Into your hands, O Lord, I commend my spirit.
+O Lord my God, from this moment on, whatever kind of death it shall please Thee to send, with all its anxieties, pains, and sorrows, I receive from Thy hand with a calm and willing mind. Into Thy hands, O Lord, I commend my spirit.
 
 [PrayerToJesusCrucified]
 # Prayer to Jesus Crucified
@@ -899,7 +899,7 @@ I unite myself with every Mass which at this time is being offered throughout th
 [AnOblationAfterMass]
 # An Oblation
 !From the Spiritual Exercises of St Ignatius Loyola
-Take, O Lord, and receive my entire liberty, my memory, my understanding and my whole will. All that I am and all that I possess You have given me. I surrender it all to You to be disposed of according to Your holy will. Give me only Your love and Your grace; with these I will be rich enough and will desire nothing more. Amen.
+Take, Lord, and receive all my liberty. Receive my memory, understanding, and entire will. Whatever I have or possess, Thou hast given to me; to Thee I restore it all, and surrender it wholly to be governed by Thy will. Give me only Thy love with Thy grace, and I am rich enough, nor do I ask for anything more. Amen
 
 [PrayerForPerseverance]
 # Prayer for Perseverance

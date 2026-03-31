@@ -8,6 +8,9 @@ celebranda aut missa prima aut missa secunda aut missa tertia
 [Rank]
 In die Nativitatis Domini;;Duplex I Classis;;7
 
+[Station]
+Basilica of Saint Mary Major
+
 [Introitus]
 @Tempora/Nat30
 

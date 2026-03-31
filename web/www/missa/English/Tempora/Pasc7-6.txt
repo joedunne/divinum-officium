@@ -13,6 +13,9 @@ Sequentia
 Credo
 Prefatio=Spiritu
 
+[Station]
+St. Peter's Basilica
+
 [Introitus]
 !Rom 5:5.
 v. The charity of God is poured forth in our hearts, alleluia: by His Spirit dwelling in us, alleluia, alleluia.

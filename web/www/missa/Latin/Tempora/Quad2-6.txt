@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+SS. Marcellino e Pietro
+
+[CollectStation]
+S. Clemente
+
 [Introitus]
 !Ps 18:8.
 v. Lex Dómini irreprehensíbilis, convértens ánimas: testimónium Dómini fidéle, sapiéntiam præstans párvulis.

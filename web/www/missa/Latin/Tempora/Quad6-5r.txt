@@ -7,6 +7,9 @@ Feria Sexta in Passione et Morte Domini
 [Rule]
 Full text
 
+[Station]
+S. Croce in Gerusalemme
+
 [Prelude]
 !Solemnis Actio liturgica celebranda est horis postmeridianis, et quidem circa horam tertiam; si vero ratio pastoralis id suadeat, inchoari potest inde a meridie, vel tardiori hora, non autem ultra horam nonam serotinam. Privata Actionis liturgicæ celebratio interdicitur.  Hoc die sacra Communio fidelibus distribui potest unice inter solemnem Actionem liturgicam postmeridianam, exceptis iis, qui in periculo mortis sunt constituti.
 !1. Altare omnino nudum sit: sine cruce, sine candelabris, sine tobaleis.

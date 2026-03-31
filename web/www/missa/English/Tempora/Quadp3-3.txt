@@ -15,6 +15,12 @@ Super populum
 Prelude
 (rubrica 1960) omit incipit
 
+[Station]
+St. Sabina
+
+[CollectStation]
+St. Anselmo
+
 [Prelude]
 #Blessing of the Ashes
 !Antiphona.

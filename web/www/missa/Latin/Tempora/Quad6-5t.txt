@@ -7,6 +7,9 @@ Feria Sexta in Parasceve
 [Rule]
 Full text
 
+[Station]
+S. Croce in Gerusalemme
+
 [Prelude]
 !!Lectiones
 ! In Choro, dicta Nona, Sacerdos et Ministri induti paramentis nigri coloris, sine luminaribus et incenso, procedunt ad Altare: et ante illud prostrati aliquamdiu orant. Interim Acolythi unam tantum tobaleam extendunt super Altare. Sacerdos cum Ministris facta oratione ascendit ad Altare, et osculatur illud in medio: deinde Lector accedit ad legendum Prophetiam in loco, ubi legitur Epistola, et incipit eam sine titulo: quam etiam Sacerdos legit submissa voce apud Altare in cornu Epistolæ.

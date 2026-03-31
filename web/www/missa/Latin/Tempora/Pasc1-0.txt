@@ -8,6 +8,9 @@ Dominica in Albis in Octava Paschæ
 Gloria
 Credo
 
+[Station]
+S. Pancrazio
+
 [Introitus]
 !1 Pet 2:2
 v. Quasi modo géniti infántes, allelúja: rationábiles, sine dolo lac concupíscite, allelúja, allelúja, allelúja.

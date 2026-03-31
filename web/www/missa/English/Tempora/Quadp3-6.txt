@@ -14,6 +14,15 @@ Prefatio=Quad
 Suffragium=Sanctorum;Vivis;;
 Super populum
 
+[Station]
+St. Augustine's
+
+[FormerStation]
+St. Tryphon's
+
+[CollectStation]
+St. Lawrence in Lucina
+
 [Introitus]
 @Tempora/Quadp3-5:Introitus
 

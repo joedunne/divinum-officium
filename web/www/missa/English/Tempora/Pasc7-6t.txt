@@ -13,6 +13,9 @@ Sequentia
 Credo
 Prefatio=Spiritu
 
+[Station]
+St. Peter's Basilica
+
 [Introitus]
 @Tempora/Pasc7-6:Introitus
 

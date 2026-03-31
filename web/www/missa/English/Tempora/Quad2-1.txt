@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+St. Clement
+
+[CollectStation]
+Sts. Cosmas and Damian
+
 [Introitus]
 !Ps 25:11-12
 v. Redeem me, O Lord, and have pity on me; my foot stands on level ground; in the assemblies I will bless the Lord.

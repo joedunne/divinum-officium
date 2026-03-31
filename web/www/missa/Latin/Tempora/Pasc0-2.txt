@@ -9,6 +9,9 @@ ex Pasc0-0;
 Credo
 Sequentia
 
+[Station]
+S. Paolo fuori le mura
+
 [Introitus]
 !Eccli 15:3-4
 v. Aqua sapiéntiæ potávit eos, allelúja: firmábitur in illis et non flectétur, allelúja: et exaltábit eos in ætérnum, allelúja, allelúja.

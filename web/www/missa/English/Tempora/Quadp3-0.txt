@@ -16,6 +16,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Maria2;Sanctorum,Ecclesiæ;;
 
+[Station]
+St. Peter's Basilica
+
 [Introitus]
 !Ps 30:3-4
 v. Be my rock of refuge, O God, a stronghold to give me safety. You are my rock and my fortress; for Your name’s sake You will lead and guide me.

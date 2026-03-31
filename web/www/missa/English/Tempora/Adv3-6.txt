@@ -13,6 +13,9 @@ no Credo
 LectioL5
 Suffr=Maria1;Ecclesiae,Papa;;
 
+[Station]
+St. Peter's Basilica
+
 [Introitus]
 !Ps 79:4, 2
 v. Come, O Lord, from Your throne upon the Cherubim; if Your face shine upon us, then we shall be safe.

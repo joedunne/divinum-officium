@@ -263,18 +263,8 @@ PrintTag
 <TD ALIGN=CENTER><FONT COLOR=MAROON>Psalterium</FONT></TD>
 <TD ALIGN=CENTER><FONT COLOR=MAROON>Proprium de tempore</FONT></TD>
 
-</TR><TR><TD ALIGN=CENTER ROWSPAN=2>
-<IMG SRC="$htmlurl/breviarium.gif" HEIGHT=$height></TD>
-<TD HEIGHT=50% VALIGN=MIDDLE ALIGN=CENTER>
-<IMG SRC="$htmlurl/psalterium.gif" HEIGHT=$height2></TD>
-<TD HEIGHT=50% VALIGN=MIDDLE ALIGN=CENTER>
-<IMG SRC="$htmlurl/tempore.gif" HEIGHT=$height2></TD>
-</TR><TR>
-<TD HEIGHT=50% VALIGN=MIDDLE ALIGN=CENTER>
-<IMG SRC="$htmlurl/sancti.gif" HEIGHT=$height2></TD>
-<TD HEIGHT=50% VALIGN=MIDDLE ALIGN=CENTER>
-<IMG SRC="$htmlurl/commune.gif" HEIGHT=$height2></TD>
-</TR><TR>
+</TR>
+
 <TD ALIGN=CENTER><FONT COLOR=MAROON>Divino Afflatu</FONT></TD>
 <TD ALIGN=CENTER><FONT COLOR=MAROON>Proprium Sanctorum</FONT></TD>
 <TD ALIGN=CENTER><FONT COLOR=MAROON>Commune Sanctorum</FONT></TD>

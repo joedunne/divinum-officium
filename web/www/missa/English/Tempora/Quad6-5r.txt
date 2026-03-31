@@ -7,6 +7,9 @@ Feria Sexta in Passione et Morte Domini
 [Rule]
 Full text
 
+[Station]
+Basilica of the Holy Cross in Jerusalem
+
 [TODO]
 todo jjd the communion distribution is messed up
 

@@ -18,6 +18,9 @@ no Benedictio
 no Ultima Evangelium
 celebranda aut de missa chrismatis aut missa in coena Domini
 
+[Station]
+Archbasilica of Saint John Lateran
+
 [Introitus]
 !Gal 6:14.
 v. But it behooves us to glory in the cross of Our Lord Jesus Christ: in Whom is our salvation, life, and resurrection; by whom we are saved and delivered.

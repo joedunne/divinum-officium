@@ -9,6 +9,9 @@ ex Pasc0-0;
 Credo
 Sequentia
 
+[Station]
+S. Pietro in Vaticano
+
 [Introitus]
 !Exod 13:5; 13:9
 v. Introdúxit vos Dóminus in terram fluéntem lac et mel, allelúja: et ut lex Dómini semper sit in ore vestro, allelúja, allelúja.

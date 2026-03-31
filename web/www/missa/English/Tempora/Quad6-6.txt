@@ -8,6 +8,9 @@ Sabbato Sancto
 Full text
 Prefatio=Pasch;
 
+[Station]
+Archbasilica of Saint John Lateran
+
 [Proph_Gen22]
 !Gen. 22. 1-19
 ! The offering of Abraham is a figure of the Sacrifice of the Cross.  Faith and obedience of Abraham.
@@ -85,8 +88,10 @@ V. The Lord be with you.
 R. And with thy spirit.
 v. Let us pray.
 O Almighty and everlasting God, look mercifully on the devotion of Thy people about to be reborn, who like the hart pant after the fountain of Thy waters: and mercifully grant that the thirst of their faith may, by the Sacrament of Baptism, hallow their souls and bodies.
-Concéde, quǽsumus, omnípotens Deus: ut, qui sollemnitátem doni Sancti Spíritus cólimus, cœléstibus desidériis accénsi, fontem vitæ sitiámus.
+(sed tempore Paschali)
+Grant, we beseech Thee, almighty God: that we, who celebrate the solemnity of the gift of the Holy Spirit, being kindled with heavenly desires, may thirst for the fountain of life.
 $Per Dominum
+(sed tempore Paschali)
 $Per Dominum eiusdem
 _
 !When the priest enter the baptistery, the blessing is performed as follows:

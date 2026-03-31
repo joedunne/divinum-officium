@@ -13,6 +13,9 @@ no Gloria
 Credo
 Prefatio=Nat
 
+[Station]
+S. Paolo fuori le mura
+
 [Introitus]
 !Ps 8:3
 v. Ex ore infántium, Deus, et lacténtium perfecísti laudem propter inimicos tuos.

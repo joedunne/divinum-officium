@@ -15,6 +15,9 @@ no Gloria
 Credo
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[Station]
+S. Pietro in Vaticano
+
 [Introitus]
 !Phil 4:4-6
 v. Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus enim prope est. Nihil sollíciti sitis: sed in omni oratióne petitiónes vestræ innotéscant apud Deum.

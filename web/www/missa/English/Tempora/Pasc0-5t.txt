@@ -10,6 +10,9 @@ Credo
 Sequentia
 Suffr=Ecclesiae,Papa;;
 
+[Station]
+St. Mary and the Martyrs
+
 [Introitus]
 @Tempora/Pasc0-5:Introitus
 

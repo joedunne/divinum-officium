@@ -8,6 +8,9 @@ Tempora none
 [Rank]
 In Vigilia Nativitatis Domini;;Duplex I classis;;6.9
 
+[Station]
+Basilica of Saint Mary Major
+
 [Introitus]
 @Sancti/12-24:Introitus
 

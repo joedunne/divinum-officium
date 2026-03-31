@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+S. Clemente
+
+[CollectStation]
+SS. Cosma e Damiano
+
 [Introitus]
 !Ps 25:11-12.
 v. Rédime me, Dómine, et miserére mei: pes enim meus stetit in via recta: in ecclésiis benedícam Dóminum.

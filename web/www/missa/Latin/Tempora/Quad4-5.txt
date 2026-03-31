@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+S. Eusebio
+
+[CollectStation]
+SS. Vito e Modesto
+
 [Introitus]
 !Ps 18:15
 v. Meditátio cordis mei in conspéctu tuo semper: Dómine, adjútor meus, et redémptor meus.

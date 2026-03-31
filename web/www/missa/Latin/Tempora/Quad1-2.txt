@@ -9,6 +9,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+S. Anastasia al Palatino
+
+[CollectStation]
+S. Nicola in Carcere
+
 [Introitus]
 !Ps 89:1; 89:2
 v. Dómine, refúgium factus es nobis a generatióne et progénie: a sǽculo et in sǽculum tu es.

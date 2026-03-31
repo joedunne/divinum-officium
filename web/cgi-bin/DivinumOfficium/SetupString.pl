@@ -534,10 +534,10 @@ sub get_loadtime_inclusion($$$$$$$) {
   }
 
   if (!$found) {
-    print STDERR "$basedir : $lang : $ftitle:$section is missing!\n";
-    print STDERR "section : $section\n";
-    print STDERR "substitutions : $substitutions\n";
-    print STDERR "callerfname : $callerfname\n";
+#    print STDERR "$basedir : $lang : $ftitle:$section is missing!\n";
+#    print STDERR "section : $section\n";
+#    print STDERR "substitutions : $substitutions\n";
+#    print STDERR "callerfname : $callerfname\n";
   }
   return "$ftitle:$section is missing!";
 }
