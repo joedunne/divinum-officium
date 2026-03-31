@@ -14,6 +14,9 @@ Credo
 Prefatio=Spiritu=hodierna die;
 Suffr=Ecclesiæ;Papa;;
 
+[Station]
+S. Pietro in Vaticano
+
 [Introitus]
 @Tempora/Pasc7-6:Introitus
 

@@ -9,6 +9,9 @@ Sequentia
 Credo
 Prefatio=Pasch
 
+[Station]
+S. Maria Maggiore
+
 [Introitus]
 !Ps 138:18; 138:5-6.
 v. Resurréxi, et adhuc tecum sum, allelúja: posuísti super me manum tuam, allelúja: mirábilis facta est sciéntia tua, allelúja, allelúja.

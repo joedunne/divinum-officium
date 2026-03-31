@@ -9,6 +9,9 @@ Prefatio=Nat
 (sed rubrica 196)
 ;;Duplex II class;;5.4;;ex C2a
 
+[Station]
+St. Stephen in the Round
+
 [Officium]
 St. Stephen the First Martyr
 

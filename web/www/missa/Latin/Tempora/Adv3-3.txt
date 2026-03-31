@@ -13,6 +13,9 @@ no Credo
 LectioL1
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[Station]
+S. Maria Maggiore
+
 [Introitus]
 !Is 45:8
 v. Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem

@@ -9,6 +9,12 @@ no Gloria
 Credo
 Prefatio=Quad5
 
+[Station]
+St. Stephen in the Round
+
+[CollectStation]
+Saints John and Paul
+
 [Introitus]
 !Jn 19:25
 v. There were standing by the Cross of Jesus His Mother, and His Mother’s sister, Mary of Cleophas, and Salome, and Mary Magdalene.

@@ -12,6 +12,9 @@ Prelude
 Passio
 omit commemoratio
 
+[Station]
+S. Giovanni in Laterano
+
 [Prelude]
 #Benedictio Palmorum
 !
@@ -154,8 +157,7 @@ _
 v. Occúrrunt turbæ cum flóribus et palmis Redemptóri óbviam: et victóri triumphánti digna dant obséquia: Fílium Dei ore gentes prædicant: et in laudem Christi voces tonant per núbila: Hosánna in excélsis.
 _
 !Alia Antiphona.
-v. Cum Angelis et púeris fidéles inveniántur, triumphatóri mortis damántes: Hosánna in excélsis. Alia Antiphona. Turba multa, quæ convénerat ad diem festum, clamábat Dómino: Benedíctus, qui venit in nómine Dómini: Hosánna in excélsis.
-_
+v. Cum Angelis et púeris fidéles inveniántur, triumphatóri mortis damántes: Hosánna in excélsis.
 !Alia Antiphona.
 v. Turba multa, quæ convénerat ad diem festum, clamábat Dómino: Benedíctus, qui venit in nómine Dómini: Hosánna in excélsis.
 _

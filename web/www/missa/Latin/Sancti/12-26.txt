@@ -12,6 +12,9 @@ Gloria
 Credo
 Prefatio=Nat
 
+[Station]
+S. Stefano Rotondo
+
 [Introitus]
 @Sancti/08-03
 

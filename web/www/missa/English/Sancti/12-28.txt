@@ -10,6 +10,9 @@ Prefatio=Nat
 (sed rubrica tridentina)
 ;;Duplex II class cum octava;;5.2;;ex C3
 
+[Station]
+Basilica of Saint Paul Outside the Walls
+
 [Officium]
 Holy Innocents
 

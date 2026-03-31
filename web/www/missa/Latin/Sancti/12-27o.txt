@@ -8,6 +8,9 @@ Gloria
 Credo
 Prefatio=Nat
 
+[Station]
+S. Maria Maggiore
+
 [Graduale]
 !Joann 21:23; 21:19
 Exiit sermo inter fratres, quod discípulus ille non móritur: et non dixit Jesus: Non móritur,

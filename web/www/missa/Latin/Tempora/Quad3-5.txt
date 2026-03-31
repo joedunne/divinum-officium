@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+S. Lorenzo in Lucina
+
+[CollectStation]
+S. Maria ad Martyres
+
 [Introitus]
 !Ps 85:17.
 v. Fac mecum, Dómine, signum in bonum: ut vídeant, qui me oderunt, et confundántur: quóniam tu, Dómine, adjuvísti me et consolátus es me.

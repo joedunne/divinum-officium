@@ -14,6 +14,9 @@ Suffragium=Sanctorum;Vivis;;
 Super popul
 LectioL1
 
+[Station]
+S. Paolo fuori le mura
+
 [Introitus]
 @Tempora/Quad4-3:Introitus
 

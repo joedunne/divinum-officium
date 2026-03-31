@@ -7,6 +7,9 @@ Die II infra octavam Pentecostes
 [Rule]
 @Tempora/Pasc7-0
 
+[Station]
+S. Pietro in Vincoli
+
 [Introitus]
 !Ps 80:17
 v. Cibávit eos ex ádipe fruménti, allelúja: et de petra, melle saturávit eos, allelúja, allelúja.

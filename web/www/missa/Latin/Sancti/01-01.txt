@@ -7,6 +7,9 @@ Gloria
 Credo
 Prefatio=Nat
 
+[Station]
+S. Maria in Trastevere
+
 [Introitus]
 @Tempora/Nat30
 

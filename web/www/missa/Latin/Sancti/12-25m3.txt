@@ -8,6 +8,9 @@ Prefatio=Nat
 celebranda aut missa prima aut missa secunda aut missa tertia
 (rubrica 1960) no Ultima Evangelium
 
+[Station]
+S. Maria Maggiore
+
 [Introitus]
 @Tempora/Nat30
 

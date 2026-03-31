@@ -10,6 +10,9 @@ Credo
 Prefatio=Quad
 Suffragium=Sanctorum;Vivis;;
 
+[Station]
+S. Maria in Dominca
+
 [Introitus]
 !Ps 24:6; 24:3; 24:22
 v. Reminíscere miseratiónum tuarum, Dómine, et misericórdiæ tuæ, quæ a sǽculo sunt: ne umquam dominéntur nobis inimíci nostri: líbera nos, Deus Israël, ex ómnibus angústiis nostris.

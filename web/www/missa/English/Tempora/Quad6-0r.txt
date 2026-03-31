@@ -13,6 +13,9 @@ Passio
 omit commemoratio incipit
 no Ultima Evangelium
 
+[Station]
+Archbasilica of Saint John Lateran
+
 [Prelude]
 #The Blessing of the Palms,
 ! The priest in red cope, with his ministers also vested in red, proceeds to the blessing of palms, or of branches of olive or other trees which are placed in front or on the epistle side of the altar.

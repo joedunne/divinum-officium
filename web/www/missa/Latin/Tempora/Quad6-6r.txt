@@ -8,6 +8,9 @@ Sabbato Sancto
 Full text
 Prefatio=Pasch;
 
+[Station]
+S. Giovanni in Laterano
+
 [Prelude]
 !!Benedictio ignis
 ! Hora competenti tobaleis cooperiuntur altaria, sed candelæ exstinctæ manent usque ad principium Missæ. Interim excutitur ignis de lapide, et ex eo accenduntur carbones.

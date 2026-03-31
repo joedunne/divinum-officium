@@ -9,6 +9,9 @@ ex Pasc0-0;
 Credo
 Sequentia
 
+[Station]
+Saint Paul Outside the Walls
+
 [Introitus]
 !Sir 15:3-4
 v. He gave them the water of wholesome wisdom to drink, alleluia; and it shall be made strong in him, and shall not be moved, alleluia, and it shall exalt them forever, allelúja, allelúja.

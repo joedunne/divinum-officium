@@ -13,6 +13,9 @@ Passio
 omit commemoratio incipit
 no Ultima Evangelium
 
+[Station]
+S. Giovanni in Laterano
+
 [Prelude]
 #Benedictio Palmorum
 ! Hora competenti, in choro post Tertiam, omissa aspersione aquæ, proceditur ad benedicendum ramos palmarum seu olivarum, sive aliarum arborum. Color paramentorum est rubeus. Celebrans induitur amictu, alba, cingulo, stola et pluviali; ministri sacri amictu, alba, cingulo, subdiaconus insuper tunicella, diaconus stola et dalmatica. Celebrans induitur amictu, alba, cingulo, stola et pluviali, vel manet sine casula.

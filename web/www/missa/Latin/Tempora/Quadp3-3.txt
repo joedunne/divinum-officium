@@ -15,6 +15,12 @@ Super populum
 Prelude
 (rubrica 1960) omit incipit
 
+[Station]
+S. Sabina all' Aventino
+
+[CollectStation]
+S. Anselmo
+
 [Prelude]
 #Benedictio cinerum
 !Antiphona.

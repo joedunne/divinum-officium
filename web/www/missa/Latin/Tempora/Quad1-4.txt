@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+S. Lorenzo in Panisperna
+
+[CollectStation]
+S. Agata del Goti
+
 [Introitus]
 !Ps 95:6
 v. Conféssio et pulchritúdo in conspéctu ejus: sánctitas et magnificéntia in sanctificatióne eius.

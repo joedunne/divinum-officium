@@ -14,6 +14,12 @@ Super popul
 (si rubrica 1960 et missa brevior) LectioL1
 LectioL5
 
+[Station]
+S. Pietro in Vaticano
+
+[CollectStation]
+S. Maria in Traspontina
+
 [Introitus]
 !Ps 87:3
 v. Intret orátio mea in conspéctu tuo: inclína aurem tuam ad precem meam, Dómine.

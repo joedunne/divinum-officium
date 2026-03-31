@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+S. Nicola in Carcere
+
+[CollectStation]
+S. Angelo in Pescheria
+
 [Introitus]
 !Isa 55:1
 v. Sitiéntes, veníte ad aquas, dicit Dóminus: et qui non habétis prétium, veníte et bíbite cum lætítia.

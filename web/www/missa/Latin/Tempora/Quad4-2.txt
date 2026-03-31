@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+S. Lorenzo in Damaso
+
+[CollectStation]
+S. Caterina dei Funari
+
 [Introitus]
 !Ps 54:2-3
 v. Exáudi, Deus, oratiónem meam, et ne despéxeris deprecatiónem meam: inténde in me et exáudi me.

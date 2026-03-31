@@ -11,6 +11,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+SS. Dodici Apostoli
+
+[CollectStation]
+S. Marco
+
 [Introitus]
 !Ps 24:17; 24:18
 v. De necessitátibus meis éripe me, Dómine: vide humilitátem meam et labórem meum, et dimítte ómnia peccáta mea.

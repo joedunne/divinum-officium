@@ -5,6 +5,9 @@ Christmas Eve;;Duplex I classis;;6.1
 no Gloria
 Tempora none
 
+[Station]
+Basilica of Saint Mary Major
+
 [Introitus]
 !Ex 16:6-7
 v. This day you shall know that the Lord will come, and save us: and in the morning you shall see His glory.

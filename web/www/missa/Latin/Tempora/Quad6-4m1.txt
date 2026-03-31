@@ -11,6 +11,9 @@ Prefatio=Chrismatis
 celebranda aut de missa chrismatis aut missa in coena Domini
 prelude
 
+[Station]
+S. Giovanni in Laterano
+
 [Prelude]
 !Benedictio olei catechumenorum et infirmorum, et confectio sacri chrismatis peraguntur secundum ordinem in Pontificali Romano descriptum.
 

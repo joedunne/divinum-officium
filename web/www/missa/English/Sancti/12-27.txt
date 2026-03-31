@@ -8,6 +8,9 @@ Prefatio=Nat
 (sed rubrica 196)
 ;;Duplex II class;;5.3;;ex C1
 
+[Station]
+Basilica of Saint Mary Major
+
 [Officium]
 St. John the Apostle, Evangelist
 

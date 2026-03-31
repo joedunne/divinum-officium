@@ -7,6 +7,9 @@ Prefatio=Nat
 [Rank]
 In Circumcisione Domini;;Duplex II classis;;5.09;;ex Sancti/12-25m3
 
+[Station]
+St. Mary in Trastevere
+
 [Introitus]
 @Tempora/Nat30
 

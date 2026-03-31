@@ -125,6 +125,9 @@ _
 _
 ! Ad locum autem repositionis sanctissimæ Eucharistiæ fit publica adoratio, inde ab expleta Missa in Cena Domini instituenda et protrahenda saltem usque ad mediam noctem.
 
+[Station]
+S. Giovanni in Laterano
+
 [Introitus]
 !Gal 6:14.
 v. Nos autem gloriári opórtet in Cruce Dómini nostri Jesu Christi: in quo est salus, vita et resurréctio nostra: per quem salváti et liberáti sumus.

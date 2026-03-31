@@ -16,6 +16,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Maria2;Papa,Ecclesiæ;;
 
+[Station]
+S. Paolo fuori le mura
+
 [Introitus]
 !Ps 43:23-26
 v. Exsúrge, quare obdórmis, Dómine? exsúrge, et ne repéllas in finem: quare fáciem tuam avértis, oblivísceris tribulatiónem nostram? adhæsit in terra venter noster: exsúrge, Dómine, ádjuva nos, et líbera nos.

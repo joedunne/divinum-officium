@@ -1,0 +1,74 @@
+@Tempora/Pasc6-6r
+
+[Officium]
+In vigilia Pentecostes
+
+[Rank]
+;;Feria privilegiata Duplex I classis;;7
+
+[Rule]
+Prelude
+Prefatio=Pent;
+
+[Station]
+Archbasilica of Saint John Lateran
+
+[Prelude]
+!In the Choir, after None has been said, the Priest and Ministers, dressed in vestments of violet color, approach the Altar; and having made a reverence, the Priest kisses it in the middle. Then the Prophecies are read without a title, the altar candles being extinguished until the beginning of the Mass, as on Holy Saturday. The Priest reads them in a low voice at the Altar on the Epistle side.
+_
+_
+!!The First Prophecy
+@Tempora/Quad6-6:Proph_Gen22
+_`
+!Oratio
+$Oremus
+v. O God, who in the deed of your servant Abraham provided examples of obedience to the human race; grant to us, both to break the wickedness of our own will, and to fulfill the righteousness of your precepts in all things.
+$Per Dominum
+_
+_
+!!The Second Prophecy
+@Tempora/Quad6-6:Proph_Exodi14
+_`
+!Oratio
+$Oremus
+v. O God, who in the times of old unlocked by the light of the New Testament the miracles then accomplished, so that the Red Sea was a figure of the sacred font, and the people delivered from Egyptian bondage prefigured the sacraments of the Christian people: grant that all nations, having obtained the privilege of Israel by the merit of faith, may be reborn by the participation of Thy Spirit.
+$Per Dominum eiusdem
+_
+_
+!!The Third Prophecy
+@Tempora/Quad6-6:Proph_Deut31
+_`
+!Oratio
+$Oremus
+v. O God, the glory of the faithful and the life of the just, who through Moses, your servant, have also instructed us by the harmony of a sacred song: work the gift of your mercy among all nations by granting blessedness and taking away terror; so that, what was pronounced as a punishment, may be changed into an eternal remedy.
+$Per Dominum
+_
+_
+!!The Forth Prophecy
+@Tempora/Quad6-6:Proph_Isa4
+_`
+!Oratio
+$Oremus
+v. Almighty and eternal God, who, through your only-begotten Son, have shown yourself to be the husbandman of your Church, mercifully cultivating every branch that bears fruit in that same Christ of yours, who is the true vine, so that it may bear more abundant fruit: let no thorns of sin prevail against your faithful, whom you have transplanted like a vineyard out of Egypt through the font of baptism; so that, fortified by the sanctification of your Spirit, they may be enriched with an everlasting harvest.
+$Per eundem
+_
+_
+!!The Fifth Prophecy
+@Tempora/Quad6-6:Proph_Baruch3
+_`
+!Oratio
+$Oremus
+v. O God, who through the mouths of the Prophets have commanded us to leave behind temporal things and to hasten toward those which are eternal: grant to your servants; that what we have known by your command, we may have the strength to fulfill by celestial inspiration.
+$Per Dominum
+_
+_
+!!The Sixth Prophecy
+@Tempora/Quad6-6:Proph_Ezech37
+_`
+!Oratio
+$Oremus
+v. O Lord, God of virtues, who repair what is fallen and preserve what is repaired: increase the peoples to be renewed in the sanctification of your name; so that all who are washed in holy baptism may be guided always by your inspiration.
+$Per Dominum
+_
+_
+@Tempora/Quad6-6:Benedictio Fontis
