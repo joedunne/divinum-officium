@@ -23,7 +23,7 @@ R. Amen.
 _
 _
 !! De benedictione cerei Paschalis
-! Novo igne benedicto, acolythus, seu ! unus ministrantium, portat cereum paschalem ! in medium, ante celebrantem, qui cum ! stilo, inter extrema foramina ad insertionem ! granorum incensi destinata, incidit ! crucem. Deinde facit super earn litteram ! græcam Alpha, subtus vero litteram Omega, ! et inter bracchia crucis quatuor numeros ! exprimentes annum currentem, interim ! dicens:
+! Novo igne benedicto, acolythus, seu unus ministrantium, portat cereum paschalem in medium, ante celebrantem, qui cum stilo, inter extrema foramina ad insertionem granorum incensi destinata, incidit crucem. Deinde facit super earn litteram græcam Alpha, subtus vero litteram Omega, et inter bracchia crucis quatuor numeros exprimentes annum currentem, interim dicens:
 r. Christus heri et hódie, (incidit hastam erectam)
 r. Princípium et Finis, (incidit hastam transversam)
 r. Alpha (incidit supra hastam erectam litteram &Alpha;)
@@ -33,7 +33,7 @@ r. et sǽcula; (incidit secundum numerum anni currentis in angulo dextro superio
 r. Ipsi gloria et imperium (incidit tertium numerum anni currentis in angulo sinistro inferiore crucis)
 r. per universa æternitátis sǽcula. Amen. (incidit quartum numerum anni currentis in angulo dextro inferiore crucis)
 _
-! Incisione crucis et aliorum signorum, ! quæ coloribus vel alio modo antea præparari ! possunt, peracta, diaconus, seu alius ! ministranttiun, præbet celebranti grana incensi, ! quæ idem celebrans, si non sunt benedicta ! ter aspergit et ter adolet incenso, ! nihil dicens. Deinde infigit quinque grana ! in foramina, interim dicens:
+! Incisione crucis et aliorum signorum, quæ coloribus vel alio modo antea præparari possunt, peracta, diaconus, seu alius ministranttiun, præbet celebranti grana incensi, quæ idem celebrans, si non sunt benedicta ter aspergit et ter adolet incenso, nihil dicens. Deinde infigit quinque grana in foramina, interim dicens:
 r. Per sua sancta vúlnera
 r. gloriósa
 r. custódiat
@@ -73,8 +73,8 @@ R. Deo grátias.
 _
 _
 !! De præconio paschali
-! Tunc celebrans vadit ad locum suum ! in choro, in latere Epistolæ; subdiaconus ! cum cruce stat in latere Evangelii, contra ! legile; clerus locum suum occupat in ! scamnis.
-! Diaconus deponit cereum paschalem in ! medio chori, supra parvum sustentaculum, ! et, postquam celebrans posuerit incensum ! in thuribulo, accipiens librum, petit benedictionem, ! dicens:
+! Tunc celebrans vadit ad locum suum in choro, in latere Epistolæ; subdiaconus cum cruce stat in latere Evangelii, contra legile; clerus locum suum occupat in scamnis.
+! Diaconus deponit cereum paschalem in medio chori, supra parvum sustentaculum, et, postquam celebrans posuerit incensum in thuribulo, accipiens librum, petit benedictionem, dicens:
 Iube, domne, benedícere.
 ! Et celebrans subiungit:
 Dóminus sit in corde tuo, et in lábiis tuis, ut digne et competénter annúntiem suum paschále præcónium: in nómine Patris, et Fílii, + et Spíritus Sancti.
@@ -243,7 +243,7 @@ V. Sancta Agatha. R. Ora pro nobis.
 V. Sancta Anastásia. R. Ora pro nobis.
 V. Omnes sanctæ Vírgines et Víduæ. R. Oráte pro nobis.
 V. Omnes Sancti et Sanctæ Dei. R. Intercédite pro nobis.
-! Postea, si ecclesia habet fontem baptismalem, ritus prosequitur ut ! infra.
+! Postea, si ecclesia habet fontem baptismalem, ritus prosequitur ut infra.
 _
 _
 !! De benedictione aquæ baptismalis
@@ -326,7 +326,7 @@ _
 v. Infúsio Chrísmatis Dómini nostri Iesu Christi, et Spíritus Sancti Parácliti, fiat in nómine santæ Trinitátis.
 R. Amen.
 _
-! Postea accipit ambas ampullas dicti olei sancti, et chrismatis, ! et de utroque simul in modum crucis infundendo, dicit:
+! Postea accipit ambas ampullas dicti olei sancti, et chrismatis, et de utroque simul in modum crucis infundendo, dicit:
 v. Commíxtio Chrísmatis sanctificatiónis, et Olei unctiónis, et aquæ baptísmatis, páriter fiat in nómine Pa + tris, et Fí + lii, et Spíritus + Sancti.
 R. Amen.
 _
@@ -476,7 +476,7 @@ _
 _
 ! Finita Epistola, celebrans incipit:
 S. Allelúia.
-! Et totum decantat ter, elevando vocem gradatim: et omnes ! post quamlibet vicem, in eodem tono, repetunt illud idem:
+! Et totum decantat ter, elevando vocem gradatim: et omnes post quamlibet vicem, in eodem tono, repetunt illud idem:
 C. Allelúia.
 _`
 !
