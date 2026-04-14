@@ -15,11 +15,11 @@ Archbasilica of Saint John Lateran
 
 [Introitus]
 !Ps 104:43
-v. He brought forth his people with joy, and his chosen with gladness, allelúja, allelúja.
+v. He brought forth his people with joy, and his chosen with gladness, alleluia, alleluia.
 !Ps 104:1
 v. Give glory to the Lord, and call upon his name: declare his deeds among the Gentiles.
 &Gloria
-v. He brought forth his people with joy, and his chosen with gladness, allelúja, allelúja.
+v. He brought forth his people with joy, and his chosen with gladness, alleluia, alleluia.
 
 [Oratio]
 Grant, we beseech thee, O Almighty God, that we who have kept worshipfully the Passover holidays, may at last worthily pass from keeping Feasts unto thee here to the everlasting jubilation hereafter. 
@@ -33,7 +33,7 @@ v. Beloved: Wherefore laying away all malice, and all guile, and dissimulations,
 [Graduale]
 Alleluia, alleluia
 !Ps 117:24
-This is the day the Lord has made; let us be glad and rejoice in it. Allelúja,
+This is the day the Lord has made; let us be glad and rejoice in it. Alleluia,
 !Ps 112:1
 V.  Praise the Lord, ye children: praise ye the name of the Lord.
 !
@@ -50,7 +50,7 @@ v.  In that time, on the first day of the week, Mary Magdalen cometh early, when
 
 [Offertorium]
 !Ps 117:26-27
-v.  Blessed be he that cometh in the name of the Lord. We have blessed you out of the house of the Lord. The Lord is God, and he hath shone upon us, allelúja, allelúja.
+v.  Blessed be he that cometh in the name of the Lord. We have blessed you out of the house of the Lord. The Lord is God, and he hath shone upon us, alleluia, alleluia.
 
 [Secreta]
 Grant us O Lord, we beseech thee, ever to rejoyce in these Paschal mysteries, that, by the continual application of our redemption we may come to endless happiness.
@@ -58,7 +58,7 @@ $Per Dominum
 
 [Communio]
 !Gal 3:27
-v.  For as many of you as have been baptized in Christ, have put on Christ, allelúja.
+v.  For as many of you as have been baptized in Christ, have put on Christ, alleluia.
 
 [Postcommunio]
 Invigorated by the gift of redemption, we beseech thee, O Lord, that by this means of eternal salvation, the true faith may prosper evermore. 

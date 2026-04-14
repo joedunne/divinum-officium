@@ -16,7 +16,7 @@ Credo
 Suffr=Maria1;Ecclesiae,Papa;;
 
 [Station]
-Church of the Holy Apostles
+Church of the Twelve Apostles
 
 [Introitus]
 !Isa 45:8

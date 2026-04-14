@@ -13,7 +13,7 @@ no Credo
 Suffr=Maria1;Ecclesiae,Papa;;
 
 [Station]
-Church of the Holy Apostles
+Church of the Twelve Apostles
 
 [Introitus]
 !Ps 118:151-152

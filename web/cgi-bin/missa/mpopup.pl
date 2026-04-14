@@ -68,16 +68,66 @@ $t = length($text);
 $width = ($t > 300) ? 600 : 400;
 $height = ($t > 300) ? $screenheight - 100 : 3 * $screenheight / 4;
 
+load_languages_data($lang1, $lang2, $langfb, $version, $missa);
+
+my $basedir = our $datafolder;
+
+my $devotion_sections2 = {};
+my $devotion_sections2 = setupstring_parse_file($basedir ."/English/Commune/Devotions.txt");
+my $devotion_sections1 = {};
+my $devotion_sections1 = setupstring_parse_file($basedir ."/Latin/Commune/Devotions.txt");
+
 #*** generate HTML
 # prints the requested item from prayers hash as popup
 htmlHead($title, 'setsize()');
-print "<H3 ALIGN=CENTER><FONT COLOR=MAROON><B><I>$title</I></B></FONT></H3>\n";
-my @script1 = ($text);
-my @script2 = (gettext($popup, $lang2));
-print_content($lang1, \@script1, $lang2, \@script2);
+print "<H2 ALIGN=CENTER id='H2_Litanies'><FONT COLOR=MAROON><B><I>Litanies</I></B></FONT></H2>\n";
+#my @script1 = ($text);
+#my @script2 = (gettext($popup, $lang2));
+#print_content($lang1, \@script1, $lang2, \@script2);
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of The Saints", ("LitanyOfTheSaints"));
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of The Most Precious Blood", ("LitanyOfTheMostPreciousBlood"));
+
+#Litany of the Sacred Heart
+#Litany of the Most Holy Name of Jesus
+#Litany of the Blessed Virgin (also called Litany of Loretto)
+#Litany of St. Joseph
+
+print "<H2 ALIGN=CENTER id='H2_EssentialPrayers'><FONT COLOR=MAROON><B><I>Essential Prayers</I></B></FONT></H2>\n";
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "The Angelus", ("Angelus"));
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "The Regina Caeli", ("ReginaCaeli"));
+
+#Athanasian Creed
+#Prayer before any work & Prayer after work
+#Antiphons to the Blessed Virgin
+
+
 print "<P ALIGN=CENTER><A HREF=# onclick=\"window.close()\">Close</A></P>";
 htmlEnd();
 
+sub print_prayer {
+  my ($lang1, $sections_lang1 ,$lang2, $sections_lang2, $title, @keys) = @_;
+
+  if (exists(${$sections_lang1}{$keys[0]}) and exists(${$sections_lang2}{$keys[0]})) {
+    print "<H3 ID='$keys[0]'>$title</H3>\n";
+  }
+  foreach my $item (@keys) {
+    if (exists(${$sections_lang1}{$item}) and exists(${$sections_lang2}{$item})) {
+      my @script1 = ();
+      my @script2 = ();
+      my $str1 = ${$sections_lang1}{$item};
+      my $str2 = ${$sections_lang2}{$item};
+      $str1 =  resolve_refs($str1, $lang1);
+      $str2 =  resolve_refs($str2, $lang2);
+
+      push(@script1, "\n");
+      push(@script1, split('_', $str1));
+      push(@script2, "\n");
+      push(@script2, split('_', $str2));
+
+      print_content($lang1, \@script1, $lang2, \@script2, 1);
+    }
+  }
+}
 #*** javascript functions
 sub horasjs {
   "function setsize() { window.resizeTo($width, $height); }";
@@ -93,11 +143,12 @@ sub gettext {
     Post => 'Post.txt',
   );
 
+#print STDERR " : popup $popup \n";
   # File must be one of those explicitly permitted.
   my $fname = $popup_files{$popup} or return 'Invalid filename.';
   $fname = checkfile($lang, "Ordo/$fname");
   $text = join("\n", do_read($fname)) or return "Cannot open $datafolder/$lang/Ordo/$fname.txt";
-  $text =~ s/[#!].*?\n//g unless $rubrics;
+  #$text =~ s/[#!].*?\n//g unless $rubrics;
   $text =~ s/#/!/g;
   $text = resolve_refs($text, $lang);
   return $text;

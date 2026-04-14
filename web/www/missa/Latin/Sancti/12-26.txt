@@ -13,7 +13,7 @@ Credo
 Prefatio=Nat
 
 [Station]
-S. Stefano Rotondo
+S. Stephani in Caelio Monte
 
 [Introitus]
 @Sancti/08-03

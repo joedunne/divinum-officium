@@ -743,8 +743,8 @@ sub ante_post {
   print "<TR><TD VALIGN='TOP' $colspan ALIGN='CENTER'>\n";
 
   if ($0 =~ /missa/) {
-    print "<A HREF=\"mpopup.pl?popup=$title&rubrics=$rubrics&lang1=$lang1&lang2=$lang2\" TARGET='_NEW'>$title</A>\n";
-    print "<FONT SIZE='1'>Missam</FONT></TD></TR>";
+    #print "<A HREF=\"mpopup.pl?popup=$title&rubrics=$rubrics&lang1=$lang1&lang2=$lang2\" TARGET='_NEW'>$title</A>\n";
+    #print "<FONT SIZE='1'>Missam</FONT></TD></TR>";
   } else {
     print "<INPUT TYPE='RADIO' NAME='link' onclick='linkit(\"\$$title\", 0, \"Latin\");'>\n";
     print "<FONT SIZE='1'>$title Divinum officium</FONT></TD></TR>";

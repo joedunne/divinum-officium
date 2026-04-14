@@ -28,5 +28,5 @@ $Per Dominum
 @Commune/C4b
 
 [Postcommunio]
-Cœléstibus refécti sacraméntis et gáudiis: súpplices te rogámus, Dómine; ut, quorum gloriámur triúmphis, protegámur auxíliis.
+Refreshed by heavenly sacraments and joys, we humbly beseech Thee, O Lord, that we may be protected by the help of those in whose triumphs we glory.
 $Per Dominum

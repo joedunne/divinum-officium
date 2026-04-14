@@ -10,7 +10,7 @@ Prefatio=Nat
 ;;Duplex II class;;5.4;;ex C2a
 
 [Station]
-St. Stephen in the Round
+St. Stephen's on the Coelian Hill
 
 [Officium]
 St. Stephen the First Martyr

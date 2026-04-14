@@ -56,4 +56,4 @@ $Per Dominum
 [Commemoratio Postcommunio]
 !Commemoratio Vigiliæ Immaculatæ Conceptionis
 Concéde, miséricors Deus, fragilitáti nostræ præsídium: ut, qui immaculátæ Conceptiónis Genetrícis unigéniti Fílii tui festivitátem prævenímus; intercessiónis ejus auxílio a nostris iniquitátibus resurgámus.
-$Per eúndem
+$Per eumdem
