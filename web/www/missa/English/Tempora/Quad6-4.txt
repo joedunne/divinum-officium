@@ -2,7 +2,7 @@
 ;;Feria privilegiata Duplex I classis;;7
 
 [Officium]
-Feria Quinta in Coena Domini
+Feria Quinta in Cœna Domini
 
 [Rule]
 celebranda aut de missa chrismatis aut missa in coena Domini
