@@ -20,6 +20,14 @@ O Lord, You have probed me and You know me; You know when I sit and when I stand
 &Gloria
 v. I know Whom I have believed, and I am certain that He is able to guard the trust committed to me, against that day; being a just Judge.
 
+[Oratio]
+@:Oratio Pauli
+(deinde dicuntur semper)
+_
+$Oremus
+(sed rubrica 196 omittuntur)
+@:Oratio Petri
+
 [Oratio Pauli]
 O God, Who taught the whole world by the preaching of Your blessed Apostle Paul, grant, we beseech You, that we who today celebrate his conversion may draw nearer to You by way of example.
 $Per Dominum
@@ -53,9 +61,19 @@ V.  Preacher of truth and teacher of the Gentiles in faith and verity.
 V.  By thee all nations have known the grace of God.
 V.  Pray for us to God Who chose thee.
 
+[Evangelium]
+@Commune/C5-1
+
 [Offertorium]
 !Ps 138:17
 To me, Your friends, O God, are made exceedingly honorable; their principality is exceedingly strengthened.
+
+[Secreta]
+@:Secreta Pauli
+(deinde dicuntur semper)
+_
+(sed rubrica 196 omittuntur)
+@:Secreta Petri
 
 [Secreta Pauli]
 O Lord, make holy the offerings of Your people, through the prayer of Paul, Your Apostle, that those things which You have established as pleasing to You may be more pleasing through his patronal intercession.
@@ -64,6 +82,17 @@ $Per Dominum
 [Secreta Petri]
 !For St. Peter
 @Sancti/02-22:Secreta Petri
+
+[Communio]
+@Commune/C5-1
+
+[Postcommunio]
+@:Postcommunio Pauli
+(deinde dicuntur semper)
+_
+$Oremus
+(sed rubrica 196 omittuntur)
+@:Postcommunio Petri
 
 [Postcommunio Pauli]
 Made holy by the sacrament of salvation, we beseech You, O Lord, that the prayers of him under whose patronal care You have granted us to be ruled may never fail us.

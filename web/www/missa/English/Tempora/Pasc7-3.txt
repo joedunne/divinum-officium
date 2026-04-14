@@ -12,6 +12,9 @@ Suffr=Ecclesiæ;Papa;;
 Credo
 Prefatio=Spiritu
 
+[Station]
+Basilica of Saint Mary Major
+
 [Introitus]
 !Ps 67:8-9
 v. O God, when You went forth at the head of Your people, making a passage for them, dwelling in their midst, alleluia: the earth quaked; it rained from heaven, alleluia, alleluia.

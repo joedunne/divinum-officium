@@ -743,8 +743,8 @@ sub ante_post {
   print "<TR><TD VALIGN='TOP' $colspan ALIGN='CENTER'>\n";
 
   if ($0 =~ /missa/) {
-    print "<A HREF=\"mpopup.pl?popup=$title&rubrics=$rubrics&lang1=$lang1&lang2=$lang2\" TARGET='_NEW'>$title</A>\n";
-    print "<FONT SIZE='1'>Missam</FONT></TD></TR>";
+    #print "<A HREF=\"mpopup.pl?popup=$title&rubrics=$rubrics&lang1=$lang1&lang2=$lang2\" TARGET='_NEW'>$title</A>\n";
+    #print "<FONT SIZE='1'>Missam</FONT></TD></TR>";
   } else {
     print "<INPUT TYPE='RADIO' NAME='link' onclick='linkit(\"\$$title\", 0, \"Latin\");'>\n";
     print "<FONT SIZE='1'>$title Divinum officium</FONT></TD></TR>";
@@ -934,9 +934,11 @@ sub bottom_links_menu {
 #*** html_dayhead($head, $subhead)
 # return day headline in html
 sub html_dayhead {
-  my ($head, $subhead) = @_;
+  my ($head, $subhead, $station) = @_;
 
   my $output = setfont(liturgical_color($head), $head);
+   #todo jjd station....
+  $output .= "<br/>\n</SPAN><SPAN> " . $station if $station;
 
   if ($subhead) {
     my ($pre, $main) = split(/: /, $subhead, 2);           # Split the pre-position from office title

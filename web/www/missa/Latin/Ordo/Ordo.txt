@@ -64,8 +64,6 @@ Benedícite, pater reverénde
 !Sacerdos benedicit incensum, dicens:
 Ab illo bene + dicáris, in cujus honóre cremáberis. Amen. 
 !Et, accepto thuribulo a Diacono, incensat Altare, nihil dicens.
-!Postea Diaconus, recepto thuribulo a Celebrante, incensat illum tantum. 
-!Sacerdos, accedit ad cornu Epistolæ et, signans se signo crucis, intelligibili voce incipit antiphonam ad Introitum: 
 
 # Introitus
 &introitus
@@ -154,7 +152,8 @@ v. Orémus.
 v. Súscipe, sancte Pater, omnípotens ætérne Deus, hanc immaculátam hóstiam, quam ego indígnus fámulus tuus óffero tibi Deo meo vivo et vero, pro innumerabílibus peccátis, et offensiónibus, et neglegéntiis meis, et pro ómnibus circumstántibus, sed et pro ómnibus fidélibus christiánis vivis atque defúnctis: ut mihi, et illis profíciat ad salútem in vitam ætérnam. Amen.
 
 !Deinde faciens crucem cum eadem Patena, deponit Hostiam super Corporale. Diaconus ministrat vinum, Subdiaconus aquam in Calice: vel si privata est Missa, utrumque infundit Sacerdos, et aquam miscendam in Calice benedicit signo crucis, dicens:
-v. Deus, + qui humánæ substántiæ dignitátem mirabíliter condidísti, et mirabílius reformásti: da nobis per hujus aquæ et vini mystérium, ejus divinitátis esse consórtes, qui humanitátis nostræ fíeri dignátus est párticeps, Jesus Christus, Fílius tuus, Dóminus noster: Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus: per ómnia sǽcula sæculórum. Amen.
+v. Deus, + qui humánæ substántiæ dignitátem mirabíliter condidísti, et mirabílius reformásti: da nobis per hujus aquæ et vini mystérium, ejus divinitátis esse consórtes, qui humanitátis nostræ fíeri dignátus est párticeps, Jesus Christus, Fílius tuus, Dóminus noster:
+Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus: per ómnia sǽcula sæculórum. Amen.
 
 !*D 
 !In Missis Defunctorum dicitur prædicta Oratio: sed aqua non benedicitur. 
@@ -263,7 +262,7 @@ v. Súpplices te rogámus, omnípotens Deus: jube hæc perférri per manus sanct
 v. Meménto étiam, Dómine, famulórum famularúmque tuárum N. et N., qui nos præcessérunt cum signo fídei, et dórmiunt in somno pacis.wait10 (Jungit manus, orat aliquántulum pro iis defunctis, pro quibus orare intendit, deinde extensis manibus prosequitur:) Ipsis, Dómine, et ómnibus in Christo quiescéntibus locum refrigérii, lucis, et pacis, ut indúlgeas, deprecámur. (Jungit manus, et caput inclinat, dicens:) Per eúndem Christum, Dóminum nostrum. Amen.
 
 !Manu dextera percutit sibi pectus, elata aliquantulum voce dicens:
-v. Nobis quoque peccatóribus (Extensis manibus ut prius, secrete prosequitur:) fámulis tuis, de multitúdine miseratiónum tuárum sperántibus, partem áliquam et societátem donáre dignéris, cum tuis sanctis Apóstolis et Martýribus: cum Joánne, Stéphano, Matthía, Bárnaba, Ignátio, Alexándro, Marcellíno, Petro, Felicitáte, Perpétua, Agatha, Lúcia, Agnéte, Cæcília, Anastásia, et ómnibus Sanctis tuis: intra quorum nos consórtium, non æstimátor mériti, sed véniæ, quǽsumus, largítor admítte. (Jungit manus.) Per Christum, Dóminum nostrum. 
+v. Nobis quoque peccatóribus fámulis tuis, de multitúdine miseratiónum tuárum sperántibus, partem áliquam et societátem donáre dignéris, cum tuis sanctis Apóstolis et Martýribus: cum Joánne, Stéphano, Matthía, Bárnaba, Ignátio, Alexándro, Marcellíno, Petro, Felicitáte, Perpétua, Agatha, Lúcia, Agnéte, Cæcília, Anastásia, et ómnibus Sanctis tuis: intra quorum nos consórtium, non æstimátor mériti, sed véniæ, quǽsumus, largítor admítte. (Jungit manus.) Per Christum, Dóminum nostrum.
 
 v. Per quem hæc ómnia, Dómine, semper bona creas, (Signat ter super Hostiam, et Calicem simul, dicens:) sanctí + ficas, viví + ficas, bene + dícis et præstas nobis.
 !Discooperit Calicem, genuflectit, accipit Hostiam inter pollicem et indicem manus dexteræ: et tenens sinistra Calicem, cum Hostia signat ter a labio ad labium Calicis, dicens:
@@ -402,7 +401,6 @@ R. Et cum spíritu tuo.
 &Ultimaev
 !Finito Evangelio sancti Joannis, discedens ab Altari, pro gratiarum actione dicit Ant. Trium puerórum, cum reliquis, ut habetur in principio Missalis.
 
-!*R
 # Orationes Leonis XIII
 !
 S. Ave María, grátia plena, Dóminus tecum, benedícta tu in muliéribus et benedíctus fructus ventris tui, Jesus.

@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+St. Lawrence in Damaso
+
+[CollectStation]
+St Catherine of the Ropemakers
+
 [Introitus]
 @Tempora/Quad4-2:Introitus
 

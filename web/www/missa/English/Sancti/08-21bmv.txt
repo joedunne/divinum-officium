@@ -7,5 +7,11 @@ Gloria
 CredoDA
 Prefatio=Maria=Assumptionis
 
+[Oratio]
+@Sancti/08-18bmv
+
+[Secreta]
+@Sancti/08-18bmv
+
 [Postcommunio]
 @Sancti/08-18bmv

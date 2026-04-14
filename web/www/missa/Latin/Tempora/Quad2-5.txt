@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+S. Vitale in Fovea
+
+[CollectStation]
+S. Agata dei Goti
+
 [Introitus]
 !Ps 16:15
 v. Ego autem cum justítia apparébo in conspéctu tuo: satiábor, dum manifestábitur glória tua.

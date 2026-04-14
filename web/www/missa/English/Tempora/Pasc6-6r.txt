@@ -11,6 +11,9 @@ no Credo
 Prefatio=Spiritu
 Suffr=Maria3;Ecclesiae,Papa;;
 
+[Station]
+Archbasilica of Saint John Lateran
+
 [Introitus]
 !Ez. 36:23-26.
 v. When I prove My holiness through you, I will gather you from all the foreign lands; and I will sprinkle clean water upon you to cleanse you from all your impurities; and I will give you a new spirit, alleluia, alleluia.

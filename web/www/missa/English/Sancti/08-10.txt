@@ -33,9 +33,7 @@ V. Though You try me with fire, You shall find no malice in me. Alleluia, allelu
 V. The Levite Lawrence wrought a good work, who by the sign of the Cross, gave sight to the blind. Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to John
-!John 12:24-26
-At that time, Jesus said to His disciples, Amen, amen, I say to you, unless the grain of wheat falls into the ground and dies, it remains alone. But if it dies, it brings forth much fruit. He who loves his life, loses it; and he who hates his life in this world, keeps it unto life everlasting. If anyone serves Me, let him follow Me; and where I am there also shall My servant be. If anyone serves me, My Father will honor him.
+@Sancti/02-01
 
 [Offertorium]
 !Ps 95:6

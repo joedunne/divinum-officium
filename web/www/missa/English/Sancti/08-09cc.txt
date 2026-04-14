@@ -10,6 +10,9 @@ St. Romanus, Martyr
 [Name]
 Romanus
 
+[Secreta]
+@Commune/C2
+
 [Postcommunio]
 We beseech You, O almighty God, that we who have eaten the food of heaven may find in it, by the intercession of blessed Romanus, Your Martyr, strength against all harm.
 $Per Dominum

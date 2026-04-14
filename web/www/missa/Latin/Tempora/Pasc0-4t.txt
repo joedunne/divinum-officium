@@ -10,6 +10,9 @@ Credo
 Sequentia
 Suffr=Ecclesiæ,Papa;;
 
+[Station]
+SS. Apostoli
+
 [Introitus]
 @Tempora/Pasc0-4:Introitus
 

@@ -8,6 +8,12 @@
 [Officium]
 Feria Quinta infra Hebdomadam IV in Quadragesima
 
+[Station]
+Saints Sylvester and Martin
+
+[CollectStation]
+Saints Quiricus and Julietta
+
 [Rule]
 no Gloria
 Suffragium=Sanctorum;Vivis;;

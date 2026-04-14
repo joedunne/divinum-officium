@@ -252,7 +252,7 @@ v. And we know that to them that love God, all things work together unto good, t
 @:Versum 1:1 s/V./R.br./ s/\, al.*/./
 @:Versum 1:1 s/V./R./ s/\, al.*/./
 @:Versum 1:2 s/R./V./ s/\, al.*/./
-@Psalterium/Common/Prayers:Alleluia Duplex: s/^/R. /
+@Psalterium/Common/Prayers:Alleluia Duplex:s/^/R. /
 &Gloria
 @:Versum 1:1 s/V./R./ s/\, al.*/./
 
@@ -265,7 +265,7 @@ $Deo gratias
 @:Nocturn 2 Versum:1 s/V./R.br./ s/\, al.*/./
 @:Nocturn 2 Versum:1 s/V./R./ s/\, al.*/./
 @:Nocturn 2 Versum:2 s/R./V./ s/\, al.*/./
-@Psalterium/Common/Prayers:Alleluia Duplex: s/^/R. /
+@Psalterium/Common/Prayers:Alleluia Duplex:s/^/R. /
 &Gloria
 @:Nocturn 2 Versum:1 s/V./R./ s/\, al.*/./
 

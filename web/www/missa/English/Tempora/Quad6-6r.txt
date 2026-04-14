@@ -8,8 +8,8 @@ Sabbato Sancto
 Full text
 Prefatio=Pasch;
 
-[TODO]
-Translate phrase below : Per Evangélica dicta, deleántur nostra delícta
+[Station]
+Archbasilica of Saint John Lateran
 
 [Prelude]
 !! The Blessing of the New Fire
@@ -512,11 +512,11 @@ P. The Lord be with you.
 S. And with thy spirit.
 !
 v. Continuation of the holy Gospel according to St. Matthew.
-R. Glória tibi, Dómine.
+R. Glory to you, Lord.
 !Matt 28:1-7
 And in the end of the Sabbath, when it began to dawn toward the first day of the week, came Mary Magdalen and the other Mary to see the sepulchre. And behold there was a great earthquake. For an Angel of the Lord descended from heaven, and coming, rolled back the stone and sat upon it: and his countenance was as lightening and his raiment as snow. And for fear of him the guards were struck with terror and became as dead men. And the Angel answering, said to the women: Fear not you: for I know that you seek Jesus who was crucified: He is not here: for He is risen, as He said. Come and see the place where the Lord was laid. And going quickly, tell ye His disciples that He is risen: and behold He will go before you into Galilee: there you shall see Him. Lo, I have foretold it to you.
-R. Laus tibi, Christe.
-S. Per Evangélica dicta, deleántur nostra delícta.
+R. Praise be to Thee, O Christ.
+S. By the words of the Gospel may our sins be blotted out.
 _
 _
 &DominusVobiscum

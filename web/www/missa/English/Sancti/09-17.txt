@@ -38,9 +38,15 @@ Continuation + of the Holy Gospel according to Matthew
 !Matt 16:24-27
 At that time, Jesus said to His disciples, If anyone wishes to come after Me, let him deny himself, and take up his cross, and follow Me. For he who would save his life will lose it; but he who loses his life for My sake will find it. For what does it profit a man, if he gain the whole world, but suffer the loss of his own soul? Or what will a man give in exchange for his soul? For the Son of Man is to come with His angels in the glory of His Father, and then He will render to everyone according to His conduct.
 
+[Offertorium]
+@Commune/C2
+
 [Secreta]
 Make holy the gifts dedicated to You, O Lord, and by the intercession of blessed Francis, cleanse us from every stain of sin.
 $Per Dominum
+
+[Communio]
+@Commune/C4
 
 [Postcommunio]
 O God, Who in many ways showed in blessed Francis the wondrous mysteries of the Cross, grant, we beseech You, that we may always follow the example of his holiness and be strengthened by unceasing meditation upon that very Cross.

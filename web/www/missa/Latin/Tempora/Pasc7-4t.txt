@@ -10,6 +10,9 @@ Sequentia
 Credo
 Prefatio=Spiritu=hodierna die;
 
+[Station]
+S. Lorenzo fuori le mura
+
 [Introitus]
 !Sap 1:7
 v. Spíritus Dómini replévit orbem terrárum, allelúja: et hoc quod cóntinet ómnia, sciéntiam habet vocis, allelúja, allelúja, allelúja.

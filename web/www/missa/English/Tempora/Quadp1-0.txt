@@ -16,6 +16,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Maria2;Sanctorum,Ecclesiæ;;
 
+[Station]
+St. Laurence Outside the Walls
+
 [Introitus]
 !Ps 17:5-7
 v. The terrors of death surged round me, the cords of the nether world enmeshed me. In my distress I called upon the Lord; from His holy temple He heard my voice.

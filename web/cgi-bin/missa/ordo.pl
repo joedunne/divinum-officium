@@ -43,7 +43,9 @@ sub anteOrdo() {
   }
   print "<H2 ID='AnteMissatop'>Orationes Ante Sancta Missa</H2>\n" if $content;
 
-  my @prepatoryPrayers = ("FormulaIntensionisAnteMissam", "ActOfOblationBeforeMass", "ForSinners","ForTheChurch",
+  my @prepatoryPrayers = (#"FormulaIntensionisAnteMissam",
+  "PrayerBeforeMass", #"ActOfOblationBeforeMass",
+  "ForSinners","ForTheChurch",
   "ForTheFaithful","InPreparationToReceiveCommunion","CommemorateThePassionOfChrist","ActOfFaith","ActOfHope",
   "ActOfCharity","ActOfHumility","LetTheReceivingOfThyBody","PrayerStThomasAquinasBeforeMass","PrayerStAmbroseBeforeMass","PrayerBlessedVirginMaryBeforeMass",
   "PrayerStJosephBeforeMass","AllTheAngelsAndSaintsBeforeMass","SaintInWhoseHonorMassIsCelebrated","FormingOfOnesIntention","SoulsLongingForGod"
@@ -67,6 +69,7 @@ sub postOrdo() {
 
   my @thanksgiving = ("ThanksgivingAfterMass", "SaintThomasAquinas", "SaintBonaventure","PrayerToJesusInThanksgiving",
   "HymnStThomasAquinas","PrayerToOurLord","AnimaChristi","PrayerStAugustine","ObsecroTe",
+  "PrayerToJesusCrucified","OfferingOfAllMassesWorld", "AnOblationAfterMass","ActOfResignation","PrayerForPerseverance",
 #  "PrayerBlessedVirgin1","PrayerBlessedVirgin2",
   "PrayerBlessedVirginMaryAfterHolyMass","PrayerStPadrePio","PrayerBeforeCrucifix","Psalm95","PrayerStJosephAfterMass","AllThingsNecessarySalvation"
 #  ,"TrinitarianAfterMass1","TrinitarianAfterMass2","TrinitarianAfterMass3","TrinitarianAfterMass4","TrinitarianAfterMass5",
@@ -124,20 +127,30 @@ sub ordo {
   }
 
   if ($rule =~ /Post Missam/i) {
-    my $str = $winner{'Post Missam'};
+    my $str = format_string($winner{'Post Missam'});
 
     # $str = norubr1($str);
     push(@script1, split('_', $str));
 
     if (!$only) {
-      $str = $winner2{'Post Missam'};
-
+      $str = format_string($winner2{'Post Missam'});
       # $str = norubr1($str);
       push(@script2, split('_', $str));
     }
   }
 
   print_content($lang1, \@script1, $lang2, \@script2, 1);
+}
+
+sub format_string() {
+    my ($str) = @_;
+
+    if ($str && $str !~ /^\s*$/) {
+            $str =~ s/(?<!\() \( ([^()]*?) \) (?!\))/setfont($smallfont, $1)/egx;
+            $str =~ s/\(\(/(/g;
+            $str =~ s/\)\)/)/g;
+          }
+    return $str;
 }
 
 #*** resolve_refs($text_of_block, $lang)

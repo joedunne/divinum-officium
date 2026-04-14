@@ -10,6 +10,9 @@ Credo
 Sequentia
 Suffr=Ecclesiae,Papa;;
 
+[Station]
+St. Lawrence Outside the Walls
+
 [Introitus]
 @Tempora/Pasc0-3:Introitus
 
@@ -26,7 +29,7 @@ v. In that time, Peter opened his mouth and said: Men of Israel, and you who fea
 Alleluia, alleluia
 !Ps 117:24; 117:16
 V.  This is the day which the Lord hath made: let us be glad and rejoice therein.
-V. The right hand of the Lord hath wrought strength: the right hand of the Lord hath exalted me: Allelúja,allelúja.
+V. The right hand of the Lord hath wrought strength: the right hand of the Lord hath exalted me: Alleluia, alleluia.
 !Luke 24:34
 V. The Lord is risen indeed, and hath appeared to Simon.
 
@@ -40,7 +43,7 @@ v.  In that time, Jesus shewed himself again to the disciples at the sea of Tibe
 
 [Offertorium]
 !Ps 77:23-25
-v.  And he had opened the doors of heaven,  and had given them the bread of heaven. Man ate the bread of angels: allelúja.
+v.  And he had opened the doors of heaven,  and had given them the bread of heaven. Man ate the bread of angels: alleluia.
 
 [Secreta]
 Amidst the joys of Easter, we offer unto thee, O Lord, the sacrifice wherewith thy Church is wonderfully fed and nourished.
@@ -48,7 +51,7 @@ $Per Dominum
 
 [Communio]
 !Rom 6:9
-v. Christ rising again from the dead, dieth now no more, death shall no more have dominion over him, allelúja, allelúja.
+v. Christ rising again from the dead, dieth now no more, death shall no more have dominion over him, alleluia, alleluia.
 
 [Postcommunio]
 O Lord, we beseech Thee, that we, reverently receiving thy Sacrament, may be cleansed from all our former defilement, and became new creature. 

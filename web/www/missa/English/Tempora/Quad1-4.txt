@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+St. Lawrence in Panisperna
+
+[CollectStation]
+St. Agatha of the Goths
+
 [Introitus]
 !Ps 95.6.
 v. Splendor and majesty go before Him; praise and grandeur are in His sanctuary.

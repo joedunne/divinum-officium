@@ -14,6 +14,9 @@ Prefatio=Quad
 Suffragium=Sanctorum;Vivis;;
 Super populum
 
+[Station]
+The Holy Martyrs John and Paul
+
 [Introitus]
 !Ps 29:11
 v. The Lord has heard, and has had pity on me; the Lord became my helper.

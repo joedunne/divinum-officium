@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+St. Nicholas in Prison
+
+[CollectStation]
+Holy Angel in the Fishmarket
+
 [Introitus]
 !Isa 55:1
 v. All you who thirst, come to the waters, says the Lord: and you who have no money, come and drink with joy.

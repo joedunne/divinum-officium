@@ -10,6 +10,9 @@ Credo
 Sequentia
 Suffr=Ecclesiæ,Papa;;
 
+[Station]
+S. Maria ad Martyres
+
 [Introitus]
 !Ps 77:53
 v. Edúxit eos Dóminus in spe, allelúja: et inimícos eórum opéruit mare, allelúja, allelúja, allelúja.

@@ -13,6 +13,9 @@ Sequentia
 Credo
 Prefatio=Spiritu=hodierna die;
 
+[Station]
+S. Pietro in Vaticano
+
 [Introitus]
 !Rom 5:5.
 v. Cáritas Dei diffúsa est in córdibus nostris, allelúja: per inhabitántem Spíritum ejus in nobis, allelúja, allelúja.

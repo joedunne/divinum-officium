@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 use utf8;
+use Data::Dumper;
 
-#áéíóöõúüûÁÉ
 # Name : Laszlo Kiss
 # Date : 03-30-10
 # Sancta Missa
@@ -281,12 +281,71 @@ print <<"PrintTag";
 </BODY></HTML>
 PrintTag
 
+sub getStation {
+
+     my $basedir = our $datafolder;
+     my $stationDayName = "$dayname[0]-$dayofweek";
+
+     my $station_sections = {};
+     my $station_sections = setupstring_parse_file($basedir ."/English/Tempora/".$stationDayName.".txt");
+     my $station_sections_latin = {};
+     my $station_sections_latin = setupstring_parse_file($basedir ."/Latin/Tempora/".$stationDayName.".txt");
+
+#     print STDERR "stationDayName=$stationDayName : winner=$winner\n";
+
+  if (exists(${$station_sections}{"Station"})) {# $station =~ /$suffix$/) {
+     my $stationEnglish = ${$station_sections}{"Station"};
+     my $stationLatin = ${$station_sections_latin}{"Station"};
+
+     my $collectStationEnglish = "";
+     my $collectStationLatin = "";
+     $stationEnglish =~ s/[\n\s]+$//;
+     $stationLatin =~ s/[\n\s]+$//;
+     if (exists(${$station_sections}{"CollectStation"})) {
+         $collectStationEnglish = ${$station_sections}{"CollectStation"};
+         $collectStationLatin = ${$station_sections_latin}{"CollectStation"};
+         $collectStationEnglish =~ s/[\n\s]+$//;
+         $collectStationLatin =~ s/[\n\s]+$//;
+         #$collectStationEnglish .= " to ";
+         #$collectStationLatin .= " to ";
+         #print STDERR " : Station at $collectStationEnglish to $stationEnglish ($collectStationLatin to $stationLatin)\n";
+         return "Collect at $collectStationEnglish <br/>($collectStationLatin)<br/>Station at $stationEnglish <br/>($stationLatin)";
+     }
+     #print STDERR " : Station at $collectStationEnglish$stationEnglish ($collectStationLatin$stationLatin)\n";
+
+     return "Station at $stationEnglish <br/>($stationLatin)";
+  }
+
+   #Now look for station in the winner:
+   $station_sections = {};
+   $station_sections = setupstring_parse_file($basedir ."/English/".$winner);
+   $station_sections_latin = {};
+   $station_sections_latin = setupstring_parse_file($basedir ."/Latin/".$winner);
+   if (exists(${$station_sections}{"Station"})) {
+     my $stationEnglish = ${$station_sections}{"Station"};
+     my $stationLatin = ${$station_sections_latin}{"Station"};
+
+     $stationEnglish =~ s/[\n\s]+$//;
+     $stationLatin =~ s/[\n\s]+$//;
+     #print STDERR " : Station at $stationEnglish ($stationLatin)\n";
+
+     return "Station at $stationEnglish <br/>($stationLatin)";
+  }
+
+#  if (exists($winner{Station})) {# $station =~ /$suffix$/) {
+#       print STDERR " : Station at " . getitem("Station", "English");
+#       return "Station at " . getitem("Station", "English");
+#    }
+
+  return "";
+}
+
 #*** hedline($head) prints headlibe for main and pray
 sub headline {
   my $head = shift;
   my $numsel = setmissanumber();
   $numsel = "<BR/><BR/>$numsel<BR/>" if $numsel;
-  my $headline = html_dayhead(setheadline(), $dayname[2]);
+  my $headline = html_dayhead(setheadline(), $dayname[2], getStation());
   print qq(<P ALIGN="CENTER">$headline</P>\n);
   return if our $content;
 

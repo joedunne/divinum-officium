@@ -8,6 +8,9 @@ Sabbato Sancto
 Full text
 Prefatio=Pasch;
 
+[Station]
+S. Giovanni in Laterano
+
 [Proph_Gen22]
 !Gen 22:1-19.
 !
@@ -85,8 +88,10 @@ V. Dóminus vobíscum.
 R. Et cum spíritu tuo.
 v. Orémus.
 Omnípotens sempitérne Deus, réspice propítius ad devotiónem pópuli renascéntis, qui, sicut cervus, aquárum tuárum éxpetit fontem: et concéde propítius; ut fídei ipsíus sitis, baptísmatis mystério, ánimam corpúsque sanctíficet.
+(sed tempore Paschali)
 Concéde, quǽsumus, omnípotens Deus: ut, qui sollemnitátem doni Sancti Spíritus cólimus, cœléstibus desidériis accénsi, fontem vitæ sitiámus.
 $Per Dominum
+(sed tempore Paschali)
 $Per Dominum eiusdem
 _
 ! Postea procedit ad benedictionem Fontis, dicens:
@@ -183,7 +188,7 @@ _
 r. Sancte Stéphane, ora pro nobis.
 r. Sancte Laurentius, ora pro nobis.
 r. Sancte Vincénti, ora pro nobis.
-r. Omnes sancti Mártyres, oráte.
+r. Omnes sancti Mártyres, oráte pro nobis.
 _
 r. Sancte Silvéster, ora pro nobis.
 r. Sancte Gregóri, ora pro nobis.
@@ -203,7 +208,7 @@ r. Sancta Agnes, ora pro nobis.
 r. Sancta Cæcília, ora pro nobis.
 r. Sancta Agatha, ora pro nobis.
 r. Sancta Anastásia, ora pro nobis.
-r. Omnes sanctæ Vírgines et Víduæ, ora pro nobis.
+r. Omnes sanctæ Vírgines et Víduæ, oráte pro nobis.
 r. Omnes Sancti et Sanctæ Dei, intercédite pro nobis.
 _
 r. Propítius esto, parce nobis, Dómine.

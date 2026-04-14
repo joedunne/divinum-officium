@@ -8,6 +8,8 @@ vide C5b;
 
 [Officium]
 S. Maur, Abbot
+(sed rubrica 1930)
+S. Maur, Abbot
 
 [Name]
 Maur

@@ -11,6 +11,9 @@ Prefatio=Quad5
 Communicantes
 Post Missam
 
+[Station]
+S. Giovanni in Laterano
+
 [Introitus]
 !Gal 6:14.
 v. Nos autem gloriári opórtet in Cruce Dómini nostri Jesu Christi: in quo est salus, vita et resurréctio nostra: per quem salváti et liberáti sumus

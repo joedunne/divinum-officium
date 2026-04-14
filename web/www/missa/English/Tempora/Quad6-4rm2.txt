@@ -18,6 +18,9 @@ no Benedictio
 no Ultima Evangelium
 celebranda aut de missa chrismatis aut missa in coena Domini
 
+[Station]
+Archbasilica of Saint John Lateran
+
 [Introitus]
 !Gal 6:14.
 v. But it behooves us to glory in the cross of Our Lord Jesus Christ: in Whom is our salvation, life, and resurrection; by whom we are saved and delivered.
@@ -26,7 +29,7 @@ May God have mercy on us, and bless us: may He cause the light of His countenanc
 v. But it behooves us to glory in the cross of Our Lord Jesus Christ: in Whom is our salvation, life, and resurrection; by whom we are saved and delivered.
 
 [Oratio]
- O God, from whom Judas received the punishment of his guilt, and the thief the reward of his confession: grant unto us the full fruit of Thy clemency; that even as in His Passion, our Lord Jesus Christ gave to each a retribution according to his merits, so having taken away our old sins, He may bestow upon us the grace of His Resurrection. Who with Thee liveth and reigneth in the unity of the Holy Ghost, God, world without end.
+O God, from whom Judas received the punishment of his guilt, and the thief the reward of his confession: grant unto us the full fruit of Thy clemency; that even as in His Passion, our Lord Jesus Christ gave to each a retribution according to his merits, so having taken away our old sins, He may bestow upon us the grace of His Resurrection. Who with Thee liveth and reigneth in the unity of the Holy Ghost, God, world without end.
 $Qui tecum
 
 [Lectio]
@@ -54,10 +57,10 @@ $Qui tecum
 
 [Communio]
 !Joann 13: 12, 13, 15
- The Lord Jesus, after He had supped with His disciples, washed their feet, and said to them: Know you what I, your Lord and Master, have done to you? I gave you an example, that you also may do likewise.
+The Lord Jesus, after He had supped with His disciples, washed their feet, and said to them: Know you what I, your Lord and Master, have done to you? I gave you an example, that you also may do likewise.
 
 [Postcommunio]
- Strengthened with life-giving Food, we beseech Thee, O Lord, our God, that what we do in our mortal life may bring us to the reward of life immortal with Thee. 
+Strengthened with life-giving Food, we beseech Thee, O Lord, our God, that what we do in our mortal life may bring us to the reward of life immortal with Thee.
 $Per Dominum
 
 [Communicantes]
@@ -181,14 +184,11 @@ R. Amen.
 !
 !
 
-[TODO]
-Translate directions Post Missam
-
 [Post Missam]
 !!Pange Lingua
-! Missa expleta, statim proceditur ad ! solemnem translationem et repositionem  ! Sacramenti, quod ad Communionem sequenti ! die faciendam in pyxide asservatur.
-! Pro solemni Sacramenti repositione ! paretur locus aptus in aliquo sacello vel altari ! ecclesiæ, ac decenter, quoad fieri potest, ! ornetur velis et luminaribus; atque, servatis ! Sacræ Rituum Congregationis decretis ! de vitandis vel tollendis abusibus in hoc ! loco parando, plane commendatur severitas ! quæ liturgiæ horum dierum convenit.
-! In translatione et repositione vero ! Sacramenti proceditur hoc modo: ! Accenduntur intorticia, et fit processio ! more solito. ! Si haberi potest, alius subdiaconus paratus ! ferat crucem; secus unus ex clericis vel ! ministrantibus. ! Celebrans, stans ante altare, imponit ! incensum in duobus thuribulis, absque ! benedictione. Deinde, in medio genuflexus, ter ! incensat Sacramentum. ! Tune assumit velum humerale albi ! coloris, et ascendens altare in medio, facta ! genuflexione, stans, accipit pyxidem, quam ! diaconus ei porrigit, et extremitatibus veli ! cooperit. ! Deinde, de altari descendens, procedit ! sub baldachino, duobus acolythis, vel ! ministrantibus, Sacramentum continue ! incensantibus, usque ad locum paratum. ! Ministri sacri, vel ministrantes, comitantur ! celebrantem, a dextris et a sinistris ! procedentes. ! Dum fit processio, cantatur hymnus Pange, ! lingua, gloriosi Corporis mysterium, ! usque ad verba Tantum ergo; si vero opus ! sit, idem hymnus repetitur.
+! The Mass being finished, it proceeds immediately to the solemn transfer and repositioning of the Sacrament, which is kept in the pyx for the Communion to be made on the following day.
+! For the solemn repositioning of the Sacrament, a suitable place shall be prepared in some chapel or altar of the church, and it shall be decorated, as far as possible, with veils and lights; and, while observing the decrees of the Sacred Congregation of Rites regarding the avoidance or removal of abuses in the preparation of this place, the severity which befits the liturgy of these days is clearly recommended.
+! In the transfer and repositioning of the Sacrament, one proceeds in this manner: Torches are lit, and a procession is formed in the usual way. If available, another vested subdeacon carries the cross; otherwise, one of the clerics or servers [does so]. The celebrant, standing before the altar, puts incense into two thuribles without a blessing. Then, kneeling in the center, he incenses the Sacrament three times. He then puts on a white humeral veil and, ascending to the center of the altar and genuflecting, he stands and takes the pyx, which the deacon hands to him, and covers it with the ends of the veil. Then, descending from the altar, he proceeds under a canopy—with two acolytes or servers continually incensing the Sacrament—to the prepared place. The sacred ministers or servers accompany the celebrant, walking on his right and left. While the procession takes place, the hymn Pange, lingua, gloriosi Corporis mysterium is sung up to the words Tantum ergo; if necessary, the same hymn is repeated.
 _
 v. Sing, my tongue, the Saviour's glory:
 Of His Flesh the mystery sing;
@@ -218,7 +218,7 @@ What though sense no change discerns,
 Only be the heart in earnest,
 Faith her lesson quickly learns. 	
 _
-! Cum autem ventum fuerit ad locum ! paratum, celebrans, adiuvante, si opus sit, ! diacono, deponit pyxidem super altare, ! genuflectit, et incensat, thure iterum imposito ! interim canitur Tantum ergo. 
+! When they have arrived at the prepared place, the celebrant, with the assistance of the deacon if necessary, places the pyx upon the altar, genuflects, and incenses it, incense having been put [in the thurible] again; meanwhile, Tantum ergo is sung.
 v. Down in adoration falling,
 Lo, the Sacred Host we hail,
 Lo, o'er ancient forms departing
@@ -234,16 +234,16 @@ Be salvation, honor, blessing,
 Might and endless majesty.
 Amen.
 _
-! Deinde diaconus, vel ipse celebrans, ! reponit pyxidem in tabernaculo seu capsa.
+! Then the deacon, or the celebrant himself, replaces the pyx in the tabernacle.
 _
-! Postea, omnes, genibus flexis, per ! aliquod temporis spatium in silentio Sacramentum ! adorant. Signo dato, celebrans et ! ministri sacri, et ministrantes, surgunt, ! iterum, genibus flexis, adorant, et revertuntur ! in sacristiam, ubi celebrans et ministri sacri ! deponunt paramenta albi coloris; deinde ! celebrans et diaconus assumunt stolam ! violaceam.
+! Postea, omnes, genibus flexis, per aliquod temporis spatium in silentio Sacramentum adorant. Signo dato, celebrans et ministri sacri, et ministrantes, surgunt, iterum, genibus flexis, adorant, et revertuntur in sacristiam, ubi celebrans et ministri sacri deponunt paramenta albi coloris; deinde celebrans et diaconus assumunt stolam violaceam.
 _
-! Si autem plures pyxides transferendæ ! sint, idem celebrans (vel, si habeantur, alius ! sacerdos, aut diaconus, indutus superpelliceo ! stola alba et velo humerali eiusdem ! coloris) eas transferat ad locum destinatum, ! antequam incipiat altarium denudationem, ! forma quidem simplici, scilicet comitantibus ! duobus acolythis, vel ministrantibus, cum ! cereis accensis, alioque umbellam portante.
+! Afterward, all, with knees bent, adore the Sacrament in silence for a certain space of time. At a given signal, the celebrant, the sacred ministers, and the servers rise, adore again with knees bent, and return to the sacristy, where the celebrant and sacred ministers put off the white-colored vestments; then the celebrant and the deacon put on the violet stole.
 _
 _
 !!Stripping the altar
 _
-! Deinde celebrans et ministri, seu ! ministrantes, exeunt ante altare maius; facta ! eidem reverentia, stantes, incipiunt ! denudationem altarium, hoc modo: ! Celebrans dicit clara voce sequentem ! antiphonam:
+! Then the celebrant and the ministers, or servers, go out before the high altar; having made a reverence to it, standing, they begin the stripping of the altars in this manner: the celebrant says the following antiphon in a clear voice:
 _
 _
 !Antiphon
@@ -251,7 +251,7 @@ _
 Ant. They parted my garments amongst them; and upon my vesture they cast lots.
 ~(21:2) O God my God, look upon me: why hast thou forsaken me? * Far from my salvation are the words of my sins.
 ~(21:3) O my God, I shall cry by day, and thou wilt not hear: * and by night, and it shall not be reputed as folly in me.
-~(21:4) But thou dwellest in the holy place, * the praise of Israel. 
+~(21:4) But thou dwellest in the holy place, * the praise of Israel.
 ~(21:5) In thee have our fathers hoped: * they have hoped, and thou hast delivered them.
 ~(21:6) They cried to thee, and they were saved: * they trusted in thee, and were not confounded.
 ~(21:7) But I am a worm, and no man: * the reproach of men, and the outcast of the people.
@@ -285,8 +285,8 @@ Ant. They parted my garments amongst them; and upon my vesture they cast lots.
 ~(21:32) There shall be declared to the Lord a generation to come: * and the heavens shall shew forth his justice to a people that shall be born, which the Lord hath made.
 Ant. They parted my garments amongst them; and upon my vesture they cast lots.
 _
-! Clerici, si adsunt, prosequuntur recitationem ! huius psalmi, usque dum altarium ! denudatio peracta sit; alioquin celebrans dicat ! antiphonam et primum tantum versum ! psalmi ante denudationem altaris maioris. ! Celebrans vero cum ministris sacris, vel ! ministrantibus, denudat omnia altaria ! ecclesiæ, excepto illo in quo Sacramentum ! solemniter adoratur. ! Altaribus denudatis, redeunt ad altare ! maius, et, repetita a celebrante antiphona ! Dividunt, revertuntur in sacristiam.
+! The clerics, if they are present, continue the recitation of this psalm until the stripping of the altars has been completed; otherwise, the celebrant shall say the antiphon and only the first verse of the psalm before the stripping of the high altar. Then the celebrant, with the sacred ministers or servers, strips all the altars of the church, except that one in which the Sacrament is solemnly adored. Once the altars have been stripped, they return to the high altar, and, the antiphon Dividunt having been repeated by the celebrant, they return to the sacristy.
 _
-! Mox in choro dicitur Completorium, ! candelis exstinctis et absque cantu.
+! Soon, Compline is said in the choir, with the candles extinguished and without chant.
 _
-! Ad locum autem repositionis sanctissimæ ! Eucharistiæ fit publica adoratio, inde ! ab expleta Missa in Cena Domini instituenda ! et protrahenda saltem usque ad ! mediam noctem.
+! Moreover, at the place of repositioning of the Most Holy Eucharist, public adoration is to be established from the end of the Mass of the Lord's Supper and continued at least until midnight.

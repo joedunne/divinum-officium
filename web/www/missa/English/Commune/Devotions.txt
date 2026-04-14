@@ -1,0 +1,342 @@
+[LitanyOfTheMostPreciousBlood]
+#Litany of the Most Precious Blood of Our Lord Jesus Christ
+Lord, have mercy. (Lord, have mercy.)
+Christ, have mercy. (Christ, have mercy.)
+Lord, have mercy. (Lord, have mercy.)
+_
+&nonbreakingspace
+_
+Christ, hear us. (Christ, hear us.)
+Christ, graciously hear us. (Christ, graciously hear us.)
+_
+&nonbreakingspace
+_
+God the Father of Heaven, (have mercy on us.)
+God the Son, Redeemer of the world, (have mercy on us.)
+God, the Holy Spirit, (have mercy on us.)
+Holy Trinity, One God, (have mercy on us.)
+Blood of Christ, only-begotten Son of the eternal Father, save us.
+Blood of Christ, Incarnate Word of God, save us.
+Blood of Christ, of the New and Eternal Testament, save us.
+Blood of Christ, falling upon the earth in Agony, save us.
+Blood of Christ, shed profusely in the Scourging, save us.
+Blood of Christ, flowing forth in the Crowning with Thorns, save us.
+Blood of Christ, poured out on the Cross, save us.
+Blood of Christ, price of our salvation, save us.
+Blood of Christ, without which there is no forgiveness, save us.
+Blood of Christ, Eucharistic drink and refreshment of souls, save us.
+Blood of Christ, stream of mercy, save us.
+Blood of Christ, victor over demons, save us.
+Blood of Christ, courage of Martyrs, save us.
+Blood of Christ, strength of Confessors, save us.
+Blood of Christ, bringing forth Virgins, save us.
+Blood of Christ, help of those in peril, save us.
+Blood of Christ, relief of the burdened, save us.
+Blood of Christ, solace in sorrow, save us.
+Blood of Christ, hope of the penitent, save us.
+Blood of Christ, consolation of the dying, save us.
+Blood of Christ, peace and tenderness of hearts, save us.
+Blood of Christ, pledge of eternal life, save us.
+Blood of Christ, freeing souls from purgatory, save us.
+Blood of Christ, most worthy of all glory and honor, save us.
+_
+&nonbreakingspace
+_
+Lamb of God, who taketh away the sins of the world, (spare us, O Lord.)
+Lamb of God, who taketh away the sins of the world, (graciously hear us, O Lord.)
+Lamb of God, who taketh away the sins of the world, (have mercy on us, O Lord.)
+Thou hast redeemed us, O Lord, in Thy Blood. (And made us, for our God, a kingdom.)
+_
+&nonbreakingspace
+_
+!Oratio
+$Oremus
+V. Almighty and eternal God, Thou hast appointed Thine only-begotten Son the Redeemer of the world and willed to be appeased by his blood. Grant, we beg of Thee, that we may worthily adore this price of our salvation and through its power be safeguarded from the evils of the present life so that we may rejoice in its fruits forever in heaven. Through the same Christ our Lord. (Amen.)
+
+[LitanyOfTheSaints]
+#Litany of the Saints
+v. Lord, have mercy on us.
+Christ, have mercy on us.
+Lord, have mercy on us.
+Christ, hear us.
+Christ, graciously hear us.
+_
+&nonbreakingspace
+_
+r. God the Father of Heaven, have mercy on us.
+God the Son, Redeemer of the world, have mercy on us.
+God the Holy Spirit, have mercy on us.
+Holy Trinity, one God, have mercy on us.
+_
+&nonbreakingspace
+_
+r. Holy Mary, pray for us.
+Holy Mother of God, pray for us.
+Holy Virgin of Virgins, pray for us.
+St. Michael, pray for us.
+St. Gabriel, pray for us.
+St. Raphael, pray for us.
+All holy Angels and Archangels, pray for us.
+All holy orders of blessed spirits, pray for us.
+_
+&nonbreakingspace
+_
+r. St. John the Baptist, pray for us.
+St. Joseph, pray for us.
+All holy Patriarchs and Prophets, pray for us.
+St. Peter, pray for us.
+St. Paul, pray for us.
+St. Andrew, pray for us.
+St. James, pray for us.
+St. John, pray for us.
+St. Thomas, pray for us.
+St. James, pray for us.
+St. Philip, pray for us.
+St. Bartholomew, pray for us.
+St. Matthew, pray for us.
+St. Simon, pray for us.
+St. Thaddeus, pray for us.
+St. Matthias, pray for us.
+St. Barnabas, pray for us.
+St. Luke, pray for us.
+St. Mark, pray for us.
+All holy Apostles and Evangelists, pray for us.
+All holy Disciples of the Lord, pray for us.
+_
+&nonbreakingspace
+_
+r. All Holy Innocents, pray for us.
+St. Stephen, pray for us.
+St. Lawrence, pray for us.
+St. Vincent, pray for us.
+SS. Fabian and Sebastian, pray for us.
+SS. John and Paul, pray for us.
+SS. Cosmas and Damian, pray for us.
+SS. Gervase and Protase, pray for us.
+All holy Martyrs, pray for us.
+St. Sylvester, pray for us.
+St. Gregory, pray for us.
+St. Ambrose, pray for us.
+St. Augustine, pray for us.
+St. Jerome, pray for us.
+St. Martin, pray for us.
+St. Nicholas, pray for us.
+All holy Bishops and Confessors, pray for us.
+All holy Doctors, pray for us.
+St. Anthony, pray for us.
+St. Benedict, pray for us.
+St. Bernard, pray for us.
+St. Dominic, pray for us.
+St. Francis, pray for us.
+All holy Priests and Levites, pray for us.
+All holy Monks and Hermits, pray for us.
+_
+&nonbreakingspace
+_
+r. St. Mary Magdalen, pray for us.
+St. Agatha, pray for us.
+St. Lucy, pray for us.
+St. Agnes, pray for us.
+St. Cecilia, pray for us.
+St. Catherine, pray for us.
+St. Anastasia, pray for us.
+All holy Virgins and Widows, pray for us.
+All holy Saints of God, intercede for us.
+_
+&nonbreakingspace
+_
+r. Be merciful, Spare us, O Lord.
+Be merciful, Hear us, O Lord.
+From all evil, Spare us, O Lord.
+From all sin, Spare us, O Lord.
+From thy anger, Spare us, O Lord
+From a sudden and unprovided death, Spare us, O Lord.
+From the snares of the devil, Spare us, O Lord.
+From anger, and hatred, and every evil will, Spare us, O Lord.
+From the spirit of fornication, Spare us, O Lord.
+From lightning and storms, Spare us, O Lord.
+From the scourge of earthquake, Spare us, O Lord.
+From plague, famine, and war, Spare us, O Lord.
+From everlasting death, Spare us, O Lord.
+Through the mystery of thy holy Incarnation, Spare us, O Lord.
+Through thy Coming, Spare us, O Lord.
+Through thy Birth, Spare us, O Lord.
+Through thy Baptism and holy Fasting, Spare us, O Lord.
+Through thy Cross and Passion, Spare us, O Lord.
+Through thy Death and Burial, Spare us, O Lord.
+Through thy holy Resurrection, Spare us, O Lord.
+Through thy admirable Ascension, Spare us, O Lord.
+Through the coming of the Holy Spirit, the Paraclete, Spare us, O Lord.
+In the day of Judgment, Spare us, O Lord.
+_
+&nonbreakingspace
+_
+r. We sinners, We beg of thee, hear us.
+That thou wouldst spare us, We beg of thee, hear us.
+That thou wouldst pardon us, We beg of thee, hear us.
+That thou wouldst kindly bring us to true penance, We beg of thee, hear us.
+That thou wouldst kindly govern and preserve thy holy Church, We beg of thee, hear us.
+That thou wouldst kindly preserve in holy religion the Pope and all clerics in holy orders, We beg of thee, hear us.
+That thou wouldst kindly humble the enemies of holy Church, We beg of thee, hear us.
+That thou wouldst kindly give peace and true concord to Christian kings and princes, We beg of thee, hear us.
+That thou wouldst kindly grant peace and unity to the whole Christian world, We beg of thee, hear us.
+That thou wouldst restore to the unity of the Church all who have strayed from the truth and lead all infidels to the light of the Gospel, We beg of thee, hear us.
+That thou wouldst kindly confirm and preserve us in thy holy service, We beg of thee, hear us.
+That thou wouldst kindly lift up our minds to heavenly desires, We beg of thee, hear us.
+That thou wouldst kindly give eternal blessings to all our benefactors, We beg of thee, hear us.
+That thou wouldst kindly deliver our souls, and the souls of our brethren, relations, and benefactors from eternal damnation, We beg of thee, hear us.
+That thou wouldst kindly give and preserve the fruits of the earth, We beg of thee, hear us.
+That thou wouldst kindly grant eternal rest to all the faithful departed, We beg of thee, hear us.
+That thou wouldst be so kind as to answer our prayers Son of God, We beg of thee, hear us.
+Son of God, we beseech Thee, hear us.
+_
+&nonbreakingspace
+_
+r. Lamb of God, who takest away the sins of the world, spare us, O Lord.
+r. Lamb of God, who takest away the sins of the world, graciously hear us, O Lord.
+r. Lamb of God, who takest away the sins of the world, have mercy on us.
+_
+&nonbreakingspace
+_
+r. Christ, hear us,
+Christ, graciously hear us.
+Lord, have mercy on us.
+Christ, have mercy on us.
+Lord, have mercy on us.
+_
+&nonbreakingspace
+_
+r. Our Father.. (silently)….
+V. And lead us not into temptation,
+R. But deliver us from evil. Amen.
+_
+&nonbreakingspace
+_
+!Psalm 69
+r. Deign, O Lord, to rescue me;
+O Lord, make haste to help me.
+Let them be put to shame and confounded who seek my life.
+Let them be turned back in disgrace who desire my ruin.
+Let them retire in their shame who say to me, "Aha, aha!"
+But may all who seek Thee exult and be glad in Thee,
+And may those who love Thy salvation say ever, "God be glorified!"
+But I am afflicted and poor;
+O God, hasten to me!
+Thou art my help and my deliverer;
+O Lord, hold not back!
+_
+&nonbreakingspace
+_
+r. Glory be to the Father, and to the Son, and to the Holy Ghost.
+As it was in the beginning, is now, and ever shall be, world without end. Amen.
+_
+&nonbreakingspace
+_
+V. Save thy servants.
+R. Who hope in thee, O God.
+V. Be to us, O Lord, a tower of strength.
+R. Against the power of the enemy.
+V. Let not the enemy prevail against us.
+R. Nor the son of evil have power to hurt us.
+V. Lord, deal not with us according to our sins.
+R. Nor requite us according to our evil doings.
+V. Let us pray for our Sovereign Pontiff~
+r. N.
+R. The Lord watch over him and give him life and happiness on earth, and deliver him not to the will of his enemies.
+V. Let us pray for our benefactors.
+R. Be so kind, O Lord, as to give eternal life to all those who do us good, for thy name's sake. Amen.
+V. Let us pray for the faithful departed.
+R. Eternal rest give unto them, O Lord, and let perpetual light shine upon them.
+V. May they rest in peace.
+R. Amen.
+V. For our brethren who are not with us.
+R. Save thy servants who put their trust in thee, O God.
+V. Send them help, O Lord, from thy holy place.
+R. And from Sion protect them.
+V. O Lord, hear my prayer.
+R. And let my cry come unto you.
+$Dominus vobiscum
+_
+&nonbreakingspace
+_
+!Prayer
+$Oremus
+r. O God, it is according to thy nature always to show mercy and forgiveness. Receive our petition that we and all thy servants, bound by the chains of sin, may, by thy tender mercy, be pardoned.
+r. We beg thee, O Lord, hear our prayers as we kneel before thee. Pardon our sins, as we confess them to thee, so that thou mayest, in thy kindness, give us pardon as well as peace.
+r. In thy kindness show us, O Lord, thy unutterable mercy, and at one and the same time free us from all our sins, and snatch us away from the punishment which we deserve for them.
+r. O God, thou art offended by sin, and placated by penance. Look with favor upon the prayers of thy people kneeling before thee. Turn away the scourges of thine anger which we have deserved for our sins.
+r. Almighty, everlasting God, have mercy on thy servant~
+r. N., our Sovereign Pontiff. Direct him, according to thy mercy into the path of eternal salvation so that, by thy grace, he may both desire those things that are pleasing to thee, and may perform them with all his strength.
+r. O God, from whom all holy desires, all good counsels, and all just works do proceed; Give unto thy servants that peace which the world cannot give, so that, with our hearts set to obey thy commandments, and freed from the fear of the enemy, we may pass our lives in peace under thy protection.
+r. Inflame our hearts and our desires, O Lord, with the fire of the Holy Spirit, so that we may serve thee with a chaste body, and please thee with a pure heart.
+r. O God, thou art the creator and redeemer of all the faithful. Grant to the souls of thy servants departed the remission of all their sins, so that by our faithful prayers they may obtain the pardon they have always desired.
+r. We beg thee, O Lord, to direct our actions by thy holy inspiration, and carry them forward by thy gracious assistance, so that every prayer and work of ours may always begin with thee, and, begun through thee, be happily ended.
+r. Almighty and everlasting God, who hast dominion over the living and the dead and who art merciful to all whom thou foreknowest shall be thine by faith and good works, we humbly beg of thee, that they for whom we have intended to pour out our prayers, whether this present world still detains them in the flesh, or whether the world to come has already received them out of their bodies, may, through the prayers of all thy saints, by thy merciful goodness obtain the remission of all their sins.
+$Per Dominum
+$Dominus vobiscum
+V. May the almighty and merciful Lord graciously hear us.
+R. Amen.
+$Fidelium animae
+
+[Angelus]
+#The Angelus
+V. The angel of the Lord declared unto Mary;
+R. And she conceived of the Holy Spirit.
+_
+&nonbreakingspace
+_
+<i>Hail Mary...</i>
+_
+&nonbreakingspace
+_
+V. Behold the handmaid of the Lord:
+R. Be it done unto me according to Thy word.
+_
+&nonbreakingspace
+_
+<i>Hail Mary...</i>
+_
+&nonbreakingspace
+_
+V. And the Word was made flesh:
+R. And dwelt among us.
+_
+&nonbreakingspace
+_
+<i>Hail Mary...</i>
+_
+&nonbreakingspace
+_
+V. Pray for us, O Holy Mother of God.
+R. That we may be made worthy of the promises of Christ.
+_
+&nonbreakingspace
+_
+!Prayer
+$Oremus
+r. Pour forth, we beseech Thee, O Lord, Thy grace into our hearts, that we, to whom the Incarnation of Christ Thy Son was made known by the message of an Angel, may by His passion and cross, be brought to the glory of His resurrection.
+r. Through the same Christ our Lord.
+Amen.
+
+[ReginaCaeli]
+#Regina Cæli
+V. Queen of Heaven, rejoice, alleluia.
+R. For He whom you did merit to bear, alleluia.
+_
+&nonbreakingspace
+_
+V. Has risen, as he said, alleluia.
+R. Pray for us to God, alleluia.
+_
+&nonbreakingspace
+_
+V. Rejoice and be glad, O Virgin Mary, alleluia.
+R. For the Lord has truly risen, alleluia.
+_
+&nonbreakingspace
+_
+!Prayer
+$Oremus
+r. O God, who gave joy to the world through the resurrection of Thy Son, our Lord Jesus Christ, grant we beseech Thee, that through the intercession of the Virgin Mary, His Mother, we may obtain the joys of everlasting life.
+r. Through the same Christ our Lord.
+Amen.

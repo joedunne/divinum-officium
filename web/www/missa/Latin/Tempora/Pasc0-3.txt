@@ -10,6 +10,9 @@ Credo
 Sequentia
 Suffr=Ecclesiæ,Papa;;
 
+[Station]
+S. Lorenzo fuori le mura
+
 [Introitus]
 !Matt 25:34
 v. Veníte, benedícti Patris mei, percípite regnum, allelúja: quod vobis parátum est ab orígine mundi, allelúja, allelúja, allelúja.

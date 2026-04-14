@@ -13,6 +13,9 @@ no Gloria
 Credo
 Prefatio=Nat
 
+[Station]
+S. Paolo fuori le mura
+
 [Introitus]
 !Ps 8:3
 v. Ex ore infántium, Deus, et lacténtium perfecísti laudem propter inimicos tuos.
@@ -49,10 +52,9 @@ V. Sancti tui, Dómine, florébunt sicut lílium, et sicut odor bálsami erunt a
 
 [Tractus]
 !Ps 78:3; 78:10
-Effudérunt sánguinem Sanctórum, velut aquam, in circuitu Jerúsalem,
-V. Et non erat, qui sepelíret.
-V.Víndica, Dómine, sánguinem
-Sanctórum tuórum, qui effúsus est super terram.
+They have shed the blood of the Saints like water, round about Jerusalem.
+V. And there was no one to bury them.
+V. Avenge, O Lord, the blood of Thy Saints, which has been shed upon the earth.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secundum Matthǽum

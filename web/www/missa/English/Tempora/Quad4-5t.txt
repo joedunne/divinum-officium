@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+St. Eusebius
+
+[CollectStation]
+Saints Vitus and Modestus
+
 [Introitus]
 @Tempora/Quad4-5:Introitus
 

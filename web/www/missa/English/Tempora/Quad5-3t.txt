@@ -14,6 +14,12 @@ Suffragium=Ecclesiae,Papa;;
 Prefatio=Quad5
 Super popul
 
+[Station]
+St, Marcellus at the Corso
+
+[CollectStation]
+St. Mark
+
 [Introitus]
 !Ps 17:48-49
 v. My deliverer from the angry nations; truly above my adversaries You exalt me and from the violent man You have rescued me, O Lord.

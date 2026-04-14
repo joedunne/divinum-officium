@@ -1,11 +1,10 @@
-[ThanksgivingAfterMass]
 # Thanksgiving after Mass
 _
 !Pope Leo XIII on the 20th of December 1884, allowed a one year indulgence for any priest saying the Canticle Tres pueri, Psalm 150 and the accompanied antiphons, versicles and prayers, and the prayers of Saint Thomas Aquinas and Saint Bonaventure as below.
 Ant. Let us sing the hymn of the three children * which these holy ones sang of old in the fiery furnace, giving praise to the Lord. (Alleluia.)
 !The antiphon is only duplicated on feasts of double rite.
 !Canticum trium Puerorum
-!Dan. 3, 57-88 et 56
+!Dan. 3, 57-88, 56
 V. All ye works of the Lord, bless the Lord: * praise and exalt him above all for ever.
 V. O ye angels of the Lord, bless the Lord: * O ye heavens, bless the Lord.
 V. O all ye waters that are above the heavens, bless the Lord: * O all ye powers of the Lord, bless the Lord

@@ -12,6 +12,9 @@ Gloria
 Credo
 Prefatio=Asc
 
+[Station]
+S. Pietro in Vaticano
+
 [Introitus]
 !Acta 1:11
 v. Viri Galilǽi, quid admirámini aspiciéntes in cœlum? allelúja: quemádmodum vidístis eum ascendéntem in cœlum, ita véniet, allelúja, allelúja, allelúja.

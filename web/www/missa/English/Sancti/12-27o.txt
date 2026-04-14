@@ -8,6 +8,9 @@ Gloria
 Credo
 Prefatio=Nat
 
+[Station]
+Basilica of Saint Mary Major
+
 [Graduale]
 !John 21:23, 19
 This saying therefore went abroad among the brethren, that that disciple was not to die. But Jesus had not said, He is not to die.

@@ -6,3 +6,7 @@ vide C5;
 
 [Officium]
 St. Isidore the Farmer, Confessor
+
+[Oratio]
+Grant us, we beseech Thee, merciful God, through the intercession of blessed Isidore the Farmer, Thy Confessor, not to savor of pride; but by his merits and examples, to serve Thee always with a humility pleasing to Thee.
+$Per Dominum

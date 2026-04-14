@@ -5,7 +5,10 @@ Credo
 Prefatio=Nat
 
 [Rank]
-In Circumcisione Domini;;Duplex II classis;;5.1;;ex Sancti/12-25m3
+In Circumcisione Domini;;Duplex II classis;;5.09;;ex Sancti/12-25m3
+
+[Station]
+St. Mary in Trastevere
 
 [Introitus]
 @Tempora/Nat30
@@ -13,6 +16,14 @@ In Circumcisione Domini;;Duplex II classis;;5.1;;ex Sancti/12-25m3
 [Oratio]
 O God, Who by the fruitful virginity of blessed Mary, have bestowed upon mankind the reward of eternal salvation, grant, we beseech You, that we may enjoy the intercession of her through whom we have been found worthy to receive among us the author of life, our Lord Jesus Christ, Your Son,
 $Qui tecum
+
+[Commemoratio Oratio] (rubrica tridentina)
+!Pro S. Stephano Protomartyre
+@Sancti/08-03:Oratio
+!Pro S. Joanne Evangelista
+@Sancti/12-27:Oratio
+!Pro Ss. Innocentibus
+@Sancti/12-28:Oratio
 
 [Lectio]
 Lesson from the letter of St. Paul the Apostle to Titus
@@ -32,8 +43,27 @@ V. God, Who in diverse ways spoke in times past to the fathers by the prophets; 
 [Offertorium]
 @Tempora/Nat30
 
+[Secreta]
+@Commune/C2a
+
+[Commemoratio Secreta] (rubrica tridentina)
+!Pro S. Stephano Protomartyre
+@Sancti/08-03:Secreta
+!Pro S. Joanne Evangelista
+@Sancti/12-27:Secreta
+!Pro Ss. Innocentibus
+@Sancti/12-28:Secreta
+
 [Communio]
 @Tempora/Nat30
 
 [Postcommunio]
 @Commune/C10b
+
+[Commemoratio Postcommunio] (rubrica tridentina)
+!Pro S. Stephano protomartire
+@Sancti/08-03:Postcommunio
+!Pro S. Joanne Evangelista
+@Commune/C5:Postcommunio
+!Pro Ss. Innocentibus
+@Sancti/12-28:Postcommunio

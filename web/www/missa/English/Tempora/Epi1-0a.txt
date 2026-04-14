@@ -22,7 +22,7 @@ O Lord, we beseech You, in Your heavenly goodness, hear Your people who pray to 
 $Per Dominum
 
 [Commemoratio Oratio]
-!Pro Octavam Epiphaniæ
+!For the Octave of Epiphany
 @Sancti/01-06:Oratio
 
 [Lectio]
@@ -47,7 +47,7 @@ When Jesus was twelve years old, they went up to Jerusalem according to the cust
 Sing joyfully to God, all you lands; serve the Lord with gladness; come before Him with joyful song. Know that the Lord is God.
 
 [Commemoratio Secreta]
-!Pro Octavam Epiphaniæ
+!For the Octave of Epiphany
 @Sancti/01-06:Secreta
 
 [Secreta]
@@ -63,5 +63,5 @@ O Almighty God, grant, we humbly beseech You, that those whom You refresh with Y
 $Per Dominum
 
 [Commemoratio Postcommunio]
-!Pro Octavam Epiphaniæ
+!For the Octave of Epiphany
 @Sancti/01-06:Postcommunio

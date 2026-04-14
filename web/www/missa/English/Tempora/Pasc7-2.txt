@@ -10,6 +10,9 @@ Sequentia
 Credo
 Prefatio=Spiritu
 
+[Station]
+St. Anastasia
+
 [Introitus]
 !Esdr 2:36-37
 v. Receive the joy of your glory, alleluia: giving thanks to God, alleluia, who has called you to the heavenly kingdom, alleluia, alleluia, alleluia.

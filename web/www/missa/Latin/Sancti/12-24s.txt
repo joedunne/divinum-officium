@@ -8,6 +8,9 @@ no Gloria
 no Gloria
 Tempora none
 
+[Station]
+S. Maria Maggiore
+
 [Introitus]
 @Sancti/12-24:Introitus
 

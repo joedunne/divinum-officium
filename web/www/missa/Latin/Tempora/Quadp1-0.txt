@@ -16,6 +16,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Maria2;Sanctorum,Ecclesiæ;;
 
+[Station]
+S. Lorenzo fuori le mura
+
 [Introitus]
 !Ps 17:5; 17:6; 17:7
 v. Circumdedérunt me gémitus mortis, dolóres inférni circumdedérunt me: et in tribulatióne mea invocávi Dóminum, et exaudívit de templo sancto suo vocem meam.

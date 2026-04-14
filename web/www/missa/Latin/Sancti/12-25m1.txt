@@ -7,6 +7,9 @@ Credo
 Prefatio=Nat
 celebranda aut missa prima aut missa secunda aut missa tertia
 
+[Station]
+S. Maria Maggiore Ad Altare Praesepis
+
 [Introitus]
 !Ps 2:7.
 v. Dóminus dixit ad me: Fílius meus es tu, ego hódie génui te.

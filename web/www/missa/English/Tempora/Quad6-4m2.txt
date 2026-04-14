@@ -13,6 +13,9 @@ Post Missam
 no Pax
 celebranda aut de missa chrismatis aut missa in coena Domini
 
+[Station]
+Archbasilica of Saint John Lateran
+
 [Introitus]
 !Gal 6:14
 v. But it behooves us to glory in the cross of Our Lord Jesus Christ: in Whom is our salvation, life, and resurrection; by whom we are saved and delivered.
@@ -21,7 +24,7 @@ May God have mercy on us, and bless us: may He cause the light of His countenanc
 v. But it behooves us to glory in the cross of Our Lord Jesus Christ: in Whom is our salvation, life, and resurrection; by whom we are saved and delivered.
 
 [Oratio]
- O God, from whom Judas received the punishment of his guilt, and the thief the reward of his confession: grant unto us the full fruit of Thy clemency; that even as in His Passion, our Lord Jesus Christ gave to each a retribution according to his merits, so having taken away our old sins, He may bestow upon us the grace of His Resurrection. Who with Thee liveth and reigneth in the unity of the Holy Ghost, God, world without end.
+O God, from whom Judas received the punishment of his guilt, and the thief the reward of his confession: grant unto us the full fruit of Thy clemency; that even as in His Passion, our Lord Jesus Christ gave to each a retribution according to his merits, so having taken away our old sins, He may bestow upon us the grace of His Resurrection. Who with Thee liveth and reigneth in the unity of the Holy Ghost, God, world without end.
 $Qui tecum
 
 [Lectio]
@@ -37,7 +40,7 @@ V. For which cause God also exalted Him and hath given Him a Name which is above
 [Evangelium]
 Continuation ++ of the holy Gospel according to John
 !Joann 13:1-15
- Before the festival-day of the Pasch, Jesus knowing that His hour was come, that He should pass out of this world to the Father, having loved His own who were in the world. He loved them unto the end. And when supper was done the devil having now put into the heart of Judas, the son of Simon the Iscariot, to betray Him, knowing that the Father had given Him all things into His hands and that He came from God and goeth to God: He riseth from supper and layeth aside His garments and, having taken a towel, girded Himself. After that, He putteth water into a basin and began to wash the feet of the disciples and to wipe them with the towel wherewith He was girded. He cometh therefore to Simon Peter. And Peter saith to Him: Lord, dost Thou wash my feet? Jesus answered and said to him: What I do, thou knowest not now: but thou shalt know hereafter. Peter saith to Him: Thou shalt never wash my feet. Jesus answered him: If I wash thee not, thou shalt have no part with Me. Simon Peter saith to Him: Lord, not only my feet, but also my hands and my head. Jesus saith to him: He that is washed needeth not but to wash his feet, but is clean wholly. And you are clean, but not all. For He knew who he was that would betray Him; therefore He said: You are not all clean. Then after He had washed their feet and taken His garments, being set down again, He said to them: Know you what I have done to you? You call Me Master and Lord. And you say well; for so I am. If then I being your Lord and Master, have washed your feet, you also ought to wash one another's feet. For I have given you an example, that as I have done to you, so you do also.
+Before the festival-day of the Pasch, Jesus knowing that His hour was come, that He should pass out of this world to the Father, having loved His own who were in the world. He loved them unto the end. And when supper was done the devil having now put into the heart of Judas, the son of Simon the Iscariot, to betray Him, knowing that the Father had given Him all things into His hands and that He came from God and goeth to God: He riseth from supper and layeth aside His garments and, having taken a towel, girded Himself. After that, He putteth water into a basin and began to wash the feet of the disciples and to wipe them with the towel wherewith He was girded. He cometh therefore to Simon Peter. And Peter saith to Him: Lord, dost Thou wash my feet? Jesus answered and said to him: What I do, thou knowest not now: but thou shalt know hereafter. Peter saith to Him: Thou shalt never wash my feet. Jesus answered him: If I wash thee not, thou shalt have no part with Me. Simon Peter saith to Him: Lord, not only my feet, but also my hands and my head. Jesus saith to him: He that is washed needeth not but to wash his feet, but is clean wholly. And you are clean, but not all. For He knew who he was that would betray Him; therefore He said: You are not all clean. Then after He had washed their feet and taken His garments, being set down again, He said to them: Know you what I have done to you? You call Me Master and Lord. And you say well; for so I am. If then I being your Lord and Master, have washed your feet, you also ought to wash one another's feet. For I have given you an example, that as I have done to you, so you do also.
 
 [Offertorium]
 !Ps 117: 16, 17
@@ -49,21 +52,18 @@ $Qui tecum
 
 [Communio]
 !Joann 13: 12, 13
- The Lord Jesus, after He had supped with His disciples, washed their feet, and said to them: Know you what I, your Lord and Master, have done to you? I gave you an example, that you also may do likewise.
+The Lord Jesus, after He had supped with His disciples, washed their feet, and said to them: Know you what I, your Lord and Master, have done to you? I gave you an example, that you also may do likewise.
 
 [Postcommunio]
- Strengthened with life-giving Food, we beseech Thee, O Lord, our God, that what we do in our mortal life may bring us to the reward of life immortal with Thee. 
+Strengthened with life-giving Food, we beseech Thee, O Lord, our God, that what we do in our mortal life may bring us to the reward of life immortal with Thee.
 $Per Dominum
 
-[TODO]
-Translate phrase in Communicantes: ejúsdem Dei et Dómini nostri Jesu Christ
-
 [Communicantes]
-v. Communicating and celebrating the most sacred day in which our Lord Jesus Christ was betrayed for us: and also honoring in the first place the memory of the glorious and ever Virgin Mary Genetrícis ejúsdem Dei et Dómini nostri Jesu Christi: sed and of the blessed Apostles and Martyrs Peter and Paul, Andrew, James, John, Thomas, James, Philip, Bartholomew, Matthew, Simon, and Thaddeus; Linus, Cletus, Clement, Xystus, Cornelius, Cyprian, Lawrence, Chrysogonus, John and Paul, Cosmas and Damian, and of all Thy Saints, through whose merits and prayers, grant that we may in all things be defended by the help of Thy protection. (He joins his hands.) Through the same Christ our Lord. Amen.
+v. Communicating and celebrating the most sacred day in which our Lord Jesus Christ was betrayed for us: and also honoring in the first place the memory of the glorious and ever Virgin Mary mother of our God and Lord Jesus Christ: and of the blessed Apostles and Martyrs Peter and Paul, Andrew, James, John, Thomas, James, Philip, Bartholomew, Matthew, Simon, and Thaddeus; Linus, Cletus, Clement, Xystus, Cornelius, Cyprian, Lawrence, Chrysogonus, John and Paul, Cosmas and Damian, and of all Thy Saints, through whose merits and prayers, grant that we may in all things be defended by the help of Thy protection. (He joins his hands.) Through the same Christ our Lord. Amen.
 _
 _
 ! Tenens manus expansas super Oblata, dicit: 
- v. We therefore beseech Thee, O Lord, graciously to accept this offering of our service, and that of Thy whole family, which we make to Thee in memory of the day on which our Lord Jesus Christ gave to His disciples the Mysteries of His Body and Blood to be celebrated; and to dispose our day in Thy peace preserve us from eternal damnation, and rank us in the number of Thine Elect. (He joins his hands.) Through the same Christ our Lord. Amen.
+v. We therefore beseech Thee, O Lord, graciously to accept this offering of our service, and that of Thy whole family, which we make to Thee in memory of the day on which our Lord Jesus Christ gave to His disciples the Mysteries of His Body and Blood to be celebrated; and to dispose our day in Thy peace preserve us from eternal damnation, and rank us in the number of Thine Elect. (He joins his hands.) Through the same Christ our Lord. Amen.
 _
 _
 v. Which oblation do Thou, O God, vouchsafe in all respects, (He signs thrice the oblation with the Sign of the Cross.) to bless, + approve, + ratify, + make worthy and acceptable; (He signs again the Host and chalice with the Sign of the Cross.) that it may be made for us the Body + and Blood + of Thy most beloved Son Jesus Christ our Lord. 
@@ -126,7 +126,7 @@ _
 Ant. They parted my garments amongst them; and upon my vesture they cast lots.
 ~(21:2) O God my God, look upon me: why hast thou forsaken me? * Far from my salvation are the words of my sins.
 ~(21:3) O my God, I shall cry by day, and thou wilt not hear: * and by night, and it shall not be reputed as folly in me.
-~(21:4) But thou dwellest in the holy place, * the praise of Israel. 
+~(21:4) But thou dwellest in the holy place, * the praise of Israel.
 ~(21:5) In thee have our fathers hoped: * they have hoped, and thou hast delivered them.
 ~(21:6) They cried to thee, and they were saved: * they trusted in thee, and were not confounded.
 ~(21:7) But I am a worm, and no man: * the reproach of men, and the outcast of the people.

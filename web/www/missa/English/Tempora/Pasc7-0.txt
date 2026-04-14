@@ -10,6 +10,9 @@ Sequentia
 Credo
 Prefatio=Spiritu=today;
 
+[Station]
+St. Peter's Basilica
+
 [Introitus]
 !Wis 1:7.
 v. The Spirit of the Lord fills the world, alleluia, is all-embracing, and knows man’s utterance, alleluia, alleluia, alleluia.

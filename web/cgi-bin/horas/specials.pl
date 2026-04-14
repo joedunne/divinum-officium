@@ -614,6 +614,7 @@ sub getantvers {
       postprocess_ant($w, $lang);
     }
   } else {
+#    print STDERR "$item is missing!\n";
     $w = "$item $ind missing";
   }
   return ($w, $c);

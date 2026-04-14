@@ -18,6 +18,12 @@ Super popul
 Passio
 LectioL1
 
+[Station]
+S. Maria Maggiore
+
+[CollectStation]
+S. Pietro in Vincoli
+
 [Introitus]
 !Phil 2:10, 8 et 11
 v. In nómine Jesu omne genu flectátur, cœléstium, terréstrium et infernórum: quia Dóminus factus est obœ́diens usque ad mortem, mortem autem crucis: ideo Dóminus Jesus Christus in glória est Dei Patris.

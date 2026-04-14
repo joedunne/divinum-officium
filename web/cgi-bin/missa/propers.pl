@@ -1270,3 +1270,8 @@ sub DeTemporePassionis {
     && $winner =~ /Tempora/i
     && $winner{'Rank'} !~ /Septem Dolorum/i;
 }
+
+sub nonbreakingspace : ScriptFunc {
+  my $lang = shift;
+  return "<span class='text-sm'> &nbsp; &emsp; </span>";
+}

@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super populum
 
+[Station]
+St. Peter in Chains
+
+[CollectStation]
+Sts. Cosmas and Damian
+
 [Introitus]
 !Ps 122:2
 v. As the eyes of servants are on the hands of their masters, so are our eyes on the Lord, our God, till He have pity on us. Have pity on us, O Lord, have pity on us.

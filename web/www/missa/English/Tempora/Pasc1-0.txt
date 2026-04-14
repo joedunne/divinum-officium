@@ -8,6 +8,9 @@ Dominica in Albis in Octava Paschae
 Gloria
 Credo
 
+[Station]
+St. Pancras Basilica
+
 [Introitus]
 !1 Pet 2:2
 v. As newborn babes, alleluia, desire the rational milk without guile, alleluia, alleluia, alleluia.
@@ -54,4 +57,4 @@ We beseech Thee, O Lord, our God, to make the most holy Mysteries which Thou has
 $Per Dominum
 
 [Pinsert]
-in hoc potíssimum gloriósius prædicáre.
+but more gloriously especially on this day
