@@ -86,7 +86,7 @@ V. (Hic genuflectitur) Veni, Sancte Spíritus, reple tuórum corda fidélium: et
 
 [OratioL4]
 Præsta, quǽsumus, omnípotens Deus: sic nos ab épulis carnálibus abstinére; ut a vítiis irruéntibus páriter jejunémus.
-$Per Dominum.
+$Per Dominum
 
 [LectioL5]
 Léctio Daniélis Prophétæ
@@ -104,7 +104,7 @@ v. Glória in excélsis Deo. Et in terra pax homínibus bonæ voluntátis. Laud�
 
 [OratioL5]
 Deus, qui tribus púeris mitigásti flammas ígnium: concéde propítius; ut nos fámulos tuos non exúrat flamma vitiórum.
-$Per Dominum.
+$Per Dominum
 
 [Oratio]
 Méntibus nostris, quǽsumus, Dómine, Spíritum Sanctum benígnus infúnde: cujus et sapiéntia cónditi sumus, et providéntia gubernámur.
@@ -117,7 +117,7 @@ Fratres: Justificáti ex fide, pacem habeámus ad Deum per Dóminum nostrum Jesu
 
 [Graduale]
 !Ps 116:1-2
- Laudáte Dóminum, omnes gentes: et collaudáte eum, omnes pópuli.
+Laudáte Dóminum, omnes gentes: et collaudáte eum, omnes pópuli.
 V. Quóniam confirmáta est super nos misericórdia ejus: et véritas Dómini manet in ætérnum.
 
 [Graduale](missa brevior)
@@ -125,10 +125,10 @@ Allelúja.
 V. (Hic genuflectitur) Veni, Sancte Spíritus, reple tuórum corda fidélium: et tui amóris in eis ignem accénde.
 
 [Sequentia]
-@Tempora/Pasc7-0
+@Tempora/Pasc7-0:Sequentia
 
 [Sequentia](missa longior)
-@Tempora/Pasc7-0::s/Allelúja.//
+@Tempora/Pasc7-0:Sequentia::s/Alleluia.//
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam
@@ -141,7 +141,7 @@ Dómine, Deus salútis meæ, in die clamávi et nocte coram te: intret orátio m
 
 [Secreta]
 Ut accépta tibi sint, Dómine, nostra jejúnia: præsta nobis, quǽsumus; hujus múnere sacraménti purificátum tibi pectus offérre.
-$Per Dominum.
+$Per Dominum
 
 [Communio]
 !Joannes 3:8
@@ -149,4 +149,4 @@ Spíritus, ubi vult, spirat: et vocem ejus audis, allelúja, allelúja: sed nesc
 
 [Postcommunio]
 Prǽbeant nobis, Dómine, divínum tua sancta fervórem: quo eórum páriter et actu delectémur et fructu.
-$Per Dominum.
+$Per Dominum

@@ -1,3 +1,12 @@
+[Rule]
+vide C5
+Gloria
+
+[Rank]
+;;Duplex majus;;4;;vide C5
+(sed rubrica 1963 aut rubrica 1617)
+;;Duplex;;3;;vide C5
+
 [Officium]
 St. Dominic the Confessor
 

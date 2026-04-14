@@ -1,3 +1,8 @@
+[Rank]
+;;Feria major;;2.1
+(sed rubrica 196 aut rubrica 1930)
+;;Feria major;;4.9
+
 [Officium]
 Feria VI Quattuor Temporum in Adventu
 
@@ -37,6 +42,9 @@ At that time, Mary arose and went with haste into the hill country, to a town of
 [Offertorium]
 !Ps 84: 7-8.
 Will You not, O God, give us life; and shall not Your people rejoice in You? Show us, O Lord, Your kindness, and grant us Your salvation.
+
+[Secreta]
+@Commune/C2
 
 [Communio]
 !Zach 14:5-6

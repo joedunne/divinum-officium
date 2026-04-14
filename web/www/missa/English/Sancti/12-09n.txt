@@ -1,2 +1,9 @@
+[Rule]
+vide C5;
+Gloria
+
+[Rank]
+;;Duplex optional;;2.5;;vide C5
+
 [Officium]
 St. Juan Diego, Confessor

@@ -1,3 +1,6 @@
+[Rank]
+;;Feria;;1
+
 [Officium]
 Sabbato infra Hebdomadam XII post Octavam Pentecostes
 

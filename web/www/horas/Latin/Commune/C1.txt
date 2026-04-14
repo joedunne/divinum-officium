@@ -255,7 +255,7 @@ Ex occasióne hujus senténtiæ quidam introdúcunt mille annos post resurrecti�
 &teDeum
 
 [Versum 0]
-V. Dedísti hereditátem. 
+V. Dedísti hereditátem.
 R. Timéntibus nomen tuum, Dómine.
 
 [Ant Laudes]

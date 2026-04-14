@@ -1,3 +1,6 @@
+[Rank]
+;;Feria;;1;;vide Quadp2-0
+
 [Officium]
 Feria II infra Hebdomadam Sexagesimae
 
@@ -5,3 +8,6 @@ Feria II infra Hebdomadam Sexagesimae
 vide Quadp2-0
 no Gloria
 Suffragium=Maria2;Papa,Ecclesia;;
+
+[Graduale]
+@Tempora/Quadp2-0:GradualeF

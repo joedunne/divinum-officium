@@ -54,7 +54,7 @@ $Oremus
 @Commune/C10
 
 [Hymnus minor_]
-
+_
 #Hymnus
 v. Meménto, rerum Cónditor,
 Nostri quod olim córporis,
@@ -66,6 +66,11 @@ Dulcis Parens cleméntiæ,
 Tu nos ab hoste prótege,
 Et mortis hora súscipe.
 _
+r. Iesu, tibi sit gloria,
+Qui natus es de Virgine,
+Cum Patre, et almo Spiritu,
+In sempiterna sæcula.
+Amen.
 @Psalterium/Doxologies:Nat: s/^/r. /
 
 [Hymnus minor]
@@ -74,7 +79,7 @@ _
 @:HymnusM minor
 
 [HymnusM minor]
-
+_
 #Hymnus
 v. Meménto salútis Auctor,
 Quod nostri quondam córporis,
@@ -137,18 +142,18 @@ R. Genuisti qui te fecit, et in æternum permanes Virgo.
 @Commune/C10::3 s/Ipsa/Alma/
 
 [Minor final]
-
+_
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
 $Fidelium animae
-
+_
 $rubrica Pater post
 $Pater noster
 (sed rubrica 1955 aut rubrica 196 omittitur)
-
+_
 [Minor final] (rubrica cisterciensis)
-
+_
 #Conclusio
 $Dulce nomen
 
@@ -195,7 +200,7 @@ $Per eumdem
 [Special Prima]
 @:Minor intro
 @:Hymnus minor
-
+_
 #Psalmi
 @:Ant Laudes:1 s/^/Ant. /
 (sed rubrica cisterciensis)
@@ -203,23 +208,23 @@ $Per eumdem
 &psalm(53)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,1,8)
-
+_
 &psalm(84)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,9,16)
-
+_
 &psalm(116)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,17,24)
 (deinde rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6 dicuntur)
-
+_
 &psalm(118,25,32)
 (deinde dicitur semper)
 _
 @:Ant Laudes:1 s/^/Ant. /
 (sed rubrica cisterciensis)
 @Sancti/01-01:Ant Vespera:2 s/^/Ant. / s/;;.*// 
-
+_
 #Capitulum Versus
 @:Capitulum Prima
 (sed rubrica cisterciensis)
@@ -228,13 +233,13 @@ _
 @Commune/C11:Versum 1
 (sed rubrica cisterciensis)
 @Commune/C11:Versum 0
-
+_
 #Oratio
 @:Pre oratio
 @:Oratio Prima
 (sed rubrica cisterciensis)
 @:Oratio 2: s/$/~/m s/Per eumdem/Per eumdem Christum\n\$Amen/
-
+_
 @:Minor final
 
 [Capitulum Prima]
@@ -249,7 +254,7 @@ $Qui vivis
 [Special Tertia]
 @:Minor intro
 @:Hymnus minor
-
+_
 #Psalmi
 @:Ant Laudes:2 s/^/Ant. /
 (sed rubrica cisterciensis)
@@ -259,13 +264,13 @@ $Qui vivis
 &psalm(118,33,40)
 (sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,105,112)
-
+_
 &psalm(120)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,41,48)
 (sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,113,120)
-
+_
 &psalm(121)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,49,56)
@@ -275,7 +280,7 @@ _
 @:Ant Laudes:2 s/^/Ant. /
 (sed rubrica cisterciensis)
 @Sancti/01-01:Ant Vespera:3 s/^/Ant. / s/;;.*//
-
+_
 #Capitulum Versus
 @:Capitulum Tertia
 (sed rubrica cisterciensis)
@@ -284,7 +289,7 @@ _
 @Commune/C11:Versum 2
 (sed rubrica cisterciensis)
 @:Nocturn 1 Versum
-
+_
 #Oratio
 @:Pre oratio
 @:Oratio Tertia
@@ -303,7 +308,7 @@ $Deo gratias
 [Special Sexta]
 @:Minor intro
 @:Hymnus minor
-
+_
 #Psalmi
 @:Ant Laudes:3 s/^/Ant. /
 (sed rubrica cisterciensis)
@@ -313,13 +318,13 @@ $Deo gratias
 &psalm(118,57,64)
 (sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,129,136)
-
+_
 &psalm(123)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,65,72)
 (sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,137,144)
-
+_
 &psalm(124)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,73,80)
@@ -329,14 +334,14 @@ _
 @:Ant Laudes:3 s/^/Ant. /
 (sed rubrica cisterciensis)
 @Sancti/01-01:Ant Vespera:4 s/^/Ant. / s/;;.*//
-
+_
 #Capitulum Versus
 @:Capitulum Sexta
 (sed rubrica cisterciensis)
 @:Capitulum Tertia
 _
 @Commune/C10:Versum 2
-
+_
 #Oratio
 @:Pre oratio
 @:Oratio Sexta
@@ -356,7 +361,7 @@ $Per eumdem
 [Special Nona]
 @:Minor intro
 @:Hymnus minor
-
+_
 #Psalmi
 @:Ant Laudes:5 s/^/Ant. /
 (sed rubrica cisterciensis)
@@ -366,13 +371,13 @@ $Per eumdem
 &psalm(118,81,88)
 (sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,153,160)
-
+_
 &psalm(126)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,89,96)
 (sed rubrica cisterciensis et feria 3 aut rubrica cisterciensis et feria 5 aut rubrica cisterciensis et feria 7)
 &psalm(118,161,168)
-
+_
 &psalm(127)
 (sed rubrica cisterciensis et feria 2 aut rubrica cisterciensis et feria 4 aut rubrica cisterciensis et feria 6)
 &psalm(118,97,104)
@@ -382,14 +387,14 @@ _
 @:Ant Laudes:5 s/^/Ant. /
 (sed rubrica cisterciensis)
 @Sancti/01-01:Ant Vespera:5 s/^/Ant. / s/;;.*//
-
+_
 #Capitulum Versus
 @:Capitulum Nona
 (sed rubrica cisterciensis)
 @:Capitulum Sexta
 _
 @:Verse Nona
-
+_
 #Oratio
 @:Pre oratio
 @:Oratio Nona
@@ -425,23 +430,23 @@ $Deus in adjutorium
 (deinde dicitur)
 &Alleluia
 (sed rubrica cisterciensis omittitur)
-
+_
 #Psalmi
 (rubrica cisterciensis) @Sancti/12-25:Ant Vespera:3 s/^/Ant. / s/;;.*//
 &psalm(128)
 (sed rubrica cisterciensis)
 &psalm(12)
-
+_
 &psalm(129)
 (sed rubrica cisterciensis)
 &psalm(128)
-
+_
 &psalm(130)
 (rubrica cisterciensis) @Sancti/12-25:Ant Vespera:3 s/^/Ant. / s/;;.*//
-
+_
 @:Hymnus minor
 (sed rubrica cisterciensis omittitur)
-
+_
 #Capitulum Versus
 (sed rubrica cisterciensis)
 #Capitulum Hymnus Versus
@@ -452,19 +457,19 @@ _
 _
 @Psalterium/Common/Prayers:Conclusio cisterciensis:3-4
 (deinde dicitur)
-
+_
 #Canticum: Nunc dimittis
 @:Ant Completorium
 &psalm(233)
 @:Ant Completorium
 (sed rubrica cisterciensis omittitur)
-
+_
 #Oratio
 @:Pre oratio
 @:Oratio Completorium
 (sed rubrica cisterciensis)
 @:Oratio Sexta: s/$/~/m s/Per eumdem/Per eumdem Christum\n\$Amen/
-
+_
 #Conclusio
 (deinde dicitur)
 &Dominus_vobiscum
@@ -474,7 +479,7 @@ R. Amen.
 (sed rubrica cisterciensis loco hujus versus dicitur)
 $Dulce nomen
 (deinde dicitur)
-
+_
 #Antiphona finalis B.M.V.
 $ant Salve Regina
 (sed tempore post Epiphaniam aut Septuagesimæ aut Quadragesimæ aut Passionis dicitur)
@@ -488,7 +493,7 @@ $ant Regina caeli
 (deinde dicitur)
 &Divinum_auxilium
 (rubrica cisterciensis)$Fidelium animae
-
+_
 $Pater noster
 $Ave Maria
 $Credo

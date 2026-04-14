@@ -1,8 +1,19 @@
+[Rule]
+vide C4;
+Gloria
+
+[Rank](rubrica 196)
+S. Patricii Episcopi et Conf.;;Duplex;;2;;vide C4
+
+[Rank]
+;;Duplex;;3;;vide C4
+
 [Officium]
 St. Patrick, Bishop and Confessor
 
 [Name]
 Patrick
+Postcommunio=Patrick
 
 [Oratio]
 O God, Who graciously sent blessed Patrick, Your Confessor and Bishop, to preach Your glory to the nations, grant through his merits and intercession, that by Your mercy we may be able to accomplish what You command.

@@ -1,3 +1,14 @@
+@Commune/C2ap
+
+[Oratio]
+@Commune/C2a-1
+
+[Secreta]
+@Commune/C2a-1
+
+[Postcommunio]
+@Commune/C2a-1
+
 [Oratio] (ad missam)
 Mercifully consider our weakness, O Almighty God, and whereas by the burden of our sins we are sore, let N. your Martyr be mercifully pleased to deliver us from all things which may hurt our bodies, and from all evil thoughts which may defile our souls.
-$Per Dominum.
+$Per Dominum

@@ -1,3 +1,9 @@
+[Rule]
+vide C3a;
+
+[Rank]
+;;Simplex;;1.1;;vide C3a
+
 [Officium]
 Sts. Tryphon, Respicius, et Nympha, Martyrs
 
@@ -31,3 +37,6 @@ V. Precious in the eyes of the Lord is the death of His faithful ones. Alleluia.
 [Offertorium]
 !Ps 31:11
 Be glad in the Lord, and rejoice, you just; exult, all you upright of heart.
+
+[Communio]
+@Sancti/03-10

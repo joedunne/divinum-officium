@@ -1,3 +1,11 @@
+[Rule]
+9 lectiones
+Gloria
+Credo
+
+[Rank]
+;;Duplex I classis cum octava communi;;6.4;;vide C3
+
 [Officium]
 All Saints
 

@@ -1,3 +1,5 @@
+@Commune/C7
+
 [Officium]
 Common of Widows
 
@@ -19,6 +21,9 @@ Lesson from the book of Proverbs
 15 And she hath risen in the night, and given a prey to her household, and victuals to her maidens.
 16 She hath considered a field, and bought it: with the fruit of her hands she hath planted a vineyard.
 17 She hath girded her loins with strength, and hath strengthened her arm
+
+[Responsory1]
+@Commune/C6a
 
 [Lectio2]
 !Prov 31:18-24
@@ -43,7 +48,7 @@ Lesson from the book of Proverbs
 [Capitulum Laudes]
 !Prov. 31:10-11
 v. Who shall find a valiant woman? Far and from the uttermost coasts is the price of her. The heart of her husband trusteth in her, and he shall have no need of spoils.
-$Deo gratias.
+$Deo gratias
 
 [Lectio Prima]
 !Prov 31:29-30
@@ -52,6 +57,10 @@ v. Many daughters have gathered together riches: thou hast surpassed them all. F
 [Capitulum Sexta]
 !Prov 31:20-21
 v. She hath opened her hand to the needy, and stretched out her hands to the poor. She shall not fear for her house in the cold of snow.
+$Deo gratias
+
+[Capitulum Nona]
+@:Lectio Prima
 $Deo gratias
 
 [Introitus]
@@ -81,14 +90,19 @@ V. In the cause of truth and mercy and for the sake of justice: may your right h
 _
 !Tractus
 V. Come, O spouse of Christ, receive the crown which the Lord has prepared for you forever; for the love of Whom you shed your blood.
-!Ps 44:8
+!Ps 44:8; 44:5
 You love justice and hate wickedness; therefore God, your God, has anointed you with the oil of gladness above your fellows.
-!Ps 44:5
 V. In your splendor and your beauty ride on triumphant, and reign.
+
+[Secreta]
+@Commune/C6a
 
 [Communio]
 !Ps 44:8
 You love justice and hate wickedness; therefore God, your God, has anointed you with the oil of gladness above your fellows. (Alleluja.)
+
+[Postcommunio]
+@Commune/C6a
 
 [Lectio in 2 loco]
 Lesson from the first letter of St Paul the Apostle to Timotheus

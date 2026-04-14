@@ -1,3 +1,9 @@
+[Rule]
+vide C2a;
+
+[Rank]
+;;Duplex optional;;2;;vide C2a
+
 [Officium]
 S. Peter Chanel, priest and martyr
 

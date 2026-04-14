@@ -1,3 +1,6 @@
+[Rank]
+;;Feria;;1
+
 [Officium]
 Feria Sexta infra Hebdomadam XXIII post Octavam Pentecostes
 

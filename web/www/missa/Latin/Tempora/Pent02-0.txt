@@ -53,7 +53,7 @@ Dómine, convértere, et éripe ánimam meam: salvum me fac propter misericórdi
 
 [Secreta]
 Oblátio nos, Dómine, tuo nómini dicánda puríficet: et de die in diem ad cœléstis vitæ tránsferat actiónem.
-$Per Dominum.
+$Per Dominum
 
 [Commemoratio Secreta]
 !Pro Octava Ssmi Corporis Christi

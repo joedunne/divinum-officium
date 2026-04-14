@@ -1,3 +1,12 @@
+[Rule]
+vide C6;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C6
+(sed rubrica 1930 aut rubrica 1963)
+;;Simplex;;1.1;;vide C6
+
 [Officium]
 St. Catharine of Alexandria, Virgin and Martyr
 

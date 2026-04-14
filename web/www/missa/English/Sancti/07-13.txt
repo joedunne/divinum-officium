@@ -1,9 +1,11 @@
+[Rank]
+;;Semiduplex;;2.2;;vide C2b-1
+
 [Officium]
 St. Anacletus, Pope and Martyr
 
 [Rule]
-OPapaM=Anacletus;
-vide C4D;
+vide C4b-1;
 Gloria
 
 [Name]

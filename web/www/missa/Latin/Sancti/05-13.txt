@@ -29,6 +29,7 @@ V. Qui ad justítiam erúdiunt multos quasi stellæ in perpétuas æternitátes.
 
 [GradualeP]
 Allelúja, allelúja.
+! Dan. 12:3
 V. Qui docti fúerint fulgébunt quasi splendor firmaménti. Allelúja.
 V. Qui ad justítiam erúdiunt multos quasi stellæ in perpétuas æternitátes. Allelúja.
 
@@ -44,7 +45,7 @@ Mihi autem adhærére Deo bonum est, pónere in Dómino Deo spem meam: ut annún
 
 [Secreta]
 Hóstias tibi, Dómine, in odórem suavitátis offérimus: et præsta; ut, beáti Robérti mónitis et exémplis edócti, per sémitam mandatórum tuórum dilatáto corde currámus.
-$Per Dominum.
+$Per Dominum
 
 [Communio]
 !Matt 5:14; 5:16

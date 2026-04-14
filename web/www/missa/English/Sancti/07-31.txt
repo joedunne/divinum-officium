@@ -1,3 +1,12 @@
+[Rule]
+vide C5;
+Gloria
+
+[Rank]
+;;Duplex majus;;4;;vide C5
+(sed rubrica monastica)
+;;Duplex;;3;;vide C5
+
 [Officium]
 St. Ignatius of Loyola, Confessor
 
@@ -12,6 +21,15 @@ v. At the name of Jesus every knee should bend of those in heaven, on earth and 
 [Oratio]
 O God, Who, to spread abroad the greater glory of Your name through St. Ignatius, strengthened the Church militant with new power; grant that we who are struggling on earth may, by his help and after his example, be found worthy to be crowned with him in heaven.
 $Per Dominum
+
+[Lectio]
+@Commune/C2a-1
+
+[Evangelium]
+@Sancti/02-06
+
+[Offertorium]
+@Commune/C2
 
 [Secreta]
 May the prayers of St. Ignatius be present with our offerings, O Lord God, that the most holy sacrament in which you placed the source of all holiness, may also make us holy in Your truth.

@@ -1,3 +1,10 @@
+[Rule]
+vide C2b;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C2b
+
 [Officium]
 St. Marcellus, Pope and Martyr
 

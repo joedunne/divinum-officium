@@ -47,7 +47,7 @@ Intónuit de cœlo Dóminus, et Altíssimus dedit vocem suam: et apparuérunt fo
 
 [Secreta]
 Propítius, Dómine, quǽsumus, hæc dona sanctífica: et, hóstiæ spiritális oblatióne suscépta, nosmetípsos tibi pérfice munus ætérnum.
-$Per Dominum.
+$Per Dominum
 
 [Communio]
 !Joannes 14:26

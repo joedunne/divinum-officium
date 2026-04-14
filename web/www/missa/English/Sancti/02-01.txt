@@ -1,3 +1,14 @@
+[Rule]
+vide C2;
+Gloria
+
+[Rank]
+;;Duplex;;3.01;;vide C2
+(sed rubrica 1570)
+;;Semiduplex;;2.2;;vide C2
+(sed rubrica 1960)
+;;Duplex;;3;;vide C2
+
 [Officium]
 St. Ignatius, Bishop and Martyr
 
@@ -25,6 +36,13 @@ V. There was not any found the like to him, who kept the law of the Most High. A
 !Gal. 2:19-20
 V. With Christ I am nailed to the cross: I live, now not I, but Christ liveth in me. Alleluia.
 
+[GradualeP]
+Alleluia, alleluia.
+!Gal 2:19-20.
+With Christ I am nailed to the cross: I live, now not I, but Christ liveth in me. Alleluia.
+!Ps 20:4.
+Thou hast set, O Lord, upon his head a crown of precious stone. Alleluia.
+
 [Tractus]
 !Ecclus 44:16, 20
 Behold a great priest, who in his days pleased God.
@@ -40,8 +58,7 @@ Continuation + of the Holy Gospel according to John
 At that time, Jesus said to His Disciples, “Amen, amen, I say to you, unless the grain of wheat falls into the ground and dies, it remains alone. But if it dies, it brings forth much fruit. He who loves his life, loses it; and he who hates his life in this world, keeps it unto life everlasting. If anyone serves Me, let him follow Me; and where I am there also shall My servant be. If anyone serves Me, My Father will honor him.”
 
 [Offertorium]
-!Ps 8:6-7
-Thou hast crowned Him with glory and honor: and hast set Him over the works of Thy hands, O Lord.
+@Commune/C1v
 
 [Communio]
 I am the wheat of Christ; may I be ground by the teeth of beasts, that I may be found pure bread.

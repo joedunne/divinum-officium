@@ -1,13 +1,24 @@
+@Commune/C4
+
 [Officium]
 Common of a Doctor Bishop
 
 [Missa]
 In medio
 
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+Psalm5 Vespera=116
+Psalm5 Vespera3=131
+Gloria
+
 [Ant 1]
 O right excellent Teacher * Light of the Holy Church, N., blessed lover of the Divine Law, pray for us to the Son of God.
 
 [Oratio]
+O God, who didst give blessed N. to be thy people’s minister in eternal salvation; grant, we pray, that we who have him for teacher of life here on earth, may also deserve now that he is in heaven, to have him for an advocate.
+(sed communi Summorum Pontificum)
 O God, who didst give blessed N. to be thy people’s minister in eternal salvation; grant, we pray, that we who have him for teacher of life here on earth, may also deserve now that he is in heaven, to have him for an advocate.
 $Per Dominum.
 
@@ -40,6 +51,12 @@ From the Book of Moral Reflection on Job, written by Pope St. Gregory the Great.
 !Bk. ix. ch. vi.
 In the Book of Job (ix. 9), it is written that it is God which maketh Arcturus, Orion, and Hyades. Now if by the constellation Orion be mystically signified the spiritual constellation of the holy Martyrs, whom can we understand to be named after them under the title of the Hyades, but the Doctors of the Holy Church? When the glorious constellation of the Martyrs had set, and the light of the faith grew stronger, then appeared the constellation of the Doctors in the firmament of the Church, even in that spring-time when the winter of unbelief was past, and the Sun of truth rose higher to shine on the hearts of His faithful ones. The storms of persecution were gone, and the long nights of unbelief were over then rose the Doctors to shine on the Church, when the springtime of belief promised her a brighter year.
 
+[Lectio5]
+And it is not without merit that the holy Teachers are designated by the name of the Hyades. For in the Greek tongue, hyetos is the word for rain, and the Hyades received their name from rains, because when they rise, they undoubtedly bring showers. Therefore, they who have been brought to the face of heaven, as it were, for the state of the universal Church, are well expressed by the name of the Hyades, for they have poured the rains of holy preaching upon the parched earth of the human breast. For if the word of preaching were not rain, Moses would never have said: 'Let my speech be looked for as the rain'; nor would the Truth [God] have said through Isaiah: 'I will command my clouds that they rain no shower upon it'; nor that which we brought forth a little while ago: 'Wherefore the stars of the rains were withheld.'"
+
+[Lectio6]
+Therefore, while the Hyades come with rains, the sun is led into the higher spaces of heaven: because, as the knowledge of the Teachers appears and our mind is drenched by the shower of preaching, the heat of faith is increased. And the moistened earth advances toward fruitfulness when the light of the upper air grows fiery: for we yield the fruit of good work more abundantly while we burn more brightly in the heart through the flame of sacred instruction. And while through them [the Teachers] celestial knowledge is shown more and more each day, a springtime of internal light is opened to us, as it were; so that a new sun may shine upon our minds and, made known to us through their words, may sparkle daily more clearly in itself. For as the end of the world presses on, supernal knowledge advances and increases more largely with time.
+
 [Lectio7]
 From the Holy Gospel according to Matthew
 !Matt 5:13-19
@@ -63,6 +80,9 @@ R. And filled him with the spirit of wisdom and understanding.
 [Lectio9]
 Ye are the light of the world. And we are to understand the word World in the same sense as the word Earth when he spoke above of the salt of the earth, that is, not that earth whereupon we walk with our bodily feet, but the men which dwell upon the earth; in other words, sinners, for the sweetening and correction of whose corruption, the Lord hath sent his Apostles, as it were, as so much salt. And so by the world we are to understand, not the heaven and the earth, but the men who are in the world and love the world, for the enlightening of whom the Apostles have been sent. A city that is set on a hill cannot be hid: that is, what is founded upon the heights of righteousness, whereof the mountain upon which the Lord gave this discourse was itself a figure, is magnificent in the eyes of all men.
 &teDeum
+
+[Ant 3]
+@:Ant 1
 
 [Lectio7 in 2 loco]
 From the Holy Gospel according to Matthew
@@ -111,10 +131,10 @@ v. Dearly beloved: I charge thee, before God and Jesus Christ, who shall judge t
 
 [Graduale]
 !Ps 36:30-31
-v. The mouth of the just shall meditate wisdom and his tongue shall speak judgment.
+V. The mouth of the just shall meditate wisdom and his tongue shall speak judgment.
 V. The law of his God is in his heart, and his steps shall not be supplanted. Allelúja, allelúja
 !Sir 45:9
-v. And he girded him about with a glorious girdle, and clothed him with a robe of glory, Allelúja.
+And he girded him about with a glorious girdle, and clothed him with a robe of glory, Allelúja.
 
 [GradualeP]
 Allelúja, allelúja.
@@ -125,10 +145,10 @@ The just man shall flourish like the lily: and will bear fruit in eternity befor
 
 [Tractus]
 !Ps 36:30-31
-v.  The mouth of the just shall meditate wisdom : 
+The mouth of the just shall meditate wisdom :
 V.  And his tongue shall speak judgment. The law of his God is in his heart, and his steps shall not be supplanted.
 !Ps 111:1-3
-v.  Blessed is the man that feareth the Lord: he shall delight exceedingly in his commandments. 
+Blessed is the man that feareth the Lord: he shall delight exceedingly in his commandments.
 V. His seed shall be mighty upon earth: the generation of the righteous shall be blessed. 
 V. Glory and wealth shall be in his house: and his justice remaineth for ever and ever.
 

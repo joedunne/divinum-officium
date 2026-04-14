@@ -1,2 +1,20 @@
+[Rank]
+;;Semiduplex;;2;;vide C1
+
 [Officium]
 Third Day within the Octave of Sts. Peter and Paul, Apostels
+
+[Comment]
+In Divino Afflatu, when Pretiossisimi Sanguinis is transferred, in case of the Dies Octava Corp. Christi (e.g. 2038), the proper last gospel from the Octave of the Apostels is said on this day.
+
+[Oratio]
+@Sancti/06-29
+
+[Evangelium] (rubrica divino et feria 5 et tempore Octava Corpus)
+@Commune/C5b
+
+[Secreta]
+@Sancti/07-04oct
+
+[Postcommunio]
+@Sancti/06-29

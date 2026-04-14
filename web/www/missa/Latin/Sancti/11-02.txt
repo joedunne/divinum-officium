@@ -2,4 +2,4 @@
 In Commemoratione Omnium Fidelium Defunctorum;;Duplex;;3;;ex C9
 
 [Rule]
-multiple3
+celebranda aut missa prima aut missa secunda aut missa tertia

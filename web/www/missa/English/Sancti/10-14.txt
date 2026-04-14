@@ -1,3 +1,14 @@
+[Rule]
+vide C2b;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C2b
+(sed rubrica 1570)
+;;Semiduplex;;2.2;;vide C2b
+(sed rubrica 1963)
+;;Simplex;;1.1;;vide C2b
+
 [Officium]
 St. Callistus, Pope and Martyr
 

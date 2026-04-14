@@ -1,3 +1,12 @@
+[Rule]
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex;;3.1;;vide Sancti/08-10
+(sed rubrica divino)
+;;Simplex;;1.4;;vide Sancti/08-10
+
 [Officium]
 Octave of St. Lawrence, Martyr
 
@@ -20,7 +29,7 @@ v. Now this I say: He who soweth sparingly, shall also reap sparingly: and he wh
 
 [Graduale]
 !Ps 8:6-7
-v. Thou hast made him a little less than the angels, thou hast crowned him with glory and honour: and hast set him over the works of thy hands.
+V. Thou hast made him a little less than the angels, thou hast crowned him with glory and honour: and hast set him over the works of thy hands.
 V. The Levite Lawrence wrought a good work, who by the sign of the Cross, gave sight to the blind. Alleluia.
 
 [Evangelium]

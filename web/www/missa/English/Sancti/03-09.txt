@@ -1,4 +1,15 @@
+[Rule]
+vide C7a;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C7a
+(sed rubrica monastica)
+;;Simplex;;1.1;;vide C7a
+
 [Officium]
+St. Frances of Rome, Widow
+(sed rubrica monastica)
 St. Frances of Rome, Widow
 
 [Oratio]

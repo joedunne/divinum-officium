@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex I classis;;6.9;;ex Pasc7-0
+
 [Officium]
 Feria Quarta Quattuor Temporum Pentecostes
 
@@ -5,7 +8,7 @@ Feria Quarta Quattuor Temporum Pentecostes
 LectioL1
 no Gloria
 Sequentia
-Suffr=Ecclesiae;Papa
+Suffr=Ecclesiæ;Papa;;
 Credo
 Prefatio=Spiritu
 

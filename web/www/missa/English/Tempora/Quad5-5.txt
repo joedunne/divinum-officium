@@ -1,3 +1,6 @@
+[Rank]
+;;Duplex majus;;4.1
+
 [Officium]
 Septem Dolorum Beatae Mariae Virgine
 
@@ -138,6 +141,9 @@ At that time, there were standing by the Cross of Jesus His Mother and His Mothe
 [Secreta]
 O Lord Jesus Christ, we offer You prayers and sacrificial gifts, humbly beseeching You that, as we prayerfully recall the piercing of the most sweet soul of Your blessed Mother Mary, so through the merits of Your death and the manifold intercession of her and her holy friends at the foot of the Cross, we may have our reward with the blessed.
 $Qui vivis
+
+[Offertorium]
+@Sancti/07-16
 
 [Commemoratio Secreta]
 !For FERIA

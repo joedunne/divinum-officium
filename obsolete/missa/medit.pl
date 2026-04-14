@@ -674,7 +674,7 @@ sub adjust {
       $block = $1;
 
       if ($block =~
-        /(Introitus|Oratio|Lectio|Graduale|Tractus|Evangelium|Offertorium|Secreta|Communi|Postcommunio|Super populum|Prelude|Post Missam)/i
+        /(Introitus|Oratio|Lectio|Graduale|Tractus|Evangelium|Offertorium|Secreta|Communi|Postcommunio|Super populum|Prelude|PostMissam)/i
       ) {
         $mode = $1;
       } else {
@@ -739,7 +739,7 @@ sub adjust {
       $block = $1;
 
       if ($block =~
-        /(Introitus|Oratio|Lectio|Graduale|Evangelium|Offertorium|Secreta|Communi|Postcommunio|Super populum|Prelude|Post Missam)/i
+        /(Introitus|Oratio|Lectio|Graduale|Evangelium|Offertorium|Secreta|Communi|Postcommunio|Super populum|Prelude|PostMissam)/i
       ) {
         $mode = $1;
       } else {

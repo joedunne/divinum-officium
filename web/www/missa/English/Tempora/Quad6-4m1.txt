@@ -1,5 +1,11 @@
+[Rank]
+;;Feria privilegiata Duplex I classis;;7
+
 [Officium]
 De missa chrismatis
+
+[TODO]
+TODO JJD Translate
 
 [Rule]
 Gloria

@@ -1,3 +1,12 @@
+[Rule]
+vide C4;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C4
+(sed rubrica 1960)
+;;Duplex;;2.1;;vide C4
+
 [Officium]
 St. Titus, Bishop and Confessor
 
@@ -8,14 +17,14 @@ Titus
 O God, Who adorned blessed Titus, Your Confessor and Bishop, with the virtues of an apostle, grant, through his merits and intercession, that by living justly and piously in this world, we may be found worthy to enter heaven.
 $Per Dominum
 
+[Lectio]
+@Commune/C4
+
+[Graduale]
+@Commune/C4
+
 [Tractus]
-!Sir 44:16, 20
-Behold, a great priest, who in his days pleased God.
-V. There was not found the like to him, who kept the law of the Most High. 
-!Ps 111:1-3
-Happy the man who fears the Lord, who greatly delights in His commands.
-V. His posterity shall be mighty upon the earth; the upright generation shall be blessed.
-V. Wealth and riches shall be in his house; his generosity shall endure forever.
+@Commune/C4
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
@@ -23,5 +32,7 @@ Continuation + of the Holy Gospel according to Luke
 At that time, the Lord appointed seventy-two others, and sent them forth two by two before Him into every town and place where He Himself was about to come. And He said to them, The harvest indeed is great, but the laborers are few. Pray therefore the Lord of the harvest to send forth laborers into His harvest. Go. Behold, I send you forth as lambs in the midst of wolves. Carry neither purse, nor wallet, nor sandals, and greet no one on the way. Whatever house you enter, first say, ‘Peace to this house!’ And if a son of peace be there, your peace will rest upon him; but if not, it will return to you. And remain in the same house, eating and drinking what they have; for the laborer deserves his wages. Do not go from house to house. And whatever town you enter, and they receive you, eat what is set before you, and cure the sick who are there, and say to them, ‘The kingdom of God is at hand for you.’
 
 [Offertorium]
-!Ps 88:21-22
-I have found David, My servant; with My holy oil I have anointed him, that My hand may be always with him, and that My arm may make him strong.
+@Commune/C2-1
+
+[Communio]
+@Commune/C4

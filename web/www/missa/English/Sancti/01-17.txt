@@ -1,5 +1,14 @@
+[Rule]
+vide C5b;
+
+[Rank]
+;;Duplex;;3;;vide C5b
+
 [Officium]
 S. Anthony, Abbot
 
 [Name]
 Anthony
+
+[Evangelium]
+@Commune/C5:Evangelium

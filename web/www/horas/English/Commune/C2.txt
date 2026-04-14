@@ -4,6 +4,12 @@ Common of a Single Martyr Bishop
 [Missa]
 Statuit
 
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+Psalm5 Vespera=116
+Psalm5 Vespera3=115
+
 [Ant Vespera]
 Whosoever shall confess Me * before men, him will I confess also before My Father.
 He that followeth Me * walketh not in darkness, but shall have the light of life, saith the Lord.
@@ -51,6 +57,21 @@ $Per Dominum
 
 [Invit]
 The Lord, the King of Martyrs, * O come, let us worship.
+
+[Hymnus Matutinum]
+@:Hymnus Vespera
+
+[HymnusM Matutinum]
+@:HymnusM Vespera
+
+[TODO]
+Translate HymnusM regex....
+
+[HymnusM Vespera]
+@:Hymnus Vespera:s/blanda fraudum pábula/blandiménta nóxia/ s/Imbúta felle députans/Cadúca rite députans/ s/Fundénsque pro te/Pro te effúndens/ s/Patri sit, atque/Deo Patri, et/
+
+[HymnusM Laudes]
+@:Hymnus Laudes:s/Invícte Martyr,/Martyr Dei, qui/ s/secútus/sequéndo/ s/repéllens/rémovens/ s/Dono supérni Núminis/Amóre Fílii Dei/ s/Nunc, et per omne sǽculum./Et nunc, et in perpétuum/
 
 [Ant Matutinum]
 His delight * was in the law of the Lord day and night.;;1
@@ -192,6 +213,13 @@ R. Who feared not for the threats of judges, nor sought to be great with the glo
 Or it may be asked how we are commanded in one place to hate our parents, and them that are near us in the flesh, and in another place to love even our enemies. And, verily, the Truth hath said, as touching a wife “What God hath joined together, let not man put asunder.” (Matth. xix. 6.) And Paul saith “ Husbands, love your wives, even as Christ also loved the Church.” (Eph. v. 25.) Behold, the disciple commandeth a man to love his wife, and the Master saith “If any man hate not his wife, he cannot be My disciple.” Doth the judge, then, order one proclamation, and the crier make another? or can the man both love and hate? If we consider well the force of the commandment, we shall be able in wisdom to do both. Let us love wife, and kindred, and neighbour, as touching their nearness in the flesh but as touching the way of God, if they withstand us therein, let us not know them, but hate them and flee from them.
 &teDeum
 
+[Versum 0]
+V. Pray for us, blessed N..
+R. That we may be made worthy of the promises of Christ.
+
+[Ant Laudes]
+@:Ant Vespera
+
 [Capitulum Laudes]
 !Jas 1:12
 v. Blessed is the man that endureth temptation; for when he hath been proved, he shall receive a crown of life, which God hath promised to them that love him.
@@ -251,6 +279,10 @@ R. Upon his head.
 &Gloria
 R. O Lord, Thou hast set * Upon his head.
 
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
+
 [Responsory Breve Nona]
 R.br. His glory is great * in thy salvation.
 R. His glory is great * in thy salvation.
@@ -259,8 +291,22 @@ R. In thy salvation.
 &Gloria
 R. His glory is great * in thy salvation.
 
+[Versum 3]
+@:Versum 2
+
 [Ant 3]
 If any man will come after me, * let him deny himself and take up his cross daily and follow me.
+
+[Lectio4 in 2 loco]
+From the Commentary of Saint Ambrose, Bishop, Psalm 118
+!Sermo 21, n. 7 et 8
+'Princes have persecuted me without cause: and my heart hath trembled at thy words.' Rightly does the Martyr say this, because he endures the torments of persecutions unjustly; he who has stolen nothing, has oppressed no one by violence, has shed no man's blood, and has deemed no man's marriage-bed should be violated; he who owes nothing to the laws, yet is forced to endure punishments more grievous than those of robbers; who speaks justly, and is not heard; who speaks things full of salvation, and is attacked, so that he may say: 'When I spoke to them, they fought against me without cause.' Therefore, he suffers persecution 'without cause' who is attacked without a crime; he is attacked as a criminal though he is praiseworthy in such a confession [of faith]; he is attacked as a sorcerer who glories in the name of the Lord, since piety is the foundation of all virtues.
+
+[Lectio5 in 2 loco]
+Truly, he is attacked in vain who is accused of impiety among the impious and faithless, while he himself is a master of the faith. But, he who is attacked without cause ought to be brave and constant; how, then, did he add: 'And my heart hath trembled at Thy words'? To tremble is a sign of weakness, of fear, and of dread. But there is also a weakness [that leads] to salvation, and there is also a fear belonging to the saints: 'Fear the Lord, all ye His saints'; and, 'Blessed is the man who feareth the Lord.' For what reason is he blessed? Because 'he hath great delight in His commandments.'
+
+[Lectio6 in 2 loco]
+Imagine, then, a Martyr set in the midst of perils: while on one side the ferocity of wild beasts roars to strike terror; on another, the hiss of white-hot plates and the flame of the burning furnace seethe; on another side, the dragging of heavy chains clanks; and here, the blood-stained executioner stands ready. Imagine him, I say, looking around at everything full of tortures, and then reflecting upon the divine commands—that perpetual fire, that endless burning of the faithless, that misery of recurring punishment; [imagine him] trembling in heart, lest, while he yields to present things, he surrender himself to everlasting destruction; [imagine him] troubled in soul while he gazes upon that terrible sword of future judgment with a kind of visionary sight. Does not the confidence of one desiring eternal things, and the trembling at divine things, run together into this same effect: the trepidation and trust of a constant man?
 
 [Lectio7 in 2 loco]
 From the Holy Gospel according to Matthew
@@ -294,6 +340,15 @@ Therefore willeth He that that which He hath spoken, should be freely proclaimed
 Fear not them which kill the body. Therefore we need fear nothing which may chance to our bodies, nor sorrow because of the destruction of the flesh, when, according to the laws of our nature and that from whence we are taken, we are unclothed upon, and become a pure spirit. And, since it behoveth us who are rooted in such a doctrine, freely and constantly to confess God, even were it only because of the alternative whereby we are bound, He saith further: “Whosoever shall confess Me before men, him will I confess also before My Father, Which is in heaven. But whosoever shall deny Me before men, him will I also deny before My Father, Which is in heaven.” Such witnesses as He hath seen us to have been here to His name before men, such a Witness shall we find Him to be hereafter to our names before His Father Which is in heaven.
 &teDeum
 
+[Lectio7 in 3 loco]
+@Sancti/09-28:Lectio7
+
+[Lectio8 in 3 loco]
+@Sancti/09-28:Lectio8
+
+[Lectio9 in 3 loco]
+@Sancti/09-28:Lectio9
+
 [Introitus]
 !Sir 45:30
 v. The Lord made a covenant of friendship with him, and made him a prince; that he should possess the dignity of priesthood forever. (Alléluia, alléluia.)
@@ -319,6 +374,9 @@ V. No enemy shall deceive him, nor shall the wicked afflict him. Alleluia, allel
 V. You are a priest forever, according to the order of Melchisedec. Alleluia.
 
 [Tractus]
+!Ps 88:21-23
+I have found David, My servant, with My holy oil I have anointed him, that My hand may be always with him, and that My arm may make him strong.
+V. No enemy shall deceive him, nor shall the wicked afflict him. Alleluia, alleluia.
 !Ps 20:3-4
 You have granted him his heartÕs desire; You refused not the wish of his lips.
 V. For You welcomed him with goodly blessings.

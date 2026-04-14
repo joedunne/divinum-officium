@@ -33,8 +33,10 @@ V. O Virgin Mother of God, He whom the whole world cannot contain, enclosed Hims
 V. Joyful art thou, holy Virgin Mary, and worthy of all praise: for of thee hast risen the Son of Justice, Christ our Lord.
 _
 Alleluia, alleluia.
-Through thee, O Mother of God, has the life we had lost been
-restored: from heaven didst thou beget thy Child, to the world brought forth a Savior. Alleluia.
+Through thee, O Mother of God, has the life we had lost been restored: from heaven didst thou beget thy Child, to the world brought forth a Savior. Alleluia.
+
+[Evangelium]
+@Commune/C10
 
 [Offertorium]
 !Jer 18:20

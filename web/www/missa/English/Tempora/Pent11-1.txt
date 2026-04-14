@@ -1,3 +1,6 @@
+[Rank]
+;;Feria;;1
+
 [Officium]
 Feria secunda infra Hebdomadam XI post Octavam Pentecostes
 

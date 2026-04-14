@@ -47,7 +47,7 @@ Emítte Spíritum tuum, et creabúntur, et renovábis fáciem terræ: sit glóri
 
 [Secreta]
 Múnera, quǽsumus, Dómine, obláta sanctífica: et corda nostra Sancti Spíritus illustratióne emúnda.
-$Per Dominum eiusdem.
+$Per Dominum eiusdem
 
 [Communio]
 !Joannes 7:37-39

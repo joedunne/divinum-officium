@@ -1,3 +1,12 @@
+[Rank] (rubrica 196)
+;;Semiduplex;;5
+
+[Rank] (rubrica 1570 aut rubrica 1888)
+;;Semiduplex;;6.1
+
+[Rank]
+;;Semiduplex;;5.6
+
 [Officium]
 Dominica in Septuagesima
 
@@ -5,6 +14,7 @@ Dominica in Septuagesima
 no Gloria
 Credo
 Prefatio=Trinitate
+Suffr=Maria2;Sanctorum,Ecclesiæ;;
 
 [Introitus]
 !Ps 17:5-7
@@ -48,6 +58,9 @@ At that time, Jesus spoke to His disciples this parable: The kingdom of heaven i
 [Offertorium]
 !Ps 91:2
 It is good to give thanks to the Lord, and to sing praise to Your name, Most High.
+
+[Secreta]
+@Commune/C2a
 
 [Communio]
 !Ps 30:17-18

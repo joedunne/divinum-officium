@@ -1,5 +1,15 @@
+[Rule]
+vide C2b;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C2b
+
 [Officium]
 St. Eleutherius, Pope and Martyr
 
 [Name]
 Eleutherius
+
+[Postcommunio] (nisi communi Summorum Pontificum)
+@Commune/C2a-1

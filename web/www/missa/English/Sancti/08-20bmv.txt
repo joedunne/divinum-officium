@@ -1,2 +1,11 @@
+[Rule]
+ex Sancti/08-15;
+Gloria
+CredoDA
+Prefatio=Maria=Assumptionis
+
 [Rank]
 Sixth Day Within the Octave of Assumption
+
+[Postcommunio]
+@Sancti/08-18bmv

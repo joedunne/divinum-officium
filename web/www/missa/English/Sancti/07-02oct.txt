@@ -1,2 +1,5 @@
+[Rank]
+;;Semiduplex;;2;;ex Sancti/06-29
+
 [Officium]
 Fourth Day Within the Octave of Sts. Peter and Paul, Apostles

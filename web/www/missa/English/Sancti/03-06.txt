@@ -1,8 +1,26 @@
+[Rule]
+vide C7b;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C7b
+(rubrica innovata)
+;;Duplex;;3.91;;vide C7b
+
 [Officium]
 Sts. Perpetua and Felicity, Martyrs
 
 [Name]
 Perpetua and Felicitas
+
+[Graduale] (rubrica 1960)
+@Commune/C6-1
+
+[Tractus] (rubrica 1960)
+@Commune/C6-1
+
+[Communio] (rubrica 1960)
+@Commune/C6-1
 
 [Postcommunio]
 You have filled us with spiritual joy and delight; grant, we beseech You, O Lord, that by the intercession of Your holy Martyrs Perpetua and Felicitas, we may spiritually attain what now we ritually perform.

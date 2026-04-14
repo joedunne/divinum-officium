@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex;;5
+
 [Officium]
 Dominica XVII Post Pentecosten
 
@@ -49,5 +52,4 @@ $Per Dominum
 Make vows to the Lord, your God, and fulfill them; let all round about Him bring gifts to the terrible Lord Who checks the pride of princes, Who is terrible to the kings of the earth.
 
 [Postcommunio]
-By the workings of Your sanctifying power, almighty God, may our vices be cured and eternal remedies provided for us.
-$Per Dominum
+@Tempora/Quad1-6:Postcommunio

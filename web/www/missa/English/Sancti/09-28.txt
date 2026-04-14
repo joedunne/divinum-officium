@@ -1,3 +1,9 @@
+[Rule]
+vide C2a;
+
+[Rank]
+;;Semiduplex;;2.2;;vide C2a
+
 [Officium]
 St. Wenceslaus, Duke and Martyr
 

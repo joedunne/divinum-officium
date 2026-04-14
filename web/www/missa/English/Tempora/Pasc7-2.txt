@@ -1,3 +1,6 @@
+[Rank]
+;;Duplex I classis;;7;;ex Pasc7-0
+
 [Officium]
 Die III infra octavam Pentecostes
 

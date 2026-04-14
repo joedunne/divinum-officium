@@ -1,5 +1,14 @@
+[Rule]
+vide C2a-1;
+
+[Rank]
+;;Simplex;;1.1;;vide C2a-1
+
 [Officium]
 S. Menna, Martyr
 
 [Name]
 Menna
+
+[Postcommunio]
+@Commune/C2a

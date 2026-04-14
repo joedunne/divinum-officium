@@ -6,3 +6,6 @@ ex C8;
 Gloria
 CredoDA
 Prefatio=Dedicatio
+
+[Oratio]
+@Commune/C8

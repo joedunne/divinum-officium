@@ -14,6 +14,10 @@ Prudéntes vírgines, * aptáte vestras lámpades: ecce sponsus venit, exíte ó
 Da nobis, quǽsumus, Dómine Deus noster, sanctárum Vírginum et Mártyrum tuárum N. et N. palmas incessábili devotióne venerári: ut quas digna mente non póssumus celebráre, humílibus saltem frequentémus obséquiis.
 $Per Dominum
 
+[Oratio] (ad missam)
+Da nobis, quǽsumus, Dómine Deus noster, sanctárum Vírginum et Mártyrum tuárum N. et N. palmas incessábili devotióne venerári: ut quas digna mente non póssumus celebráre, humílibus saltem frequentémus obséquiis.
+$Per Dominum
+
 [Nocturn 1 Versum]
 @Commune/C6:Versum 1
 

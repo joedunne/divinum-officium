@@ -1,5 +1,13 @@
+[Rule]
+vide C3;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C3
+
 [Officium]
 Ss. Charles Lwanga and companions, martyrs
 
 [Oratio]
-@Commune/C3
+Almighty and merciful God, who illuminates the whole world with the light of truth, and who has deigned to renew the wonders of the faith in the regions of Africa through the glorious Martyrs Matthias, Charles and Companions: grant to your suppliants; that, through their intercession, you may guard the gifts of your grace in us, and that among all nations, the people serving you may be increased in merit and number.
+$Per Dominum

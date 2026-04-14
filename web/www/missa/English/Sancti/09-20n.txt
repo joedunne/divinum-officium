@@ -1,2 +1,8 @@
+[Rule]
+vide C3;
+
+[Rank]
+;;Duplex memorial;;3;;vide C3
+
 [Officium]
 S. Andrew Kim Taegon, priest, and Paul Chong Hasang and companions, martyrs

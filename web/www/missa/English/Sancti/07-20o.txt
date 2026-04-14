@@ -1,3 +1,10 @@
+[Rule]
+vide C6;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C6-1
+
 [Officium]
 St. Margarita, Virgin and Martyr
 

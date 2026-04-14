@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex;;5
+
 [Officium]
 Dominica VI Post Epiphaniam
 
@@ -7,12 +10,7 @@ Credo
 Prefatio=Trinitate
 
 [Introitus]
-!Ps 96:7-8
-v. Adore God, all you His angels: Sion heard, and was glad; and the daughters of Juda rejoiced.
-!Ps 96:1
-The Lord has reigned; let the earth rejoice: let many islands be glad.
-&Gloria
-v. Adore God, all you His angels: Sion heard, and was glad; and the daughters of Juda rejoiced.
+@Tempora/Epi3-0:Introitus
 
 [Oratio]
 Grant us, we beseech You, almighty God, ever to think of spiritual things and in every word and work always to do what is well pleasing in Your sight.
@@ -24,11 +22,7 @@ Lesson from the first letter of St. Paul the Apostle to the Thessalonians
 Brethren: We give thanks to God always for you all, continually making a remembrance of you in our prayers; being mindful before God our Father of your work of faith, and labor, and charity, and your enduring hope in our Lord Jesus Christ. We know, brethren, beloved of God, how you were chosen. For our Gospel was not delivered to you in word only, but in power also, and in the Holy Spirit, and in much fullness, as indeed you know what manner of men we have been among you for your sakes. And you became imitators of us and of the Lord, receiving the word in great tribulation, with joy of the Holy Spirit, so that you became a pattern to all the believers in Macedonia and in Achaia. For from you the word of the Lord has been spread abroad, not only in Macedonia and Achaia, but in every place your faith in God has gone forth, so that we need say nothing further. For they themselves report concerning us how we entered among you, and how you turned to God from idols, to serve the living and true God, and to await from heaven Jesus, His Son, Whom He raised from the dead, Who has delivered us from the wrath to come.
 
 [Graduale]
-!Ps 101:16
-The Gentiles shall fear Your name, O Lord, and all the kings of the earth Your glory.
-V. For the Lord has built up Sion, and He shall be seen in His glory. Alleluia, alleluia.
-!Ps 96:1
-V. The Lord has reigned, let the earth rejoice: let many islands be glad. Alleluia.
+@Tempora/Epi3-0:Graduale
 
 [Evangelium]
 Continuation of the Holy Gospel according to St. Matthew
@@ -44,8 +38,7 @@ May this offering, O God, we beseech You, cleanse and renew us, govern and prote
 $Per Dominum
 
 [Communio]
-!Luke 4:22
-They all marveled at these things that came from the mouth of God.
+@Tempora/Epi3-0:Communio
 
 [Postcommunio]
 Nourished by Your heavenly food, O Lord, we beseech You that we may always strive after those things that give us true life.

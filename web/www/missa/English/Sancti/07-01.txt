@@ -18,12 +18,30 @@ v. You have redeemed us, O Lord, with Your Blood, out of every tribe and tongue 
 Almighty, eternal God, Who made Your only-begotten Son the Redeemer of the world, and willed to be reconciled by His Blood, grant us, we beseech You, so to worship in this sacred rite the price of our salvation, and to be so protected by its power against the evils of the present life on earth, that we may enjoy its everlasting fruit in heaven.
 $Per eundem
 
+[Lectio]
+@Tempora/Quad5-0
+
 [Graduale]
 !1 John 5:6-8
 This is He Who came in water and in blood, Jesus Christ; not in the water only, but in the water and in the blood.
 V. There are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one. And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three are one. Alleluia, alleluia.
 !1 John 5:9
 V. If we receive the testimony of men, the testimony of God is greater. Alleluia.
+
+[GradualeP]
+Alleluia, alleluia
+!Apoc 5:9
+Worthy art Thou, O Lord, to take the book and to open the seals thereof: because Thou wast slain, and hast redeemed us to God in Thy blood.
+!Exod 12:13
+And the blood shall be unto you for a sign: and I shall see the blood, and shall pass over you: and the plague shall not be upon you to destroy. Alleluia.
+
+[Tractus]
+!Ephes 1:6-8
+God hath made us acceptable in His beloved Son, in whom we have redemption through His blood.
+V. The remission of sins, according to the riches of His grace, which hath superabounded in us.
+!Rom 3:24-25
+Justified freely by His grace, through the redemption which is in Christ Jesus.
+V. Whom God hath set forth to be a propitiation through faith in His blood.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
@@ -44,4 +62,4 @@ Christ was offered once to take away the sins of many; the second time with no p
 
 [Postcommunio]
 Admitted to the sacred banquet, O Lord, we have drawn water in joy from the Saviour’s fountain; may His Blood, we beseech You, become for us a fountain of water springing up unto life everlasting.
-$Qui vivis
+$Qui tecum

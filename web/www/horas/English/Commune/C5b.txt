@@ -1,8 +1,16 @@
+@Commune/C5
+
 [Officium]
 Common of an Abbot
 
 [Missa]
 Os justi (altera)
+
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+Psalm5 Vespera=116
+Gloria
 
 [Oratio]
 v. May the pleading of blessed N., the Abbot, make us acceptable unto thee, O Lord, we pray; that what we may not have through any merits of ours, we may gain by means of his patronage.
@@ -11,6 +19,9 @@ $Per Dominum
 [Oratio] (ad missam)
 May the intercession of the blessed Abbot N., commend us to You, O Lord, so that through his merits we may obtain that which we cannot accomplish by our own.
 $Per Dominum
+
+[Introitus]
+@Commune/C5
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
@@ -52,6 +63,9 @@ You have granted him his heart’s desire, O Lord; You refused not the wish of h
 [Secreta]
 We beseech You, O Lord, may the holy Abbot N., prevail by his prayers, so that the offerings placed upon Your sacred altar may be beneficial for our salvation.
 $Per Dominum
+
+[Communio]
+@Commune/C4
 
 [Postcommunio]
 May the pleading of the blessed Abbot N. for us, together with the partaking of Your sacrament, protect us, O Lord, so that we, mindful of his way of life, may obtain the help of his intercession.

@@ -1,6 +1,51 @@
+@Commune/C3
+
 [Officium] (communi Summorum Pontificum)
 Common of Martyr Popes
+
+[Rule] (communi Summorum Pontificum)
+@Commune/C3
+Prefatio=Apostolis
 
 [Oratio] (communi Summorum Pontificum)
 v. Look forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed N. and N. thy Martyrs and Sovereign Pontiffs, whom thou didst constitute Shepherds of the whole Church.
 $Per Dominum
+
+[Lectio7] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Lectio8] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Lectio9] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Introitus] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Lectio] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Graduale] (communi Summorum Pontificum)
+@Commune/C4b
+
+[GradualeP] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Tractus] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Evangelium] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Offertorium] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Secreta] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Communio] (communi Summorum Pontificum)
+@Commune/C4b
+
+[Postcommunio] (communi Summorum Pontificum)
+@Commune/C4b

@@ -2,11 +2,10 @@
 Litaniae Maiores;;Commemoratio;;3
 
 [Oratio]
-Grant, we beseech thee, O Almighty God, that we who in our tribulation are yet of good cheer because of thy loving-kindness, may find thee mighty to save from all dangers. 
-$Per Dominum
+@Tempora/Pasc5-1:Oratio
 
 [Secreta]
-We beseech thee, O Lord that these offerings may both loosen the bonds of our wickedness, and obtain for us the gifts of mercy.
+@Tempora/Pasc5-1:Secreta
 $Per Dominum.
 
 [Postcommunio]

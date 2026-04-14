@@ -1,3 +1,10 @@
+[Rank]
+;;Feria major;;2.1
+(sed rubrica 1930)
+;;Feria major;;4.9
+(sed rubrica 196)
+;;Feria major;;3.9
+
 [Officium]
 Feria Quarta infra Hebdomadam III in Quadragesima
 
@@ -31,7 +38,8 @@ _
 !Tractus
 !Ps 102:10
 O Lord, deal with us not according to our sins, nor requite us according to our crimes.
-V. Ps 78:8-9. O Lord, remember not against us the iniquities of the past; may Your compassion quickly come to us, for we are brought very low. (kneel)
+!Ps 78:8-9.
+O Lord, remember not against us the iniquities of the past; may Your compassion quickly come to us, for we are brought very low. (kneel)
 V. Help us, O God, our Saviour, because of the glory of Your Name, O Lord; deliver us and pardon our sins for Your Name’s sake.
 
 [Evangelium]
@@ -44,10 +52,7 @@ At that time, the Scribes and Pharisees from Jerusalem came to Jesus, saying, Wh
 O Lord, deal kindly with me for Your Name’s sake; because your kindness is generous.
 
 [Secreta]
-O Lord, receive, we beseech You, the
-prayers of Your people with offerings of sacrifices,
-and defend us, who celebrate Your mysteries, from
-all dangers.
+O Lord, receive, we beseech You, the prayers of Your people with offerings of sacrifices, and defend us, who celebrate Your mysteries, from all dangers.
 $Per Dominum
 
 [Communio]
