@@ -127,20 +127,30 @@ sub ordo {
   }
 
   if ($rule =~ /Post Missam/i) {
-    my $str = $winner{'Post Missam'};
+    my $str = format_string($winner{'Post Missam'});
 
     # $str = norubr1($str);
     push(@script1, split('_', $str));
 
     if (!$only) {
-      $str = $winner2{'Post Missam'};
-
+      $str = format_string($winner2{'Post Missam'});
       # $str = norubr1($str);
       push(@script2, split('_', $str));
     }
   }
 
   print_content($lang1, \@script1, $lang2, \@script2, 1);
+}
+
+sub format_string() {
+    my ($str) = @_;
+
+    if ($str && $str !~ /^\s*$/) {
+            $str =~ s/(?<!\() \( ([^()]*?) \) (?!\))/setfont($smallfont, $1)/egx;
+            $str =~ s/\(\(/(/g;
+            $str =~ s/\)\)/)/g;
+          }
+    return $str;
 }
 
 #*** resolve_refs($text_of_block, $lang)

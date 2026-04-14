@@ -4,9 +4,6 @@
 [Officium]
 De missa chrismatis
 
-[TODO]
-TODO JJD Translate
-
 [Rule]
 Gloria
 Credo
@@ -18,46 +15,46 @@ prelude
 Archbasilica of Saint John Lateran
 
 [Prelude]
-!Benedictio olei catechumenorum et infirmorum, et confectio sacri chrismatis peraguntur secundum ordinem in Pontificali Romano descriptum.
+!The blessing of the oil of catechumens and of the sick, and the fashioning of the holy chrism, are performed according to the order described in the Roman Pontifical.
 
 [Introitus]
 !Ex 30:25,31
-v. Fácies unctiónis óleum, et fíliis Israël dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras.
+v. Thou shalt make the oil of unction, and shalt say to the children of Israel: This oil of unction shall be holy unto me throughout your generations.
 !Ps 88:2
-Misericórdias Dómini in ætérnum cantábo: in generatiónem et generatiónem annuntiábo veritátem tuam in ore meo. Fácies unctiónis.
-v. Fácies unctiónis óleum, et fíliis Israël dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras.
+The mercies of the Lord I will sing for ever: from generation to generation I will show forth Thy truth with my mouth. Thou shalt make the oil of unction.
+v.Thou shalt make the oil of unction, and shalt say to the children of Israel: This oil of unction shall be holy unto me throughout your generations.
 
 [Oratio]
-Dómine, Deus, qui in regenerándis plébibus tuis ministério úteris sacerdótum; tríbue nobis perseverántem in tua voluntáte famulátum; ut dono grátiæ tuæ, in diébus nostris, et méritis et número sacrátus tibi pópulus augeátur.
+O Lord God, who in the regenerating of Thy people dost use the ministry of priests; grant to us a service persevering in Thy will; so that by the gift of Thy grace, in our days, the people consecrated to Thee may increase both in merit and in number.
 $Per Dominum
 
 [Lectio]
-Léctio Epístolæ beáti Jacóbi Apóstoli.
-!Jc 5:13-16
-Fratres: Tristátur áliquis vestrum? Oret. Æquo ánimo est? Psallat. Infirmátur quis in vobis? Indúcat presbýteros ecclésiæ, et orent super eum, ungéntes eum óleo in nómine Dómini; et orátio fídei salvábit infírmum, et alleviábit eum Dóminus; et si in peccátis sit, remitténtur ei. Confitémini ergo altérutrum peccáta vestra, et oráte pro ínvicem ut salvémini; multum enim valet deprecátio justi assídua.
+Lesson from the letter of St James the Apostle
+!Jas 5:13-16
+Brethren: Is any of you sad? Let him pray. Is he cheerful in mind? Let him sing psalms. Is any man sick among you? Let him bring in the priests of the church, and let them pray over him, anointing him with oil in the name of the Lord; and the prayer of faith shall save the sick man, and the Lord shall raise him up; and if he be in sins, they shall be forgiven him. Confess therefore your sins one to another, and pray for one another, that you may be saved; for the continual prayer of a just man availeth much.
 
 [Graduale]
 !Ps 27:7-8
-In Deo sperávit cor meum, et adjútus sum. Et reflóruit caro mea: et ex voluntáte mea confitébor ei.
-V. Dóminus fortitúdo plebis suæ: et protéctor salvatiónum Christi sui est.
+In God hath my heart confided, and I have been helped. And my flesh hath flourished again: and with my whole will I will give praise to Him.
+V. The Lord is the strength of His people, and the protector of the salvation of His Anointed.
 
 [Evangelium]
-Sequéntia ++ sancti Evangélii secúndum Marcum.
-!Marc 6:7-13
-In illo témpore: Vocávit Jesus duódecim, et coepit eos míttere binos, et dabat illis potestátem spirítuum immundórum. Et præcépit eis, ne quid tóllerent in via, nisi virgam tantum; non peram, non panem, neque in zona æs, sed calceátos sandáliis, et ne indueréntur duábus túnicis. Et dicébat eis: « Quocúmque introiéritis in domum, illic manéte, donec exeátis inde; et quicúmque non recéperint vos, nec audíerint vos, exeúntes inde, excútite púlverem de pédibus vestris, in testimónium illis ». Et exeúntes prædicábant ut pæniténtiam ágerent; et dæmónia multa ejiciébant, et ungébant óleo multos ægros, et sanábant.
+Continuation + of the Holy Gospel according to Mark
+!Mark 6:7-13
+At that time: Jesus called the twelve, and began to send them out two by two, and gave them power over unclean spirits. And he commanded them that they should take nothing for the way, but a staff only; no scrip, no bread, nor money in their purse, but to be shod with sandals, and that they should not put on two coats. And he said to them: Wheresoever you shall enter into an house, there abide till you depart from that place. And whosoever shall not receive you, nor hear you; going forth from thence, shake off the dust from your feet for a testimony to them. And going forth they preached men should do penance: And they cast out many devils, and anointed with oil many that were sick, and healed them.
 
 [Offertorium]
 !Ps 44:7
-Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ.
+Thou hast loved justice and hated iniquity: therefore God, thy God, hath anointed thee with the oil of gladness.
 
 [Secreta]
-Hujus sacrifícii poténtia, Dómine, quǽsumus, et vetustátem nostram cleménter abstérgat, et novitátem nobis áugeat et salútem.
+May the power of this sacrifice, we beseech Thee, O Lord, mercifully wipe away our oldness, and increase in us newness and salvation.
 $Per Dominum
 
 [Communio]
 !Marc. 6:12-13
-Prædicábant Apóstoli ut pæniténtiam ágerent, et ungébant óleo multos ægros, et sanábant.
+The Apostles preached that they should do penance; and they anointed many sick with oil, and healed them.
 
 [Postcommunio]
-Præsta, quǽsumus, Dómine: ut, sicut de prætéritis ad nova transímus; ita, vetustáte depósita, sanctificátis méntibus innovémur.
+Grant, we beseech Thee, O Lord: that, as we pass from things past to things new; so, having put away our oldness, we may be renewed with sanctified minds.
 $Per Dominum
