@@ -1273,5 +1273,5 @@ sub DeTemporePassionis {
 
 sub nonbreakingspace : ScriptFunc {
   my $lang = shift;
-  return "<span class='text-sm'> &nbsp; &emsp; </span>";
+  return "<span class='text-pre-white-space'> &nbsp; </span>";
 }

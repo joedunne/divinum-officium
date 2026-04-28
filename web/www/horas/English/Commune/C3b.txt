@@ -8,7 +8,7 @@ Common of Martyr Popes
 Prefatio=Apostolis
 
 [Oratio] (communi Summorum Pontificum)
-v. Look forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed N. and N. thy Martyrs and Sovereign Pontiffs, whom thou didst constitute Shepherds of the whole Church.
+Look forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed N. and N. thy Martyrs and Sovereign Pontiffs, whom thou didst constitute Shepherds of the whole Church.
 $Per Dominum
 
 [Lectio7] (communi Summorum Pontificum)

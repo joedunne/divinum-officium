@@ -228,7 +228,7 @@ sub resolve_refs {
     $line = setcross($line);
 
     #red prefix
-    if ($line =~ /^\s*(R\.|V\.|S\.|P\.|M\.|A\.|O\.|C\.|D\.|Benedictio\.* |Absolutio\.* |Ant\. |Ps\. )(.*)/s) {
+    if ($line =~ /^\s*(R\.|V\.|S\.|P\.|M\.|A\.|O\.|C\.|D\.|Benedictio\.* |Absolutio\.* |Ant\. |Ps\. |Priest\: |Sponsor\/Catechumen\: )(.*)/s) {
       my $h = setvrbar($1);
       my $l = $2;
 

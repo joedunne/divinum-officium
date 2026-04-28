@@ -387,14 +387,15 @@ Dómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et san
 !35. His completis, celebrans stans in medio altaris, habens ante se librum, a dextris et a sinistris ministros sacros, dicit pro gratiarum actione, in tono feriali et manibus iunctis, tres sequentes orationes, omnibus stantibus et Amen respondentibus.
 _
 _
+!
 V. Orémus.
 Super pópulum tuum quǽsumus, Dómine, qui passiónem et mortem Fílii tui devóta mente recóluit, benedíctio copiósa descéndat, indulgéntia véniat, consolátio tribuátur, fides sancta succréscat, redémptio sempitérna firmétur. Per eúndem Christum Dóminum nostrum.
 R. Amen.
-_ `
+_
 V. Oremus.
 Omnípotens et miséricors Deus, qui Christi tui beáta passióne et morte nos reparásti: consérva in nobis óperam misericórdiæ tuæ; ut huius mystérii participatióne, perpétua devotióne vivámus.  Per eúndem Christum Dóminum nostrum.
 R. Amen.
-_ `
+_
 V. Oremus.
 Reminíscere miseratiónum tuárum, Dómine, et fámulos tuos ætérna protectióne sanctífica, pro quibus Christus, Fílius tuus, per suum cruórem instítuit paschále mystérium.  Per eúndem Christum Dóminum nostrum.
 R. Amen.
