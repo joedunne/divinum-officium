@@ -14,7 +14,10 @@ Dominica in Sexagesima
 no Gloria
 Credo
 Prefatio=Trinitate
-Suffr=Maria2;Sanctorum,Ecclesiæ;;
+Suffr=Maria2;Papa,Ecclesiæ;;
+
+[Station]
+S. Paolo fuori le mura
 
 [Station]
 S. Paolo fuori le mura

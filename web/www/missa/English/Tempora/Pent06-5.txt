@@ -3,7 +3,3 @@
 
 [Officium]
 Feria sexta infra Hebdomadam VI post Octavam Pentecostes
-
-[Rule]
-Oratio Dominica
-Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;

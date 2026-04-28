@@ -9,6 +9,10 @@ Gloria
 Sequentia
 Credo
 Prefatio=Spiritu=hodierna die;
+Suffr=Ecclesiæ;Papa;;
+
+[Station]
+SS. Apostoli
 
 [Station]
 SS. Apostoli

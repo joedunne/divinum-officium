@@ -5,7 +5,6 @@
 Feria Tertia in Rogationibus
 
 [Rule]
-Oratio Dominica
 no Gloria
 no Credo
 Suffr=Maria3;Ecclesiae,Papa;;

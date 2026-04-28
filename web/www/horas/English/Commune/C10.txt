@@ -9,19 +9,10 @@ Salve Sancta Parens (a Trinitate usque ad Adventum)
 ! From Trinity Sunday until Advent
 
 [Rank]
-;;Simplex;;1.3;;vide C10
+Prefatio=Maria=veneration;
 
 [Rule]
-vide C10
-Special Benedictio
-(nisi rubrica cisterciensis) Special Lectio 3
-Doxology=Nat
-Antiphonas horas
-(rubrica tridentina nisi rubrica cisterciensis) Psalmi Dominica
-(rubrica 1617 aut rubrica cisterciensis) 3 lectiones
-Gloria
-Suffr=Spiritu;Ecclesiæ,Papa;;
-Prefatio=Maria=veneratione;
+Prefatio=Maria=veneration;
 
 [Hymnus Vespera]
 @Commune/C11

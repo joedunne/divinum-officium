@@ -28,4 +28,3 @@ $Per Dominum
 @:Oratio_
 (sed rubrica tridentina)
 @:Oratio_:s/ and Doctor//
-
