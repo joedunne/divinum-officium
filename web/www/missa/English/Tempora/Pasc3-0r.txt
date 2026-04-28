@@ -4,11 +4,6 @@
 [Officium]
 Dominica III Post Pascha
 
-[Rule]
-Gloria
-Credo
-Suffr=Maria3;Ecclesiae,Papa;;
-
 [Introitus]
 @Tempora/Pasc3-0:Introitus
 

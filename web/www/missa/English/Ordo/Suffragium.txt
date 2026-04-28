@@ -42,24 +42,24 @@ $Per eumdem
 Mercifully hear the prayers of thy Church, we beseech thee, O Lord, that all adversities and errors being overcome, she may serve thee in security and feedom.
 $Per Dominum
 
-[Oratio Papa]
-!for the Pope
-O God, the shepherd and ruler of all the faithful, graciously look upon thy servant Leo, who thou hast willed to be chief pastor of thy Church; grant him we beseech thee, by word and example to profit those over whom he rules, that together with the flock entrusted to him, he may attain to life everlasting.
-$Per Dominum
-
 [Secreta Ecclesiæ]
 !for the Church
 Protect us, O Lord, who celebrate thy mysteries, that holding fast to divine things, we may serve thee with body and soul.
 $Per Dominum
 
-[Secreta Papa]
-!for the Pope
-Look down favorably, O Lord, we beseech thee, upon the gifts we have offered: and let thy constant protection direct thy servant Leo, whom tho hast chosen to be the chief pastor of the Church.
-$Per Dominum
-
 [Postcommunio Ecclesiæ]
 !for the Church
 We beseech thee, O Lord, our God, that thou permit not those, to whom thou hast given a participation of divine things to be subjected to human dangers.
+$Per Dominum
+
+[Oratio Papa]
+!for the Pope
+O God, the shepherd and ruler of all the faithful, graciously look upon thy servant Leo, who thou hast willed to be chief pastor of thy Church; grant him we beseech thee, by word and example to profit those over whom he rules, that together with the flock entrusted to him, he may attain to life everlasting.
+$Per Dominum
+
+[Secreta Papa]
+!for the Pope
+Look down favorably, O Lord, we beseech thee, upon the gifts we have offered: and let thy constant protection direct thy servant Leo, whom tho hast chosen to be the chief pastor of the Church.
 $Per Dominum
 
 [Postcommunio Papa]
@@ -111,3 +111,6 @@ $Per Dominum
 !pro vivis et mortuos
 May the Sacraments which we have received purify us, we beseech Thee, O almighty and merciful Lord; and through the intercession of all the saints, grant that this Thy Sacrament may not be unto us a condemnation, but a salutory intercession for pardon; may it be the washing away of sin, the strength of the weak, a protection against all dangers of the world, and a remission of all the sins of the faithful, whether living or dead. 
 $Per Dominum
+
+[ad libitum]
+or any other

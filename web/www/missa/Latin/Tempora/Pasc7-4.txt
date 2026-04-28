@@ -9,6 +9,10 @@ Gloria
 Sequentia
 Credo
 Prefatio=Spiritu=hodierna die;
+Suffr=Ecclesiæ;Papa;;
+
+[Station]
+S. Lorenzo fuori le mura
 
 [Station]
 S. Lorenzo fuori le mura

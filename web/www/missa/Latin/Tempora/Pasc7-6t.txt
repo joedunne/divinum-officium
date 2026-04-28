@@ -12,6 +12,10 @@ LectioL5
 Sequentia
 Credo
 Prefatio=Spiritu=hodierna die;
+Suffr=Ecclesiæ;Papa;;
+
+[Station]
+S. Pietro in Vaticano
 
 [Station]
 S. Pietro in Vaticano

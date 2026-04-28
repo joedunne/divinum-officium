@@ -2,13 +2,4 @@
 Die Undecima Januarii;;Feria;;1.2;;vide Sancti/01-06
 
 [Rank]
-Sexta die infra Octavam Epiphaniæ;;Semiduplex;;5.6;;ex Sancti/01-06
-
-[Rule]
-Gloria
-CredoDA
-Prefatio=Epi
-Suffragium=Maria2;;Papa;Ecclesia;;
-(sed rubrica 1960)
-CPapaM=Hygínum
-vide C4b;
+Sexta die infra Octavam Epiphaniae;;Semiduplex;;2.1;;ex Sancti/01-06

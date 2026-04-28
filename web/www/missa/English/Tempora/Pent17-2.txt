@@ -3,7 +3,3 @@
 
 [Officium]
 Feria Tertia infra Hebdomadam XVII post Octavam Pentecostes
-
-[Rule]
-Oratio Dominica
-Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;

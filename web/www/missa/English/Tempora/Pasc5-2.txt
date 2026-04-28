@@ -3,9 +3,3 @@
 
 [Officium]
 Feria Tertia in Rogationibus
-
-[Rule]
-Oratio Dominica
-(sed non rubrica 1960)no Gloria
-no Credo
-Suffr=Maria3;Ecclesiae,Papa;;

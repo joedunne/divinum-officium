@@ -4,12 +4,6 @@
 [Officium]
 Dominica IV Post Pentecosten
 
-[Rule]
-Gloria
-Credo
-Prefatio=Trinitate
-Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;
-
 [Introitus]
 @Tempora/Pent04-0:Introitus
 
