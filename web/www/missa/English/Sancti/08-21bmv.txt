@@ -1,2 +1,11 @@
 [Rank]
 Seventh day of the Octave;;Semiduplex;;2;;ex Sancti/08-15
+
+[Oratio]
+@Sancti/08-18bmv
+
+[Secreta]
+@Sancti/08-18bmv
+
+[Postcommunio]
+@Sancti/08-18bmv

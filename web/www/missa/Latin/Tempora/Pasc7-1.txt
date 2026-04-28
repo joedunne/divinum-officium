@@ -10,9 +10,6 @@ Die II infra octavam Pentecostes
 [Station]
 S. Pietro in Vincoli
 
-[Station]
-S. Pietro in Vincoli
-
 [Introitus]
 !Ps 80:17
 v. Cibávit eos ex ádipe fruménti, allelúja: et de petra, melle saturávit eos, allelúja, allelúja.

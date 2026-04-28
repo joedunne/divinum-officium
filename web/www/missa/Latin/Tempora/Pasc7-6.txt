@@ -32,9 +32,6 @@ v. Glória in excélsis Deo. Et in terra pax homínibus bonæ voluntátis. Laud�
 [Station]
 S. Pietro in Vaticano
 
-[Station]
-S. Pietro in Vaticano
-
 [Introitus]
 !Rom 5:5.
 v. Cáritas Dei diffúsa est in córdibus nostris, allelúja: per inhabitántem Spíritum ejus in nobis, allelúja, allelúja.

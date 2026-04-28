@@ -14,9 +14,6 @@ Suffr=Ecclesiæ;Papa;;
 [Station]
 SS. Apostoli
 
-[Station]
-SS. Apostoli
-
 [Introitus]
 !Ps 70:8 70:23
 v. Repleátur os meum laude tua, allelúja: ut possim cantáre, allelúja: gaudébunt lábia mea, dum cantávero tibi, allelúja, allelúja.

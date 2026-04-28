@@ -22,9 +22,6 @@ v. Glory be to God on high, and on earth peace to men of good will. We praise Th
 [Station]
 St. Peter's Basilica
 
-[Station]
-St. Peter's Basilica
-
 [Introitus]
 !Rom 5:5.
 v. The charity of God is poured forth in our hearts, alleluia: by His Spirit dwelling in us, alleluia, alleluia.
