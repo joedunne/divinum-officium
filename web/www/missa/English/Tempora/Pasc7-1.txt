@@ -1,5 +1,17 @@
+[Rank]
+;;Duplex I classis;;7;;ex Pasc7-0
+
 [Officium]
 Die II infra octavam Pentecostes
+
+[Rule]
+Gloria
+Sequentia
+Credo
+Prefatio=Spiritu
+
+[Station]
+St. Peter in Chains
 
 [Introitus]
 !Ps. 80:17

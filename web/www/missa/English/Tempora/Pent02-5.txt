@@ -1,3 +1,9 @@
+[Rank] (rubrica 196)
+;;Duplex I classis;;6
+
+[Rank]
+;;Duplex I classis cum Octava privilegiata III ordinis;;6.51
+
 [Officium]
 Sacratissimi Cordis Domini Nostri Jesu Christi
 
@@ -54,6 +60,14 @@ My heart expected reproach and misery; I looked for sympathy, but there was none
 [Secreta]
 Look, we beseech You, O Lord, upon the Heart of Your beloved Son, with its boundless love, so that what we offer, may be an acceptable gift in Your sight and an atonement for our sins.
 $Per Dominum
+
+[CommunioP]
+!Joannes 7:37
+If anyone thirst, let him come to Me and drink, alleluia, alleluia.
+
+[OffertoriumP]
+!Ps 39:7-9
+Burnt offering and sin offering thou didst not require: Then said I, Behold I come. In the head of the book it is written of me That I should do thy will: O my God, I have desired it, and thy law in the midst of my heart.
 
 [Communio]
 !John 19:34

@@ -1,2 +1,5 @@
+[Rank]
+;;Feria major;;2.1
+
 [Officium]
 Feria V infra Hebdomadam II Adventus

@@ -5,6 +5,9 @@ In Vigilia Nativitatis Domini;;Duplex I classis;;6.1
 no Gloria
 Tempora none
 
+[Station]
+S. Maria Maggiore
+
 [Introitus]
 !Exod 16:6; 16:7
 v. Hódie sciétis, quia véniet Dóminus et salvábit nos: et mane vidébitis glóriam ejus.

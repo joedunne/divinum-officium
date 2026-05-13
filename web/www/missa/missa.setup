@@ -1,5 +1,5 @@
 [parameters]
-$pope='Leone,Leo';;
+$pope='(nomen Papae),(name of Pope)';;
 $bishop='(nomen Episcopi in casu ablativus),(name of Bishop)';;
 $lang1='Latin';;
 $whitebground='1';;

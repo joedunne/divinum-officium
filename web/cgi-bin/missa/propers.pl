@@ -545,7 +545,7 @@ sub getcommemoratio {
     $o = papal_prayer($lang, $plural, $class, $name, $type);
   }
   if (!$o) { return ''; }
-  my $comm = translate_label('Commemoratio', $lang);
+  my $comm = translate_label('Commemoratio', 'Latin') ;# $lang); #Don't know why but English translation of label has extra new line
   $comm =~ s/\s$//;
   $w = "!" . $comm . " $rank[0]\nv. $o\n";
   return $w;
@@ -898,8 +898,8 @@ sub Vidiaquam : ScriptFunc {
     return resolve_refs($w, $lang);
   } else {
     return '';
-  }
-}
+  }}
+
 
 sub Introibo {
   if ($votive =~ /Defunct|C9/ || DeTemporePassionis()) { push(@s, "!omit. psalm"); return 1; }
@@ -907,20 +907,32 @@ sub Introibo {
 }
 
 sub gloriflag {
+
+#TODO jjd fix this maybe?
   my $flag = 1;
   if ($dayofweek == 0) { $flag = 0; }
 
   if ($rule =~ /no Gloria/i) {
     $flag = 1;
+    return $flag;
   } elsif ($rule =~ /Gloria/ || $communerule =~ /Gloria/i) {
     $flag = 0;
-  } elsif ($votive && $votive =~ /Defunct|C9/i) {
+    return $flag;
+  }
+
+  if ($dayname[0] =~ /Adv|Quad/i) {
     $flag = 1;
-  } elsif ($winner =~ /Sancti/) {
+    return $flag;
+  }
+
+  if ($votive && $votive =~ /Defunct|C9/i) {
+    $flag = 1;
+    return $flag;
+  }
+  if ($winner =~ /Sancti/) {
     $flag = 0;
-  } elsif ($dayname[0] =~ /Adv|Quad/i) {
-    $flag = 1;
-  } elsif ($dayname[0] =~ /Pasc/) {
+  }
+  if ($dayname[0] =~ /Pasc/) {
     $flag = 0;
   }
   return $flag;
@@ -1212,6 +1224,7 @@ sub postcommunio : ScriptFunc {
   my $lang = shift;
   my $str = oratio($lang, 'Postcommunio');
   if ($rule =~ /Super pop/i) { $str .= "_\n_\n" . getitem('Super populum', $lang); }
+#  if ($rule =~ /Post Missam/i) { $str .= "_\n_\n" . getitem('Post Missam', $lang); }
   return $str;
 }
 
@@ -1277,7 +1290,7 @@ sub Ultimaev : ScriptFunc {
   } elsif (!exists($win{'Ultima Evangelium'})) {
 
     # Commemorated Last Gospel
-    my $comm = translate_label('Commemoratio', $lang);
+    my $comm = translate_label('Commemoratio', 'Latin');# $lang); #Don't know why but English translation of label has extra new line
     my @comrank = split(";;", $com{Rank});
 
     $comm =~ s/\s$//;
@@ -1308,4 +1321,9 @@ sub DeTemporePassionis {
        ($dayname[0] =~ /Quad5/i || ($dayname[0] =~ /Quad6/ && $dayofweek < 6))
     && $winner =~ /Tempora/i
     && $winner{'Rank'} !~ /Septem Dolorum/i;
+}
+
+sub nonbreakingspace : ScriptFunc {
+  my $lang = shift;
+  return "<span class='text-pre-white-space'> &nbsp; </span>";
 }

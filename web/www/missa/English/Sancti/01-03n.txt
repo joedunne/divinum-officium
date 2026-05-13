@@ -18,6 +18,19 @@ Prefatio=Nat
 [Graduale]
 @Tempora/Nat2-0
 
+[GradualeP]
+Alleluia, alleluia.
+!Ps 144:21
+My mouth shall speak the praise of the Lord: and let all flesh bless His holy name. Alleluia.
+!Ps 144:1
+V. I will extol Thee, O God my King: and I will bless Thy holy name, O Jesus, for ever and ever. Alleluia.
+
+[Tractus]
+!Ps 79:20; Cant 2:14
+O Lord, God of hosts, convert us: and show Thy face, and we shall be saved: let Thy voice sound in my ears. For Thy voice is sweet, and Thy face is exceedingly comely.
+!Cant 1:2
+V. Thy name is as oil poured out, O Jesus: therefore have the virgins loved Thee.
+
 [Evangelium]
 @Tempora/Nat2-0
 

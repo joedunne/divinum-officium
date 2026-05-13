@@ -13,6 +13,9 @@ no Credo
 LectioL1
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[Station]
+S. Maria Maggiore
+
 [Introitus]
 !Is 45:8
 v. Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem
@@ -29,7 +32,7 @@ $Deo gratias
 
 [GradualeL1]
 !Ps 23:7; 23:3; 23:4
-v. Tóllite portas, principes, vestras: et elevámini, portæ æternáles: et introíbit Rex glóriæ.
+V. Tóllite portas, principes, vestras: et elevámini, portæ æternáles: et introíbit Rex glóriæ.
 V. Quis ascéndet in montem Dómini? aut quis stabit in loco sancto ejus ? Innocens mánibus et mundo corde.
 
 [OratioL1]

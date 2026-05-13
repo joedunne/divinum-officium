@@ -1,8 +1,11 @@
+[Rank]
+;;Semiduplex I classis;;6.9;;ex Pasc7-0
+
 [Officium]
 Sabbato Quattuor Temporum Pentecostes
 
 [Graduale](missa brevior)
-Alleluia. 
+Alleluia.
 V. (Kneel.) Come, O Holy Spirit, fill the hearts of Your faithful; and kindle in them the fire of Your love.
 
 [GradualeL1](missa brevior)
@@ -15,6 +18,9 @@ v. Glory be to God on high, and on earth peace to men of good will. We praise Th
 
 [Sequentia](missa longior)
 @Tempora/Pasc7-0:Sequentia::s/Alleluia.//
+
+[Station]
+St. Peter's Basilica
 
 [Introitus]
 !Rom 5:5.
@@ -87,7 +93,7 @@ $Per Dominum
 Lesson from the book of Daniel
 !Dan. 3:47-51.
 In those days, the Angel of the Lord went down into the furnace with Azaria and his companions, drove the fiery flames out of the furnace, and made the inside of the furnace as though a dew-laden breeze were blowing through it. And the flames rose forty-nine cubits above the furnace, and spread out, burning the Chaldeans nearby, the king’s men who were stoking the furnace. And the fire in no way touched them or caused them pain or harm. Then these three in the furnace with one voice sang, glorifying and blessing God:
-$Deo Gratias
+$Deo gratias
 
 [GradualeL5]
 Alleluia.
@@ -112,7 +118,8 @@ Brethren: Having been justified by faith, let us have peace with God through our
 
 [Graduale]
 !Ps 116:1-2
-Praise the Lord, all you nations; glorify Him, all you peoples! For steadfast is His kindness toward us, and the fidelity of the Lord endures forever.
+Praise the Lord, all you nations; glorify Him, all you peoples!
+V. For steadfast is His kindness toward us, and the fidelity of the Lord endures forever.
 
 [Sequentia]
 @Tempora/Pasc7-0:Sequentia

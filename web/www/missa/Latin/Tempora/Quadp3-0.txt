@@ -16,6 +16,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Maria2;Papa,Ecclesiæ;;
 
+[Station]
+S. Pietro in Vaticano
+
 [Introitus]
 !Ps 30:3-4
 v. Esto mihi in Deum protectórem, et in locum refúgii, ut salvum me fácias: quóniam firmaméntum meum et refúgium meum es tu: et propter nomen tuum dux mihi eris, et enútries me.

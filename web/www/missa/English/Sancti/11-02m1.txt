@@ -6,9 +6,8 @@ ex C9
 no Gloria
 no Credo
 Prefatio=Defunctorum
-multiple3
+celebranda aut missa prima aut missa secunda aut missa tertia
 Sequentia
-Requiem gloria
 
 [Oratio]
 O God, Creator and Redeemer of all the faithful, grant to the souls of Your servants and handmaids the remission of all their sins, that they may obtain by our loving prayers the forgiveness which they have always desired.

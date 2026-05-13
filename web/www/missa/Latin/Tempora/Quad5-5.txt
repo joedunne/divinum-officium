@@ -9,6 +9,12 @@ no Gloria
 Credo
 Prefatio=Quad5
 
+[Station]
+S. Stephani Rotondo
+
+[CollectStation]
+SS. Giovanni e Paolo
+
 [Introitus]
 !Joann 19:25
 v. Stabant juxta Crucem Jesu Mater ejus, et soror Matris ejus, María Cléophæ, et Salóme et María Magdaléne.

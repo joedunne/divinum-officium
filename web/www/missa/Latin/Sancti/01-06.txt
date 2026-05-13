@@ -6,6 +6,9 @@ Gloria
 Credo
 Prefatio=Epi
 
+[Station]
+S. Pietro in Vaticano
+
 [Introitus]
 !Malach 3:1; 1 Par 29:12
 v. Ecce, advénit dominátor Dóminus: et regnum in manu ejus et potéstas et impérium.

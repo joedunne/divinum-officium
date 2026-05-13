@@ -1,5 +1,24 @@
+[Rank]
+;;Feria major;;2.1
+(sed rubrica 1930)
+;;Feria major;;4.9
+(sed rubrica 196)
+;;Feria major;;3.9
+
 [Officium]
 Feria Sexta infra Hebdomadam Passionis
+
+[Rule]
+no Gloria
+Suffragium=Ecclesiae,Papa;;
+Prefatio=Quad5
+Super popul
+
+[Station]
+St. Stephen in the Round
+
+[CollectStation]
+Saints John and Paul
 
 [Introitus]
 !Ps 30:10, 16, 18

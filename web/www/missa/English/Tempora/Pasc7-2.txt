@@ -1,5 +1,17 @@
+[Rank]
+;;Duplex I classis;;7;;ex Pasc7-0
+
 [Officium]
 Die III infra octavam Pentecostes
+
+[Rule]
+Gloria
+Sequentia
+Credo
+Prefatio=Spiritu
+
+[Station]
+St. Anastasia
 
 [Introitus]
 !Esdr 2:36-37

@@ -1,5 +1,24 @@
+[Rank]
+;;Feria major;;2.1
+(sed rubrica 1930)
+;;Feria major;;4.9
+(sed rubrica 196)
+;;Feria major;;3.9
+
 [Officium]
 Feria V post Cineres
+
+[Rule]
+no Gloria
+Prefatio=Quad
+Suffragium=Sanctorum;Vivis;;
+Super populum
+
+[Station]
+St. George in the Velabrum
+
+[CollectStation]
+St. Nicholas in prison
 
 [Introitus]
 !Ps 54:17-23

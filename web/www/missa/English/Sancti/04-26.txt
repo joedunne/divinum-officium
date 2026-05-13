@@ -1,3 +1,12 @@
+[Rule]
+vide C3b;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C3b
+(sed rubrica 1960)
+;;Semiduplex;;2.5;;vide C3b
+
 [Officium]
 Sts. Cletus and Marcellinus, Popes and Martyrs
 

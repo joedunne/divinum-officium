@@ -1,2 +1,5 @@
+[Rank]
+;;Feria major;;2.1
+
 [Officium]
 Feria III infra Hebdomadam III Adventus

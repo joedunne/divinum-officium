@@ -16,8 +16,9 @@ CredoDA
 Deus, qui beátum Petrum Apóstolum, a vínculis absolútum, illǽsum abíre fecísti: nostrórum, quǽsumus, absólve víncula peccatórum; et ómnia mala a nobis propitiátus exclúde.
 $Per Dominum
 _
+!
 $Oremus
-Deus, qui multitúdinem géntium beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quǽsumus; ut, cujus commemoratiónem cólimus, ejus apud te patrocínia sentiámus. 
+Deus, qui multitúdinem géntium beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quǽsumus; ut, cujus commemoratiónem cólimus, ejus apud te patrocínia sentiámus.
 $Per Dominum
 
 [Lectio]
@@ -39,6 +40,7 @@ V. Solve, jubénte Deo, terrárum, Petre, caténas: qui facis, ut páteant cœl�
 Oblátum tibi, Dómine, sacrifícium, intercedénte beáto Petro Apostolo tuo, vivíficet nos semper et múniat.
 $Per Dominum
 _
+!
 $Oremus
 Apóstoli tui Pauli précibus, Dómine, plebis tuæ dona sanctífica: ut, quæ tibi tuo grata sunt institúto, gratióra fiant patrocínio supplicántis.
 $Per Dominum
@@ -50,6 +52,7 @@ $Per Dominum
 Córporis sacri et pretiósi sánguinis repléti libámine, quǽsumus, Dómine, Deus noster: ut, quod pia devotióne gérimus, certa redemptióne capiámus.
 $Per eundem
 _
+!
 $Oremus
 Percéptis, Dómine, sacramentis, beáto Paulo Apostolo tuo interveniénte, deprecámur: ut, quæ pro illíus celebráta sunt glória, nobis profíciant ad medélam.
 $Per Dominum

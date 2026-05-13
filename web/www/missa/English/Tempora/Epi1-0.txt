@@ -1,3 +1,8 @@
+[Rank]
+;;Duplex majus;;5.61
+(sed rubrica 1960)
+;;Duplex II classis;;5
+
 [Officium]
 Sanctae Familiae Jesu Mariae Joseph
 
@@ -37,6 +42,21 @@ V. Happy they who dwell in Your house. O Lord! continually they praise You. Alle
 !Isa 45:15
 V. Truly You are a hidden God, the God of Israel, the Saviour. Alleluia.
 
+[GradualeP]
+Alleluia, alleluia.
+!Prov 8:34
+Blessed is the man that heareth me, and that watcheth daily at my gates, and waiteth at the posts of my doors. Alleluia, alleluia,
+!Col 3:3
+Your life is hidden with Christ in God. Alleluia.
+
+[Tractus]
+!Heb 10:5
+Sacrifice and oblation thou wouldest not: but a body thou hast fitted to me.
+!Ps 39:7-8
+Burnt offering and sin offering thou didst not require: Then said I, Behold I come.
+!Heb 10:7
+V. Behold I come: in the head of the book it is written of me: that I should do thy will, O God.
+
 [Evangelium]
 Continuation of the Holy Gospel according to St. Luke
 !Luke 2:42-52
@@ -51,7 +71,7 @@ In appeasement, O Lord, we offer You this sacrifice, humbly praying that through
 $Per eumdem
 
 [Commemoratio Secreta]
-!Pro Dominica infra Octavam Epiphaniæ.
+!For the Sunday within the Octave of Epiphany.
 May this sacrifice that we offer You, O Lord, ever give us new life and protection.
 $Per Dominum
 
@@ -64,6 +84,6 @@ Grant, Lord Jesus, that those whom You refresh with the heavenly sacrament may e
 $Qui vivis
 
 [Commemoratio Postcommunio]
-!Pro Dominica infra Octavam Epiphaniæ.
+!For the Sunday within the Octave of Epiphany.
 O Almighty God, grant, we humbly beseech You, that those whom You refresh with Your sacrament may also worthily serve You in a way that is well pleasing to You.
 $Per Dominum

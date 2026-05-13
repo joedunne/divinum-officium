@@ -1,2 +1,9 @@
+[Rule]
+ex Sancti/12-28;
+Gloria
+Prefatio=Nat
+
 [Rank]
-In Octava Ss. Innocentium.;;Simplex;;1.1;;vide Sancti/12-28
+In Octava Ss. Innocentium;;Simplex;;1.4;;vide Sancti/12-28
+(sed rubrica tridentina)
+In Octava Ss. Innocentium;;Duplex;;3.1;;ex Sancti/12-28

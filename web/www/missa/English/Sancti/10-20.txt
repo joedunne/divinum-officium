@@ -1,3 +1,10 @@
+[Rule]
+vide C5;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C5
+
 [Officium]
 St. John Cantius, Confessor
 
@@ -25,10 +32,12 @@ V. Because He satisfied the longing soul and filled the hungry soul with good th
 !Prov 31:20
 V. He extends his arms to the needy, and reaches out his hands to the poor. Alleluia.
 
-[Evangelium]
-Continuation + of the Holy Gospel according to Luke
-!Luke 12:35-40
-At that time, Jesus said to His disciples, Let your loins be girt about and your lamps burning, and you yourselves like men waiting for their master’s return from the wedding; so that when he comes and knocks, they may straight-way open to him. Blessed are those servants whom the master, on his return, shall find watching. Amen I say to you, he will gird himself, and will make them recline at table, and will come and serve them. And if he comes in the second watch, and if in the third, and finds them so, blessed are those servants! But of this be assured, that if the householder had known at what hour the thief was coming, he would certainly have watched, and not have let his house be broken into. You also must be ready, because at an hour that you do not expect, the Son of Man is coming.
+[GradualeP]
+Alleluia, alleluia.
+!Ps 31:20
+He hath opened his hand to the needy: and stretched out his palms to the poor.
+!Ps 111:1
+Blessed is the man who feareth the Lord: he hath great delight in His commandments. Alleluia.
 
 [Offertorium]
 !Job 29:14-16

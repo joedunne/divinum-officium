@@ -1,2 +1,5 @@
+[Rank]
+;;Duplex majus;;4;;vide Tempora/Pasc2-3
+
 [Officium]
 Die Octava Patrocinii St Joseph

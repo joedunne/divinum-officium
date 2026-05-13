@@ -16,3 +16,6 @@ Gloria
 Benedícti
 Secrata=Benedíctus
 Postcommunio=Benedíctus
+
+[Nomen]
+Benedíctus

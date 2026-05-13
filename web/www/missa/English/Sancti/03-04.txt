@@ -1,3 +1,12 @@
+[Rule]
+vide C5;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C5
+(sed rubrica 196)
+;;Duplex;;2.1;;vide C5
+
 [Officium]
 St. Casimir, Confessor
 

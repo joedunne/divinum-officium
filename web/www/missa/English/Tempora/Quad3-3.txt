@@ -1,5 +1,23 @@
+[Rank]
+;;Feria major;;2.1
+(sed rubrica 1930)
+;;Feria major;;4.9
+(sed rubrica 196)
+;;Feria major;;3.9
+
 [Officium]
 Feria Quarta infra Hebdomadam III in Quadragesima
+
+[Rule]
+no Gloria
+Suffragium=Sanctorum;Vivis;;
+Super popul
+
+[Station]
+St. Sixtus the Elder
+
+[CollectStation]
+St. Balbina
 
 [Introitus]
 !Ps 30:7-8

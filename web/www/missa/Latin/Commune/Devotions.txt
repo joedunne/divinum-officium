@@ -1,0 +1,617 @@
+[LitanyOfTheMostPreciousBlood]
+#Litaniae pretiosissimi Sanguinis Domini Nostri Iesu Christi
+v. Kyrie, eleison (Kyrie, eleison.)
+V. Christe, eleison (Christe, eleison.)
+V. Kyrie, eleison (Kyrie, eleison.)
+_
+&nonbreakingspace
+_
+r. Christe, audi nos (Christe, audi nos.)
+V. Christe, exaudi nos. (Christe, exaudi nos.)
+_
+&nonbreakingspace
+_
+r. Pater de caelis, Deus, (miserere nobis.)
+V. Fili, Redemptor mundi, Deus, (miserere nobis.)
+V. Spiritus Sancte, Deus, (miserere nobis.)
+V. Sancta Trinitas, unus Deus, (miserere nobis.)
+V. Sanguis Christi, Unigeniti Patris aeterni, salva nos.
+V. Sanguis Christi, Verbi Dei incarnati, salva nos.
+V. Sanguis Christi, Novi et Aeterni Testamenti, salva nos.
+V. Sanguis Christi, in agonia decurrens in terram, salva nos.
+V. Sanguis Christi, in flagellatione profluens, salva nos.
+V. Sanguis Christi, in coronatione spinarum emanans, salva nos.
+V. Sanguis Christi, in Cruce effusus, salva nos.
+V. Sanguis Christi, pretium nostrae salutis, salva nos.
+V. Sanguis Christi, sine quo non fit remissio, salva nos.
+V. Sanguis Christi, in Eucharistia potus et lavacrum animarum, salva nos.
+V. Sanguis Christi, flumen misericordiae, salva nos.
+V. Sanguis Christi, victor daemonum, salva nos.
+V. Sanguis Christi, fortitudo martyrum, salva nos.
+V. Sanguis Christi, virtus confessorum, salva nos.
+V. Sanguis Christi, germinans virgines, salva nos.
+V. Sanguis Christi, robur periclitantium, salva nos.
+V. Sanguis Christi, levamen laborantium, salva nos.
+V. Sanguis Christi, in fletu solatium, salva nos.
+V. Sanguis Christi, spes paenitentium, salva nos.
+V. Sanguis Christi, solamen morientium, salva nos.
+V. Sanguis Christi, pax et dulcedo cordium, salva nos.
+V. Sanguis Christi, pignus vitae aeternae, salva nos.
+V. Sanguis Christi, animas liberans de lacu Purgatorii, salva nos.
+V. Sanguis Christi, omni gloria et honore dignissimus, salva nos.
+_
+&nonbreakingspace
+_
+r. Agnus Dei, qui tollis peccata mundi, (parce nobis, Domine.)
+V. Agnus Dei, qui tollis peccata mundi, (exaudi nos, Domine.)
+V. Agnus Dei, qui tollis peccata mundi, (miserere nobis, Domine.)
+V. Redemisti nos, Domine, in sanguine tuo. (Et fecisti nos Deo nostro regnum.)
+_
+&nonbreakingspace
+_
+!Oratio
+$Oremus
+V. Omnipotens sempiterne Deus, qui unigenitum Filium tuum mundi Redemptorem constituisti, ac eius sanguine placari voluisti: concede, quaesumus, salutis nostrae pretium ita venerari, atque a praesentis vitae malis eius virtute defendi in terris, ut fructu perpetuo laetemur in caelis. Per eundem Christum Dominum nostrum. (Amen.)
+
+[LitanyOfTheSaints]
+#Litaniae Sanctorum
+v. Kýrie, eléison.
+Christe, eléison.
+Kýrie, eléison.
+Christe, audi nos.
+Christe, exáudi nos.
+_
+&nonbreakingspace
+_
+r. Pater de cælis, Deus, miserére nobis.
+Fili, Redémptor mundi, Deus, miserére nobis.
+Spíritus Sancte, Deus, miserére nobis.
+Sancta Trínitas, unus Deus, miserére nobis.
+_
+&nonbreakingspace
+_
+r. Sancta María, ora pro nobis.
+Sancta Dei Génetrix, ora pro nobis.
+Sancta Virgo vírginum, ora pro nobis.
+Sancte Míchaël, ora pro nobis.
+Sancte Gábriel, ora pro nobis.
+Sancte Ráphaël, ora pro nobis.
+Omnes sancti Ángeli et Archángeli, oráte pro nobis.
+Omnes sancti beatórum Spirítuum órdines, oráte pro nobis.
+_
+&nonbreakingspace
+_
+r. Sancte Joánnes Baptísta, ora pro nobis.
+Sancte Joseph, ora pro nobis.
+Omnes sancti Patriárchæ et Prophétæ, oráte pro nobis.
+Sancte Petre, ora pro nobis.
+Sancte Paule, ora pro nobis.
+Sancte Andréa, ora pro nobis.
+Sancte Jacóbe, ora pro nobis.
+Sancte Joánnes, ora pro nobis.
+Sancte Thoma, ora pro nobis.
+Sancte Jacóbe, ora pro nobis.
+Sancte Philíppe, ora pro nobis.
+Sancte Bartolomǽe, ora pro nobis.
+Sancte Matthǽe, ora pro nobis.
+Sancte Simon, ora pro nobis.
+Sancte Thaddǽe, ora pro nobis.
+Sancte Matthía, ora pro nobis.
+Sancte Bárnaba, ora pro nobis.
+Sancte Luca, ora pro nobis.
+Sancte Marce, ora pro nobis.
+Omnes sancti Apóstoli et Evangelístæ, oráte pro nobis.
+Omnes sancti Discípuli Dómini, oráte pro nobis.
+_
+&nonbreakingspace
+_
+r. Omnes sancti Innocéntes, oráte pro nobis.
+Sancte Stéphane, ora pro nobis.
+Sancte Laurénti, ora pro nobis.
+Sancte Vincénti, ora pro nobis.
+Sancti Fabiáne et Sebastiáne, oráte pro nobis.
+Sancti Joánnes et Paule, oráte pro nobis.
+Sancti Cosma et Damiáne, oráte pro nobis.
+Sancti Gervási et Protási, oráte pro nobis.
+Omnes sancti Mártyres, oráte pro nobis.
+Sancte Silvéster, ora pro nobis.
+Sancte Gregóri, ora pro nobis.
+Sancte Ambrósi, ora pro nobis.
+Sancte Augustíne, ora pro nobis.
+Sancte Hierónyme, ora pro nobis.
+Sancte Martíne, ora pro nobis.
+Sancte Nicoláe, ora pro nobis.
+Omnes sancti Pontífices et Confessóres,	oráte pro nobis.
+Omnes sancti Doctóres, oráte pro nobis.
+Sancte Antóni, ora pro nobis.
+Sancte Benedícte, ora pro nobis.
+Sancte Bernárde, ora pro nobis.
+Sancte Domínice, ora pro nobis.
+Sancte Francísce, ora pro nobis.
+Omnes sancti Sacerdótes et Levítæ, oráte pro nobis.
+Omnes sancti Mónachi et Eremítæ, oráte pro nobis.
+_
+&nonbreakingspace
+_
+r. Sancta María Magdaléna, ora pro nobis.
+Sancta Agatha, ora pro nobis.
+Sancta Lúcia, ora pro nobis.
+Sancta Agnes, ora pro nobis.
+Sancta Cæcília, ora pro nobis.
+Sancta Catharína, ora pro nobis.
+Sancta Anastásia, ora pro nobis.
+Omnes sanctæ Vírgines et Víduæ,	oráte pro nobis.
+Omnes Sancti et Sanctæ Dei, intercédite pro nobis.
+_
+&nonbreakingspace
+_
+r. Propítius esto, parce nobis, Dómine.
+Propítius esto, exáudi nos, Dómine.
+Ab omni malo, líbera nos, Dómine.
+Ab omni peccáto, líbera nos, Dómine.
+Ab ira tua, líbera nos, Dómine.
+A subitánea et improvísa morte, líbera nos, Dómine.
+Ab insídiis diáboli, líbera nos, Dómine.
+Ab ira et ódio et omni mala voluntáte, líbera nos, Dómine.
+A spíritu fornicatiónis, líbera nos, Dómine.
+A fúlgure et tempestáte, líbera nos, Dómine.
+A flagéllo terræmótus, líbera nos, Dómine.
+A peste, fame et bello, líbera nos, Dómine.
+A morte perpétua, líbera nos, Dómine.
+Per mystérium sanctæ Incarnatiónis tuæ, líbera nos, Dómine.
+Per advéntum tuum, líbera nos, Dómine.
+Per nativitátem tuam, líbera nos, Dómine.
+Per baptísmum et sanctum jejúnium tuum, líbera nos, Dómine.
+Per crucem et passiónem tuam, líbera nos, Dómine.
+Per mortem et sepultúram tuam, líbera nos, Dómine.
+Per sanctam resurrectiónem tuam, líbera nos, Dómine.
+Per admirábilem ascensiónem tuam, líbera nos, Dómine.
+Per advéntum Spíritus Sancti Parácliti, líbera nos, Dómine.
+In die judícii, líbera nos, Dómine.
+_
+&nonbreakingspace
+_
+r. eccatóres, te rogámus, audi nos.
+Ut nobis parcas, te rogámus, audi nos.
+Ut nobis indúlgeas, te rogámus, audi nos.
+Ut ad veram pœniténtiam nos perdúcere dignéris, te rogámus, audi nos.
+Ut Ecclésiam tuam sanctam régere et conserváre dignéris, te rogámus, audi nos.
+Ut domnum Apostólicum et omnes ecclesiásticos órdines in sancta religióne conserváre dignéris, te rogámus, audi nos.
+Ut inimícos sanctæ Ecclésiæ humiliáre dignéris, te rogámus, audi nos.
+Ut régibus et princípibus christiánis pacem et veram concórdiam donáre dignéris, te rogámus, audi nos.
+Ut cuncto pópulo christiáno pacem et unitátem largíri dignéris, te rogámus, audi nos.
+Ut omnes errántes ad unitátem Ecclésiæ revocáre, et infidéles univérsos ad Evangélii lumen perdúcere dignéris, te rogámus, audi nos.
+Ut nosmetípsos in tuo sancto servítio confortáre et conserváre dignéris, te rogámus, audi nos.
+Ut mentes nostras ad cæléstia desidéria érigas, te rogámus, audi nos.
+Ut ómnibus benefactóribus nostris sempitérna bona retríbuas, te rogámus, audi nos.
+Ut ánimas nostras, fratrum, propinquórum et benefactórum nostrórum ab ætérna damnatióne erípias, te rogámus, audi nos.
+Ut fructus terræ dare et conserváre dignéris, te rogámus, audi nos.
+Ut ómnibus fidélibus defúnctis réquiem ætérnam donáre dignéris, te rogámus, audi nos.
+Ut nos exaudíre dignéris, te rogámus, audi nos.
+Fili Dei, te rogámus, audi nos.
+_
+&nonbreakingspace
+_
+r. Agnus Dei, qui tollis peccáta mundi, parce nobis, Dómine.
+r. Agnus Dei, qui tollis peccáta mundi, exáudi nos, Dómine.
+r. Agnus Dei, qui tollis peccáta mundi, miserére nobis.
+_
+&nonbreakingspace
+_
+r. Christe, audi nos.
+Christe, exáudi nos.
+Kýrie, eléison.
+Christe, eléison.
+Kýrie, eléison.
+_
+&nonbreakingspace
+_
+r. Pater noster (secreto usque ad)
+V. Et ne nos inducas in tentationem.
+R. Sed libera nos a malo. Amen
+_
+&nonbreakingspace
+_
+!Psalmus 69
+r. Deus in adjutorium meum intende:
+Domine ad adjuvandum me festina.
+Confundantur, et revereantur, / qui quaerunt animam meam.
+Avertantur retrorsum et erubescant, / qui volunt mihi mala.
+Avertantur staim erubescentes, / qui dicunt mihi: Euge, euge.
+Exsultent et laetentur in te omnes qui quaerunt te, / et dicant semper:
+Magnificetur Dominus: qui diligunt salutare tuum.
+Ego vero egenus, et pauper sum:
+Deus, adjuva me.
+Adjutor meus, et liberator meus est tu:
+Domine, ne moreris.
+_
+&nonbreakingspace
+_
+r. Gloria Patri, et Filio et Spiritui Sancto,
+sicut erat in principio et nunc et semper et in saecula saeculorum. Amen.
+_
+&nonbreakingspace
+_
+V. Salvos fac servos tuos.
+R. Deus meus, sperántes in te.
+V. Esto nobis, Dómine, turris fortitúdinis.
+R. A fácie inimíci.
+V. Nihil profíciat inimícus in nobis.
+R. Et fílius iniquitátis non appónat nocére nobis.
+V. Dómine, non secúndum peccáta nostra fácias nobis.
+R. Neque secúndum iniquitátes nostras retríbuas nobis.
+V. Orémus pro Pontífice nostro~
+r. N.
+R. Dóminus consérvet eum, et vivíficet eum, et beátum fáciat eum in terra, et non tradat eum in ánimam inimicórum ejus.
+V. Orémus pro benefactóribus nostris.
+R. Retribúere dignáre, Dómine, ómnibus, nobis bona faciéntibus propter nomen tuum, vitam ætérnam. Amen.
+V. Orémus pro fidélibus defúnctis.
+R. Réquiem ætérnam dona eis, Dómine, et lux perpétua lúceat eis.
+V. Requiéscant in pace.
+R. Amen.
+V. Pro frátribus nostris abséntibus.
+R. Salvos fac servos tuos, Deus meus, sperántes in te.
+V. Mitte eis, Dómine, auxílium de sancto.
+R. Et de Sion tuére eos.
+V. Dómine, exáudi oratiónem meam.
+R. Et clamor meus ad te véniat.
+$Dominus vobiscum
+_
+&nonbreakingspace
+_
+!Oratio
+$Oremus
+r. Deus, cui próprium est miseréri semper et párcere: súscipe deprecatiónem nostram, ut nos, et omnes fámulos tuos, quos delictórum caténa constríngit, miserátio tuæ pietátis cleménter absólvat.
+r. Exáudi, quǽsumus, Dómine, súpplicum preces, et confiténtium tibi parce peccátis: ut páriter nobis indulgéntiam tríbuas benígnus et pacem.
+r. Ineffábilem nobis, Dómine, misericórdiam tuam cleménter osténde: ut simul nos et a peccátis ómnibus éxuas, et a pœnis, quas pro his merémur, erípias.
+r. Deus, qui culpa offénderis, pœniténtia placáris: preces pópuli tui supplicántis propítius réspice; et flagélla tuæ iracúndiæ, quæ pro peccátis nostris merémur, avérte.
+r. Omnípotens sempitérne Deus, miserére fámulo tuo Pontífici nostro~
+r. N., et dírige eum secúndum tuam cleméntiam in viam salútis ætérnæ: ut, te donánte, tibi plácita cúpiat, et tota virtúte perfíciat.
+r. Deus, a quo sancta desidéria, recta consília et justa sunt ópera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandátis tuis dédita, et, hóstium subláta formídine, témpora sint, tua protectióne, tranquílla.
+r. Ure igne Sancti Spíritus renes nostros et cor nostrum, Dómine: ut tibi casto córpore serviámus, et mundo corde placeámus.
+r. Fidélium, Deus, ómnium Cónditor et Redémptor, animábus famulórum famularúmque tuárum remissiónem cunctórum tríbue peccatórum: ut indulgéntiam, quam semper optavérunt, piis supplicatiónibus consequántur.
+r. Actiónes nostras, quǽsumus, Dómine, aspirándo prǽveni et adjuvándo proséquere: ut cuncta nostra orátio et operátio a te semper incípiat, et per te cœpta finiátur.
+r. Omnípotens sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque miseréris quos tuos fide et ópere futúros esse prænóscis: te súpplices exorámus; ut, pro quibus effúndere preces decrévimus, quosque vel præsens sǽculum adhuc in carne rétinet vel futúrum jam exútos córpore suscépit, intercedéntibus ómnibus Sanctis tuis, pietátis tuæ cleméntia, ómnium delictórum suórum véniam consequántur.
+$Per Dominum
+$Dominus vobiscum
+V. Exáudiat nos omnípotens et miséricors Dóminus.
+R. Amen.
+$Fidelium animae
+
+[Angelus]
+#Angelus Dómini
+V. Angelus Dómini nuntiávit Maríæ;
+R. Et concépit de Spíritu Sáncto.
+_
+&nonbreakingspace
+_
+<i>Áve María...</i>
+_
+&nonbreakingspace
+_
+V. Ecce ancílla Dómini.
+R. Fiat mihi secúndum verbum túum.
+_
+&nonbreakingspace
+_
+<i>Áve María...</i>
+_
+&nonbreakingspace
+_
+V. Et Verbum caro factum est.
+R. Et habitávit in nóbis.
+_
+&nonbreakingspace
+_
+<i>Áve María...</i>
+_
+&nonbreakingspace
+_
+V. Ora pro nóbis, sáncta Déi Génetrix.
+R. Ut digni efficiámur promissiónibus Chrísti.
+_
+&nonbreakingspace
+_
+!Oratio
+$Oremus
+r. Grátiam túam, quæsumus, Dómine, méntibus nostris infúnde; ut qui, Angelo nuntiánte, Chrísti Fílii tui Incarnatiónem cognóvimus, per passiónem éius et crúcem, ad resurrectiónis glóriam perducámur.
+r. Per eúndem Christum Dóminum nóstrum.
+Amen.
+
+[ReginaCaeli]
+#Regína cǽli
+V. Regína cǽli, lætáre; allelúia.
+R. Quia quem meruísti portáre; allelúia.
+_
+&nonbreakingspace
+_
+V. Resurréxit sicut dixit; allelúia.
+R. Ora pro nóbis Déum; allelúia.
+_
+&nonbreakingspace
+_
+V. Gáude et lætáre, Virgo María; allelúia.
+R. Quia surrexit Dóminus vere; allelúia.
+_
+&nonbreakingspace
+_
+!Oratio
+$Oremus
+r. Déus, qui per resurrectionem Fílii tui Domini nóstri Iésu Chrísti mundum lætificare dignatus es, præsta, quæsumus, ut per éius Genetricem Virginem Mariam perpetuæ capiamus gaudia vitæ.
+r. Per eundem Chrístum Dóminum nóstrum.
+Amen.
+
+[LitanyOfTheSacredHeart]
+#Litaniae de Sacratissimo Corde Iesu
+r. Kyrie, eleison.
+Christe, eleison.
+Kyrie, eleison.
+Christe, audi nos.
+Christe, exaudi nos.
+_
+&nonbreakingspace
+_
+r. Pater de caelis, Deus, miserere nobis.
+Fili, Redemptor mundi, Deus, miserere nobis.
+Spiritus Sancte, Deus, miserere nobis.
+Sancta Trinitas, unus Deus, miserere nobis.
+_
+&nonbreakingspace
+_
+r. Cor Iesu, Filii Patris aeterni, miserere nobis.
+Cor Iesu, in sinu Virginis Matris a Spiritu Sancto formatum, miserere nobis.
+Cor Iesu, Verbo Dei substantialiter unitum, miserere nobis.
+Cor Iesu, maiestatis infinitae, miserere nobis.
+Cor Iesu, templum Dei sanctum, miserere nobis.
+Cor Iesu, tabernaculum Altissimi, miserere nobis.
+Cor Iesu, domus Dei et porta caeli, miserere nobis.
+Cor Iesu, fornax ardens caritatis, miserere nobis.
+Cor Iesu, iustitiae et amoris receptaculum, miserere nobis.
+Cor Iesu, bonitate et amore plenum, miserere nobis.
+Cor Iesu, virtutum omnium abyssus, miserere nobis.
+Cor Iesu, omni laude dignissimum, miserere nobis.
+Cor Iesu, rex et centrum omnium cordium, miserere nobis.
+Cor Iesu, in quo sunt omnes thesauri sapientiae et scientiae, miserere nobis.
+Cor Iesu, in quo habitat omnis plenitudo divinitatis, miserere nobis.
+Cor Iesu, in quo Pater sibi bene complacuit, miserere nobis.
+Cor Iesu, de cuius plenitudine omnes nos accepimus, miserere nobis.
+Cor Iesu, desiderium collium aeternorum, miserere nobis.
+Cor Iesu, patiens et multae misericordiae, miserere nobis.
+Cor Iesu, dives in omnes qui invocant te, miserere nobis.
+Cor Iesu, fons vitae et sanctitatis, miserere nobis.
+Cor Iesu, propitiatio pro peccatis nostris, miserere nobis.
+Cor Iesu, saturatum opprobriis, miserere nobis.
+Cor Iesu, attritum propter scelera nostra, miserere nobis.
+Cor Iesu, usque ad mortem oboediens factum, miserere nobis.
+Cor Iesu, lancea perforatum, miserere nobis.
+Cor Iesu, fons totius consolationis, miserere nobis.
+Cor Iesu, vita et resurrectio nostra, miserere nobis.
+Cor Iesu, pax et reconciliatio nostra, miserere nobis.
+Cor Iesu, victima peccatorum, miserere nobis.
+Cor Iesu, salus in te sperantium, miserere nobis.
+Cor Iesu, spes in te morientium, miserere nobis.
+Cor Iesu, deliciae Sanctorum omnium, miserere nobis.
+_
+&nonbreakingspace
+_
+r. Agnus Dei, qui tollis peccata mundi, (parce nobis, Domine.)
+Agnus Dei, qui tollis peccata mundi, (exaudi nos, Domine.)
+Agnus Dei, qui tollis peccata mundi, (miserere nobis, Domine.)
+Iesu, mitis et humilis Corde, (Fac cor nostrum secundum Cor tuum.)
+_
+&nonbreakingspace
+_
+$Oremus
+V. Omnipotens sempiterne Deus, respice in Cor dilectissimi Filii tui et in laudes et satisfactiones, quas in nomine peccatorum tibi persolvit, iisque misericordiam tuam petentibus, tu veniam concede placatus in nomine eiusdem Filii tui Iesu Christi: Qui tecum vivit et regnat in saecula saeculorum.
+Amen.
+
+[LitanyOfTheMostHolyNameOfJesus]
+x
+
+[LitanyOfTheBlessedVirgin]
+#Litaniae Lauretanae Beatae Mariae Virginis
+!
+x
+
+[LitanyOfStJoseph]
+x
+
+[StMichaelShort]
+#Sancte Michael Archangele
+v. Sáncte Míchael Archángele, defénde nos in proélio, cóntra nequítiam et insídias diáboli ésto præsídium. Ímperet ílli Déus, súpplices deprecámur: tuque, prínceps milítiæ cæléstis, Sátanam aliósque spíritus malígnos, qui ad perditiónem animárum pervagántur in múndo, divína virtúte, in inférnum detrúde.
+Amen.
+
+[StMichaelLong]
+#Sancte Michael Archangele
+v. Princeps gloriosissime caelestis militiae, sancte Michaël Archangele, defende nos in praelio et colluctatione, quae nobis adversus principes et potestates, adversus mundi rectores tenebrarum harum, contra spiritualia nequitiae, in caelestibus. Veni in auxilium hominum, quos Deus creavit inexterminabiles, et ad imaginem similitudinis suae fecit, et a tyrannide diaboli emit pretio magno.  Praeliare hodie cum beatorum Angelorum exercitu praelia Domini, sicut pugnasti contra ducem superbiae luciferum, et angelos ejus apostaticos: et non valuerunt, neque locus inventus est eorum amplius in coelo. Sed projectus est draco ille magnus, serpens antiquus, qui vocatur diabolus et satanas, qui seducit universum orbem; et projectus est in terram, et angeli ejus cum illo missi sunt.
+r. En antiquus inimicus et homicida vehementer erectus est. Transfiguratus in angelum lucis, cum tota malignorum spirituum caterva late circuit et invadit terram, ut in ea deleat nomen Dei et Christi ejus, animasque ad aeternae gloriae coronam destinatas furetur, mactet ac perdat in sempiternum interitum.  Virus nequitiae suae, tamquam flumen immundissimum, draco maleficus transfundit in homines depravatos mente et corruptos corde; spiritum mendacii, impietatis et blasphemiae; halitumque mortiferum luxuriae, vitiorum omnium et iniquitatum.
+r. Ecclesiam, Agni immaculati sponsam, faverrrimi hostes repleverunt amaritudinibus, inebriarunt absinthio; ad omnia desiderabilia ejus impias miserunt manus. Ubi sedes beatissimi Petri et Cathedra veritatis ad lucem gentium constituta est, ibi thronum posuerunt abominationis et impietatis suae; ut percusso Pastore, et gregem disperdere valeant.
+r. Adesto itaque, Dux invictissime, populo Dei contra irrumpentes spirituales nequitias, et fac victoriam.  Te custodem et patronum sancta veneratur Ecclesia; te gloriatur defensore adversus terrestrium et infernorum nefarias potestates; tibi tradidit Dominus animas redemptorum in superna felicitate locandas.
+r. Deprecare Deum pacis, ut conterat satanam sub pedibus nostris, ne ultra valeat captivos tenere homines, et Ecclesiae nocere. Offer nostras preces in conspectu Altissimi, ut cito anticipent nos misericordiae Domini, et apprehendas draconem, serpentem antiquum, qui est diabolus et satanas, ac ligatum mittas in abyssum, ut non seducat amplius gentes.
+r. Hinc tuo confisi praesidio ac tutela, sacri ministerii sacra sanctae Matris Ecclesiae auctoritate,  [Si fuerit clericus qui ordinem exorcistatus suscepit, dicat:nostri auctoritate,] ad infestationes diabolicae fraudis repellendas in nomine Jesu Christi Dei et Domini nostri fidentes et securi aggredimur.
+V. Ecce Crucem Domini, fugite partes adversae.
+R. Vicit Leo de tribu Juda, radix David.
+V. Fiat misericordia tua, Domine, super nos.
+R. Quemadmodum speravimus in te.
+V. Domine, exaudi orationem meam.
+R. Et clamor meus ad te veniat.
+!Si fuerit saltem diaconus subjungat:
+V. Dominus vobiscum.
+R. Et cum spiritu tuo.
+$Oremus
+r. Deus, et Pater Domini nostri Jesu Christi, invocamus nomen sanctum tuum, et clementiam tuam supplices exposcimus ut, per intercessionem immaculatae semper Virginis Dei Genitricis Mariae, beati Michaëlis Archangeli, beati Joseph ejusdem beatae Virginis Sponsi, beatorum Apostolorum Petri et Pauli et omnium Sanctorum, adversus satanam, omnesque alios immundos spiritus, qui ad nocendum humano generi animasque perdendas pervagantur in mundo, nobis auxilium praestare digneris.  Per eumdem Christum Dominum nostrum.
+Amen.
+
+[AthanasianCreed]
+#Quicunque Vult
+v. Quicunque vult salvus esse, ante omnia opus est, ut teneat catholicam fidem: Quam nisi quisque integram inviolatamque servaverit, absque dubio in aeternum peribit. Fides autem catholica haec est: ut unum Deum in Trinitate, et Trinitatem in unitate veneremur. Neque confundentes personas, neque substantiam separantes. Alia est enim persona Patris alia Filii, alia Spiritus Sancti:
+r. Sed Patris, et Fili, et Spiritus Sancti una est divinitas, aequalis gloria, coaeterna maiestas. Qualis Pater, talis Filius, talis Spiritus Sanctus.
+r. Increatus Pater, increatus Filius, increatus Spiritus Sanctus. Immensus Pater, immensus Filius, immensus Spiritus Sanctus. Aeternus Pater, aeternus Filius, aeternus Spiritus Sanctus.
+r. Et tamen non tres aeterni, sed unus aeternus.Sicut non tres increati, nec tres immensi, sed unus increatus, et unus immensus. Similiter omnipotens Pater, omnipotens Filius, omnipotens Spiritus Sanctus.
+r. Et tamen non tres omnipotentes, sed unus omnipotens. Ita Deus Pater, Deus Filius, Deus Spiritus Sanctus.
+r. Et tamen non tres dii, sed unus est Deus. Ita Dominus Pater, Dominus Filius, Dominus Spiritus Sanctus. Et tamen non tres Domini, sed unus est Dominus. Quia, sicut singillatim unamquamque personam Deum ac Dominum confiteri christiana veritate compellimur: ita tres Deos aut Dominos dicere catholica religione prohibemur.
+r. Pater a nullo est factus: nec creatus, nec genitus. Filius a Patre solo est: non factus, nec creatus, sed genitus. Spiritus Sanctus a Patre et Filio: non factus, nec creatus, nec genitus, sed procedens. Unus ergo Pater, non tres Patres: unus Filius, non tres Filii: unus Spiritus Sanctus, non tres Spiritus Sancti. Et in hac Trinitate nihil prius aut posterius, nihil maius aut minus: sed totae tres personae coaeternae sibi sunt et coaequales. Ita ut per omnia, sicut iam supra dictum est, et unitas in Trinitate, et Trinitas in unitate veneranda sit.
+r. Qui vult ergo salvus esse, ita de Trinitate sentiat. Sed necessarium est ad aeternam salutem, ut incarnationem quoque Domini nostri Iesu Christi fideliter credat. Est ergo fides recta ut credamus et confiteamur, quia Dominus noster Iesus Christus, Dei Filius, Deus et homo est. Deus est ex substantia Patris ante saecula genitus: et homo est ex substantia matris in saeculo natus. Perfectus Deus, perfectus homo: ex anima rationali et humana carne subsistens. Aequalis Patri secundum divinitatem: minor Patre secundum humanitatem. Qui licet Deus sit et homo, non duo tamen, sed unus est Christus. Unus autem non conversione divinitatis in carnem, sed assumptione humanitatis in Deum. Unus omnino, non confusione substantiae, sed unitate personae. Nam sicut anima rationalis et caro unus est homo: ita Deus et homo unus est Christus. Qui passus est pro salute nostra: descendit ad inferos: tertia die resurrexit a mortuis. Ascendit ad caelos, sedet ad dexteram Dei Patris omnipotentis: inde venturus est iudicare vivos et mortuos. Ad cuius adventum omnes homines resurgere habent cum corporibus suis: et reddituri sunt de factis propriis rationem. Et qui bona egerunt, ibunt in vitam aeternam: qui vero mala, in ignem aeternum.
+r. Haec est fides catholica, quam nisi quisque fideliter firmiterque crediderit, salvus esse non poterit.
+r. Amen.
+
+[ApostlesCreed]
+#Symbolum Apostolorum
+v. Credo in Deum Patrem omnipotentem, Creatorem caeli et terrae. Et in Iesum Christum, Filium eius unicum, Dominum nostrum, qui conceptus est de Spiritu Sancto, natus ex Maria Virgine, passus sub Pontio Pilato, crucifixus, mortuus, et sepultus, descendit ad inferos, tertia die resurrexit a mortuis, ascendit ad caelos, sedet ad dexteram Dei Patris omnipotentis, inde venturus est iudicare vivos et mortuos. Credo in Spiritum Sanctum, sanctam Ecclesiam catholicam, sanctorum communionem, remissionem peccatorum, carnis resurrectionem, vitam aeternam.
+r. Amen.
+
+[NiceneCreed]
+#Symbolum Nicaenum
+v. Credo in unum Deum, Patrem omnipotentem, factorem caeli et terrae, visibilium omnium et invisibilium.
+r. Et in unum Dominum Iesum Christum, Filium Dei unigenitum, et ex Patre natum ante omnia saecula. Deum de Deo, Lumen de Lumine, Deum verum de Deo vero, genitum non factum, consubstantialem Patri; per quem omnia facta sunt. Qui propter nos homines et propter nostram salutem descendit de caelis. [kneel] Et incarnatus est de Spiritu Sancto ex Maria Virgine, et homo factus est. [stand] Crucifixus etiam pro nobis sub Pontio Pilato, passus et sepultus est, et resurrexit tertia die, secundum Scripturas, et ascendit in caelum, sedet ad dexteram Patris. Et iterum venturus est cum gloria, iudicare vivos et mortuos, cuius regni non erit finis.
+r. Et in Spiritum Sanctum, Dominum et vivificantem, qui ex Patre Filioque procedit. Qui cum Patre et Filio simul adoratur et conglorificatur: qui locutus est per prophetas.
+r. Et unam, sanctam, catholicam et apostolicam Ecclesiam. Confiteor unum baptisma in remissionem peccatorum. Et expecto resurrectionem mortuorum, et vitam venturi saeculi.
+r. Amen.
+
+[PiusIVCreed]
+#Professio fidei Tridentina
+v. Ego N. firma fide credo et profiteor omnia et singula, quae continentur in Symbolo, quo Sancta Romana ecclesia utitur, videlicet:
+r. Credo in unum Deum, Patrem omnipotentem, factorem caeli et terrae, visibilium omnium et invisibilium. Et in unum Dominum Iesum Christum, Filium Dei unigenitum, et ex Patre natum ante omnia saecula. Deum de Deo, Lumen de Lumine, Deum verum de Deo vero, genitum non factum, consubstantialem Patri; per quem omnia facta sunt. Qui propter nos homines et propter nostram salutem descendit de caelis. Et incarnatus est de Spiritu Sancto ex Maria Virgine, et homo factus est. Crucifixus etiam pro nobis sub Pontio Pilato, passus et sepultus est, et resurrexit tertia die, secundum Scripturas, et ascendit in caelum, sedet ad dexteram Patris. Et iterum venturus est cum gloria, iudicare vivos et mortuos, cuius regni non erit finis. Et in Spiritum Sanctum, Dominum et vivificantem, qui ex Patre Filioque procedit. Qui cum Patre et Filio simul adoratur et conglorificatur: qui locutus est per prophetas. Et unam, sanctam, catholicam et apostolicam Ecclesiam. Confiteor unum baptisma in remissionem peccatorum. Et expecto resurrectionem mortuorum, et vitam venturi saeculi. Amen.
+r. Apostolicas et Ecclesiasticas traditiones reliquasque eiusdem ecclesiae observationes et constitutiones firmissime admitto et amplector.
+r. Item sacram Scripturam iuxta eum sensum, quem tenuit et tenet sancta Mater Ecclesia, cuius est iudicare de vero sensu et interpretatione sacrarum Scripturarum, admitto; nec eam umquam nisi iuxta unanimem consensum Patrum, accipiam et interpretabor.
+r. Profiteor quoque septem esse vere et proprie Sacramenta novae legis a Iesu Christo Domino nostro instituta, atque ad salutem humani generis, licet non omnia singulis, necessaria: scilicet Baptismum, Confirmationem, Eucharistiam, Paenitentiam, Extremam Unctionem, Ordinem et Matrimonium; illaque gratiam conferre; et ex his Baptismum, Confirmationem et Ordinem sine sacrilegio reiterari non posse. Receptos quoque et approbatos Ecclesiae catholicae ritus in supradictorum omnium Sacramentorum solemni administratione recipio et admitto.
+r. Omnia et singula, quae de peccato originali et de iustificatione in sacrosancta Tridentina Synodo definita et declarata fuerunt, amplector et recipio.
+r. Profiteor pariter, in Missa offerri Deo verum, proprium et propitiatorium sacrificium pro vivis et defunctis. Atque in sanctissimo Eucharistiae Sacramento esse vere, realiter et substantialiter Corpus et Sanguinem, una cum anima et divinitate Domini nostri Iesu Christi, fierique conversionem totius substantiae panis in Corpus ac totius substantiae vini in Sanguinem, quam conversionem Ecclesia catholica transubstantiationem appellat. Fateor etiam sub altera tantum specie totum atque integrum Christum verumque Sacramentum sumi.
+r. Constanter teneo, Purgatorium esse, animasque ibi detentas fidelium suffragiis iuvari. Similiter et Sanctos, una cum Christo regnantes, venerandos atque invocandos esse, eosque orationes Deo pro nobis offerre, atque eorum reliquias esse venerandas. Firmiter2 assero, imagines Christi ac Deiparae semper Virginis, necnon aliorum Sanctorum habendas et retinendas esse, atque eis debitum honorem et venerationem impertiendam.
+r. Indulgentiarum etiam potestatem a Christo in Ecclesia relictam fuisse, illarumque usum Christiano populo maxime salutarem esse affirmo.
+r. Sanctam, catholicam et apostolicam Romanam Ecclesiam omnium ecclesiarum matrem et magistram agnosco, Romanoque Pontifici, beati Petri Apostolorum principis successori, ac Iesu Christi Vicario, veram oboedientiam spondeo ac iuro.
+r. Cetera item omnia a sacris canonibus et oecumenicis Conciliis, ac praecipue a sacrosancta Tridentina Synodo, et ab oecumenico Concilio Vaticano tradita, definita et declarata, praesertim de Romani Pontificis Primatu et infallibili Magisterio, indubitanter recipio ac profiteor; simulque contraria omnia, atque haereses quascumque ab Ecclesia damnatas et reiectas et anathematizatas ego pariter damno, reicio, et anathematizo.
+r. Hanc veram Catholicam Fidem, extra quam nemo salvus esse potest, quam in praesenti sponte profiteor et veraciter teneo, eandem integram, et immaculatam usque ad extremum vitae spiritum, constantissime, Deo adiuvante, retinere et confiteri, atque a meis subditis, vel illis, quorum cura ad me in munere meo spectabit, teneri, doceri et praedicari, quantum in me erit, curaturum, ego idem N. spondeo, voveo ac iuro. Sic me Deus adiuvet et haec sancta Dei Evangelia.
+
+[BaptismPart1Questioning]
+#Interrogatio
+!Sacerdos (stolam violaceam gerens), sponsores, et catechumenus in narthece ecclesiae stant, significantes candidatum hoc tempore non esse membrum Ecclesiae.
+Priest: N., quid petis ab Ecclesia Dei?
+Sponsor/Catechumen: Fidem.
+Priest: Fides, quid tibi præstat?
+Sponsor/Catechumen: Vitam æternam.
+Priest: Si igitur vis ad vitam ingredi, serva mandata. Diligis Dominum Deum tuum ex toto corde tuo, et ex tota anima tua, et ex tota mente tua, et proximum tuum sicut teipsum.
+
+[BaptismPart1Exsufflation]
+#Exsufflatio
+!Sacerdos deinde ter in candidatum in forma crucis sufflat, Spiritum Dei commemorans.
+Priest: Exi ab eo (ea), immunde spiritus, et da locum Spiritui Sancto Paraclito.
+
+[BaptismPart1SignOfTheCross]
+#Signum Crucis
+!Sacerdos deinde signum crucis facit, pollice in fronte et pectore candidati posito.
+Priest: Accipe signum Crucis tam in + fronte, quam in + corde, sume fidem cælestium præceptorum: et talis esto moribus, ut templum Dei iam esse possis.
+Priest: Oremus: Preces nostras, quaesumus, Domine, clementer exaudi; et hunc electum tuum (hanc electam tuam), N. crucis Dominicae impressione signatum (-am), perpetua virtute custodi; ut magnitudinis gloriae tuae rudimenta servans, per custodiam mandatorum, ad regenerationis gloriam pervenire mereatur (-antur). Per Christum Dominum nostrum.
+Sponsor/Catechumen: Amen.
+
+[BaptismPart1ImpositionOfHands]
+#Impositio Manuum
+!Sacerdos manus suas capiti candidati imponit.
+Priest: Oremus: Omnipotens sempiterne Deus, Pater Domini nostri Iesu Christi, respice dignare super hunc famulum tuum (hanc famulam tuam), N, quem (quam) ad rudimenta fidei vocare dignatus es: omnem caecitatem cordi ab eo (ea) expelle: disrumpe omnes laqueos Satanae, quibus fuerat (-ant) colligatus (-a); aperi ei, Domine ianuam pietatis tuae imbutus (-a), omnium cupiditatum foetoribus careat (-ant), et ad suavem odorem praeceptorum tuorum laetus tibi in Ecclesia tua deserviat, et proficiat de die in diem Per eundem Christum Dominum nostrum. Amen.
+Priest: Per eundum Christum Dominum nostrum.
+Sponsor/Catechumen: Amen
+
+[BaptismPart1ImpositionOfSalt]
+#Impositio Salis
+!Iam sacerdos modicum salis benedicti in os candidati imponit. Sal est symbolum sapientiae quae dulcedinem divini nutrimenti gustat; doctrina Evangelii a corruptione peccati praeservat, et ne malae passiones in animis hominum crescant impedit. Catechumeni adulti in fronte, auribus, oculis, naribus, ore, pectore, et inter humeros ante impositionem salis signari possunt. Si hoc modo fit, postea candidatus genuflectet, Pater Noster pluries recitabit, et crux in fronte eius fit, primum a patre, deinde a sacerdote.
+Priest: N., accipe sal sapientiæ: propitiatio sit tibi in vitam æternam.
+Sponsor/Catechumen: Amen.
+Priest: Pax tecum.
+Sponsor/Catechumen: Et cum spiritu tuo.
+Priest: Oremus: Deus patrum nostrorum, Deus universae conditor veritatis, te supplices exoramus, ut hunc famulum tuum (hanc famulam tuam) respicere digneris propitius, et hoc primum pabulum salis gustantem, non diutius esurire permittas, quo minus cibo expleatur caelesti, quatenus sit semper spiritu fervens, spe gaudens, tuo semper nomini serviens. Perduc eum (eam), Domine, quaesumus ad novae regenerationis lavacrum, ut cum fidelibus tuis promissionum tuarum aeterna praemia consequi mereatur. Per Christum Dominum nostrum.
+Priest: Per eundum Christum Dominum nostrum.
+Sponsor/Catechumen: Amen
+
+[BaptismPart2Exorcism]
+#Exorcismus
+!Sacerdos signum crucis super candidatum ter facit et dicit:
+Priest: Exorcizo te, immunde spiritus, in nomine Patris + et Filii + et Spiritus + Sancti, ut exeas, et recedas ab hoc famulo (hac famula) Dei N.: ipse enim tibi imperat, maledicte damnate, qui pedibus super mare ambulavit, et Petro mergenti dexteram porrexit. Ergo, maledicte diabole, recognosce sententiam tuam, et da honorem Deo vivo et vero, da honorem Iesu Christo Filio eius, et Spiritui Sancto, et recede ab hoc famulo (hac famula) Dei N, quia istum (-am) sibi Deus et Dominus noster Iesus Christus ad suam sanctam gratiam, et benedictionem, fontemque Baptismatis vocare dignatus est.
+
+[BaptismPart2SignOfTheCross]
+#Signum Crucis
+!Sacerdos iterum signum crucis in fronte candidati facit.
+Priest: Et hoc signum sanctae Crucis, + quod nos fronti eius damus, tu, maledicte diabole, numquam audeas violare.
+Priest: Per eundum Christum Dominum nostrum.
+Sponsor/Catechumen: Amen
+
+[BaptismPart2ImpositionOfHands]
+#Impositio Manuum
+!Sacerdos ultimo tempore manum capiti candidati imponit.
+Priest: Oremus: Aeternam, ac iustissimam pietatem tuam deprecor, Domine, sancte Pater omnipotens, aeterne Deus, auctor luminis et veritatis, super hunc famulum tuum (hanc famulam tuam) N, ut digneris eum (eam) illuminare lumine intelligentiae tuae: munda eum (eam), et sanctifica: da ei scientiam veram, ut, dignus (-a) gratia Baptismi tui effectus (-a), teneat (-ant) firmam spem, consilium rectum, doctrinam sanctam.
+Priest: Per eundum Christum Dominum nostrum.
+Sponsor/Catechumen: Amen
+
+[BaptismPart2AdmissionChurch]
+#Admissio in Aedificium Ecclesiae
+!Sacerdos extremum stolae suae candidato imponit, symbolum auctoritatis suae sacerdotalis, et eum in aedificium ecclesiae admittit, quod symbolum est Ecclesiae Christi. Si catechumenus adultus est et unctus est in Parte I supra, rogari potest ut ante altare prostratus iaceat in adorationem Christi ante hoc proximum gradum.
+Priest: N., ingredere in templum Dei, ut habeas (-ant) partem cum Christo in vitam aeternam.
+Sponsor/Catechumen: Amen.
+
+[BaptismPart2CredoAndPater]
+#Credo et Pater
+Sponsor/Catechumen: Credo in Deum, Patrem omnipotentem, Creatorem cæli et terræ. Et in Iesum Christum, Filium eius unicum, Dominum nostrum: qui conceptus est de Spiritu Sancto, natus ex Maria Virgine, passus sub Pontio Pilato, crucifixus, mortuus, et sepultus: descendit ad inferos; tertia die resurrexit a mortuis; ascendit ad cælos; sedet ad dexteram Dei Patris omnipotentis; inde venturus est iudicare vivos et mortuos. Credo in Spiritum Sanctum, sanctam Ecclesiam catholicam, Sanctorum communionem, remissionem peccatorum, carnis resurrectionem, vitam æternam. Amen.
+Sponsor/Catechumen: Pater noster, qui es in cælis, sanctificetur nomen tuum. Adveniat regnum tuum. Fiat voluntas tua, sicut in cælo, et in terra. Panem nostrum cotidianum da nobis hodie. Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem: sed libera nos a malo. Amen.
+
+[BaptismPart3SolemnExorcism]
+#Exorcismus Sollemnis
+Priest: Exorcizo te, omnis spiritus immunde, in nomine Dei + Patris omnipotentis, et in nomine Iesu + Christi Filii eius, Domini et Iudicis nostri, et in virtute Spiritus + Sancti, ut discedas ab hoc plasmate Dei N, quod Dominus noster ad templum sanctum suum vocare dignatus est, ut fiat templum Dei vivi, et Spiritus Sanctus habitet in eo. Per eundum Christum Dominum nostrum, qui venturus est iudicare vivos et mortuos, et saeculum per ignem.
+
+[BaptismPart3Ephpheta]
+#Ephpheta
+!Sacerdos modicum salivae accipit et aures naresque candidati eo tangit. Ob causas sanitatis, usus salivae omitti potest. Hic ritus ex Marco 7:33-35 originem trahit, cum Iesus surdum et mutum sanavit: "Et assumens eum de turba seorsum, misit digitos in aures eius: et exspuens, tetigit linguam eius. Et suspiciens in caelum, ingemuit, et dixit ei: Ephpheta, quod est: Aperire. Et statim apertae sunt aures eius, et solutum est vinculum linguae eius, et loquebatur recte."
+Priest: Ephpheta, quod est, Adaperire. In odorem suavitatis. Tu autem effugare, diabole; appropinquabit enim iudicium Dei.
+
+[BaptismPart3RenunciationOfSatan]
+#Renuntiatio Satanae
+Priest: N., abrenuntias Satanæ?
+Sponsor/Catechumen: Abrenuntio.
+Priest: Et omnibus operibus eius?
+Sponsor/Catechumen: Abrenuntio.
+Priest: Et omnibus pompis eius?
+Sponsor/Catechumen: Abrenuntio.
+
+[BaptismPart3Annointing]
+#Unctio
+!Sacerdos candidatum oleo catechumenorum in corde et inter humeros in forma crucis ungit, dicens:
+Priest: Ego te linio Oleo salutis in Christo Iesu Domino nostro, ut habeas vitam æternam.
+Sponsor/Catechumen: Amen.
+
+[BaptismPart4ProfessionOfFaith]
+#Professio Fidei
+!Sacerdos stolam violaceam deponit et albam induit.
+Priest: N., credis in Deum Patrem omnipotentem, creatorem cæli et terram?
+Sponsor/Catechumen: Credo.
+Priest: Credis in Iesum Christum, Filium eius unicum, Dominum nostrum, natum, et passum?
+Sponsor/Catechumen: Credo.
+Priest: Credis et in Spiritum sanctum, sanctam Ecclesiam catholicam, Sanctorum communionem, remissionem peccatorum, carnis resurrectionem, et vitam æternam?
+Sponsor/Catechumen: Credo.
+
+[BaptismPart4MatterAndForm]
+#Baptismus (Materia et Forma Sacramenti)
+!Si baptizandus infans est, patrini eum ad fontem ducunt (matrina eum in ulnis tenet, patrinus dextra manu umerum infantis tangit); si adultus est, patrunus dextram manum super umerum baptizandi ponit.
+Priest: N., vis baptizari?
+Sponsor/Catechumen: Volo.
+!Sacerdos aquam super caput candidati ter infundit, semel post singulas Personas Divinas commemorationes. Aqua quam utitur in Vigilia Paschali vel Pridie Pentecostes consecrata esse debet. Dum aquam infundit, sacerdos haec verba (vel verba Baptismatis conditionalis) dicit:
+Priest: N, ego te baptizo in nomine + Patris, et + Filii, et Spiritus + Sancti.
+
+[BaptismPart4AnnointingWithChrism]
+#Unctio Chrismatis
+Priest: Deus omnipotens, Pater Domini nostri Iesu Christi, qui te regeneravit ex aqua et Spiritu Sancto, quique dedit tibi remissionem omnium peccatorum, ipse te + liniat Chrismate Salutis in eodem Christo Iesu Domino nostro in vitam aeternam.
+Sponsor/Catechumen: Amen.
+Priest: Pax tibi.
+Sponsor/Catechumen: Et cum spiritu tuo.
+
+[BaptismPart4WhiteLinenCloth]
+#Linteum Album
+!Sacerdos linteum album accipit -- animae ab omni peccato mundatae puritatem significans et reliquiam dierum cum nuper baptizati albas albas per octo dies gerebant -- et capiti candidati imponit.
+Priest: Accipe vestem candidam, quam perferas immaculatam ante tribunalem Domini nostri Iesu Christi, ut habeas vitam æternam. Amen.
+
+[BaptismPart4LightedCandle]
+#Candela Accensa
+!Sacerdos candidato vel sponsori candelam accensam dat.
+Priest: Accipe lampadem ardentem, et irreprehensibilis custodi Baptismum tuum: serva Dei mandata ut cum Dominus venerit ad nuptias, possis occurrere ei una cum omnibus Sanctis in aula caelesti, habeasque vitam aeternam, et vivas in saecula saeculorum.
+
+[BaptismPart4WordsOfGoodWill]
+#Ultima Verba Bonae Voluntatis
+Priest: N., vade in pace et Dominus sit tecum. Amen.
+Sponsor/Catechumen: Amen.

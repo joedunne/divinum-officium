@@ -1,5 +1,11 @@
+@Commune/C4
+
 [Officium] (communi Summorum Pontificum)
 Common of Popes
+
+[Rule] (communi Summorum Pontificum)
+@Commune/C4
+Prefatio=Apostolis
 
 [Missa] (communi Summorum Pontificum)
 Si diligis
@@ -13,8 +19,20 @@ Look forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant pro
 $Per Dominum
 
 [Oratio pro plurium] (communi Summorum Pontificum)
-v. Look forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed N. and N. thy Sovereign Pontiffs, whom thou didst constitute Shepherds of the whole Church.
+Look forgivingly on thy flock, Eternal Shepherd, and keep it in thy constant protection, by the intercession of blessed N. and N. thy Sovereign Pontiffs, whom thou didst constitute Shepherds of the whole Church.
 $Per Dominum
+
+[Lectio7] (communi Summorum Pontificum)
+@Sancti/03-12
+
+[Lectio8] (communi Summorum Pontificum)
+@Sancti/03-12
+
+[Lectio9] (communi Summorum Pontificum)
+@Sancti/03-12
+
+[Ant 3]
+@Commune/C4:Ant 3 summi Pontificis
 
 [Introitus] (communi Summorum Pontificum)
 !John 21:15-17
@@ -29,6 +47,9 @@ Lesson from the first letter of St Peter the Apostle
 !1 Pet 5:1-4; 5:10-11.
 Dearly beloved brethren: The ancients therefore that are among you, I beseech, who am myself also an ancient, and a witness of the sufferings of Christ: as also a partaker of that glory which is to be revealed in time to come: Feed the flock of God which is among you, taking care of it, not by constraint, but willingly, according to God: not for filthy lucre's sake, but voluntarily: Neither as lording it over the clergy, but being made a pattern of the flock from the heart. And when the prince of pastors shall appear, you shall receive a never fading crown of glory. But the God of all grace, who hath called us into his eternal glory in Christ Jesus, after you have suffered a little, will himself perfect you, and confirm you, and establish you. To him be glory and empire for ever and ever. Amen.
 
+[Graduale] (communi Summorum Pontificum)
+@Commune/Coronatio
+
 [GradualeP] (communi Summorum Pontificum)
 Allelúja, allelúja.
 !Matt 16:18
@@ -38,12 +59,15 @@ Thou shalt make them princes over all the earth. They shall remember thy name th
 
 [Tractus] (communi Summorum Pontificum)
 !Ps 106:32; 106:31
-v. And let them exalt him in the church of the people: and praise him in the chair of the ancients.
+V. And let them exalt him in the church of the people: and praise him in the chair of the ancients.
 V. Let the mercies of the Lord give glory to him, and his wonderful works to the children of men.
 !Ps 39:10-11
-v. I have declared thy justice in a great church, lo, I will not restrain my lips : O Lord, thou knowest it. 
+V. I have declared thy justice in a great church, lo, I will not restrain my lips : O Lord, thou knowest it.
 V. I have not hid thy justice within my heart : I have declared thy truth and thy salvation.
 V. I have not concealed thy mercy and thy truth from a great council.
+
+[Evangelium] (communi Summorum Pontificum)
+@Commune/Coronatio
 
 [Offertorium] (communi Summorum Pontificum)
 !Jer 1:9-10
@@ -56,6 +80,9 @@ $Per Dominum
 [Secreta pro commemoratio] (communi Summorum Pontificum)
 In thy kindness, O Lord, receive the gifts which we have joyfully offered thee, and grant through the intercession of blessed N., that thy Church may rejoice in soundness of faith, and ever be gladdened by days of peacefulness.
 $Per Dominum
+
+[Communio] (communi Summorum Pontificum)
+@Commune/Coronatio
 
 [Postcommunio] (communi Summorum Pontificum)
 Being appeased, O Lord, guide thy Church, which has been nourished by holy refreshment, that under thy direction and powerful rule it may receive increase of liberty and may continue in religious integrity.

@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+S. Sisto Vecchio
+
+[CollectStation]
+S. Balbina
+
 [Introitus]
 !Ps 30:7-8.
 v. Ego autem in Dómino sperábo: exsultábo et lætábor in tua misericórdia: quia respexísti humilitátem meam.

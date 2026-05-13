@@ -1,3 +1,12 @@
+[Rule]
+vide C5
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C5
+(sed rubrica innovata)
+;;Duplex optional;;2;;vide C5
+
 [Officium]
 St. Camillus de Lellis, Confessor
 
@@ -12,6 +21,18 @@ v. Greater love than this no one has, that one lay down his life for his friends
 [Oratio]
 O God, Who endowed St. Camillus with a special gift of charity for the help of souls struggling in their final agony, pour upon us, we beseech You, by his merits, the spirit of Your love, so that in the hour of our death we may be found worthy to overcome the enemy and attain the heavenly crown.
 $Per Dominum
+
+[Lectio]
+@Tempora/Pent02-0
+
+[Graduale]
+@Commune/C5-1
+
+[Evangelium]
+@Commune/C1v
+
+[Offertorium]
+@Commune/C5-1
 
 [Secreta]
 Through the prayers of St. Camillus may this spotless sacrificial offering, by which we renew the work of our Lord Jesus Christ’s infinite charity, be a healing remedy against all infirmities of body and soul and a consolation and protection in our last agony.

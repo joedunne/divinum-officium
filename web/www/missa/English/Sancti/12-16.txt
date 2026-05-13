@@ -1,4 +1,15 @@
+[Rule]
+vide C2-1;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.5;;vide C2-1
+(sed rubrica 1617)
+;;Simplex;;1.1;;vide C2-1
+
 [Officium]
+St. Eusebius, Bishop and Martyr
+(sed rubrica 1617)
 St. Eusebius, Bishop and Martyr
 
 [Name]

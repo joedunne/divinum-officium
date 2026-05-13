@@ -1,5 +1,23 @@
+[Rank]
+;;Feria major;;2.1
+(sed rubrica 1930)
+;;Feria major;;4.9
+(sed rubrica 196)
+;;Feria major;;3.9
+
 [Officium]
 Feria Secunda infra Hebdomadam IV in Quadragesima
+
+[Rule]
+no Gloria
+Suffragium=Sanctorum;Vivis;;
+Super popul
+
+[Station]
+Basilica of the Four Crowned Saints
+
+[CollectStation]
+St. Stephen in the Round
 
 [Introitus]
 !Ps 53:3-4

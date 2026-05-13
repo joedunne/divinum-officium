@@ -1,5 +1,19 @@
+[Rank] (rubrica 196)
+;;Duplex I classis;;7
+
+[Rank]
+;;Duplex I classis cum Octava Privilegiata III classis;;7
+
 [Officium]
 In Ascensione Domini
+
+[Rule]
+Gloria
+Credo
+Prefatio=Ascensionis
+
+[Station]
+St. Peter's Basilica
 
 [Introitus]
 !Acts 1:11
@@ -19,20 +33,27 @@ Lesson from the Acts of Apostles
 v. The former treatise I made, O Theophilus, of all things which Jesus began to do and to teach, until the day on which, giving commandments by the Holy Ghost to the Apostles whom he had chosen, he was taken up: To whom also He shewed Himself alive after His Passion by many proofs, for forty days appearing to them, and speaking of the Kingdom of God. And eating together with them, he commanded them, that they should not depart from Jerusalem, but should wait for the promise of the Father, which you have heard - saith he - by My mouth; For John indeed baptized with water, but you shall be baptized with the Holy Ghost not many days hence. They therefore who were come together asked him, saying: Lord, wilt Thou at this time restore again the kingdom to Israel? But He said to them: It is not for you to know the times or moments which the Father hath put in his own power: but you shall receive the power of the Holy Ghost coming upon you, and you shall be witnesses unto Me in Jerusalem, and in all Judea, and Samaria, and even to the uttermost part of the earth. And when He had said these things, while they looked on, He was raised up: and a cloud received Him out of their sight. And while they were beholding him going up to heaven, behold two men stood by them in white garments, who also said: Ye men of Galilee, why stand you looking up to heaven? This Jesus, who is taken up from you into heaven, shall so come, as you have seen him going into heaven.
 
 [Graduale]
-Allelúja, allelúja.
+Alleluia, alleluia.
 !Ps 46:6
-v. God is ascended with jubilee, and the Lord with the sound of trumpet. Allelúja.
+V. God is ascended with jubilee, and the Lord with the sound of trumpet. Alleluia.
 !Ps 67:18-19
-v. The Lord is in Sinai, in the holy place. Thou hast ascended on high, thou hast led captivity captive. Allelúja.
+V. The Lord is in Sinai, in the holy place. Thou hast ascended on high, thou hast led captivity captive. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Mark
 !Mark 16:14-20
 v. At length he appeared to the eleven as they were at table: and he upbraided them with their incredulity and hardness of heart, because they did not believe them who had seen him after he was risen again. And he said to them: Go ye into the whole world, and preach the gospel to every creature. He that believeth and is baptized, shall be saved: but he that believeth not shall be condemned. And these signs shall follow them that believe: In my name they shall cast out devils; they shall speak with new tongues; they shall take up serpents; and if they shall drink any deadly thing, it shall not hurt them; they shall lay their hands upon the sick, and they shall recover. And the Lord Jesus, after he had spoken to them, was taken up into heaven and sitteth on the right hand of God. But they going forth preached everywhere, the Lord working withal, and confirming the word with signs that followed.
+!After the Gospel is said, the Paschal Candle is extinguished, and is not lit again, except on Pentecost Saturday for the blessing of the Fountain.
+
+[Evangelium](rubrica 1960)
+Continuation + of the Holy Gospel according to Mark
+!Mark 16:14-20
+v. At length he appeared to the eleven as they were at table: and he upbraided them with their incredulity and hardness of heart, because they did not believe them who had seen him after he was risen again. And he said to them: Go ye into the whole world, and preach the gospel to every creature. He that believeth and is baptized, shall be saved: but he that believeth not shall be condemned. And these signs shall follow them that believe: In my name they shall cast out devils; they shall speak with new tongues; they shall take up serpents; and if they shall drink any deadly thing, it shall not hurt them; they shall lay their hands upon the sick, and they shall recover. And the Lord Jesus, after he had spoken to them, was taken up into heaven and sitteth on the right hand of God. But they going forth preached everywhere, the Lord working withal, and confirming the word with signs that followed.
+!After the Gospel is said, the Easter candle is extinguished.
 
 [Offertorium]
 !Ps 46:6
-v. God is ascended with jubilee, and the Lord with the sound of trumpet, allelúja.
+v. God is ascended with jubilee, and the Lord with the sound of trumpet, alleluia.
 
 [Secreta]
 Receive, O Lord, the gifts which we offer for the glorious Ascension of thy Son, and mercifully grant that we may be delivered from present dangers and attain eternal life.

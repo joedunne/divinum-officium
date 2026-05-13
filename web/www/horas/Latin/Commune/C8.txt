@@ -110,6 +110,11 @@ Sanctificávit Dóminus * tabernáculum suum: quia hæc est domus Dei, in qua in
 v. Deus, qui nobis per síngulos annos hujus sancti templi tui consecratiónis réparas diem, et sacris semper mystériis repræséntas incólumes: exáudi preces pópuli tui, et præsta; ut quisquis hoc templum benefícia petitúrus ingréditur, cuncta se impetrásse lætétur.
 $Per Dominum
 
+[Oratio] (ad missam)
+!In Anniversario Dedicationis Ecclesiæ
+v. Deus, qui nobis per síngulos annos hujus sancti templi tui consecratiónis réparas diem, et sacris semper mystériis repræséntas incólumes: exáudi preces pópuli tui, et præsta; ut quisquis hoc templum benefícia petitúrus ingréditur, cuncta se impetrásse lætétur.
+$Per Dominum
+
 [Oratio in 2 loco]
 !In ipso die Dedicationis Ecclesiæ et per Octava, et quando varianda est Oratio 
 v. Deus, qui invisibíliter ómnia cóntines, et tamen pro salúte géneris humáni signa tuæ poténtiæ visibíliter osténdis: templum hoc poténtia tuæ inhabitatiónis illústra, et concéde; ut omnes, qui huc deprecatúri convéniunt, ex quacúmque tribulatióne ad te clamáverint, consolatiónis tuas benefícia consequántur.
@@ -572,8 +577,10 @@ Quam dilécta tabernácula tua, Dómine virtútum! Concupíscit, et déficit án
 v. Terríbilis est locus iste: hic domus Dei est et porta cœli: et vocábitur aula Dei. (Allelúja, allelúja.)
 
 [Oratio in 2 loco] (ad missam)
+!
 Deus, qui invisibíliter ómnia cóntines, et tamen pro salúte géneris humáni signa tuæ poténtiæ visibíliter osténdis: templum hoc poténtia tuæ inhabitatiónis illústra, et concéde; ut omnes, qui huc deprecatúri convéniunt, ex quacúmque tribulatióne ad te clamáverint, consolatiónis tuæ benefícia consequántur.
 $Per Dominum
+!
 
 [Oratio Dedicationis Altaris]
 !Orationes sequentes: quibus similiter, si agatur de Altari fixo, additur sub unica
@@ -638,6 +645,7 @@ $Per Dominum eiusdem
 Domus mea domus oratiónis vocábitur, dicit Dóminus: in ea omnis, qui petit, áccipit; et qui quærit, invénit; et pulsánti aperiétur. (Allelúja.)
 
 [Postcommunio]
+!
 Deus, qui de vivis et electis lapídibus ætérnum majestáti tuæ prǽparas habitáculum: auxiliáre pópulo tuo supplicánti; ut, quod Ecclésiæ tuæ corporálibus próficit spátiis, spirituálibus amplificétur augméntis.
 $Per Dominum
 

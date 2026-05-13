@@ -1,5 +1,21 @@
+[Rank]
+;;Feria major;;2.1
+(sed rubrica 1930)
+;;Feria major;;4.9
+(sed rubrica 196)
+;;Feria major;;3.9
+
 [Officium]
 Feria Tertia infra Hebdomadam Passionis
+
+[Rule]
+no Gloria
+Suffragium=Ecclesiae,Papa;;
+Prefatio=Quad5
+Super popul
+
+[Station]
+St. Mary in Via Lata
 
 [Introitus]
 !Ps 26:14

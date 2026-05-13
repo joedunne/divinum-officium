@@ -1,8 +1,23 @@
+@Commune/C4
+
+[Rank]
+;;Semiduplex;;2.2;;vide C4
+
+[Rule]
+vide C4
+Gloria
+
 [Officium]
 St. Lawrence Justinian, Bishop and Confessor
 
 [Name]
 Laurence
+
+[Introitus]
+@Commune/C2a
+
+[Oratio]
+@Commune/C4::s/N\./Lawrence/
 
 [Evangelium]
 @Commune/C4

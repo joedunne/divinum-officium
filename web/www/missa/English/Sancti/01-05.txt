@@ -1,13 +1,21 @@
+[Rule]
+ex Sancti/01-01;
+Gloria
+CredoDA
+Prefatio=Nat
+Suffragium=Maria2;;
+
 [Rank]
-In Vigilia Epiphaniae;;Semiduplex;;5;;ex Sancti/01-01
+In Vigilia Epiphaniæ;;Semiduplex;;4.9;;ex Sancti/01-01
+(sed rubrica tridentina)
+In Vigilia Epiphaniæ;;Semiduplex;;2.9;;ex Sancti/01-01
 
 [Introitus]
 !Wis 18:14-15.
 @Tempora/Nat1-0
 
 [Oratio]
-O Almighty and everlasting God, do Thou order all our actions in conformity with thy good pleasure, that through the name of thy well-beloved Son, we may worthily abound in all good works.
-$Qui tecum
+@Tempora/Nat1-0
 
 [Lectio]
 @Tempora/Nat1-0

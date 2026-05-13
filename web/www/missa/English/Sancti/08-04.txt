@@ -1,5 +1,17 @@
+[Rule]
+vide C5
+Gloria
+
+[Rank]
+;;Duplex majus;;4;;vide C5
+(sed rubrica 1963 aut rubrica 1617)
+;;Duplex;;3;;vide C5
+
 [Officium]
 St. Dominic the Confessor
+
+[Introitus]
+@Commune/C5b
 
 [Oratio]
 O God, Who graciously enlightened Your Church by the good works and teaching of St. Dominic, Your Confessor, grant by his intercession, that she may never be deprived of temporal helps and may ever advance in spiritual growth.
@@ -18,14 +30,15 @@ V. To proclaim Your kindness at dawn and Your faithfulness throughout the night.
 !Osee 14:6
 V. The just shall blossom like the lily; and flourish forever before the Lord. Alleluia.
 
-[Evangelium]
-Continuation + of the Holy Gospel according to Luke
-!Luke 12:35-40
-At that time, Jesus said to His disciples, Let your loins be girt about and your lamps burning, and you yourselves like men waiting for their master's return from the wedding; so that when he comes and knocks, they may straightway open to him. Blessed are those servants whom the master, on his return, shall find watching. Amen I say to you, he will gird himself, and will make them recline at table, and will come and serve them. And if he comes in the second watch, and if in the third, and finds them so, blessed are those servants! But of this be assured, that if the householder had known at what hour the thief was coming, he would certainly have watched, and not have let his house be broken into. You also must be ready, because at an hour that you do not expect, the Son of Man is coming.
+[Offertorium]
+@Commune/C2
 
 [Secreta]
 Sanctify, O Lord, the gifts dedicated to You, that by the merits of St. Dominic, Your Confessor, they may obtain a healing remedy for us.
 $Per Dominum
+
+[Communio]
+@Commune/C4
 
 [Postcommunio]
 Grant, we beseech You, almighty God, that we who are heavy laden by the weight of our sins may be sustained by the spiritual help of St. Dominic, Your Confessor.

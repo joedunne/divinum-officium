@@ -1,5 +1,19 @@
+[Rule]
+ex C1a;
+Gloria
+Credo
+Prefatio=Apostolis
+
+[Rank]
+;;Duplex 2 classis;;5.1;;ex C1a
+(sed rubrica 196)
+;;Duplex 2 classis;;5;;ex C1a
+
 [Officium]
 St. Luke the Evangelist
+
+[Introitus]
+@Sancti/02-24
 
 [Oratio]
 O Lord, we beseech You, that Luke, Your holy Evangelist, who for the honor of Your name bore continually in his body the suffering of the cross, may intercede in our behalf.
@@ -17,9 +31,18 @@ V. The heavens declare the glory of God, and the firmament proclaims His handiwo
 !John 15:16
 V. I have chosen you out of the world, that you should go and bear fruit, and that your fruit should remain. Alleluia.
 
+[Evangelium]
+@Sancti/02-06
+
+[Offertorium]
+@Sancti/01-25
+
 [Secreta]
 By Your heavenly gifts, grant us, O Lord, we pray, to serve You with a free mind, so that the offerings we present, may, by the intercession of blessed Luke, Your Evangelist, lead us to heavenly glory.
 $Per Dominum
+
+[Communio]
+@Sancti/02-24
 
 [Postcommunio]
 Grant, we beseech You, almighty God, that what we have received from Your holy altar may, by the prayers of Your blessed Evangelist, Luke, make our souls holy and thus keep us safe.

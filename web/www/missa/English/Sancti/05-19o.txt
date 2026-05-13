@@ -1,3 +1,10 @@
+[Rule]
+vide C6a;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C6a
+
 [Officium]
 S. Pudentiana Virginis
 

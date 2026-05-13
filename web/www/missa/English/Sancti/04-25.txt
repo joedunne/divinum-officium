@@ -1,3 +1,14 @@
+[Rule]
+Gloria
+Credo
+Prefatio=Apostolis
+Litania
+
+[Rank]
+;;Duplex II classis;;5.1;;ex C1ap
+(sed rubrica 196)
+;;Duplex II classis;;5;;ex C1ap
+
 [Officium]
 St. Mark the Evangelist
 
@@ -24,15 +35,18 @@ Lesson from the book of Ezekiel
 v.  And as for the likeness of their faces: there was the face of a man, and the face of a lion on the right side of all the four: and the face of an ox, on the left side of all the four: and the face of an eagle over all the four. And their faces, and their wings were stretched upward: two wings of every one were joined, and two covered their bodies: And every one of them went straight forward: whither the impulse of the spirit was to go, thither they went: and they turned not when they went. And as for the likeness of the living creatures, their appearance was like that of burning coals of fire, and like the appearance of lamps. This was the vision running to and fro in the midst of the living creatures, a bright fire, and lightning going forth from the fire. And the living creatures ran and returned like flashes of lightning.
 
 [Graduale]
-Allelúja, allelúja.
+Alleluia, alleluia.
 !Ps 88:6
-v.  The heavens shall confess thy wonders, O Lord: and thy truth in the church of the saints. Allelúja.
+V.  The heavens shall confess thy wonders, O Lord: and thy truth in the church of the saints. Allelúja.
 !Ps 20:4
-v.  Thou hast set on his head a crown of precious stones. Allelúja.
+V.  Thou hast set on his head a crown of precious stones. Allelúja.
+
+[Evangelium]
+@Sancti/02-06
 
 [Offertorium]
 !Ps 88:6
-v.  The heavens shall confess thy wonders, O Lord: and thy truth in the church of the saints, allelúja. allelúja.
+v. The heavens shall confess thy wonders, O Lord: and thy truth in the church of the saints, alleluia, alleluia.
 
 [Secreta]
 We offer thee our gifts, O Lord, on the Festival of blessed Mark, thy Evangelist, and we pray, that we may ever profit by his teaching, and defended by his prayers.
@@ -44,8 +58,7 @@ We beseech thee, O Lord that these offerings may both loosen the bonds of our wi
 $Per Dominum.
 
 [Communio]
-!Ps 63:11
-v.  The just shall rejoice in the Lord, and shall hope in him: and all the upright in heart shall be praised, allelúja. allelúja.
+@Commune/C2p:Communio
 
 [Postcommunio]
 May thy holy mysteries, we ask, O Lord, be to us a continual safeguard, and through the prayers of blessed Mark, thy Evangelist, ever defend us from all adversities.

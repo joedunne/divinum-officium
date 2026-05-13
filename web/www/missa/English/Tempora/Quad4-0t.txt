@@ -1,5 +1,17 @@
+[Rank]
+;;I classis Semiduplex;;6.1
+
 [Officium]
 Dominica IV in Quadragesima
+
+[Rule]
+no Gloria
+Credo
+Prefatio=Quad
+Suffragium=Sanctorum;Vivis;;
+
+[Station]
+Basilica of the Holy Cross in Jerusalem
 
 [Introitus]
 !Isa 66:10-11

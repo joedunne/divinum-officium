@@ -1,3 +1,11 @@
+[Rule]
+ex Sancti/05-08
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex majus;;4;;ex Sancti/05-08
+
 [Officium]
 St. Raphael the Archangel;Duplex majus
 
@@ -53,8 +61,7 @@ We offer You sacrifices of praise, O Lord, humbly praying You to accept them gra
 $Per Dominum
 
 [Communio]
-!Dan 3:58
-All you Angels of the Lord, bless the Lord: sing a hymn, and exalt Him above all forever.
+@Sancti/10-02:Communio
 
 [Postcommunio]
 O Lord, graciously send Your holy Archangel Raphael to help us, that he who we know stands ever in the presence of Your Majesty, may present our humble prayers for Your blessing.  

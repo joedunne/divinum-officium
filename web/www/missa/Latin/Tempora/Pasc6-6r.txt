@@ -11,6 +11,9 @@ no Credo
 Prefatio=Spiritu=hodierna die;
 Suffr=Maria3;Ecclesiæ,Papa;;
 
+[Station]
+S. Giovanni in Laterano
+
 [Introitus]
 !Ezek 36:23; 36:24; 36:25-26
 v. Cum sanctificátus fúero in vobis, congregábo vos de univérsis terris: et effúndam super vos aquam mundam, et mundabímini ab ómnibus inquinaméntis vestris: et dabo vobis spíritum novum, allelúja, allelúja
@@ -47,7 +50,7 @@ Emítte Spíritum tuum, et creabúntur, et renovábis fáciem terræ: sit glóri
 
 [Secreta]
 Múnera, quǽsumus, Dómine, obláta sanctífica: et corda nostra Sancti Spíritus illustratióne emúnda.
-$Per Dominum eiusdem.
+$Per Dominum eiusdem
 
 [Communio]
 !Joannes 7:37-39

@@ -1,5 +1,21 @@
+[Rank]
+;;Feria major;;2.1
+(sed rubrica 196 aut rubrica 1930)
+;;Feria major;;4.9
+
 [Officium]
 Feria Sexta Quattuor temporum
+
+[Rule]
+no Gloria
+Suffragium=Sanctorum;Vivis;;
+Super popul
+
+[Station]
+Church of the Twelve Holy Apostles
+
+[CollectStation]
+St. Mark
 
 [Introitus]
 !Ps 24:17-18
@@ -48,8 +64,7 @@ $Per Dominum
 All my enemies shall be put to shame in utter terror; they shall fall back in sudden shame.
 
 [Postcommunio]
-By the working of this sacrament, O Lord, may our sins be erased, and our just desires fulfilled.
-$Per Dominum
+@Sancti/01-05:Postcommunio
 
 [Super populum]
 !Prayer over the people

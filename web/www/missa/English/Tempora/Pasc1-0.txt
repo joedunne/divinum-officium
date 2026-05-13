@@ -1,9 +1,15 @@
+[Rank]
+;;Duplex majus I. classis;;7;;
+
 [Officium]
 Dominica in Albis in Octava Paschae
 
 [Rule]
 Gloria
 Credo
+
+[Station]
+St. Pancras Basilica
 
 [Introitus]
 !1 Pet 2:2
@@ -49,3 +55,6 @@ Put in thy hand, and know the place of the nails, alleluia; and be not faithless
 [Postcommunio]
 We beseech Thee, O Lord, our God, to make the most holy Mysteries which Thou hast given us as a defense of our renewal, a remedy for us now, and in the future.
 $Per Dominum
+
+[Pinsert]
+but more gloriously especially on this day

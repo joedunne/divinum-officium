@@ -8,8 +8,17 @@ Salve Sancta Parens (a Trinitate usque ad Adventum)
 # V Mass of the B. V. M. – Salve, Sancta Parens
 ! From Trinity Sunday until Advent
 
+[Rank]
+Prefatio=Maria=veneration;
+
 [Rule]
 Prefatio=Maria=veneration;
+
+[Hymnus Vespera]
+@Commune/C11
+
+[Versum 1]
+@Commune/C6:Versum 2
 
 [Ant 1_]
 Blessed Mother and inviolate Maiden! * Glorious Queen of the world! Plead for us with the Lord!
@@ -17,8 +26,31 @@ Blessed Mother and inviolate Maiden! * Glorious Queen of the world! Plead for us
 [Ant 1_Pasch]
 O Queen of heaven, * rejoice! alleluia: For He whom thou didst merit to bear, alleluia, Hath arisen as he said, alleluia. Pray for us to God, alleluia.
 
+[Ant 1]
+@:Ant 1_
+(sed tempore paschali)
+@:Ant 1_Pasch
+
+[Oratio]
+@Commune/C11
+
 [Invit]
 Hail Mary, full of grace, * The Lord is with thee.
+
+[Hymnus Matutinum]
+@Commune/C11
+
+[HymnusM Matutinum]
+@Commune/C11
+
+[Responsory1] (rubrica tridentina)
+@Commune/C11
+
+[Responsory2] (rubrica tridentina)
+@Commune/C11:Responsory7:1-3
+R. For out of thee rose the Sun of righteousness
+&Gloria
+R. Even Christ our God.
 
 [Benedictio]
 May the prayers and merits of blessed Mary ever Virgin and all the Saints bring us to the kingdom of heaven.
@@ -26,12 +58,60 @@ May the Virgin Mary with her Loving Offspring bless us.
 May the Virgin of virgins, intercede for us to the Lord.
 Through the Virgin Mother, the Lord grant us salvation and peace.
 
+[Versum 0]
+@Commune/C11
+
+[Ant Laudes] (rubrica tridentina)
+@Commune/C11
+
+[Capitulum Laudes]
+@Commune/C11
+
+[Hymnus Laudes]
+@Commune/C11
+
+[HymnusM Laudes]
+@Commune/C11
+
 [Versum 2]
 V. Blessed art thou amongst women,
 R. And blessed is the fruit of thy womb.
 
 [Ant 2_]
 O Blessed Mary, * Mother of God, Virgin for ever, temple of the Lord, sanctuary of the Holy Ghost, thou, without any example before thee, didst make thyself well-pleasing in the sight of our Lord Jesus Christ; pray for the people, plead for the clergy, make intercession for all women vowed to God.
+
+[Ant 2]
+@:Ant 2_
+(sed tempore paschali)
+@:Ant 1_Pasch
+
+[Lectio Prima]
+@Commune/C11
+
+[Responsory Breve Tertia]
+@Commune/C6
+
+[Versum Tertia]
+@Commune/C6:Nocturn 2 Versum
+
+[Capitulum Sexta]
+@Commune/C11
+
+[Responsory Breve Sexta]
+@Commune/C6
+
+[Versum Sexta]
+@Commune/C6:Nocturn 3 Versum
+
+[Capitulum Nona]
+@Commune/C11:Lectio Prima
+$Deo gratias
+
+[Responsory Breve Nona]
+@Commune/C6
+
+[Versum Nona]
+@Commune/C6:Versum 2
 
 [Lectio M01]
 From the letter of Blessed Ambrose, bishop of Milan, to Pope Siricius
@@ -110,3 +190,27 @@ From the Book of Offices of St. Ambrose, Bishop
 !Book I. ch. 18 
 The good comrade and guardian of chastity is modesty. And this is the first thing that strikes the reader of the Gospel, as he begins to learn about the Mother of our Lord. Her modesty commend her, and like reliable witness, attests that she is worthy of being chosen for so high an office. Alone in her room, she was silent at the Angel's greeting. His entrance had disturbed her, and her countenance reflected the Virgins agitation at seeing this stranger appear in the form of a man. And so, although she was humble, still out of modesty she did not return his greeting, nor did she gave any answer, until she learned that she must agree to becoming the Mother of God, and then she spoke, not to reject his message but to learn how this marvel was to come about.
 &teDeum
+
+[Introitus]
+@Commune/C11
+
+[Lectio]
+@Commune/C11
+
+[Graduale]
+@Commune/C11
+
+[Evangelium]
+@Commune/C11
+
+[Offertorium]
+@Commune/C11
+
+[Secreta]
+@Commune/C11
+
+[Communio]
+@Commune/C11
+
+[Postcommunio]
+@Commune/C11

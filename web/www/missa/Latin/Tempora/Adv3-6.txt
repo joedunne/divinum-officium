@@ -13,6 +13,9 @@ no Credo
 LectioL5
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[Station]
+S. Pietro in Vaticano
+
 [Introitus]
 !Ps 79:4; 79:2
 v. Veni, et osténde nobis fáciem tuam, Dómine, qui sedes super Chérubim: et salvi érimus.

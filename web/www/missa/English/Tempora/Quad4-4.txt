@@ -1,5 +1,23 @@
+[Rank]
+;;Feria major;;2.1
+(sed rubrica 1930)
+;;Feria major;;4.9
+(sed rubrica 196)
+;;Feria major;;3.9
+
 [Officium]
 Feria Quinta infra Hebdomadam IV in Quadragesima
+
+[Station]
+Saints Sylvester and Martin
+
+[CollectStation]
+Saints Quiricus and Julietta
+
+[Rule]
+no Gloria
+Suffragium=Sanctorum;Vivis;;
+Super popul
 
 [Introitus]
 !Ps 104:3-4
@@ -20,7 +38,7 @@ In those days, a Sunamite woman came to Eliseus to Mount Carmel: and when the ma
 
 [Graduale]
 !Ps 73:20, 19, 22
-v. Look, O Lord, to Your covenant; be not forever unmindful of the lives of Your afflicted ones.
+V. Look, O Lord, to Your covenant; be not forever unmindful of the lives of Your afflicted ones.
 V. Arise, O Lord; defend Your cause; remember the reproaches of Your servants.
 
 [Evangelium]

@@ -1,3 +1,10 @@
+[Rule]
+vide C3;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C3
+
 [Officium]
 Sts. Basilides, Cyrinus, Nabor and Nazarius, Martyrs
 
@@ -5,9 +12,29 @@ Sts. Basilides, Cyrinus, Nabor and Nazarius, Martyrs
 O Lord, we beseech You, may the anniversary of the death of Your Martyrs, Basilides, Cyrinus, Nabor and Nazarius, be a shining example for us, so that, whatever Your eternal goodness has bestowed on them may be added to the fruits of our prayers.
 $Per Dominum
 
+[Lectio]
+@Commune/C3a-1
+
+[Graduale]
+!Ps 78:10, 2
+Avenge, O Lord, the shedding of Your servants’ blood.
+V. They have given the corpses of Your servants as food to the birds of heaven, the flesh of Your faithful ones to the beasts of the earth. Alleluia, alleluia.
+!Ps 44:14
+The bodies of the saints are buried in peace, and their names live unto generation and generation. Alleluia.
+
+[Evangelium]
+@Sancti/01-19
+
+[Offertorium]
+@Commune/C3a
+
 [Secreta]
 O Lord, in honor of the blood shed by Your Saints, Basilides, Cyrinus, Nabor and Nazarius, and in remembrance of their victory, wrought by Your wondrous power, we solemnly offer these sacrificial gifts to You.
 $Per Dominum
+
+[Communio]
+!Ps 78:2; 78:11
+They have given the corpses of Your servants, O Lord, as food to the birds of heaven, the flesh of Your faithful ones to the beasts of the earth. With Your great power free those doomed to death.
 
 [Postcommunio]
 Grant, we beseech You, O Lord, that we who keep each year the feast of Your holy Martyrs, Basilides, Cyrinus, Nabor and Nazarius, may continually realize their help.

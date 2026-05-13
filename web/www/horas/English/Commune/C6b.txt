@@ -1,3 +1,5 @@
+@Commune/C6-1
+
 [Officium]
 Common of multiple Virgins and Martyrs
 
@@ -8,6 +10,24 @@ R. Her fellows shall be brought unto thee.
 [Ant 1]
 Trim your lamps, O ye wise virgins: * Behold the Bridegroom cometh; go ye out to meet Him. 
 
+[Nocturn 1 Versum]
+@Commune/C6:Versum 1
+
+[Versum 2]
+@:Versum 1
+
+[Ant 2]
+@:Ant 1
+
+[Versum Nona]
+@Commune/C6:Versum 2
+
+[Versum 3]
+@:Versum 1
+
+[Ant 3]
+@:Ant 1
+
 [Oratio]
 Grant unto us, we beseech thee, O Lord, our God, that we may ever call to mind, with all worship and thanksgiving, the victory of thy holy Virgins and Martyrs N. and N., and although we know that our mind cannot comprehend thee who art this day their exceeding great reward, give us always the grace humbly to worship thee.
 $Per Dominum
@@ -15,6 +35,9 @@ $Per Dominum
 [Oratio] (ad missam)
 Grant, we beseech thee, O Lord our God, that we may never cease devoutly to venerate the triumphs of thy holy Virgins and Martyrs N. and N.: that, though we cannot worthily shew forth their praises, yet we may continually honour them with lowly service.
 $Per Dominum
+
+[Lectio]
+@Commune/C6a-1
 
 [Secreta]
 O Lord, we beseech thee, look down upon these gifts, laid upon thine altars on the festival of thy holy Virgins and Martyrs N. and N.: that as by these blessed mysteries thou hast bestowed glory upon them; so thou wouldst vouchsafe to us thy pardon.

@@ -1,9 +1,26 @@
+[Rule]
+vide C6-1;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C6-1
+(sed rubrica 1930)
+;;Duplex majus;;4;;ex C6-1
+(sed rubrica cisterciensis)
+;;Semiduplex;;2.2;;vide C6-1
+
 [Officium]
 S. Agnetis Virginis et Martyris
+
+[Introitus]
+@Commune/C6-1
 
 [Oratio]
 Almighty, eternal God, You Who choose the weak things of the world to confound the strong, mercifully grant that we who are celebrating the feast of blessed Agnes, Your Virgin and Martyr, may reap the benefit of her patronal intercession with You.
 $Per Dominum
+
+[Lectio]
+@Commune/C6
 
 [Graduale]
 !Ps 44:3
@@ -13,10 +30,21 @@ V. In the cause of truth and mercy and for the sake of justice; may your right h
 !Matt 25:4; 25:6
 The five wise virgins took oil in their vessels with the lamps; and at midnight a cry arose, Behold the bridegroom is coming, go forth to meet Christ our Lord. Alleluia.
 
+[Tractus]
+@Commune/C7a
+
+[Evangelium]
+@Commune/C6
+
+[Offertorium]
+@Commune/C6
+
 [Secreta]
 Graciously accept, O Lord, the sacrificial gifts we offer You and by the intercession of blessed Agnes, Your Virgin and Martyr, loose our sins.
 $Per Dominum
 
+[Communio]
+@Commune/C6a
+
 [Postcommunio]
-Refreshed with heavenly food and drink, we humbly pray You, our God, that we also may be helped by her prayers in memory of whom we have partaken of these gifts.
-$Per Dominum
+@Commune/C5

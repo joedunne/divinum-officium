@@ -1,3 +1,6 @@
+[Rank]
+;;Duplex majus;;4.1
+
 [Officium]
 Septem Dolorum Beatae Mariae Virgine
 
@@ -5,6 +8,12 @@ Septem Dolorum Beatae Mariae Virgine
 no Gloria
 Credo
 Prefatio=Quad5
+
+[Station]
+St. Stephen in the Round
+
+[CollectStation]
+Saints John and Paul
 
 [Introitus]
 !Jn 19:25
@@ -46,7 +55,7 @@ V. Holy Mary, Queen of heaven and Mistress of the world, filled with sorrow, sto
 Alleluia, alleluia.
 V. Holy Mary, Queen of heaven and Mistress of the world, stood, filled with sorrow, by the Cross of Our Lord Jesus Christ. Alleluia.
 !Lam. 1:12
-O all you that pass by the way, attend and see if there be any sorrow like to my sorrow. Alleluia.
+V. O all you that pass by the way, attend and see if there be any sorrow like to my sorrow. Alleluia.
 
 [Sequentia]
 At the Cross her station keeping,
@@ -138,6 +147,9 @@ At that time, there were standing by the Cross of Jesus His Mother and His Mothe
 [Secreta]
 O Lord Jesus Christ, we offer You prayers and sacrificial gifts, humbly beseeching You that, as we prayerfully recall the piercing of the most sweet soul of Your blessed Mother Mary, so through the merits of Your death and the manifold intercession of her and her holy friends at the foot of the Cross, we may have our reward with the blessed.
 $Qui vivis
+
+[Offertorium]
+@Sancti/07-16
 
 [Commemoratio Secreta]
 !For FERIA

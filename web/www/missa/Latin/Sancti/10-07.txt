@@ -17,6 +17,9 @@ Eructávit cor meum verbum bonum: dico ego ópera mea Regi.
 &Gloria
 v. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Maríæ Vírginis: de cujus sollemnitáte gaudent Angeli et colláudant Fílium Dei.
 
+[Introitus1]
+@Commune/C10c:Introitus
+
 [Oratio]
 Deus, cujus Unigénitus per vitam, mortem et resurrectiónem suam nobis salútis ætérnæ præmia comparávit: concéde, quǽsumus; ut, hæc mystéria sacratíssimo beátæ Maríæ Vírginis Rosário recoléntes, et imitémur, quod cóntinent, et quod promíttunt, assequámur.
 $Per eundem
@@ -29,12 +32,11 @@ Dóminus possédit me in inítio viárum suárum, ántequam quidquam fáceret a 
 [Graduale]
 !Ps 44:5; 44:11; 44:12
 Propter veritátem et mansuetúdinem et justítiam, et dedúcet te mirabíliter déxtera tua. 
-V. Audi, fília, et vide, et inclína aurem tuam: quia concupívit Rex spéciem tuam. 
-Allelúja, allelúja.
+V. Audi, fília, et vide, et inclína aurem tuam: quia concupívit Rex spéciem tuam. Allelúja, allelúja.
 V. Sollémnitas gloriósæ Vírginis Maríæ ex sémine Abrahæ, ortæ de tribu Juda, clara ex stirpe David. Allelúja.
 
 [Evangelium]
-@Sancti/9-12:Evangelium
+@Sancti/09-12:Evangelium
 
 [Offertorium]
 !Eccli 24:25; Eccli 39:17

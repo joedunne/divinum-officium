@@ -33,7 +33,7 @@ In illo témpore: Vidit Joánnes Jesum veniéntem ad se, et ait: Ecce Agnus Dei,
 
 [Secreta]
 Hóstias tibi, Dómine, pro nati Fílii tui apparitióne deférimus, supplíciter exorántes: ut, sicut ipse nostrórum auctor est múnerum, ita sit ipse miséricors et suscéptor, Jesus Christus, Dóminus noster:
-$Qui tecum.
+$Qui tecum
 
 [Communio]
 @Sancti/01-06

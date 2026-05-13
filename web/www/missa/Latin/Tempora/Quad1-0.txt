@@ -10,6 +10,9 @@ Credo
 Prefatio=Quad
 Suffragium=Sanctorum;Vivis;;
 
+[Station]
+S. Giovanni in Laterano
+
 [Introitus]
 !Ps 90:15; 90:16
 v. Invocábit me, et ego exáudiam eum: erípiam eum, et glorificábo eum: longitúdine diérum adimplébo eum.

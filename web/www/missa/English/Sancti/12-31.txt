@@ -1,12 +1,46 @@
+[Rule]
+vide C4b;
+Gloria
+Credo
+Prefatio=Nat
+Evangelium non appropriatum
+
+[Rank]
+;;Duplex;;3;;vide C4b
+
 [Officium]
 St. Sylvester, Pope and Confessor
 
 [Name]
 Sylvester
+(sed rubrica 196)
+Sylvester
+Postcommunio=Sylvester
+
+[Oratio]
+@Commune/C4b
+
+[Lectio]
+@Commune/C4a:Lectio
 
 [Graduale]
 !Sir 44:16; 44:20
-V. Behold, a great priest, who in his days pleased God. 
+Behold, a great priest, who in his days pleased God.
 V. There was not found the like to him, who kept the law of the Most High.  Alleluia, alleluia.
 !Ps 88:21
 V. I have found David my servant: with my holy oil I have anointed him. Alleluia.
+
+[GradualeP]
+@Commune/C4:GradualeP
+
+[Evangelium]
+@Commune/C5:Evangelium
+
+[Offertorium]
+@Commune/C4
+
+[Secreta]
+@Commune/C4b
+
+[Postcommunio]
+@Commune/C4b

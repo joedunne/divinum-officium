@@ -1,3 +1,10 @@
+[Rank]
+;;Duplex I classis;;6.1;;
+(sed rubrica 1570)
+;;Duplex;;3;;
+(sed rubrica 1960 aut rubrica innovata)
+;;Duplex I classis;;6;;
+
 [Officium]
 St. Joseph, Spouse of the Blessed Virgin Mary, Confessor
 
@@ -6,14 +13,22 @@ Gloria
 Credo
 Prefatio=Joseph=Festivitate
 
+[Introitus]
+@Commune/C5-1
+
 [Oratio]
 May the merits of Your most holy Mother’s spouse help us, we beseech You, O Lord, that through his intercession we may receive what we cannot obtain by our own efforts.
 $Qui vivis
+
+[Lectio]
+@Commune/C5b
 
 [Graduale]
 !Ps 20:4-5
 O Lord, You welcomed him with goodly blessings, You placed on his head a crown of pure gold.
 V. He asked life of You: You gave him length of days forever and ever.
+_
+!Tractus
 !Ps 111:1-3
 Happy the man who fears the Lord, who greatly delights in His commands.
 V. His posterity shall be mighty upon the earth; the upright generation shall be blessed.
@@ -30,6 +45,9 @@ V. The just man shall blossom as the lily; and shall flourish forever before the
 Continuation + of the Holy Gospel according to Matthew
 !Matt 1:18-21
 When Mary the Mother of Jesus had been betrothed to Joseph, before they came together, she was found to be with child by the Holy Spirit. But Joseph her husband, being a just man, and not wishing to expose her to reproach, was minded to put her away privately. But while he thought on these things, behold, an angel of the Lord appeared to him in a dream, saying, Do not be afraid, Joseph, son of David, to take to you Mary your wife, for that which is begotten in her is of the Holy Spirit. And she shall bring forth a Son, and you shall call His name Jesus; for He shall save His people from their sins.
+
+[Offertorium]
+@Commune/C2
 
 [Secreta]
 O Lord, we dutifully worship You, humbly entreating You by the prayers of blessed Joseph, Spouse of the Mother of Jesus Christ, our Lord, in whose honor we offer these sacrifices of praise, that You protect Your gifts within us.

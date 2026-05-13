@@ -9,6 +9,9 @@ no Gloria
 Credo
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[Station]
+S. Maria Maggiore
+
 [Introitus]
 !Ps 24:1-3
 v. Ad te levávi ánimam meam: Deus meus, in te confído, non erubéscam: neque irrídeant me inimíci mei: étenim univérsi, qui te exspéctant, non confundéntur.

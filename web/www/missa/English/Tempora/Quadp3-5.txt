@@ -1,5 +1,21 @@
+[Rank]
+;;Feria major;;2.1
+(sed rubrica 1930)
+;;Feria major;;4.9
+(sed rubrica 196)
+;;Feria major;;3.9
+
 [Officium]
 Feria VI post Cineres
+
+[Rule]
+no Gloria
+Prefatio=Quad
+Suffragium=Sanctorum;Vivis;;
+Super populum
+
+[Station]
+The Holy Martyrs John and Paul
 
 [Introitus]
 !Ps 29:11
@@ -47,7 +63,7 @@ Serve the Lord with fear, and rejoice before Him with trembling; embrace discipl
 
 [Postcommunio]
 Fill us, O Lord, with the spirit of Your love, to unite in charity those whom You have filled with one and the same heavenly Bread.
-$Per Dominum
+$Per Dominum eiusdem
 
 [Super populum]
 !Prayer over the people

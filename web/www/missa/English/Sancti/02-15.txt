@@ -1,5 +1,18 @@
+[Rule]
+vide C3a-1;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C3a-1
+
 [Officium]
 Sts. Faustinus and Jovita, Martyrs
 
 [Name]
 Faustinus and Jovita
+
+[Secreta]
+@Commune/C3
+
+[Postcommunio]
+@Commune/C3

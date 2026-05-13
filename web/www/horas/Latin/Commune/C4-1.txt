@@ -5,7 +5,11 @@ Sacerdotes
 
 [Oratio]
 v. Exáudi, quǽsumus, Dómine, preces nostras, quas in beáti N. Confessóris tui atque Pontíficis solemnitáte deférimus: et, qui tibi digne méruit famulári, ejus intercedéntibus méritis, ab ómnibus nos absólve peccátis.
-$Per Dominum.
+$Per Dominum
+
+[Oratio] (ad missam)
+v. Exáudi, quǽsumus, Dómine, preces nostras, quas in beáti N. Confessóris tui atque Pontíficis solemnitáte deférimus: et, qui tibi digne méruit famulári, ejus intercedéntibus méritis, ab ómnibus nos absólve peccátis.
+$Per Dominum
 
 [Lectio7]
 @Commune/C4:Lectio7 in 2 loco

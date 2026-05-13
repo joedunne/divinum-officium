@@ -1,3 +1,10 @@
+[Rule]
+vide C6a
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C6a
+
 [Officium]
 St. Marguerite-Marie Alacoque, Virgin
 
@@ -26,6 +33,13 @@ V. My flesh and my heart waste away; God is the God of my heart and my portion f
 !Cant. 7:10
 V. I belong to my lover and for me He yearns. Alleluia.
 
+[GradualeP]
+Alleluia, alleluia.
+!Prov 9:5
+Come, eat my bread, and drink the wine which I have mixed for you. Alleluia.
+!Ps 30:20.
+How great is the multitude of Thy sweetness, O Lord, which Thou hast hidden for them that fear Thee. Alleluia.
+
 [Tractus]
 !Cant 8:7
 Deep waters cannot quench love, nor floods sweep it away.
@@ -34,9 +48,9 @@ V. My flesh and my heart waste away; God is the God of my heart and my portion f
 _
 !Tractus
 !Ps 83:3-4
-Cor meum et caro mea exsultavérunt in Deum vivum.
-V. Etenim passer invénit sibi domum: et turtur nidum sibi, ubi ponat pullos suos.
-V. Altária tua, Dómine virtútum: Rex meus et Deus meus.
+My heart and my flesh have rejoiced in the living God.
+V. For the sparrow hath found herself a house, and the turtle-dove a nest for herself, where she may lay her young.
+V. Even Thy altars, O Lord of hosts, my King and my God.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew

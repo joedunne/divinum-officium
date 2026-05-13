@@ -1,9 +1,41 @@
+[Rule]
+vide C6;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C6
+(sed rubrica 1930)
+;;Duplex majus;;4;;ex C6
+(sed rubrica cisterciensis)
+;;Semiduplex;;2.2;;ex C6
+
 [Officium]
 St. Lucy, Virgin and Martyr
 
 [Name]
 Lucy, thy Virgin and Martyr
 
+[Introitus]
+@Commune/C6a
+
+[Oratio]
+@Commune/C7a
+
+[Lectio]
+@Commune/C6a
+
+[Graduale]
+@Sancti/07-22
+
+[Evangelium]
+@Commune/C6-1
+
+[Secreta]
+@Commune/C6a
+
 [Communio]
 !Ps 118:161-162
 Princes persecute me without cause, but my heart stands in awe of Your word. I rejoice at Your promise, as one who has found rich spoil.
+
+[Postcommunio]
+@Commune/C6a

@@ -1,3 +1,10 @@
+[Rule]
+vide C5;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C5
+
 [Officium]
 St. John Leonard, Confessor
 
@@ -25,6 +32,22 @@ My heart was embittered and my soul was pierced; zeal for Your house consumed me
 V. He made of me a sharp-edged sword and concealed me in the shadow of His arm. He made me a polished arrow. Alleluia, alleluia.
 !Ps 70:7
 V. A portent am I to many, but You are my strong refuge! Alleluia.
+
+[GradualeP]
+Alleluia, alleluia.
+!Ps 51:10
+As a fruitful olive tree in the house of God, I have hoped in the mercy of God forever: and for ever and ever. Alleluia.
+!Ps 61:8
+In God is my salvation and my glory: the God of my help, and my hope is in God. Alleluia.
+
+[Tractus]
+!Ps 54:3-4; 64:17
+I am become sorrowful in my exercise: and am troubled by the voice of the enemy, and at the tribulation of the sinner.
+V. For they have cast iniquities upon me: and in wrath they were troublesome to me.
+V. But I have cried to God: and the Lord will save me.
+
+[Evangelium]
+@Sancti/02-06
 
 [Offertorium]
 !Col 1:25

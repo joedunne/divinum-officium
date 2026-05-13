@@ -13,6 +13,9 @@ no Gloria
 Credo
 Prefatio=Nat
 
+[Station]
+S. Paolo fuori le mura
+
 [Introitus]
 !Ps 8:3
 v. Ex ore infántium, Deus, et lacténtium perfecísti laudem propter inimicos tuos.
@@ -36,8 +39,7 @@ In diébus illis: Vidi supra montem Sion Agnum stantem, et cum eo centum quadrag
 [Graduale]
 !Ps 123:7-8
 Anima nostra, sicut passer, erépta est de láqueo venántium.
-V. Láqueus contrítus est, et nos liberáti sumus: adjutórium nostrum in nómine Dómini, qui fecit cœlum et terram. 
-Allelúja, allelúja.
+V. Láqueus contrítus est, et nos liberáti sumus: adjutórium nostrum in nómine Dómini, qui fecit cœlum et terram. Allelúja, allelúja.
 !Ps 112:1
 Laudáte, púeri, Dóminum, laudáte nomen Dómini. Allelúja.
 
@@ -50,10 +52,9 @@ V. Sancti tui, Dómine, florébunt sicut lílium, et sicut odor bálsami erunt a
 
 [Tractus]
 !Ps 78:3; 78:10
-Effudérunt sánguinem Sanctórum, velut aquam, in circuitu Jerúsalem,
-V. Et non erat, qui sepelíret.
-V.Víndica, Dómine, sánguinem
-Sanctórum tuórum, qui effúsus est super terram.
+They have shed the blood of the Saints like water, round about Jerusalem.
+V. And there was no one to bury them.
+V. Avenge, O Lord, the blood of Thy Saints, which has been shed upon the earth.
 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secundum Matthǽum

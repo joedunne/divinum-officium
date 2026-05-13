@@ -1,3 +1,6 @@
+[Rank]
+;;Duplex optional;;2;;vide C4
+
 [Officium]
 S. Eusebius of Vercelli, bishop
 

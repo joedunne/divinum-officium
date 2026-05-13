@@ -1,5 +1,17 @@
+[Rank]
+;;Semiduplex I classis;;6.9;;ex Pasc7-0
+
 [Officium]
 Die Quinta infra octavam Pentecostes
+
+[Rule]
+Gloria
+Sequentia
+Credo
+Prefatio=Spiritu
+
+[Station]
+St. Lawrence Outside the Walls
 
 [Introitus]
 !Wis 1:7.

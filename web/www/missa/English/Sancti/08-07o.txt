@@ -1,5 +1,15 @@
+[Rule]
+vide C2-1;
+Gloria
+
+[Rank]
+;;Simplex;;1.1;;vide C2-1
+
 [Officium]
 St. Donatus, Bishop and Martyr
+
+[Introitus]
+@Commune/C2a-1
 
 [Oratio]
 O God, the glory of Your priests, grant, we beseech You, that we may enjoy the help of Your holy Martyr and Bishop, Donatus, whose feast we are keeping.
@@ -28,6 +38,9 @@ I have found David, My servant; with My holy oil I have anointed him, that My ha
 [Secreta]
 Grant, we beseech You, O Lord, through the intercession of Your holy Martyr and Bishop, Donatus, whom we honor with gifts consecrated to the praise of Your name, that the fruit of devout prayer may increase in us.
 $Per Dominum
+
+[Communio]
+@Commune/C4
 
 [Postcommunio]
 Almighty and merciful God, Who make us both the partakers and the ministers of Your sacraments, grant, we beseech You, that by the intercession of St. Donatus, Your Martyr and Bishop, we may progress in our fellowship with him by faith and worthy service.

@@ -1,6 +1,15 @@
 [Officium]
 Feria Tertia in Rogationibus
 
+[Rank]
+;;Feria;;1
+
+[Rule]
+Oratio Dominica
+Una Antiphona
+Feria Te Deum
+Laudes Litania
+
 [Lectio1]
 Lesson from the first letter of St. Peter the Apostle
 !1 Pet 4:1-7
@@ -12,6 +21,9 @@ Lesson from the first letter of St. Peter the Apostle
 6 For, for this cause was the gospel preached also to the dead: that they might be judged indeed according to men, in the flesh; but may live according to God, in the Spirit.
 7 But the end of all is at hand.
 
+[Responsory1]
+@Tempora/Pasc4-0:Responsory4
+
 [Lectio2]
 !1 Pet 4:7-11
 7 Be prudent therefore, and watch in prayers. 
@@ -21,10 +33,7 @@ Lesson from the first letter of St. Peter the Apostle
 11 If any man speak, let him speak, as the words of God. If any man minister, let him do it, as of the power, which God administereth: that in all things God may be honoured through Jesus Christ: to whom is glory and empire for ever and ever. Amen.
 
 [Responsory2]
-R. With my whole heart, alleluia, have I sought thee, alleluia.
-* O let me not wander from thy commandments. Alleluia, Alleluia.
-V. Blessed art Thou, O Lord teach me thy statutes.
-R. O let me not wander from thy commandments. Alleluia, Alleluia.
+@Tempora/Pasc4-0:Responsory5
 &Gloria
 R. O let me not wander from thy commandments. Alleluia, Alleluia.
 
@@ -39,6 +48,12 @@ R. O let me not wander from thy commandments. Alleluia, Alleluia.
 
 [Ant 2]
 Christ ought to have suffered, * and to have risen again from the dead. Alleluia.
+
+[Responsory3]
+@Tempora/Pasc4-0:Responsory6
+
+[Oratio 2]
+@Tempora/Pasc5-0:Oratio
 
 [Ant 3]
 I came forth from the Father, * and am come into the world; again I leave the world, and go to the Father. Alleluia.

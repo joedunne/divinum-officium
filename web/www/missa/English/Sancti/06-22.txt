@@ -1,13 +1,17 @@
+[Rule]
+vide C4;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C4
+(sed rubrica innovata)
+;;Simplex;;1.1;;vide C4
+
 [Officium]
 St. Paulinus of Nola, Bishop and Confessor
 
 [Introitus]
-!Ps 131:9-10
-v. May Your priests, O Lord, be clothed with justice; let Your faithful ones shout merrily for joy. For the sake of David Your servant, reject not the plea of Your anointed.
-!Ps 131:1
-Remember, O Lord, David and all his meekness.
-&Gloria
-v. May Your priests, O Lord, be clothed with justice; let Your faithful ones shout merrily for joy. For the sake of David Your servant, reject not the plea of Your anointed.
+@Commune/C4-1
 
 [Oratio]
 O God, Who promised to those who forsake all things in this world for You a hundred-fold reward in the world to come and life everlasting, mercifully grant that, following closely in the footsteps of the holy Bishop Paulinus, we may look upon earthly things as nought, and long only for those of heaven.
@@ -22,17 +26,17 @@ Brethren: You know the graciousness of our Lord Jesus Christ - how, being rich, 
 @Commune/C4
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Luke
-!Luke 12:32-34
-At that time, Jesus said to His disciples, Do not be afraid, little flock, for it has pleased your Father to give you the kingdom. Sell what you have and give alms. Make for yourselves purses that do not grow old, a treasure unfailing in heaven, where neither thief draws near nor moth destroys. For where your treasure is, there also will your heart be.
+@Commune/C5-1
 
 [Offertorium]
-!Ps 88:21-22
-I have found David, My servant; with My holy oil I have anointed him, that My hand may be always with him, and that My arm may make him strong.
+@Commune/C2-1
 
 [Secreta]
 Grant us, O Lord, by the example of the blessed Bishop Paulinus, to join the sacrifice of perfect charity with the offering of the altar, that by zeal for good works we may win everlasting mercy.
 $Per Dominum
+
+[Communio]
+@Commune/C4
 
 [Postcommunio]
 Bestow upon us, O Lord, through the Blessed Sacrament, that inspiration of holiness and humility which Your saintly Bishop Paulinus drew from this divine source, and, by his intercession, graciously pour forth the riches of Your grace upon all who call upon You.

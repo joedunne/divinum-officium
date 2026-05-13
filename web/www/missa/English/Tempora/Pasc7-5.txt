@@ -1,5 +1,17 @@
+[Rank]
+;;Semiduplex I classis;;6.9;;ex Pasc7-0
+
 [Officium]
 Feria Sexta Quattuor Temporum Pentecostes
+
+[Rule]
+Gloria
+Sequentia
+Credo
+Prefatio=Spiritu
+
+[Station]
+Church of the Twelve Apostles
 
 [Introitus]
 !Ps 70:8; 70:23

@@ -10,6 +10,9 @@ Sequentia
 Credo
 Prefatio=Spiritu=hodierna die;
 
+[Station]
+S. Pietro in Vaticano
+
 [Introitus]
 !Sap 1:7.
 v. Spíritus Dómini replévit orbem terrárum, allelúja: et hoc quod cóntinet ómnia, sciéntiam habet vocis, allelúja, allelúja, allelúja.
@@ -30,7 +33,7 @@ Cum compleréntur dies Pentecóstes, erant omnes discípuli pariter in eódem lo
 [Graduale]
 Allelúja, allelúja.
 !Ps 103:30
-Emítte Spíritum tuum, et creabúntur, et renovábis fáciem terræ. Allelúja. (Hic genuflectitur)
+V. Emítte Spíritum tuum, et creabúntur, et renovábis fáciem terræ. Allelúja. (Hic genuflectitur)
 V. Veni, Sancte Spíritus, reple tuórum corda fidélium: et tui amóris in eis ignem accénde.
 
 [Sequentia]

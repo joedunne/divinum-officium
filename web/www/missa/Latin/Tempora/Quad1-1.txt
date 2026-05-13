@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super populum
 
+[Station]
+S. Pietro in Vincoli
+
+[CollectStation]
+SS. Cosmas and Damian
+
 [Introitus]
 !Ps 122:2
 v. Sicut óculi servórum in mánibus dominórum suórum: ita óculi nostri ad Dóminum, Deum nostrum, donec misereátur nobis: miserére nobis, Dómine, miserére nobis.
@@ -39,7 +45,7 @@ _
 !Ps 102:10
 Dómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis 
 !Ps 78:8-9 
-Dómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. (Hic genuflectitur)
+V. Dómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. (Hic genuflectitur)
 V. Adjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum.
 
 [Evangelium]

@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex;;5
+
 [Officium]
 Dominica XX Post Pentecosten
 
@@ -39,8 +42,7 @@ May these sacramental rites, O Lord, we beseech You, be our heavenly medicine an
 $Per Dominum
 
 [Communio]
-!Ps 118:49-50
-Remember Your word to Your servant, O Lord, since You have given me hope. This is my comfort in my affliction.
+@Tempora/Quad5-4:Communio
 
 [Postcommunio]
 That we may be made worthy, O Lord, of Your sacred gifts, make us, we beseech You, ever obedient to Your commandments.

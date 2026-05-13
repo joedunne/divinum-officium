@@ -1,5 +1,24 @@
+[Rank]
+;;Feria major;;2.1
+(sed rubrica 1930)
+;;Feria major;;4.9
+(sed rubrica 196)
+;;Feria major;;3.9
+
 [Officium]
 Feria Quarta infra Hebdomadam Passionis
+
+[Rule]
+no Gloria
+Suffragium=Ecclesiae,Papa;;
+Prefatio=Quad5
+Super popul
+
+[Station]
+St, Marcellus at the Corso
+
+[CollectStation]
+St. Mark
 
 [Introitus]
 !Ps 17:48-49

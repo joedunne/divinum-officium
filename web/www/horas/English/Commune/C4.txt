@@ -4,6 +4,12 @@ Common of a Confessor Bishop
 [Missa]
 Statuit
 
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+Psalm5 Vespera=116
+Psalm5 Vespera3=131
+
 [Ant Vespera]
 Behold an high priest, * who in his days pleased God, and was found righteous.
 None was found like unto him, * to keep the Law of the Most High.
@@ -39,6 +45,12 @@ Onely and Trinal.
 Amen.
 
 [Hymnus1 Vespera]
+@:Hymnus Vespera:s/beátas/suprémos/ s/Scándere sedes/Laudis honóres/
+
+[Hymnus1M Vespera]
+@:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+
+[HymnusM Vespera]
 v. This the confessor of the Lord, whose triumph
 Now all the faithful celebrate, with gladness
 On this feast day year by year receiveth
@@ -73,11 +85,23 @@ R. He clothed him with a robe of glory.
 O thou Priest and Bishop, * thou worker of mighty works, thou good shepherd over God’s people, pray for us unto the Lord.
 
 [Oratio]
-v. Grant, we beseech thee, almighty God, that the venerable feast of N. thy blessed Confessor and Bishop may increase our devotion and promote our salvation. 
+v. Grant, we beseech thee, almighty God, that the venerable feast of N. thy blessed Confessor and Bishop may increase our devotion and promote our salvation.
 $Per Dominum.
 
 [Invit]
 The Lord, the King of Confessors, * O come, let us worship.
+
+[Hymnus Matutinum]
+@:Hymnus Vespera
+
+[Hymnus1 Matutinum]
+@:Hymnus1 Vespera
+
+[Hymnus1M Matutinum]
+@:Hymnus1M Vespera
+
+[HymnusM Matutinum]
+@:HymnusM Vespera
 
 [Ant Matutinum]
 Blessed is the man * that doth meditate in the law of the Lord; his delight is therein day and night, and whatsoever he doeth shall prosper.;;1
@@ -206,6 +230,15 @@ R. And ye yourselves like unto men that wait for their lord, when he will return
 &Gloria
 R. And ye yourselves like unto men that wait for their lord, when he will return from the wedding.
 
+[Responsory7 in 4 loco]
+@Commune/C5:Responsory7
+
+[Lectio8 in 4 loco]
+Sed et reprobórum duos ibi futúros órdines Dómino narránte comperímus: unum eórum, qui fídei christiánæ mystériis initiáti, ópera fídei exercére contémnunt, quibus in judício testátur: Discédite a me maledícti in ignem aetérnum, qui præparátus est diábolo, et ángelis ejus: esurívi enim, et non dedístis mihi manducáre. Alterum eórum, qui fidem et mystéria Christi vel numquam suscepére, vel suscéptam per apostasíam deseruére: de quibus dicit: Qui autem non credit, jam judicatus est: quia non credit in nómine unigéniti Fílii Dei.
+
+[Responsory8 in 4 loco]
+@:Responsory8
+
 [Lectio9]
 And so he that had received five talents, gained other five talents for some there be who, while yet they are not able to go on unto things inward and mystic, do yet so desire our Fatherland which is above, that they teach well all whom they can, and of those very outward things which they have received make gain double. These are they which keep themselves clean from the unruly motions of the flesh, and from the lust of the world, and from the delight of things which are seen, and, by their preaching, keep other men also clean from all these things. And some there are who receive, as their two talents, the power to think and the power to work. These are they which inwardly understand dark things, and outwardly work wonders. And these, since they preach unto others, both through their understanding and their works, gain, as it were, double, for the talents which they have received.
 &teDeum
@@ -242,6 +275,9 @@ All glory, as is ever meet,
 To Father and to Paraclete.
 Amen.
 
+[HymnusM Laudes]
+@:Hymnus Laudes:s/Indúlgeas precántibus/Nostris favéto précibus/ s/Æternitátis prǽmio/Cum Ángelis cæléstibus/ s/Potítur inter Ángelos/Lætus potítur prǽmiis/ s/Nunc, et per omne sǽculum/Et nunc, et in perpétuum/
+
 [Versum 2]
 V. The Lord guided the just in right paths.
 R. And showed him the kingdom of God.
@@ -274,6 +310,10 @@ R. For a Priest unto Himself.
 &Gloria
 R. The Lord hath chosen him * for a Priest unto Himself.
 
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
+
 [Responsory Breve Nona]
 R.br. Thou art a Priest * for ever.
 R. Thou art a Priest * for ever.
@@ -281,6 +321,9 @@ V. After the order of Melchisedek.
 R. For ever.
 &Gloria
 R. Thou art a Priest * for ever.
+
+[Versum 3]
+@:Versum 2
 
 [Ant 3 summi Pontificis]
 While he was supreme Pontiff, * he feared not earthly powers, but gloriously went his way to the heavenly kingdom.
@@ -313,6 +356,17 @@ Lesson from the book of Ecclesiasticus
 14 Their bodies are buried in peace, and their name liveth unto generation and generation.
 15 Let the people shew forth their wisdom, and the church declare their praise.
 
+[Lectio4 in 2 loco]
+Sermo sancti Maxími Epíscopi
+!Homilía 78, de S. Eusebio 2, circa medio
+Beáti Patris N. mérita, jam in tuto pósita, secúri magnificémus; qui, gubernáculum fídei viríliter tenens, ánchoram spei tranquílla jam in statióne compósuit, et plenam cæléstibus divítiis et ætérnis mércibus navem, optáto in líttore, collocávit; qui contra omnes adversários scutum timóris Dei támdiu infatigabíliter ténuit, donec ad victóriam perveníret. Quid enim fuit totus vitæ illíus cursus, nisi uníus cum vígili hoste conflíctus?
+
+[Lectio5 in 2 loco]
+Quantis hic cæcis, a via veritátis errántibus et de summa jam in profúndum rupe pendéntibus, amíssum réddidit visum; et illum, quo Christus viderétur, reparávit intúitum? Quantórum áuribus surdis et infidelitátis obturatióne damnátis, ad percipiéndam vocem cæléstium mandatórum, pretiósum infúdit audítum; ut, vocánti Deo ad misericórdiam, respondérent per obediéntiam? Quantos intrínsecus vulnerátos, angélici oris arte et oratiónum, ab infirmitáte curávit?
+
+[Lectio6 in 2 loco]
+Quantos, per longam incúriam peccáto labe resolútos et quadam lepræ contgióne perfúsos, castigatiónibus et exhortatiónibus expiándo, Deo in se operánte, mundávit? Quantórum ánimas, vivéntes in córpore jam defúnctas et delictórum mole óbrutas ac sepúltas, ad emendatiónem tamquam ad lucem vocándo, Deo esuscitávit; ut, Dómini sui admirándus imitátor, jam mórtuas Deo, e contrário mortíficet, vitáli morte, peccáto?
+
 [Lectio7 in 2 loco]
 The Lesson is taken from the Holy Gospel according to Matthew (xxiv, 42)
 At that time, Jesus said unto His disciples: Watch, for ye know not what hour your Lord doth come. And so on.
@@ -340,6 +394,12 @@ Of the reprobate also we gather, from the words of the Lord, that there will be 
 [Lectio9 in 4 loco]
 And now that we have touched for a moment, with fear and just dread, upon these things, let us rather turn our hearing to the right joyful promises of our Lord and Saviour. Let us look what His so great, beautiful, and fatherly love will give to such as follow Him; not the reward of life everlasting only, but gifts exceeding precious in this life also. “Every one,” saith He, that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for My Name’s sake, shall receive an hundredfold, and shall inherit everlasting life.” For every one that shall forsake earthly affections and goods, to go and be Christ’s disciple, the further he goeth on in Christ’s love, the more shall he find who will rejoice to give him a place in their hearts, and to minister to him of their substance.
 &teDeum
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Introitus]
+@Commune/C2
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
@@ -373,6 +433,10 @@ V. Wealth and riches shall be in his house; his generosity shall endure forever.
 Continuation + of the Holy Gospel according to Matthew
 !Matt 25:14-23
 At that time, Jesus spoke this parable to His disciples: A man going abroad, called his servants and handed over his goods to them. And to one he gave five talents, to another two, and to another one, to each according to his particular ability, and then he went on his journey. And he who had received the five talents went and traded with them, and gained five more. In like manner, he who had received the two gained two more. But he who had received the one went away and dug in the earth and hid his master’s money. Then after a long time the master of those servants came and settled accounts with them. And he who had received the five talents came and brought five other talents, saying, ‘Master, you handed over to me five talents; behold, I have gained five others in addition.’ His master said to him, ‘Well done, good and faithful servant; because you have been faithful over a few things, I will set you over many; enter into the joy of your master.’ And he also who had received the two talents came, and said, ‘Master, you handed over to me two talents; behold, I have gained two more.’ His master said to him, ‘Well done, good and faithful servant; because you have been faithful over a few things, I will set you over many; enter into the joy of your master.’
+
+[Offertorium]
+!Ps 88:21-22
+I have found David, My servant; with My holy oil I have anointed him, that My hand may be always with him, and that My arm may make him strong. (Allelúja.)
 
 [Secreta]
 May Your Saints, we beseech You, O Lord, everywhere make us joyful: so that, while we reflect upon their merits, we may enjoy their help. 

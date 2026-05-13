@@ -1,13 +1,23 @@
+[Rank]
+;;Semiduplex I classis;;6.9;;ex Pasc7-0
+
 [Officium]
 Sabbato Quattuor Temporum Pentecostes
 
+[Rule]
+no Gloria
+(rubrica 1960 et missa brevior) LectioL1
+(rubrica 1960) celebranda aut forma longior aut forma brevior
+LectioL5
+Sequentia
+Credo
+Prefatio=Spiritu
+
+[Station]
+St. Peter's Basilica
+
 [Introitus]
-!Rom 5:5.
-v. The charity of God is poured forth in our hearts, alleluia: by His Spirit dwelling in us, alleluia, alleluia.
-!Ps 102:1
-Bless the Lord, O my soul; and, all my being, bless His holy Name.
-&Gloria
-v. The charity of God is poured forth in our hearts, alleluia: by His Spirit dwelling in us, alleluia, alleluia.
+@Tempora/Pasc7-6:Introitus
 
 [LectioL1]
 Lesson from the book of Joel
@@ -18,7 +28,7 @@ $Deo gratias
 [GradualeL1]
 Alleluia.
 !John 6:64
-!It is the Spirit that gives life; but the flesh profits nothing.
+It is the Spirit that gives life; but the flesh profits nothing.
 
 [OratioL1]
 May the Holy Spirit, we beseech You, O Lord, inflame us with that fire which our Lord Jesus Christ cast upon the earth and desired that it be fanned into flame.
@@ -51,7 +61,8 @@ Alleluia.
 V. When the days of Pentecost were accomplished, they were all sitting together.
 
 [OratioL3]
-Grant, we beseech You, almighty God, that we, disciplined by wholesome fasting and refraining from all wrong-doing, may the more readily obtain Your forgiveness. $Per Dominum
+Grant, we beseech You, almighty God, that we, disciplined by wholesome fasting and refraining from all wrong-doing, may the more readily obtain Your forgiveness.
+$Per Dominum
 
 [LectioL4]
 Lesson from the book of Leviticus
@@ -71,12 +82,15 @@ $Per Dominum
 Lesson from the book of Daniel
 !Dan. 3:47-51.
 In those days, the Angel of the Lord went down into the furnace with Azaria and his companions, drove the fiery flames out of the furnace, and made the inside of the furnace as though a dew-laden breeze were blowing through it. And the flames rose forty-nine cubits above the furnace, and spread out, burning the Chaldeans nearby, the king’s men who were stoking the furnace. And the fire in no way touched them or caused them pain or harm. Then these three in the furnace with one voice sang, glorifying and blessing God:
-$Deo Gratias
+$Deo gratias
 
 [GradualeL5]
 Alleluia.
 !Dan 3:52
 Blessed are You, O Lord, the God of our fathers, and worthy to be praised forever.
+_
+#Gloria
+v. Glory be to God on high, and on earth peace to men of good will. We praise Thee. We bless Thee. We adore Thee. We glorify Thee. We give Thee thanks for Thy great glory. O Lord God, heavenly King, God the Father almighty. O Lord Jesus Christ, the only begotten Son. O Lord God, Lamb of God, Son of the Father. Who takest away the sins of the world, have mercy on us. Who takest away the sins of the world, receive our prayer. Who sittest at the right hand of the Father, have mercy on us. For Thou only art holy. Thou only art the Lord. Thou only art most high, O Jesus Christ. Together with the Holy Ghost + in the glory of God the Father. Amen.
 
 [OratioL5]
 O God, You Who tempered the flames of fire for the three young men, mercifully grant that the flames of sin may not burn us, Your servants.
@@ -92,8 +106,9 @@ Lesson from the letter of St. Paul the Apostle to the Romans
 Brethren: Having been justified by faith, let us have peace with God through our Lord Jesus Christ, through Whom we also have access by faith unto that grace in which we stand, and exult in the hope of the glory of the sons of God. And not only this, but we exult in tribulations also, knowing that tribulation works out endurance, and endurance tried virtue, and tried virtue hope. And hope does not disappoint, because the charity of God is poured forth in our hearts by the Holy Spirit Who has been given to us.
 
 [Graduale]
-Ps 116:1-2
-Praise the Lord, all you nations; glorify Him, all you peoples! For steadfast is His kindness toward us, and the fidelity of the Lord endures forever.
+!Ps 116:1-2
+Praise the Lord, all you nations; glorify Him, all you peoples!
+V. For steadfast is His kindness toward us, and the fidelity of the Lord endures forever.
 
 [Sequentia]
 @Tempora/Pasc7-0:Sequentia

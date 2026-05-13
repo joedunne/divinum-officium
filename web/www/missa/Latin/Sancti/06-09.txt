@@ -37,7 +37,7 @@ V. Te Mártyrum candidátus laudat exércitus, Dómine. Allelúja.
 
 [Secreta]
 Fiat tibi, quǽsumus, Dómine, hóstia sacránda placábilis, pretiósi celebritáte martýrii: quæ et peccáta nostra puríficet, et tuórum tibi vota concíliet famulórum.
-$Per Dominum.
+$Per Dominum
 
 [Communio]
 !Joannes 15:16

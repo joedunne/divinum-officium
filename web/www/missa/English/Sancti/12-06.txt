@@ -1,3 +1,18 @@
+[Rule]
+vide C4;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C4
+(sed rubrica 1570 aut rubrica 1617)
+;;Semiduplex;;2.2;;vide C4
+(sed rubrica 1930 aut rubrica 1963)
+;;Simplex;;1.1;;vide C4
+(sed rubrica cisterciensis)
+;;Simplex;;1.2;;vide C4
+(sed rubrica altovadensis)
+;;Duplex I. classis;;6;;ex C4
+
 [Officium]
 St. Nicholas, Bishop and Confessor
 
@@ -21,15 +36,17 @@ V. No enemy shall deceive him, nor shall the wicked afflict him. Alleluia, allel
 The just man shall flourish like the palm tree, like a cedar of Lebanon shall he grow. Alleluia.
 
 [Evangelium]
-@Commune/C4
+@Commune/C4:Evangelium
+
+[Offertorium]
+@Commune/C2
 
 [Secreta]
 Sanctify, we beseech You, O Lord God, the gifts we offer on the feast of Your holy Bishop, Nicholas, that through them our life, whether in fortune or misfortune, may be directed aright.
 $Per Dominum
 
 [Communio]
-!Ps 88:36-38
-Once, by My holiness, have I sworn; his posterity shall continue forever, and his throne shall be like the sun before Me; like the moon, which remains forever - a faithful witness in the sky.
+@Commune/C2
 
 [Postcommunio]
 May the sacrifice in which we have shared on the feast of Your holy Bishop Nicholas guard us with its lasting protection.

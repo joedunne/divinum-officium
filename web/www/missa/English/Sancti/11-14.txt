@@ -1,3 +1,9 @@
+[Rule]
+vide C2;
+
+[Rank]
+;;Duplex;;3;;vide C2
+
 [Officium]
 St. Josaphat, Bishop and Martyr
 
@@ -24,9 +30,7 @@ V. No enemy shall deceive him, nor shall the wicked afflict him. Alleluia, allel
 V. This is the priest whom the Lord has crowned. Alleluia.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to John
-!John 10:11-16
- At that time, Jesus said to the Pharisees: I am the Good Shepherd. The good shepherd lays down his life for his sheep. But the hireling, who is not a shepherd, whose own the sheep are not, sees the wolf coming and leaves the sheep and flees. And the wolf snatches and scatters the sheep; but the hireling flees because he is a hireling, and has no concern for the sheep. I am the Good Shepherd, and I know Mine and Mine know Me, even as the Father knows Me and I know the Father; and I lay down My life for My sheep. And other sheep I have that are not of this fold. Them also I must bring, and they shall hear My voice, and there shall be one fold and one Shepherd.
+@Tempora/Pasc2-0
 
 [Offertorium]
 !John 15:13
@@ -37,8 +41,7 @@ Most merciful God, shower these offerings with Your blessing and strengthen us i
 $Per Dominum
 
 [Communio]
-!John 10:14
-I am the Good Shepherd, and I know My sheep, and Mine know Me.
+@Tempora/Pasc2-0
 
 [Postcommunio]
 May this heavenly food, O Lord, impart to us that spirit of strength which unfailingly sustained the life of blessed Josaphat, Your Martyr and Bishop, unto victory for the honor of Your Church.

@@ -1,3 +1,6 @@
+[Rank](rubrica 196)
+In Apparitione Beatæ Mariæ Virginis;;Duplex;;2.1;;ex C11
+
 [Rank]
 In apparitione Beatae Mariae Virginis;;Duplex majus;;4;;ex C11
 
@@ -27,8 +30,7 @@ The temple of God in heaven was opened, and there was seen the ark of His covena
 [Graduale]
 !Cant 2:12, 10, 14
 The flowers appear in our land, the time of pruning has come, the voice of the turtle is heard in our land.
-V. Arise, my beloved, my beautiful one, and come! O my dove, in the clefts of the rock, in the secret recesses of the cliff. 
-Alleluia, alleluia.
+V. Arise, my beloved, my beautiful one, and come! O my dove, in the clefts of the rock, in the secret recesses of the cliff. Alleluia, alleluia.
 V. Let me see you, let me hear your voice, for your voice is sweet, and you are lovely. Alleluia.
 
 [Tractus]

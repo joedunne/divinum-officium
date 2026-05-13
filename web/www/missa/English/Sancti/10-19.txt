@@ -1,14 +1,34 @@
+[Rule]
+vide C5-1;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C5-1
+
 [Officium]
 St. Peter of Alcantara, Confessor
 
 [Name]
 Peter
 
+[Introitus]
+@Commune/C5-1
+
 [Oratio]
 O God, Who graciously made blessed Peter, Your Confessor, glorious by the gift of remarkable penance and sublime contemplation, grant, we beseech You, that, by the merit of his prayers, we may the more easily understand the things of heaven by curbing our passions.
 $Per Dominum
 
+[Lectio]
+@Sancti/01-15
+
+[Graduale]
+@Commune/C5-1
+
 [Evangelium]
-Continuation + of the Holy Gospel according to Luke
-!Luke 12:32-34
-At that time, Jesus said to His disciples, Do not be afraid, little flock, for it has pleased your Father to give you the kingdom. Sell what you have and give alms. Make for yourselves purses that do not grow old, a treasure unfailing in heaven, where neither thief draws near nor moth destroys. For where your treasure is, there also will your heart be.
+@Commune/C5-1
+
+[Offertorium]
+@Commune/C5-1
+
+[Communio]
+@Commune/C5-1

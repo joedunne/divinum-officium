@@ -14,6 +14,9 @@ Suffragium=Ecclesiæ,Papa;;
 Prefatio=Quad5
 Super popul
 
+[Station]
+S. Maria in Via Lata
+
 [Introitus]
 !Ps 26:14
 v. Exspécta Dóminum, viríliter age: et confortétur cor tuum, et sústine Dóminum.

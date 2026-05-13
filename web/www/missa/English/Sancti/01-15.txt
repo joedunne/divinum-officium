@@ -1,8 +1,22 @@
+[Rule]
+vide C5;
+Gloria
+
+[Rank]
+;;Duplex;;3;;vide C5
+(sed rubrica 1570 aut rubrica 1617)
+;;Semiduplex;;2.2;;vide C5
+(sed rubrica 1930 aut rubrica 1963)
+;;Memoria;;1.1;;vide C5
+
 [Officium]
 St. Paul the First Hermit, Confessor
 
 [Name]
 Paul
+
+[Introitus]
+@Commune/C5-1
 
 [Lectio]
 Lesson from the letter of St. Paul the Apostle to the Philippians
@@ -21,6 +35,9 @@ V. The just man shall blossom like the lily, and flourish forever before the Lor
 Continuation + of the Holy Gospel according to Matthew
 !Matt 11:25-30
 At that time, Jesus spoke and said, I praise You, Father, Lord of heaven and earth, that You hid these things from the wise and prudent, and revealed them to little ones. Yes, Father, for such was Your good pleasure. All things have been delivered to Me by My Father; and no one knows the Son except the Father; nor does anyone know the Father except the Son, and him to whom the Son chooses to reveal Him. Come to Me, all you who labor and are burdened, and I will give you rest. Take My yoke upon you, and learn from Me, for I am meek and humble of heart; and you will find rest for your souls. For My yoke is easy, and My burden light.
+
+[Offertorium]
+@Commune/C5-1
 
 [Communio]
 @Commune/C2ap

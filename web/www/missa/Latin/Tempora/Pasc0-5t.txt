@@ -10,6 +10,9 @@ Credo
 Sequentia
 Suffr=Ecclesiæ,Papa;;
 
+[Station]
+S. Maria ad Martyres
+
 [Introitus]
 @Tempora/Pasc0-5:Introitus
 
@@ -28,7 +31,7 @@ Allelúja, allelúja.
 Hæc dies, quam fecit Dóminus: exsultémus et lætémur in ea.
 V. Benedíctus, qui venit in nómine Dómini: Deus Dóminus, et illúxit nobis. Allelúja, allelúja.
 !Ps 95:10
-Dícite in géntibus: quia Dóminus regnávit a ligno.
+V. Dícite in géntibus: quia Dóminus regnávit a ligno.
 
 [Sequentia]
 @Tempora/Pasc0-0:Sequentia

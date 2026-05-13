@@ -536,6 +536,22 @@ sub get_loadtime_inclusion($$$$$$$) {
     do_inclusion_substitutions($text, $substitutions);
     return $text;
   }
+  my @ignorelist = ("Lectio7", "Lectio8", "Lectio9", "Alleluia Duplex");
+
+  my $found = 0;
+  foreach my $item (@ignorelist) {
+      if ($item eq $section) {
+          $found = 1;
+          last;
+      }
+  }
+
+  if (!$found) {
+#    print STDERR "$basedir : $lang : $ftitle:$section is missing!\n";
+#    print STDERR "section : $section\n";
+#    print STDERR "substitutions : $substitutions\n";
+#    print STDERR "callerfname : $callerfname\n";
+  }
   return "$ftitle:$section is missing!";
 }
 
@@ -666,6 +682,7 @@ sub setupstring($$%) {
   }
 
   if ($params{'resolve@'} == RESOLVE_ALL) {
+#   if (exists $sections{'Rule'}) {warn "xxxxxSetupRule $lang";}
 
     # Iterate over all sections, resolving inclusions. We make sure we
     # do [Rule] first, if it exists: we need to use the rule to work

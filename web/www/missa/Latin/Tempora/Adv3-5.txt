@@ -12,6 +12,9 @@ no Gloria
 no Credo
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[Station]
+SS. Apostoli
+
 [Introitus]
 !Ps 118:151-152
 v. Prope es tu, Dómine, et omnes viæ tuæ véritas: inítio cognóvi de testimóniis tuis, quia in ætérnum tu es.

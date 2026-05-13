@@ -1,5 +1,15 @@
+@Sancti/12-27
+
 [Rank]
 S. Johanni Apostoli;;Duplex II Class cum octava;;5.3;;ex C1
+
+[Rule]
+Gloria
+Credo
+Prefatio=Nat
+
+[Station]
+Basilica of Saint Mary Major
 
 [Graduale]
 !John 21:23, 19

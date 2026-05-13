@@ -7,6 +7,78 @@ use utf8;
 # Divine Office
 $a = 1;
 
+sub includePrayers {
+
+  my (@prayers_to_print) = @_;
+  @script1 = ();
+  @script2 = ();
+
+  foreach (@prayers_to_print) {
+
+    my $str = prayer("$_", $lang1);
+
+    $str =  resolve_refs($str, $lang1);
+    push(@script1, "\n");
+    push(@script1, split('_', $str));
+
+    if (!$only) {
+      $str = prayer("$_", $lang2);
+
+      $str =  resolve_refs($str, $lang2);
+      push(@script2, "\n");
+      push(@script2, split('_', $str));
+    }
+  }
+
+  print_content($lang1, \@script1, $lang2, \@script2, 1);
+  @script1 = ();
+  @script2 = ();
+
+}
+
+sub anteOrdo() {
+
+  if (!$antemissaprayers || $antemissaprayers==0) {
+    return;
+  }
+  print "<H2 ID='AnteMissatop'>Orationes Ante Sancta Missa</H2>\n" if $content;
+
+  my @prepatoryPrayers = (#"FormulaIntensionisAnteMissam",
+  "PrayerBeforeMass", #"ActOfOblationBeforeMass",
+  "ForSinners","ForTheChurch",
+  "ForTheFaithful","InPreparationToReceiveCommunion","CommemorateThePassionOfChrist","ActOfFaith","ActOfHope",
+  "ActOfCharity","ActOfHumility","LetTheReceivingOfThyBody","PrayerStThomasAquinasBeforeMass","PrayerStAmbroseBeforeMass","PrayerBlessedVirginMaryBeforeMass",
+  "PrayerStJosephBeforeMass","AllTheAngelsAndSaintsBeforeMass","SaintInWhoseHonorMassIsCelebrated","FormingOfOnesIntention","SoulsLongingForGod"
+#  ,"TrinitarianPreparation1","TrinitarianPreparation2","TrinitarianPreparation3","TrinitarianPreparation4","TrinitarianPreparation5",
+#  "TrinitarianPreparation6","TrinitarianPreparation7","TrinitarianPreparation8","TrinitarianPreparation9"
+  );
+
+  includePrayers(@prepatoryPrayers);
+
+}
+
+sub postOrdo() {
+
+  if (!$postmissaprayers || $postmissaprayers==0) {
+    return;
+  }
+
+  @script1 = ();
+  @script2 = ();
+  print "<H2 ID='PostMissatop'>Gratiarum Actio Post Missam</H2>\n"  if $content;
+
+  my @thanksgiving = ("ThanksgivingAfterMass", "SaintThomasAquinas", "SaintBonaventure","PrayerToJesusInThanksgiving",
+  "HymnStThomasAquinas","PrayerToOurLord","AnimaChristi","PrayerStAugustine","ObsecroTe",
+  "PrayerToJesusCrucified","OfferingOfAllMassesWorld", "AnOblationAfterMass","ActOfResignation","PrayerForPerseverance",
+#  "PrayerBlessedVirgin1","PrayerBlessedVirgin2",
+  "PrayerBlessedVirginMaryAfterHolyMass","PrayerStPadrePio","PrayerBeforeCrucifix","Psalm95","PrayerStJosephAfterMass","AllThingsNecessarySalvation"
+#  ,"TrinitarianAfterMass1","TrinitarianAfterMass2","TrinitarianAfterMass3","TrinitarianAfterMass4","TrinitarianAfterMass5",
+#  "TrinitarianAfterMass6","TrinitarianAfterMass7","TrinitarianAfterMass8","TrinitarianAfterMass9"
+  );
+
+  includePrayers(@thanksgiving);
+}
+
 #*** ordo()
 # collects and prints the ordo
 # first let specials to fill the chapters
@@ -14,7 +86,9 @@ $a = 1;
 # resolves the references (formatting characters, prayers hash references and subs)
 #and prints the result
 sub ordo {
-  print "<H2 ID='Missatop'>Sancta Missa</H2>\n" if $content;
+
+  print "<H2 ID='$missastartid'>$missaname</H2>\n" if $content;
+  headline($head);
   my $savesolemn = $solemn;
   if ($winner =~ /Quad6-[456]/i) { $solemn = 1; }
   $column = 1;
@@ -53,20 +127,30 @@ sub ordo {
   }
 
   if ($rule =~ /Post Missam/i) {
-    my $str = $winner{'Post Missam'};
+    my $str = format_string($winner{'Post Missam'});
 
     # $str = norubr1($str);
     push(@script1, split('_', $str));
 
     if (!$only) {
-      $str = $winner2{'Post Missam'};
-
+      $str = format_string($winner2{'Post Missam'});
       # $str = norubr1($str);
       push(@script2, split('_', $str));
     }
   }
 
   print_content($lang1, \@script1, $lang2, \@script2, 1);
+}
+
+sub format_string() {
+    my ($str) = @_;
+
+    if ($str && $str !~ /^\s*$/) {
+            $str =~ s/(?<!\() \( ([^()]*?) \) (?!\))/setfont($smallfont, $1)/egx;
+            $str =~ s/\(\(/(/g;
+            $str =~ s/\)\)/)/g;
+          }
+    return $str;
 }
 
 #*** resolve_refs($text_of_block, $lang)
@@ -144,7 +228,7 @@ sub resolve_refs {
     $line = setcross($line);
 
     #red prefix
-    if ($line =~ /^\s*(R\.|V\.|S\.|P\.|M\.|A\.|O\.|C\.|D\.|Benedictio\.* |Absolutio\.* |Ant\. |Ps\. )(.*)/s) {
+    if ($line =~ /^\s*(R\.|V\.|S\.|P\.|M\.|A\.|O\.|C\.|D\.|Benedictio\.* |Absolutio\.* |Ant\. |Ps\. |Priest\: |Sponsor\/Catechumen\: )(.*)/s) {
       my $h = setvrbar($1);
       my $l = $2;
 

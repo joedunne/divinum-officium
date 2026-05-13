@@ -1,9 +1,23 @@
+@Commune/C10
+
 [Missa]
 Vultum tuum (a Nativitate usque ad Purificationem)
 
 [Comment]
 # II Mass of the B. V. M. – Vultum Tuum
 ! From Nativity until Purification
+
+[Ant 1]
+@Sancti/01-01:Ant 3
+
+[Oratio]
+@Sancti/01-01
+
+[Ant Laudes] (rubrica tridentina)
+@Sancti/01-01:Ant Vespera:s/;;.*//g
+
+[Ant 2]
+@Sancti/01-01:Ant 2
 
 [Introitus]
 !Ps 44:13 44:15-16.
@@ -13,11 +27,22 @@ My heart overflows with a goodly theme; as I sing my ode to the King.
 &Gloria
 v. All the rich among the people seek your favor. Behind her the virgins of her train are brought to the King. They are borne in to You with gladness and joy. (Alleluja, alleluja.)
 
+[Lectio]
+@Sancti/12-25m2
+
 [Graduale]
 !Ps 44:3, 2
 Fairer in beauty are you than the sons of men; grace is poured out upon your lips.
 V. My heart overflows with a goodly theme; as I sing my ode to the King, my tongue is nimble as the pen of a skillful scribe. Alleluia, alleluia.
 V. After childbirth, you still remained an inviolate virgin: O Mother of God, intercede for us. Alleluia.
+
+[Tractus]
+@:Graduale:s/\s+Al.*//s
+_
+@Commune/C11::s/^.*?\s(\!)//s
+
+[Evangelium]
+@Sancti/12-25m2
 
 [Offertorium]
 You are happy, O holy Virgin Mary, and most worthy of all high praise; for out of you has risen the sun of justice, Christ our God.

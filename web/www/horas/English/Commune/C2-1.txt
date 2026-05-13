@@ -1,9 +1,20 @@
+@Commune/C2
+
 [Missa]
 Sacerdotes Dei
 
 [Oratio]
 O God, who year by year dost gladden us by the solemn feast day of thy Blessed Martyr and Bishop N., mercifully grant that we who keep his birthday, may ever feel the joyful effects of his protection.
 $Per Dominum
+
+[Lectio7]
+@Commune/C2:Lectio7 in 2 loco
+
+[Lectio8]
+@Commune/C2:Lectio8 in 2 loco
+
+[Lectio9]
+@Commune/C2:Lectio9 in 2 loco
 
 [Introitus]
 !Dan 3:84, 87
@@ -25,9 +36,6 @@ V. You have given him rule over the works of Your hands, O Lord. Alleluia, allel
 V. This is the priest whom the Lord has crowned. Alleluia.
 
 [Tractus]
-!Ps 8:6-7
-You crowned him with glory and honor.
-V. You have given him rule over the works of Your hands, O Lord.
 !Ps 8:6-7
 You crowned him with glory and honor.
 V. You have given him rule over the works of Your hands, O Lord.

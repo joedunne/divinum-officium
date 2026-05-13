@@ -1,3 +1,13 @@
+[Rule]
+vide C6;
+Gloria
+Suffragium+Maria2;Ecclesiæ,Papæ;;
+
+[Rank]
+;;Semiduplex;;2.2;;vide C6
+(sed rubrica 1962)
+;;Simplex;;1.1;;vide C6
+
 [Officium]
 S. Martinae Virginis et Martyris
 

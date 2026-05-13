@@ -1,3 +1,9 @@
+[Rule]
+vide C2a;
+
+[Rank]
+;;Simplex;;1.1;;vide C2a
+
 [Officium]
 St. Chrysogonus, Martyr
 
@@ -10,5 +16,4 @@ Be appeased by the gifts we offer You, O Lord, and through the intercession of b
 $Per Dominum
 
 [Postcommunio]
-Through the reception of Your sacrament, O Lord, may we be cleansed from our hidden sins and delivered from the snares of our enemies.
-$Per Dominum
+@Tempora/Quad1-3:Postcommunio

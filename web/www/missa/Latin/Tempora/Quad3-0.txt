@@ -10,6 +10,9 @@ Credo
 Prefatio=Quad
 Suffragium=Sanctorum;Vivis;;
 
+[Station]
+S. Lorenzo fuori le mura
+
 [Introitus]
 !Ps 24:15-16.
 v. Oculi mei semper ad Dóminum, quia ipse evéllet de láqueo pedes meos: réspice in me, et miserére mei, quóniam únicus et pauper sum ego.

@@ -4,6 +4,12 @@ Commune Plurimorum Martyrum Pontificum
 [Missa]
 Intret in conspectu
 
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+Psalm5 Vespera=116
+Psalm5 Vespera3=115
+
 [Ant Vespera]
 O how many torments have all the Saints suffered, * that they might attain safely unto the palm of martyrdom.
 The Saints have attained unto the kingdom, * with palms in their hands; they have earned crowns of Majesty from the Lord's hand.
@@ -49,6 +55,9 @@ R. And glory, all ye right of heart.
 
 [Ant 1]
 For theirs is the Kingdom of heaven * who love not their lives in this world, and have attained unto the reward of the Kingdom, and have washed their robes in the blood of the Lamb.
+
+[Invit]
+@Commune/C2
 
 [Oratio]
 May the feast of the blessed Martyrs and Bishops N. and N., protect us, O Lord, we beseech You, and may their holy prayer recommend us unto You.
@@ -211,10 +220,16 @@ R. I will render unto you a reward of your labours.
 But, forasmuch as the signs and troubles whereof the Lord speaketh are so manifold, we must needs shortly consider each for, of necessity, we must suffer some things from heaven, some from the earth, some from the powers of nature, and some from men. For where He saith Nation shall rise against nation He speaketh concerning the troubling of men where great earthquakes shall be in diverse places concerning wrath from above: where: and pestilences concerning the frailty of the body where and famines concerning the barrenness of the earth: where fearful signs from heaven, and tempests concerning commotions of the air. As, then, all things shall have an end, so, before the end, shall all things be troubled and we who have sinned and come short in all things, shall in all things be afflicted, that it may be fulfilled that is written: and the world shall fight with Him against the unwise. (Wisd v. 21.)
 &teDeum
 
+[Versum 0]
+@:Versum 2
+
+[Ant Laudes]
+@:Ant Vespera
+
 [Capitulum Laudes]
 !Wis 3:1-3
 v. But the souls of the just are in the hand of God, and the torment of death shall not touch them. In the sight of the unwise they seemed to die, but they are in peace.
-$Deo gratias.
+$Deo gratias
 
 [Hymnus Laudes]
 v. O glorious King of martyr hosts,
@@ -290,8 +305,26 @@ The youth of the Saints shall be renewed * like the eagle's they shall grow as t
 God shall wipe away all tears from the eyes of His Saints * and there shall be no more sorrow, nor crying, neither shall there be any more pain; for the former things are passed away.;;112
 In the heavenly kingdoms, * there is the dwelling of the Saints there shall be their rest for ever and ever.;;115
 
+[Versum 3]
+@:Versum 2
+
 [Ant 3]
 In heaven do rejoice the souls of the Saints * who have followed the steps of Christ; and because they shed their blood for the love of Christ, therefore shall they be made glad for ever with Christ.
+
+[Oratio3]
+Grant, we beseech Thee, almighty God: that we, who celebrate the solemnities of Thy blessed Martyrs, N. and N., may be holpen (helped) by their intercessions before Thee.
+$Per Dominum
+
+[Lectio4 in 2 loco]
+Sermon of  St. John Chrysostom
+!Sermo 1 de Martyribus, tom. 3.
+There is no one who does not know that, by divine counsel, the glories of the Martyrs are celebrated by the people of God for this purpose: that due honor may be rendered to them, and that examples of virtue may be shown to us, by the favor of Christ; so that, while we perceive these things being thus celebrated, we may recognize how great a glory awaits them in heaven, whose birthdays [into heaven] are celebrated in such a manner on earth; so that we ourselves may also be stirred by such examples—with equal virtue, like devotion, and similar faith—that, by the aid of Christ, we may be able to fight and conquer the enemy, so that, the victory having been won, we may triumph with these same Saints in the celestial kingdoms.
+
+[Lectio5 in 2 loco]
+For who is there, wishing to be joined to their merit, who does not first hold fast to their constancy, follow their faith, and imitate the virtue of their passion; or who does not either find or seek out their glory through similar features of life? Although one may not be able to be equal in martyrdom, nevertheless, let each one show himself worthy of the dignity of so great a gift by his good deeds. For the most merciful God is present, who grants to His desiring ones either martyrdom, or, without martyrdom, bestows divine rewards together with the Saints.
+
+[Lectio6 in 2 loco]
+For just as the sinner is weakened by adversities, so the just man is strengthened by temptations. Thus did the Saints fight against sin; thus, they were made stronger by laboring and victors by dying. No athlete can be called stronger without a contest, nor can any be crowned without a victory. No soldier has subdued the enemy without a battle; no one has merited the [favor of the] emperor without war. You have, O Christian, the competent arms with which to fight the enemy; you have the strongest weapons with which to vanquish the foe.
 
 [Lectio7 in 2 loco]
 From the Holy Gospel according to Luke
@@ -317,6 +350,15 @@ R. Together they set at nought the Royal Palace; together they attained unto the
 But let us first consider the fuller of the forms of these Beatitudes. Blessed be ye poor, for your's is the kingdom of God. Both of the Evangelists give to this Beatitude the first place. Yea, surely, for poorness, at least in spirit, is the first in order, the mother, and procreatrix of virtues; since he that setteth no store by temporal things, winneth toward eternal things; neither is any man able to gain the kingdom of heaven, on whom the love of this present world doth so press, that he cannot rid himself thereof.
 &teDeum
 
+[Lectio7 in 3 loco]
+@Sancti/06-26:Lectio7
+
+[Lectio8 in 3 loco]
+@Sancti/06-26:Lectio8
+
+[Lectio9 in 3 loco]
+@Sancti/06-26:Lectio9
+
 [Introitus]
 !Ps 78:11; 78:12; 78:10
 v. Let the prisoners’ sighing come before You, O Lord; repay our neighbors sevenfold into their bosoms; avenge the shedding of Your servants’ blood.
@@ -331,9 +373,8 @@ Lesson from the book of Wisdom
 The souls of the just are in the hands of God, and no torment of death shall touch them. They seemed, in the view of the foolish, to be dead; and their passing away was judged an affliction, and their going forth from us, utter destruction. But they are in peace. For if before men, indeed, they be punished, yet is their hope full of immortality; chastised a little, they shall be greatly blessed, because God tried them and found them worthy of Himself. As gold in the furnace, He proved them, and as sacrificial offerings He took them to Himself. In the time of their visitation they shall shine, and shall dart about as sparks through stubble; they shall judge nations and rule over peoples, and the Lord shall be their King forever.
 
 [Graduale]
-!Exo 15:11
+!Exo 15:11; 15:6
 God is glorious in His Saints, wonderful in majesty, a worker of wonders.
-!Exo 15:6
 V. Your right hand, O Lord, is magnificent in power; Your right hand has shattered the enemy. Alleluia, alleluia. 
 !Sir 44:14
 V. The bodies of the Saints are buried in peace, but their name lives on and on. Alleluia.
@@ -355,6 +396,8 @@ At that time, Jesus said to His disciples, When you hear of wars and insurrectio
 [Offertorium]
 !Ps 67:36
 God is wonderful in His Saints; the God of Israel is He Who gives power and strength to His people. Blessed be God! Alleluia.
+(sed post Septuagesimam dicitur)
+God.
 
 [Offertorium] (tempore post Septuagesimam)
 !Ps 67:36
@@ -371,3 +414,44 @@ For if before men they be punished, God tried them; as gold in the furnace, He p
 [Postcommunio]
 Refreshed by the sacrament of salvation, we beseech You, O Lord, that we may be aided by the prayers of those whose festival we celebrate.
 $Per Dominum
+
+[TODO]
+Translate HymnusM
+
+[HymnusM Vespera]
+v. Sanctórum méritis ínclyta gáudia
+Pangámus, sócii, géstaque fórtia:
+Nam gliscit ánimus prómere cántibus
+Victórum genus óptimum.
+_
+Hi sunt quos rétinens mundus inhórruit:
+Ipsum nam stérili flore peráridum
+Sprevére pénitus, teque secúti sunt,
+Rex Christe bone cǽlitus.
+_
+Hi pro te fúrias atque ferócia
+Calcárunt hóminum, sǽvaque vérbera:
+Cessit his lácerans fórtiter úngula,
+Nec carpsit penetrália.
+_
+Cædúntur gládiis more bidéntium:
+Non murmur résonat, non querimónia:
+Sed corde tácito mens bene cónscia
+Consérvat patiéntiam.
+_
+Quæ vox, quæ póterit lingua retéxere,
+Quæ tu Martyribus múnera prǽparas?
+Rubri nam flúido sánguine láureis
+Ditántur bene fúlgidis.
+_
+Te summa Déitas únaque póscimus,
+Ut culpas ábluas, nóxia súbtrahas,
+Des pacem fámulis, nos quoque glóriam
+Per cuncta tibi sǽcula.
+Amen.
+
+[HymnusM Matutinum]
+@:Hymnus Matutinum:s/Christo profúsum sánguinem/Ætérna Christi múnera/ s/Dignámque cælo láuream/Laudes canéntes débitas/ s/sequámur vócibus/canámus méntibus/
+
+[HymnusM Laudes]
+@:Hymnus Laudes:s/Inténde/Appóne/ s/inter Mártyres/in Martýribus,/ s/Parcísque/Parcéndo/ s/Largítor indulgéntiæ/Donándo indulgéntiam/ s/Nunc, et per omne sǽculum/Et nunc et in perpétuum/

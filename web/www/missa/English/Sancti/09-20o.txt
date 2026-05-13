@@ -1,5 +1,22 @@
+[Rank]
+;;Vigilia;;1.5;;ex C1v
+
 [Officium]
 In Vigilia S. Matthew Apostle
 
 [Name]
 Matthew
+
+[Oratio]
+@Commune/C1v:Oratio pro Evangelistae
+
+[Evangelium]
+Continuation + of the Holy Gospel according to Luke
+!Luc 5:27-32
+At that time: Jesus saw a tax-gatherer named Levi, sitting at the tax-office, and He said to him: 'Follow Me.' And leaving all things, he rose up and followed Him. And Levi made him a great feast in his own house: and there was a great crowd of tax-gatherers and of others, who were at table with them. But the Pharisees and their scribes murmured, saying to His disciples: 'Why do you eat and drink with tax-gatherers and sinners?' And Jesus answering, said to them: 'They that are well need not a physician, but they that are sick. I came not to call the just, but sinners to penance.
+
+[Secreta]
+@Commune/C1v:Secreta pro Evangelistae
+
+[Postcommunio]
+@Commune/C1v:Postcommunio pro Evangelistae

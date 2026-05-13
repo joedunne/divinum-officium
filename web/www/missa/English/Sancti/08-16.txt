@@ -1,3 +1,15 @@
+[Rule]
+ex C5;
+Gloria
+CredoDA
+(sed rubrica 196)
+no Credo
+
+[Rank]
+;;Duplex II classis;;5.1;;ex C5
+(sed rubrica 196)
+;;Duplex II classis;;5;;ex C5
+
 [Officium]
 St. Joachim, Confessor, Father of the Blessed Virgin Mary
 
@@ -19,6 +31,18 @@ Lavishly he gives to the poor; his generosity shall endure forever.
 V. His posterity shall be mighty upon the earth; the upright generation shall be blessed. Alleluia, alleluia.
 V. O Joachim, spouse of St. Anne, father of the kindly Virgin, help your servants to save their souls. Alleluia.
 
+[GradualeP]
+Alleluia, alleluia.
+!Ps 111:2
+His seed shall be mighty upon earth: the generation of the righteous shall be blessed. Alleluia.
+V. O Joachim, husband of holy Anne, father of the cherished Virgin, bring here to your servants the help of salvation. Alleluia.
+
+[Tractus]
+!Ps 20:3-4
+Thou hast given him his soul’s desire: and hast not withheld from him the will of his lips.
+V. For Thou hast prevented him with blessings of sweetness.
+V. Thou hast set upon his head a crown of precious stone.
+
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
 !Matt 1:1-16
@@ -31,6 +55,9 @@ You crowned him with glory and honor. You have given him rule over the works of 
 [Secreta]
 Graciously accept, most merciful God, the sacrifice offered to Your majesty in honor of the holy Patriarch Joachim, father of the Virgin Mary, that by his intercession, together with that of his spouse and most blessed child, we may be found worthy to obtain full forgiveness of our sins and everlasting glory.
 $Per Dominum
+
+[Communio]
+@Commune/C4
 
 [Postcommunio]
 We beseech You, almighty God, that by this sacrament which we have received, and by the pleading merits of holy Joachim, father of the Mother of Your beloved Son, our Lord Jesus Christ, we may be found worthy to share Your grace in the life, and eternal glory in the life to come.

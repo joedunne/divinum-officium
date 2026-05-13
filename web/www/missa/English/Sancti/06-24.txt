@@ -1,3 +1,15 @@
+[Rule]
+Gloria
+no Credo
+(sed tempore Octava aut rubrica 196)
+Credo
+Prefatio=Baptista
+
+[Rank]
+;;Duplex I classis cum Octava communi;;6.5;;
+(sed rubrica 196)
+;;Duplex I classis;;6;;
+
 [Officium]
 Nativity of St. John the Baptist
 
@@ -25,14 +37,20 @@ V. The Lord put forth His hand, and touched my mouth, and said to me. Alleluia, 
 !Luke 1:76
 V. You, child, shall be called the prophet of the Most High; you shall go before the Lord to prepare His ways. Alleluia.
 
+[GradualeP]
+Alleluia, alleluia.
+!Luc 1:76
+V. You, child, shall be called the prophet of the Most High; you shall go before the Lord to prepare His ways. Alleluia.
+!Hos 14:6
+V. The just man shall spring up like the lily. And flower for all eternity before the Lord. Alleluia.
+
 [Evangelium]
 Continuation + of the Holy Gospel according to Luke
 !Luke 1:57-68
 Elizabeth’s time was fulfilled that she should be delivered, and she brought forth a son. And her neighbors and kinsfolk heard that the Lord had magnified His mercy toward her, and they rejoiced with her. And it came to pass on the eighth day, that they came to circumcise the child, and they were going to call him by his father’s name, Zachary. And his mother answered and said, Not so, but he shall be called John. And they said to her, There is none of your kindred that is called by this name. And they kept inquiring by signs of his father what he would have him called. And asking for a writing-tablet he wrote the words, John is his name. And they all marveled. And immediately his mouth was opened and his tongue loosed, and he began to speak, blessing God. And fear came on all their neighbors; and all these things were spoken abroad in all the hill country of Judea. And all who heard them laid them up in their heart, saying, What then will this child be? For the hand of the Lord was with him. And Zachary his father was filled with the Holy Spirit, and prophesied, saying, Blessed be the Lord, the God of Israel, because He has visited and wrought redemption for His people.
 
 [Offertorium]
-!Ps 91:13
-The just man shall flourish like the palm tree; like a cedar of Lebanon shall he grow.
+@Commune/C4a
 
 [Secreta]
 We heap Your altar with gifts, O Lord, celebrating the birth of him who announced the coming of the Saviour of the world, our Lord Jesus Christ, Your Son, and made His presence known. 

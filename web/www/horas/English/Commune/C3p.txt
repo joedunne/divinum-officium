@@ -1,10 +1,78 @@
+@Commune/C2p
+
 [Officium]
 Commune Plurimorum Martyrum Tempore Paschali
 
 [Missa]
 Sancti tui
 
+[Hymnus Vespera]
+@Commune/C3:Hymnus Laudes
+
+[HymnusM Vespera]
+@Commune/C3:HymnusM Laudes
+
+[Oratio]
+@Commune/C3
+
+[Hymnus Matutinum]
+@Commune/C3
+
+[HymnusM Matutinum]
+@Commune/C3
+
+[Ant Matutinum]
+@Commune/C1p::1 s/;;18/;;1/
+;;2
+;;3
+@Commune/C1p::4 s/;;46/;;14/
+;;15
+;;23
+@Commune/C1p::7 s/;;74/;;32/
+;;33
+;;45
+
+[Hymnus Laudes]
+@Commune/C3
+
+[HymnusM Laudes]
+@Commune/C3
+
+[Introitus]
+!Ps 144:10-11
+v. Thy saints, O Lord, shall bless Thee: they shall speak of the glory of Thy kingdom, alleluia, alleluia.
+!Ps. 144:1
+I will extol thee, O God my king: and I will bless thy name for ever; yea, for ever and ever.
+&Gloria
+v. Thy saints, O Lord, shall bless Thee: they shall speak of the glory of Thy kingdom, alleluia, alleluia.
+
+[Lectio]
+Lesson from the Epistle of St. Peter the Apostle
+!1 Petr 1:3-7
+Blessed be the God and Father of our Lord Jesus Christ, who according to His great mercy has regenerated us into a living hope, through the resurrection of Jesus Christ from the dead, unto an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you, who by the power of God are guarded through faith unto salvation, ready to be revealed in the last time. Wherein you shall greatly rejoice, if now for a little while, if need be, you are made sorrowful by various temptations: that the proof of your faith, much more precious than gold (which is proved by fire), may be found unto praise and glory and honor, at the revelation of Jesus Christ, our Lord.
+
+[Graduale]
+Alleluia, alleluia.
+!Sir 39:19
+Thy saints, O Lord, shall flourish like the lily: and they shall be as the odor of balsam before Thee. Alleluia.
+!Ps 115:15
+Precious in the sight of the Lord is the death of his saints. Alleluia.
+
 [Evangelium]
 Continuation ++ of the Holy Gospel according to John
 !John 15:5-11
 In that time, Jesus said to his disciples: I am the vine: you the branches: he that abideth in me, and I in him, the same beareth much fruit: for without me you can do nothing. If any one abide not in me, he shall be cast forth as a branch, and shall wither, and they shall gather him up, and cast him into the fire, and he burneth. If you abide in me, and my words abide in you, you shall ask whatever you will, and it shall be done unto you. In hoc clarificátus est Pater meus, ut fructum plúrimum afferátis, et efficiámini mei discípuli. Sicut diléxit me Pater, et ego diléxi vos. Manéte in dilectióne mea. Si præcépta mea servavéritis, manébitis in dilectióne mea, sicut et ego Patris mei præcépta servávi, et máneo in ejus dilectióne. Hæc locútus sum vobis, ut gáudium meum in vobis sit, et gáudium vestrum impleátur.
+
+[Offertorium]
+!Ps 31:11
+Be glad in the Lord and rejoice, ye just: and glory, all ye upright of heart, alleluia, alleluia.
+
+[Secreta]
+@Commune/C3
+
+[Communio]
+!Ps 32:1
+Rejoice in the Lord, O ye just, alleluia: praise becometh the upright. Alleluia.
+
+[Postcommunio]
+@Commune/C3

@@ -1,3 +1,12 @@
+[Rule]
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex;;3.1;;vide Sancti/08-10
+(sed rubrica divino)
+;;Simplex;;1.4;;vide Sancti/08-10
+
 [Officium]
 Octave of St. Lawrence, Martyr
 
@@ -20,13 +29,17 @@ v. Now this I say: He who soweth sparingly, shall also reap sparingly: and he wh
 
 [Graduale]
 !Ps 8:6-7
-v. Thou hast made him a little less than the angels, thou hast crowned him with glory and honour: and hast set him over the works of thy hands.
+Thou hast crowned him with glory and honor, O Lord.
+V. Thou hast made him a little less than the angels, thou hast crowned him with glory and honour: and hast set him over the works of thy hands.
 V. The Levite Lawrence wrought a good work, who by the sign of the Cross, gave sight to the blind. Alleluia.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to John
 !John 12:24-26
 v. Amen, amen I say to you, unless the grain of wheat falling into the ground die, Itself remaineth alone. But if it die, it bringeth forth much fruit. He that loveth his life shall lose it; and he that hateth his life in this world, keepeth it unto life eternal. If any man minister to me, let him follow me; and where I am, there also shall my minister be. If any man minister to me, him will my Father honour.
+
+[Offertorium]
+@Commune/C5-1
 
 [Secreta]
 We ask O lord, that the holy prayers of blessed Laurence may commend our sacrifice to thee through the merits of him, in whose honor it is solemnly offered.

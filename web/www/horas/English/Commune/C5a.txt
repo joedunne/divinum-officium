@@ -1,10 +1,102 @@
+@Commune/C5
+
 [Officium]
 Common of a Doctor not a Bishop
 
+[Missa]
+@Commune/C4a
+
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+Psalm5 Vespera=116
+Gloria
+
+[Hymnus1M Vespera]
+@Commune/C4a
+
+[HymnusM Vespera]
+@Commune/C4a
+
+[Ant 1]
+@Commune/C4a
+
+[Oratio]
+@Commune/C4a
+
+[Lectio1]
+@Commune/C4a
+
+[Lectio2]
+@Commune/C4a
+
+[Lectio3]
+@Commune/C4a
+
+[Lectio4]
+@Commune/C4a
+
+[Lectio5]
+@Commune/C4a
+
+[Lectio6]
+@Commune/C4a
+
+[Lectio7]
+@Commune/C4a
+
+[Lectio8]
+@Commune/C4a
+
+[Responsory8]
+@Commune/C4a
+
+[Lectio9]
+@Commune/C4a
+
+[Ant 3]
+@:Ant 1
+
+[Lectio7 in 4 loco]
+@Commune/C2:Lectio7 in 2 loco
+
+[Lectio8 in 4 loco]
+@Commune/C2:Lectio8 in 2 loco
+
+[Lectio9 in 4 loco]
+@Commune/C2:Lectio9 in 2 loco
+
+[Introitus]
+@Commune/C4a
+
+[Lectio]
+@Commune/C4a
+
+[Graduale]
+@Commune/C4a
+
+[GradualeP]
+@Commune/C4a
+
+[Tractus]
+@Commune/C4a
+
+[Evangelium]
+@Commune/C4a
+
+[Offertorium]
+@Commune/C4a
+
 [Secreta]
 May the pious prayer of holy N. thy Confessor and illustrious Doctor be not wanting to us, O Lord, but make our offerings acceptable to thee and ever win for us thy mercy.
-$Per Dominum.
+$Per Dominum
+
+[Communio]
+@Commune/C4
 
 [Postcommunio]
 May blessed N. thy Confessor and illustrious Doctor intercede for us, O Lord, that this thy sacrifice may obtain for us salvation.
 $Per Dominum
+
+[Lectio in 2 loco]
+@Commune/C4a

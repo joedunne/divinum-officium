@@ -1,3 +1,10 @@
+[Rule]
+vide C7a
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C7a
+
 [Officium]
 St. Hedwig, Widow
 

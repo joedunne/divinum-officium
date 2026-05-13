@@ -1,9 +1,42 @@
+[Rule]
+ex Sancti/06-30;
+Gloria
+no Credo
+Prefatio=Apostolis
+Sub unica conclusione
+
+[Rank]
+;;Duplex majus;;4;;ex Sancti/01-25
+
 [Officium]
 Conversion of St. Paul the Apostle
 
+[Introitus]
+@Sancti/01-25
+
+[Oratio]
+@Sancti/01-25
+
+[Lectio]
+@Sancti/01-25
+
+[Graduale]
+@Sancti/01-25
+
 [Tractus]
-!Gal 2:8-9
-He Who worked in Peter for the apostleship, worked also in me among the Gentiles: and they recognized the grace of God that was given to me.
-V. The grace of God in me has not been fruitless; but His grace always remains in me. 
-_
-!Tract
+@Sancti/01-25
+
+[Evangelium]
+@Commune/C5-1
+
+[Offertorium]
+@Sancti/01-25
+
+[Secreta]
+@Sancti/01-25
+
+[Communio]
+@Commune/C5-1
+
+[Postcommunio]
+@Sancti/01-25

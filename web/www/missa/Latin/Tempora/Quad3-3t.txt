@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+S. Sisto Vecchio
+
+[CollectStation]
+S. Balbina
+
 [Introitus]
 !Ps 30:7-8.
 v. Ego autem in Dómino sperábo: exsultábo et lætábor in tua misericórdia: quia respexísti humilitátem meam.
@@ -35,7 +41,8 @@ Hæc dicit Dóminus Deus: Hónora patrem tuum et matrem tuam, ut sis longǽvus s
 Miserére mei, Dómine, quóniam infírmus sum: sana me, Dómine,
 V. Conturbáta sunt ómnia ossa mea: et ánima mea turbáta est valde.
 _
-!Tractus 102:10
+!Tractus
+!Ps 102:10
 Dómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis.
 !Ps 78:8-9
 Dómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. (Hic genuflectitur)

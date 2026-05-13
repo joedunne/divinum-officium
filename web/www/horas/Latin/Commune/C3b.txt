@@ -8,7 +8,7 @@ Commune plurium Summorum Pontificum Martyrum
 Prefatio=Apostolis
 
 [Oratio] (communi Summorum Pontificum)
-v. Gregem tuum, Pastor ætérne, placátus inténde: et per beátos N. et N. Mártyres tuos atque Summos Pontífices perpétua protectióne custódi; quos totíus Ecclésiæ præstitísti esse pastóres.
+Gregem tuum, Pastor ætérne, placátus inténde: et per beátos N. et N. Mártyres tuos atque Summos Pontífices perpétua protectióne custódi; quos totíus Ecclésiæ præstitísti esse pastóres.
 $Per Dominum
 
 [Lectio7] (communi Summorum Pontificum)

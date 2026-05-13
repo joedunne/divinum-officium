@@ -1,8 +1,22 @@
+[Rank]
+;;Vigilia;;1.5;;ex C1v
+
 [Officium]
 Vigil of St. Andrew the Apostle
 
 [Name]
 Andrew
+
+[Introitus]
+!Matt 4:18; 4:19
+v. The Lord, by the Sea of Galilee, saw two brothers, Peter and Andrew, and he called them: "Come after me: I will make you become fishers of men."
+!Ps 18:2.
+The heavens declare the glory of God: and the firmament proclaims the work of His hands.
+&Gloria
+v. The Lord, by the Sea of Galilee, saw two brothers, Peter and Andrew, and he called them: "Come after me: I will make you become fishers of men.
+
+[Oratio]
+@Commune/C1v:Oratio 2 loco
 
 [Graduale]
 !Ps 138:17-18
@@ -13,3 +27,15 @@ V. I will number them, and they shall be multiplied upon the sand.
 Continuation ++ of the Holy Gospel According to John
 !John 1:35-51
 At that time: John stood, and two of his disciples. And looking at Jesus walking, he said: Behold the Lamb of God. And the two disciples heard him speak, and followed Jesus. And Jesus turned, and seeing them following him, said to them: What seek ye? And they said to him: Rabbi (which is to say, being interpreted, Teacher), where dwellest thou? He saith unto them: Come and see. They came and saw where he abode, and abode with him that day: and it was about the tenth hour. Now Andrew, Simon Peter's brother, was one of the two which heard John, and followed him. He first findeth his own brother Simon, and saith unto him: We have found the Messiah (which is to say, being interpreted, Christ). And he brought him to Jesus.  And Jesus looking at him said, Thou art Simon, the son of Jonah: thou shalt be called Cephas, which is by interpretation, Peter. The next day he would go forth into Galilee, and findeth Philip. And Jesus saith unto him, Follow me. Now Philip was of Bethsaida, the city of Andrew and Peter. Philip findeth Nathanael, and saith unto him, Of whom Moses in the law, and the prophets, wrote, Jesus the son of Joseph, of Nazareth. And Nathanael saith unto him, Can any good thing come out of Nazareth? Philip saith unto him, Come and see. Jesus saw Nathanael coming unto him, and saith of him, Behold an Israelite indeed, in whom is no guile. Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before Philip called thee, when thou wast under the fig tree, I saw thee.  Nathanael answered him and said, Rabbi, you are the Son of God, you are the King of Israel. Jesus answered and said to him, Because I said to you, I saw you under the fig tree, do you believe? You will see greater things than these. And he said to him, Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending on the Son of Man.
+
+[Secreta]
+We offer to Thee, O Lord, a gift to be hallowed; whereby, as we celebrate the solemnity of the blessed Apostle Andrew, we also implore purification for our minds.
+$Per Dominum
+
+[Communio]
+!Joann 1:41; 1:42
+Andrew said to his brother Simon: We have found the Messiah, who is called Christ: and he brought him to Jesus.
+
+[Postcommunio]
+Having received these sacraments, O Lord, we humbly beseech Thee: that, through the intercession of blessed Andrew Thy Apostle, those things which we carry out in honor of his venerable passion may profit us unto a healing remedy.
+$Per Dominum

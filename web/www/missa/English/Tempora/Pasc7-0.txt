@@ -1,3 +1,6 @@
+[Rank]
+;;Duplex I Classis cum Octava privilegiata I ordinis;;7
+
 [Officium]
 Dominica Pentecostes
 
@@ -6,6 +9,9 @@ Gloria
 Sequentia
 Credo
 Prefatio=Spiritu=today;
+
+[Station]
+St. Peter's Basilica
 
 [Introitus]
 !Wis 1:7.

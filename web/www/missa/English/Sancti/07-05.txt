@@ -1,3 +1,11 @@
+[Rule]
+vide C5;
+Gloria
+CredoDA
+
+[Rank]
+;;Duplex;;3;;vide C5
+
 [Officium]
 St. Anthony Mary Zaccaria, Confessor
 
@@ -19,11 +27,26 @@ Lesson from the first letter of St. Paul the Apostle to Timothy
 Dearly beloved: Godliness is profitable in all respects, since it has the promise of the present life as well as of that which is to come. This saying is true and worthy of entire acceptance; for we work and are reviled for this reason, that we hope in the living God, Who is the Saviour of all men, especially of believers. Command and teach these things. Let no man despise your youth, but be an example to the faithful in speech, in conduct, in charity, in faith, in chastity. Until I come, be diligent in reading, in exhortation and in teaching. Do not neglect the grace that is in you, granted to you by reason of prophecy with the laying on of hands of the presbyterate. Meditate on these things, give yourself entirely to them, that your progress may be manifest to all. Take heed to yourself and to your teaching, be earnest in them. For in so doing you will save both yourself and those who hear you.
 
 [Graduale]
-!Phil 1:8-11
+!Phil 1:8-10
 God is my witness how I long after you all in the heart of Christ Jesus. And this I pray, that your charity may more and more abound in knowledge and all discernment.
 V. That you may approve the better things, that you may be upright and without offense to the day of Christ. Alleluia, alleluia.
 !Phil 1:11
 Filled with the fruit of justice, through Jesus Christ, to the glory and praise of God. Alleluia.
+
+[GradualeP]
+Alleluia, alleluia.
+!2 Cor 7:4
+I am filled with comfort; I exceedingly abound with joy in all our tribulation. Alleluia.
+!2 Cor 6:13
+V. I speak as to my children: be ye also enlarged. Alleluia
+
+[Tractus]
+!2 Cor 10:17-18
+He that glorieth, let him glory in the Lord: for not he who commendeth himself is approved: but he whom God commendeth.
+!Gal 6:14
+But God forbid that I should glory, save in the Cross of our Lord Jesus Christ: by whom the world is crucified to me, and I to the world.
+!Philipp 1:21
+For to me, to live is Christ, and to die is gain
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Mark
@@ -44,4 +67,4 @@ Brethren, be imitators of me, and mark those who walk after the pattern you have
 
 [Postcommunio]
 May the heavenly banquet at which we have been fed, O Lord Jesus Christ, set our hearts aflame with that fire of love with which St. Anthony Mary bore the banner of the saving Victim to victory against the enemies of Your Church.
-$Per Dominum
+$Qui vivis

@@ -15,6 +15,9 @@ no Gloria
 Credo
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[Station]
+SS. Apostoli
+
 [Introitus]
 !Isa 45:8
 v. Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem

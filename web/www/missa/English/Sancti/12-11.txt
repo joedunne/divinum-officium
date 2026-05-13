@@ -1,5 +1,22 @@
+[Rule]
+vide C4b;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C4b
+(sed rubrica 196)
+;;Duplex;;3;;vide C4b
+(sed rubrica innovata)
+;;Semiduplex;;2.5;;vide C4b
+(sed rubrica monastica nisi rubrica 1617)
+;;Simplex;;1.1;;vide C4b
+
 [Officium]
 St. Damasus, Pope and Confessor
 
 [Name]
 Damasus
+
+[Oratio] (nisi communi Summorum Pontificum)
+Graciously hear our prayers, O Lord: and through the intercession of blessed Damasus, Thy Confessor and Bishop, being appeased, grant us pardon and peace.
+$Per Dominum

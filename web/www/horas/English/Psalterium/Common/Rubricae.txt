@@ -86,3 +86,6 @@
 
 [NonaAdjuncta]
 /:The ninth lesson of the office is either omitted or may be joined to the eight.:/
+
+[Jube]
+/:Outside the Choir, when the Office is recited by only one person, «Jube, Dómine, benedícere;» is said and the appropriate Benediction is added.:/

@@ -1,2 +1,8 @@
+[Rank]
+;;Simplex;;1.1;;vide C2-1
+
 [Officium]
 St. Thomas of Canterbury, Bishop and Martyr
+
+[Oratio]
+@Sancti/12-29

@@ -1,5 +1,17 @@
+[Rank]
+;;I classis Semiduplex;;6.9
+
 [Officium]
-Dominica de Passione
+Passion Sunday
+
+[Station]
+St. Peter's Basilica
+
+[Rule]
+no Gloria
+Credo
+Prefatio=Quad5
+Suffragium=Ecclesiae,Papa;;
 
 [Introitus]
 !Ps 42:1-2

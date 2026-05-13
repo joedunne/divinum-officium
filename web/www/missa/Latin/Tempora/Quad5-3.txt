@@ -14,6 +14,12 @@ Suffragium=Ecclesiæ,Papa;;
 Prefatio=Quad5
 Super popul
 
+[Station]
+S. Marcello al Corso
+
+[CollectStation]
+S. Marco
+
 [Introitus]
 !Ps 17:48-49
 v. Liberátor meus de géntibus iracúndis: ab insurgéntibus in me exaltábis me: a viro iníquo erípies me, Dómine.

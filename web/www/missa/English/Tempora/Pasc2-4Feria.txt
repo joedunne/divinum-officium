@@ -1,2 +1,5 @@
+[Rank]
+;;Feria;;1
+
 [Officium]
 Feria Quinta infra Hebdomadam II post Octavam Paschae

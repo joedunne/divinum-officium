@@ -1,3 +1,12 @@
+[Rule]
+vide C3a-1;
+Gloria
+
+[Rank]
+;;Semiduplex;;2.2;;vide C3a-1
+(sed rubrica 1960)
+;;Simplex;;1.1;;vide C3a-1
+
 [Officium]
 Sts. Cyriacus, Largus and Smaragdus, Martyrs
 
@@ -23,6 +32,19 @@ Fear the Lord, all you His holy ones, for nought is lacking to those who fear Hi
 V. But those who seek the Lord want for no good thing. Alleluia, alleluia.
 !Wis. 3:7
 V. The just shall shine, and shall dart about as sparks through stubble forever. Alleluia.
+
+[GradualeP]
+Alleluia, alleluia.
+!Sap 3:7
+The just shall shine, and shall run to and fro like sparks among the reeds forever.
+!Ps 88:6.
+V. The heavens shall confess Thy wonders, O Lord: and Thy truth in the church of the saints. Alleluia
+
+[Tractus]
+!Ps 125:5-6
+They that sow in tears shall reap in joy.
+V. Going, they went and wept, casting their seeds.
+V. But coming, they shall come with exultation, carrying their sheaves.
 
 [Evangelium]
 Continuation + of the Holy Gospel according to Mark

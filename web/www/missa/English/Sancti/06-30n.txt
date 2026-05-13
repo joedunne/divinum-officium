@@ -1,2 +1,9 @@
+[Rule]
+vide C3;
+Gloria
+
+[Rank]
+;;Duplex optional;;2;;vide C3
+
 [Officium]
 First Martyrs of the Church of Rome

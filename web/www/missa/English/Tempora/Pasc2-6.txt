@@ -1,3 +1,6 @@
+[Rank]
+;;Semiduplex;;2;;vide Tempora/Pasc2-3
+
 [Officium]
 Die IV infra Octavam Patrocinii St Joseph
 

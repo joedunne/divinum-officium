@@ -1,5 +1,20 @@
+[Rule]
+vide C5b;
+
+[Rank]
+;;Simplex;;1.1;;vide C5b
+
 [Officium]
 St. Sabbas, Abbot
 
 [Name]
 Sabbas
+
+[Oratio]
+@Commune/C5b:Oratio:s/N\./Sabbas/
+
+[Secreta]
+@Commune/C5b:Secreta:s/N\./Sabbas/
+
+[Postcommunio]
+@Commune/C5b:Postcommunio:s/N\./Sabbas/

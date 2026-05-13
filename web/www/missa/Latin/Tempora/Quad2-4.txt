@@ -13,6 +13,12 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super popul
 
+[Station]
+S. Maria in Trastevere
+
+[CollectStation]
+S. Giorgio in Velabro
+
 [Introitus]
 !Ps 69:2; 69:3
 v. Deus, in adjutórium meum inténde: Dómine, ad adjuvándum me festína: confundántur et revereántur inimíci mei, qui quærunt ánimam meam.
