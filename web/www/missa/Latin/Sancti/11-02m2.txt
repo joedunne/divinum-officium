@@ -9,6 +9,10 @@ Prefatio=Defunctorum
 celebranda aut missa prima aut missa secunda aut missa tertia
 Sequentia
 
+[SanctaMissaName]
+All Souls Day
+Second Mass
+
 [Oratio]
 Deus, indulgentiárum Dómine: da animábus famulórum famularúmque tuárum refrigérii sedem, quiétis beatitúdinem et lúminis claritátem.
 $Per Dominum

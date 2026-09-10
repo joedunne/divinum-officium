@@ -9,6 +9,9 @@ Gloria
 Credo
 Prefatio=Trinitate
 
+[SanctaMissaName]
+Second Sunday after Epiphany
+
 [Introitus]
 !Ps 65:4
 v. Omnis terra adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime.

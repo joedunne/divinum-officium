@@ -7,6 +7,9 @@ Gloria
 Credo
 Prefatio=Maria=Annuntiatióne
 
+[SanctaMissaName]
+The Annunciation of the Blessed Virgin Mary
+
 [Introitus]
 @Commune/C10b
 

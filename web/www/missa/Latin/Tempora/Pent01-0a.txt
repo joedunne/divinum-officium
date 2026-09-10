@@ -9,6 +9,9 @@ Gloria
 Credo
 Suffr=Sanctorum;Ecclesiæ;Papa;;
 
+[SanctaMissaName]
+Feast of the Most Holy Trinity
+
 [Introitus]
 !Ps 12:6
 v. Dómine, in tua misericórdia sperávi: exsultávit cor meum in salutári tuo: cantábo Dómino, qui bona tríbuit mihi.

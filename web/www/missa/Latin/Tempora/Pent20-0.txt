@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Twentieth Sunday after Pentecost
+
 [Officium]
 Dominica XX Post Pentecosten
 

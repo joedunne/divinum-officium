@@ -1,3 +1,7 @@
+[SanctaMissaName]
+All Souls Day
+Third Mass
+
 [Rank]
 In Commemoratione Omnium Fidelium Defunctorum;;Duplex;;3;;ex C9
 

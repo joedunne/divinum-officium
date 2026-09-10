@@ -10,6 +10,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Fifteenth Sunday after Pentecost
+
 [Introitus]
 !Ps 85:1; 85:2-3
 v. Inclína, Dómine, aurem tuam ad me, et exáudi me: salvum fac servum tuum, Deus meus, sperántem in te: miserére mihi, Dómine, quóniam ad te clamávi tota die.

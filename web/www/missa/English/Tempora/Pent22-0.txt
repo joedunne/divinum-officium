@@ -4,6 +4,9 @@
 [Officium]
 Dominica XXII Post Pentecosten
 
+[SanctaMissaName]
+Twenty-Second Sunday after Pentecost
+
 [Introitus]
 !Ps 129:3-4
 v. If You, O Lord, mark iniquities, Lord, who can stand? But with You is forgiveness, O God of Israel.

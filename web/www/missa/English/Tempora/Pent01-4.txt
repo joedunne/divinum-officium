@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Feast of Corpus Christi
+
 [Rank]
 ;;Duplex I classis;;7
 

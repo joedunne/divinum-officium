@@ -10,6 +10,9 @@ In vigilia Pentecostes
 Prelude
 Prefatio=Pent;
 
+[SanctaMissaName]
+The Vigil of Pentecost
+
 [Station]
 Archbasilica of Saint John Lateran
 

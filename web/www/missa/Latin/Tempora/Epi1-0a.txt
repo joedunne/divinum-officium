@@ -10,6 +10,9 @@ Gloria
 Credo
 Prefatio=Epi
 
+[SanctaMissaName]
+Feast of the Holy Family
+
 [Introitus]
 v. In excélso throno vidi sedére virum, quem adórat multitúdo Angelórum, psalléntes in unum: ecce, cujus impérii nomen est in ætérnum
 !Ps 99:1

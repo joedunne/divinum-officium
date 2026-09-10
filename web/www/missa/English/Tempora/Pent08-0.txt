@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Eighth Sunday after Pentecost
+
 [Rank]
 ;;Semiduplex;;5
 

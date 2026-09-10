@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Feast of the Holy Family
+
 [Rank]
 ;;Semiduplex;;5.61;;ex Sancti/01-06
 

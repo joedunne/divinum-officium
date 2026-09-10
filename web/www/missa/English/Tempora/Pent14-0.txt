@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Fourteenth Sunday after Pentecost
+
 [Rank]
 ;;Semiduplex;;5
 

@@ -9,6 +9,9 @@ no Gloria
 Credo
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+First Sunday of Advent
+
 [Station]
 S. Maria Maggiore
 

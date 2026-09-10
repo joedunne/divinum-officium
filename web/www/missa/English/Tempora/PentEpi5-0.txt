@@ -12,6 +12,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Fifth Sunday after Epiphany <Transferred>
+
 [Introitus]
 @Tempora/Pent23-0:Introitus
 

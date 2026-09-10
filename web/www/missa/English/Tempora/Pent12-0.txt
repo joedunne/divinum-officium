@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Twelfth Sunday after Pentecost
+
 [Rank]
 ;;Semiduplex;;5
 

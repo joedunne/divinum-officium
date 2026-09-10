@@ -4,6 +4,9 @@ Dominica X Post Pentecosten
 [Rank]
 ;;Semiduplex;;5
 
+[SanctaMissaName]
+Tenth Sunday after Pentecost
+
 [Rule]
 Gloria
 Credo

@@ -12,6 +12,9 @@ Credo
 Prefatio=Apostolis
 Litania
 
+[SanctaMissaName]
+St. Mark, the Evangelist
+
 [Introitus]
 !Ps 63:3
 v. Protexísti me, Deus, a convéntu malignántium, allelúja: a multitúdine operántium iniquitátem, allelúja, allelúja.

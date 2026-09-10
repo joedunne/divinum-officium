@@ -1,3 +1,6 @@
+[SanctaMissaName]
+St. Mark, the Evangelist
+
 [Rule]
 Gloria
 Credo

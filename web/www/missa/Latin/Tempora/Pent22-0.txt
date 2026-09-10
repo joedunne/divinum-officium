@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Twenty-Second Sunday after Pentecost
+
 [Officium]
 Dominica XXII Post Pentecosten
 

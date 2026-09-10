@@ -12,6 +12,9 @@ Credo
 Prefatio=Cord
 Prefatio1960=Trinitate
 
+[SanctaMissaName]
+Third Sunday after Pentecost
+
 [Commemoratio Oratio]
 !For the Octava of the Most holy Heart of Jesus
 @Tempora/Pent02-5:Oratio

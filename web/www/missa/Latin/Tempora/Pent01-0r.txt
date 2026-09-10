@@ -9,6 +9,9 @@ Gloria
 Credo
 Prefatio=Trinitate
 
+[SanctaMissaName]
+Feast of the Most Holy Trinity
+
 [Introitus]
 !Tob 12:6
 v. Benedícta sit sancta Trínitas atque indivísa Unitas: confitébimur ei, quia fecit nobíscum misericórdiam suam.

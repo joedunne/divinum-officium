@@ -15,6 +15,9 @@ no Gloria
 Credo
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Second Sunday of Advent
+
 [Station]
 S. Croce in Gerusalemme
 

@@ -7,6 +7,9 @@
 [Officium]
 In Ascensione Domini
 
+[SanctaMissaName]
+Ascension Thursday
+
 [Rule]
 Gloria
 Credo

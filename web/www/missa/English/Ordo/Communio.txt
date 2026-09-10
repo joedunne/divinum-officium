@@ -1,5 +1,6 @@
 !If Holy Communion is to be distributed, the server says the Confiteor. [This was omitted in the 1962 Missal.]
-S. I confess to almighty God, to the blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, to all the Saints, and to you, Father, that I have sinned exceedingly in thought, word, and deed, (Here he strikes his breast thrice.) through my fault, through my fault, through my most grievous fault. Therefore I beseech the blessed Mary, ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, Father, to pray to the Lord our God for me. 	
+S. I confess to almighty God, to the blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, to all the Saints, and to you, Father, that I have sinned exceedingly in thought, word, and deed, (Here he strikes his breast thrice.)
+through my fault, through my fault, through my most grievous fault. Therefore I beseech the blessed Mary, ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, Father, to pray to the Lord our God for me.
 !After which the priest communicates those who are to communicate, if there be any, saying:
 P. May almighty God have mercy upon you, forgive you your sins, and bring you unto life everlasting. 	
 S. Amen. 	

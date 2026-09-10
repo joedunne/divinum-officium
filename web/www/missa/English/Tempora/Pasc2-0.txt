@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Second Sunday after Easter
+
 [Rank]
 ;;Semiduplex;;5;;
 

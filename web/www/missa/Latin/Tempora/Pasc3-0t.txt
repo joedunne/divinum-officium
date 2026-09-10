@@ -10,6 +10,9 @@ Gloria
 Credo
 Prefatio=Joseph
 
+[SanctaMissaName]
+Third Sunday after Easter
+
 [Introitus]
 @Tempora/Pasc2-3:Introitus
 

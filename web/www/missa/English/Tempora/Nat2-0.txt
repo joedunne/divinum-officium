@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Feast of the Holy Name of Jesus
+
 [Rank]
 ;;Duplex 2 class;;5;;
 

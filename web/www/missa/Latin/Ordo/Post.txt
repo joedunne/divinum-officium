@@ -78,10 +78,11 @@ Te semper ámbiat, te quærat, te invéniat, ad te tendat, ad te pervéniat, te 
 ut tu sis solus semper spes mea, tota fidúcia mea, divítiæ meæ, delectátio mea, jucúnditas mea, gáudium meum, quies et tranquíllitas mea, pax mea, suávitas mea, odor meus, dulcédo mea, cibus meus, reféctio mea, refúgium meum, auxílium meum, sapiéntia mea, portio mea, posséssio mea, thesáurus meus, in quo fixa et firma et immobíliter semper sit radicáta mens mea et cor meum. Amen.
 _
 # Oratio ad Jesum (in Gratiarum Actione)
-v. DÓMINE Iesu Christe, Fili Dei vivi, qui ex voluntáte Patris cooperánte Spíritu Sancto, per mortem tuam mundum vivificásti : líbera me per sacrosánctum Corpus tuum, quod ego indígnus sumere præsúmpsi, ab ómnibus iniquitátibus meis et univérsis malis, et fac me tuis semper inhærére mandatis et a te numquam separári permíttas. Amen.
+v. DÓMINE Iesu Christe, Fili Dei vivi, qui ex voluntáte Patris cooperánte Spíritu Sancto, per mortem tuam mundum vivificásti : líbera me per sacrosánctum Corpus tuum,
+quod ego indígnus sumere præsúmpsi, ab ómnibus iniquitátibus meis et univérsis malis, et fac me tuis semper inhærére mandatis et a te numquam separári permíttas. Amen.
 _
 # Rhythmus S. Thomæ Aquinatis
-<span class="red, text-sm"><i>Indulgentia 100 dierum semel in die Leo PP. XIII, 20 Dec. 1884</i></span>
+/:sbi Indulgentia 100 dierum semel in die Leo PP. XIII, 20 Dec. 1884:/
 r. Adóro te devóte, latens Déitas,
 Quæ sub his figúris vere látitas:
 Tibi se cor meum totum súbjicit,
@@ -199,7 +200,7 @@ v. En ego, o bone et dulcíssime Iesu, ante conspectum tuum génibus me provólv
 _
 v. dum magno ánimi afféctu et dolóre tua quínque vúlnera mecum ipse consídero ac mente contemplor, illud prae óculis habens, quod iam in ore ponebat tuus David prophéta de te, o bone Iesu: Foderunt manus meas et pedes meos: dinumeraverunt omnia ossa mea.
 <i>Conclude with Our Father, Hail Mary & Glory Be for the Holy Father’s intentions.</i>
-<span class="red, text-sm"><i>(Pre-1968 Plenary Indulgence under normal conditions: Confession, Communion, etc. and above prayers for the Holy Father.)</i></span>
+/:sbi (Pre-1968 Plenary Indulgence under normal conditions: Confession, Communion, etc. and above prayers for the Holy Father.):/
 _
 # Psalm 95 - Cantate Domino
 v. Cantáte Dómino cánticum novum: * cantáte Dómino, omnis terra.
@@ -219,7 +220,8 @@ _
 <i>Gloria Patri …</i>
 _
 # Oratio ad Sanctum Ioseph Post Missam
-v. Virginum custos et pater, sancte Ioseph, cuius fideli custodiae ipsa Innocentia Christus Iesus et Virgo virginum Maria commisa fuit; te per hoc utrumque carissimum pignus Iesum et Mariam obsecro et obtestor, ut me, ab omni immunditia praeservatum, mente incontaminata, puro corde et casto corpore Iesu et Mariae semper facias castissime famulari. Amen.
+v. Virginum custos et pater, sancte Ioseph, cuius fideli custodiae ipsa Innocentia Christus Iesus et Virgo virginum Maria commisa fuit;
+te per hoc utrumque carissimum pignus Iesum et Mariam obsecro et obtestor, ut me, ab omni immunditia praeservatum, mente incontaminata, puro corde et casto corpore Iesu et Mariae semper facias castissime famulari. Amen.
 _
 # Prayer for All Things Necessary to Salvation
 v. CREDO Domine, sed credam firmius; spero, sed sperem securius; amo, sed amem ardentius; doleo, sed doleam vehementius.

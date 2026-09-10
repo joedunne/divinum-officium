@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Sunday within the Octave of the Ascension
+
 [Rank]
 ;;Semiduplex;;5;;ex Tempora/Pasc5-4
 

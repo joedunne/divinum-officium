@@ -10,6 +10,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Sixth Sunday after Pentecost
+
 [Introitus]
 !Ps 27:8-9
 v. Dóminus fortitudo plebis suæ, et protéctor salutárium Christi sui est: salvum fac pópulum tuum, Dómine, et benedic hereditáti tuæ, et rege eos usque in sǽculum.

@@ -10,6 +10,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Fourteenth Sunday after Pentecost
+
 [Introitus]
 !Ps 83:10-11
 v. Protéctor noster, áspice, Deus, et réspice in fáciem Christi tui: quia mélior est dies una in átriis tuis super mília.

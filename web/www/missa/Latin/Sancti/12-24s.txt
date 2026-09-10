@@ -8,6 +8,9 @@ no Gloria
 no Gloria
 Tempora none
 
+[SanctaMissaName]
+Vigil of the Nativity
+
 [Station]
 S. Maria Maggiore
 

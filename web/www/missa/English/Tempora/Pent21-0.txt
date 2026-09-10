@@ -4,6 +4,9 @@
 [Officium]
 Dominica XXI Post Pentecosten
 
+[SanctaMissaName]
+Twenty-First Sunday after Pentecost
+
 [Introitus]
 !Esth 13:9-11
 v. In Your will are all things, O Lord, and there is none that can resist Your will; for You have made all things, heaven and earth, and all things that are under the cope of heaven. You are Lord of all.

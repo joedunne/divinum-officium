@@ -10,6 +10,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Ninth Sunday after Pentecost
+
 [Introitus]
 !Ps 53:6-7
 v. Ecce, Deus adjuvat me, et Dóminus suscéptor est ánimæ meæ: avérte mala inimícis meis, et in veritáte tua dispérde illos, protéctor meus, Dómine.

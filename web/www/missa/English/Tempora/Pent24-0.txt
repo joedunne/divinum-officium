@@ -12,6 +12,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;
 
+[SanctaMissaName]
+Last Sunday after Pentecost
+
 [Oratio]
 O Lord, we beseech You, arouse the wills of Your faithful people that, by a more earnest search for the fruit of Your divine work, they may receive more abundantly of the healing effects of Your goodness.
 $Per Dominum

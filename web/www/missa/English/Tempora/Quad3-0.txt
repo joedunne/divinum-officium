@@ -13,6 +13,9 @@ Suffragium=Sanctorum;Vivis;;
 [Station]
 St. Lawrence Outside the Walls
 
+[SanctaMissaName]
+Third Sunday in Lent
+
 [Introitus]
 !Ps 24:15-16
 v. My eyes are ever toward the Lord, for He will free my feet from the snare. Look toward me, and have pity on me, for I am alone and afflicted.

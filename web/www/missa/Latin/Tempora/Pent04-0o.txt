@@ -10,6 +10,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Fourth Sunday after Pentecost
+
 [Introitus]
 @Tempora/Pent04-0:Introitus
 

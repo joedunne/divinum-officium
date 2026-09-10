@@ -8,6 +8,9 @@ Dominica III Post Pascha
 Gloria
 Credo
 
+[SanctaMissaName]
+Third Sunday after Easter
+
 [Introitus]
 !Ps 65:1-2.
 v. Jubiláte Deo, omnis terra, allelúja: psalmum dícite nómini ejus, allelúja: date glóriam laudi ejus, allelúja, allelúja, allelúja.

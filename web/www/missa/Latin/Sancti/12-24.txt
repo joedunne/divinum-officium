@@ -8,6 +8,9 @@ Tempora none
 [Station]
 S. Maria Maggiore
 
+[SanctaMissaName]
+Vigil of the Nativity
+
 [Introitus]
 !Exod 16:6; 16:7
 v. Hódie sciétis, quia véniet Dóminus et salvábit nos: et mane vidébitis glóriam ejus.

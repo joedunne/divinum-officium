@@ -7,6 +7,10 @@ Credo
 Prefatio=Nat
 celebranda aut missa prima aut missa secunda aut missa tertia
 
+[SanctaMissaName]
+The Nativity of Our Lord
+First Mass at Midnight
+
 [Station]
 S. Maria Maggiore Ad Altare Praesepis
 

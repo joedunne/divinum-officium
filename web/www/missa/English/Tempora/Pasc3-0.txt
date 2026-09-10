@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Third Sunday after Easter
+
 [Rank]
 ;;Semiduplex;;5;;
 

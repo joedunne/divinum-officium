@@ -87,7 +87,17 @@ sub postOrdo() {
 #and prints the result
 sub ordo {
 
+  my $missa_common_name = getitem('SanctaMissaName', $lang);
+
+
   print "<H2 ID='$missastartid'>$missaname</H2>\n" if $content;
+  if ($missa_common_name && $missa_common_name !~ /SanctaMissaName missing!/) {
+      $missa_common_name =~ s/<([^>]+)>/($1)/g;
+      $missa_common_name =~ s/\R/<br\/>/g;
+#      $missaname .= "<br/>" . $missa_common_name;
+      print "<H3>$missa_common_name</H3>\n" if $content;
+  }
+
   headline($head);
   my $savesolemn = $solemn;
   if ($winner =~ /Quad6-[456]/i) { $solemn = 1; }
@@ -293,6 +303,14 @@ sub resolve_refs {
     # idempotent.
     # First letter red.
     $line =~ s/^\s*r\.\s*(.)(.*)/setfont($largefont, $1) . $2/em;
+
+
+    # rubrics - small red
+#    $line =~ s{«\s?(.*?)\s?»}{"<span class=\'text-sm red\'><i>$1</i></span>"}eg if $line =~ m{/:.*«.*».*:/};
+    $line =~ s{/:sr(.*?):/}{setfont('-1 italic red', $1)}eg;
+    $line =~ s{/:sbi(.*?):/}{setfont('-1 italic', $1)}eg;
+    $line =~ s{/:sb(.*?):/}{setfont($smallblack, $1)}eg;
+    $line =~ s{/:(.*?):/}{setfont($redfont, $1)}eg;
 
     # First letter initial.
     $line =~ s/

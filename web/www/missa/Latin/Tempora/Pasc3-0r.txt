@@ -9,6 +9,9 @@ Gloria
 Credo
 Suffr=Maria3;Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Third Sunday after Easter
+
 [Introitus]
 @Tempora/Pasc3-0:Introitus
 

@@ -11,6 +11,9 @@ Prefatio=Pasch;
 [Station]
 Archbasilica of Saint John Lateran
 
+[SanctaMissaName]
+Holy Saturday
+
 [Prelude]
 !! The Blessing of the New Fire
 ! At the appointed hour, the altar is prepared, but candles are not lit until the beginning of Mass. Meanwhile, fire is struck from a flint, and coals are enkindled from it.
@@ -19,14 +22,16 @@ Archbasilica of Saint John Lateran
 !The ministers (and servers) with processional cross, holy water, and incense proceed to the doors, whether outside or in the entry to the church, whichever allows the greatest number of people to follow the Sacred Rites. The celebrant then blesses the new fire, saying in Ferial Tone B (or in the ancient simple tone) with hands joined:
 &DominusVobiscum
 v. Let us pray.
-O God, Who hast bestowed on the faithful the fire of Thy brightness by Thy Son, Who is the Cornerstone, hallow this new fire produced from a flint that it may be profitable to us: and grant that during this Paschal festival we may be so inflamed with heavenly desires, that with pure minds we may come to the solemnity of perpetual light. Through the same Christ our Lord.
+O God, Who hast bestowed on the faithful the fire of Thy brightness by Thy Son, Who is the Cornerstone, hallow this new fire produced from a flint that it may be profitable to us:
+and grant that during this Paschal festival we may be so inflamed with heavenly desires, that with pure minds we may come to the solemnity of perpetual light. Through the same Christ our Lord.
 R. Amen.
 ! Then he sprinkles the fire thrice, in silence.
 !An acolyte (or one of the ministers) takes a blessed coal and places it in the thurible; the celebrant then puts incense in the thurible, blessing it as usual, then he incenses the fire thrice.
 _
 _
 !! The Blessing of the Paschal Candle
-! An acolyte (or one of the ministers) carries the paschal candle to the blessed new fire and stands in front of the celebrant, who inscribes a cross between the openings into which grains of incense will be placed. Above the cross, he inscribes the Greek letter Alpha, and under the cross, he inscribes the Greek letter Omega. Between the arms of the cross, he inscribes the four numbers of the current year, while saying in an audible voice:
+! An acolyte (or one of the ministers) carries the paschal candle to the blessed new fire and stands in front of the celebrant, who inscribes a cross between the openings into which grains of incense will be placed.
+! Above the cross, he inscribes the Greek letter Alpha, and under the cross, he inscribes the Greek letter Omega. Between the arms of the cross, he inscribes the four numbers of the current year, while saying in an audible voice:
 r. Christ yesterday and today
 r. The Beginning and End
 r. Alpha
@@ -36,7 +41,8 @@ r. and the ages.
 r. To Him be glory and empire
 r. through all eternal ages.
 _
-! With the incision of the cross and other symbols done, the deacon (or another minister) presents five grains of incense to the celebrant. If the grains have not been previously blessed, the celebrant sprinkles them thrice with holy water, and incenses them thrice, in silence. Then he inserts the five grains into their openings, while saying audibly:
+! With the incision of the cross and other symbols done, the deacon (or another minister) presents five grains of incense to the celebrant. If the grains have not been previously blessed, the celebrant sprinkles them thrice with holy water, and incenses them thrice, in silence.
+! Then he inserts the five grains into their openings, while saying audibly:
 r. Through His holy
 r. and glorious wounds
 r. may Christ the Lord
@@ -48,15 +54,18 @@ Dispel the darkness of the heart and mind.
 ! The celebrant quickly lights the Paschal candle and sings in Ferial Tone B (or the simple ancient tone) with hands joined:
 &DominusVobiscum
 v. Let us pray.
-May the abundant outpouring of Thy + blessing, we beseech Thee, almighty God, descend upon this incense: and do Thou, O invisible Regenerator, lighten this nocturnal brightness, that not only the sacrifice that is offered this night may shine by the secret mixture of Thy light: but also into whatever place anything of this mysterious sanctification shall be brought, there the power of Thy Majesty may be present and all the malicious artifices of Satan may be defeated. Through Christ our Lord.
+May the abundant outpouring of Thy + blessing, we beseech Thee, almighty God, descend upon this incense: and do Thou, O invisible Regenerator, lighten this nocturnal brightness, that not only the sacrifice that is offered this night may shine by the secret mixture of Thy light:
+but also into whatever place anything of this mysterious sanctification shall be brought, there the power of Thy Majesty may be present and all the malicious artifices of Satan may be defeated. Through Christ our Lord.
 R. Amen.
 _
 ! Meanwhile, all the lights in the church are put out. The clerics and people are given candles, which will be carried in procession and lit from the Paschal candle.
 _
 _
 !! The Procession with the Paschal Candle
-! The celebrant again puts incense into the thurible; after which the deacon, having laid aside his violet vestments, puts on a white stole and dalmatic, takes the Paschal candle. The procession is made in the following order: thurifer, subdeacon with cross, deacon with lit Paschal candle, celebrant, clerics according to their rank and precedence, then the people.
-! If there is no deacon, the following simple rite may be used: the priest, having laid aside his violet vestments, puts on a white stole and dalmatic. He again puts incense into the thurible and takes the Paschal candle. The procession is made in the following order: thurifer, crucifer, priest with lit Paschal candle, the other servers, then the people.
+! The celebrant again puts incense into the thurible; after which the deacon, having laid aside his violet vestments, puts on a white stole and dalmatic, takes the Paschal candle.
+! The procession is made in the following order: thurifer, subdeacon with cross, deacon with lit Paschal candle, celebrant, clerics according to their rank and precedence, then the people.
+! If there is no deacon, the following simple rite may be used: the priest, having laid aside his violet vestments, puts on a white stole and dalmatic.
+! He again puts incense into the thurible and takes the Paschal candle. The procession is made in the following order: thurifer, crucifer, priest with lit Paschal candle, the other servers, then the people.
 ! When the deacon or celebrant comes to the threshold of the Church, he stands and sings alone:
 V. The light of Christ.
 ! at which everyone else, except the subdeacon or crucifer and thurifer, genuflects toward the Paschal candle, singing in response:
@@ -85,17 +94,24 @@ C. May the Lord be on thy heart and on thy lips, that thou mayest worthily and f
 R. Amen.
 _
 ! If there is no deacon, the following simple rite may be used: the thurifer stands next to the credence in the sanctuary, the crucifer stands on the Gospel side in front of the lectern, facing it.
-! The celebrant places the Paschal candle in its supporting base in the middle of the sanctuary and goes to the sedilia; the other servers go to their usual places. After placing incense into the thurible, the celebrant receives the book from the master of ceremonies. The celebrant genuflects on the bottom step of the footpace, on the epistle side, and says in a low voice: O Lord, give me Thy blessing. May the Lord be on my heart and on my lips, that I mayest worthily and fittingly proclaim His Paschal praise.
+! The celebrant places the Paschal candle in its supporting base in the middle of the sanctuary and goes to the sedilia; the other servers go to their usual places. After placing incense into the thurible, the celebrant receives the book from the master of ceremonies.
+! The celebrant genuflects on the bottom step of the footpace, on the epistle side, and says in a low voice: O Lord, give me Thy blessing. May the Lord be on my heart and on my lips, that I mayest worthily and fittingly proclaim His Paschal praise.
 _
 !
-! After this, the deacon or celebrant goes to the lectern, which is completely covered with a white drape. He places the book on the lecturn and incenses it; then he circles the Paschal candle, incensing it. Then all rise and remain standing, as they usually do when the Gospel is proclaimed at Mass, while the deacon sings or the celebrant sings or reads the Paschal proclamation, having before him the Paschal candle and the processional cross, toward the left (liturgical north) side of the church. All hold lit candles in their hands until the end of the Paschal proclamation.
-v. Let the angelic choirs of Heaven now rejoice; let the divine Mysteries rejoice; and let the trumpet of salvation sound forth the victory of so great a King. Let the earth also rejoice, made radiant by such splendor; and, enlightened with the brightness of the eternal King, let it know that the darkness of the whole world is scattered. Let our mother the Church also rejoice, adorned with the brightness of so great a light; and let this temple resound with the loud acclamations of the people.  Wherefore I beseech you, most beloved brethren, who are here present in the wondrous brightness of this holy light, to invoke with me the mercy of almighty God. That He who has vouchsafed to admit me among the Levites, without any merits of mine, would pour forth the brightness of His light upon me, and enable me to perfect the praise of this wax candle.  Through our Lord Jesus Christ His Son, Who with Him and the Holy Ghost liveth and reigneth one God for ever and ever.
+! After this, the deacon or celebrant goes to the lectern, which is completely covered with a white drape. He places the book on the lecturn and incenses it; then he circles the Paschal candle, incensing it. Then all rise and remain standing, as they usually do when the Gospel is proclaimed at Mass,
+! while the deacon sings or the celebrant sings or reads the Paschal proclamation, having before him the Paschal candle and the processional cross, toward the left (liturgical north) side of the church. All hold lit candles in their hands until the end of the Paschal proclamation.
+v. Let the angelic choirs of Heaven now rejoice; let the divine Mysteries rejoice; and let the trumpet of salvation sound forth the victory of so great a King.
+Let the earth also rejoice, made radiant by such splendor; and, enlightened with the brightness of the eternal King, let it know that the darkness of the whole world is scattered.
+Let our mother the Church also rejoice, adorned with the brightness of so great a light; and let this temple resound with the loud acclamations of the people.
+Wherefore I beseech you, most beloved brethren, who are here present in the wondrous brightness of this holy light, to invoke with me the mercy of almighty God.
+That He who has vouchsafed to admit me among the Levites, without any merits of mine, would pour forth the brightness of His light upon me, and enable me to perfect the praise of this wax candle.
+Through our Lord Jesus Christ His Son, Who with Him and the Holy Ghost liveth and reigneth one God for ever and ever.
 R. Amen.
 V. The Lord be with you.
 R. And with thy spirit.
 V. Lift up thy hearts.
 R. We have them lifted up to the Lord.
-V. Let us give thanks to the Lord our God..
+V. Let us give thanks to the Lord our God.
 R. It is meet and just.
 v. It is truly meet and right to proclaim with all our heart and all the affection of our mind, and with the ministry of our voices, the invisible God, the Father almighty, and His only-begotten Son our Lord Jesus Christ, who repaid for us to His eternal Father the debt of Adam, and by the merciful shedding of His Blood, cancelled the debt incurred by original sin. For this is the Paschal Festival; in which that true Lamb is slain, with Whose Blood the doorposts of the faithful are consecrated. This is the night in which Thou didst formerly cause our forefathers, the children of Israel, when brought out of Egypt, to pass through the Red Sea with dry foot. This, therefore, is the night which dissipated the darkness of sinners by the light of the pillar.  This is the night which at this time throughout the world restores to grace and unites in sanctity those that believe in Christ, and are separated from the vices of the world and the darkness of sinners.  This is the night in which, destroying the chains of death, Christ arose victorious from the grave. For it would have profited us nothing to have been born, unless redemption had also been bestowed upon us. O wondrous condescension of Thy mercy towards us! O inestimable affection of love: that Thou mightest redeem a slave, Thou didst deliver up Thy Son! O truly needful sin of Adam, which was blotted out by the death of Christ! O happy fault, that merited to possess such and so great a Redeemer! O truly blessed night, which alone deserved to know the time and hour when Christ rose again from hell! This is the night of which it is written: And the night shall be as clear as the day; and the night is my light in my delights.  Therefore the hallowing of this night puts to flight all wickedness, cleanses sins, and restores innocence to the fallen, and gladness to the sorrowful. It drives forth hatreds, it prepares concord, and brings down haughtiness.
 _
@@ -720,8 +736,27 @@ v. The Blood of our Lord Jesus Christ preserve my soul unto life everlasting. Am
 _
 _
 !!Communio Populi
+!If Holy Communion is to be distributed, the server says the Confiteor.
+!
+S. I confess to almighty God, to the blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, to all the Saints, and to you, Father, that I have sinned exceedingly in thought, word, and deed,
+/:Here he strikes his breast thrice.:/ through my fault, through my fault, through my most grievous fault.
+Therefore I beseech the blessed Mary, ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, Father, to pray to the Lord our God for me.
+!After which the priest communicates those who are to communicate, if there be any, saying:
+P. May almighty God have mercy upon you, forgive you your sins, and bring you unto life everlasting.
+S. Amen.
+!Making the Sign of the Cross, he continues:
+P. May the almighty and merciful Lord grant you pardon, † absolution, and remission of your sins.
+S. Amen.
+!Elevating a particle of the Blessed Sacrament and turning towards the people, he says:
+P. Behold the Lamb of God, behold Him who taketh away the sins of the world.
+!And then he says three times:
+S. Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed.
+S. Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed.
+S. Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed.
+!He administers the communion, saying to each:
+P. The Body of our Lord Jesus Christ preserve thy soul unto life everlasting. Amen.
+!
 wait16
-{ Soul of Christ, sanctify me. Body of Christ, save me. Blood of Christ, inebriate me. Water from Christ's side, wash me. Passion of Christ, strengthen me. O good Jesus, hear me. Within Thy wounds hide me. Suffer me not to be separated from Thee. From the malicious enemy defend me. In the hour of my death call me. And bid me come unto Thee. That I may praise Thee with Thy saints. and with Thy angels, Forever and ever. Amen. }
 _
 _
 ! The priest says silently:

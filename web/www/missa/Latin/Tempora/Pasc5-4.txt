@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Ascension Thursday
+
 [Officium]
 In Ascensione Domini
 
@@ -11,6 +14,9 @@ In Ascensione Domini
 Gloria
 Credo
 Prefatio=Asc
+
+[SanctaMissaName]
+The Ascension of Our Lord
 
 [Station]
 S. Pietro in Vaticano

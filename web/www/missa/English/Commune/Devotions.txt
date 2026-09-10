@@ -51,7 +51,8 @@ _
 _
 !Oratio
 $Oremus
-V. Almighty and eternal God, Thou hast appointed Thine only-begotten Son the Redeemer of the world and willed to be appeased by his blood. Grant, we beg of Thee, that we may worthily adore this price of our salvation and through its power be safeguarded from the evils of the present life so that we may rejoice in its fruits forever in heaven. Through the same Christ our Lord. (Amen.)
+V. Almighty and eternal God, Thou hast appointed Thine only-begotten Son the Redeemer of the world and willed to be appeased by his blood. Grant, we beg of Thee, that we may worthily adore this price of our salvation and through its power be safeguarded from the evils of the present life so that we may rejoice in its fruits forever in heaven.
+Through the same Christ our Lord. (Amen.)
 
 [LitanyOfTheSaints]
 #Litany of the Saints
@@ -63,138 +64,138 @@ Christ, graciously hear us.
 _
 &nonbreakingspace
 _
-r. God the Father of Heaven, have mercy on us.
-God the Son, Redeemer of the world, have mercy on us.
-God the Holy Spirit, have mercy on us.
-Holy Trinity, one God, have mercy on us.
+r. God the Father of Heaven, <i>have mercy on us</i>.
+God the Son, Redeemer of the world, <i>have mercy on us</i>.
+God the Holy Spirit, <i>have mercy on us</i>.
+Holy Trinity, one God, <i>have mercy on us</i>.
 _
 &nonbreakingspace
 _
-r. Holy Mary, pray for us.
-Holy Mother of God, pray for us.
-Holy Virgin of Virgins, pray for us.
-St. Michael, pray for us.
-St. Gabriel, pray for us.
-St. Raphael, pray for us.
-All holy Angels and Archangels, pray for us.
-All holy orders of blessed spirits, pray for us.
+r. Holy Mary, <i>pray for us</i>.
+Holy Mother of God, <i>pray for us</i>.
+Holy Virgin of Virgins, <i>pray for us</i>.
+St. Michael, <i>pray for us</i>.
+St. Gabriel, <i>pray for us</i>.
+St. Raphael, <i>pray for us</i>.
+All holy Angels and Archangels, <i>pray for us</i>.
+All holy orders of blessed spirits, <i>pray for us</i>.
 _
 &nonbreakingspace
 _
-r. St. John the Baptist, pray for us.
-St. Joseph, pray for us.
-All holy Patriarchs and Prophets, pray for us.
-St. Peter, pray for us.
-St. Paul, pray for us.
-St. Andrew, pray for us.
-St. James, pray for us.
-St. John, pray for us.
-St. Thomas, pray for us.
-St. James, pray for us.
-St. Philip, pray for us.
-St. Bartholomew, pray for us.
-St. Matthew, pray for us.
-St. Simon, pray for us.
-St. Thaddeus, pray for us.
-St. Matthias, pray for us.
-St. Barnabas, pray for us.
-St. Luke, pray for us.
-St. Mark, pray for us.
-All holy Apostles and Evangelists, pray for us.
-All holy Disciples of the Lord, pray for us.
+r. St. John the Baptist, <i>pray for us</i>.
+St. Joseph, <i>pray for us</i>.
+All holy Patriarchs and Prophets, <i>pray for us</i>.
+St. Peter, <i>pray for us</i>.
+St. Paul, <i>pray for us</i>.
+St. Andrew, <i>pray for us</i>.
+St. James, <i>pray for us</i>.
+St. John, <i>pray for us</i>.
+St. Thomas, <i>pray for us</i>.
+St. James, <i>pray for us</i>.
+St. Philip, <i>pray for us</i>.
+St. Bartholomew, <i>pray for us</i>.
+St. Matthew, <i>pray for us</i>.
+St. Simon, <i>pray for us</i>.
+St. Thaddeus, <i>pray for us</i>.
+St. Matthias, <i>pray for us</i>.
+St. Barnabas, <i>pray for us</i>.
+St. Luke, <i>pray for us</i>.
+St. Mark, <i>pray for us</i>.
+All holy Apostles and Evangelists, <i>pray for us</i>.
+All holy Disciples of the Lord, <i>pray for us</i>.
 _
 &nonbreakingspace
 _
-r. All Holy Innocents, pray for us.
-St. Stephen, pray for us.
-St. Lawrence, pray for us.
-St. Vincent, pray for us.
-SS. Fabian and Sebastian, pray for us.
-SS. John and Paul, pray for us.
-SS. Cosmas and Damian, pray for us.
-SS. Gervase and Protase, pray for us.
-All holy Martyrs, pray for us.
-St. Sylvester, pray for us.
-St. Gregory, pray for us.
-St. Ambrose, pray for us.
-St. Augustine, pray for us.
-St. Jerome, pray for us.
-St. Martin, pray for us.
-St. Nicholas, pray for us.
-All holy Bishops and Confessors, pray for us.
-All holy Doctors, pray for us.
-St. Anthony, pray for us.
-St. Benedict, pray for us.
-St. Bernard, pray for us.
-St. Dominic, pray for us.
-St. Francis, pray for us.
-All holy Priests and Levites, pray for us.
-All holy Monks and Hermits, pray for us.
+r. All Holy Innocents, <i>pray for us</i>.
+St. Stephen, <i>pray for us</i>.
+St. Lawrence, <i>pray for us</i>.
+St. Vincent, <i>pray for us</i>.
+SS. Fabian and Sebastian, <i>pray for us</i>.
+SS. John and Paul, <i>pray for us</i>.
+SS. Cosmas and Damian, <i>pray for us</i>.
+SS. Gervase and Protase, <i>pray for us</i>.
+All holy Martyrs, <i>pray for us</i>.
+St. Sylvester, <i>pray for us</i>.
+St. Gregory, <i>pray for us</i>.
+St. Ambrose, <i>pray for us</i>.
+St. Augustine, <i>pray for us</i>.
+St. Jerome, <i>pray for us</i>.
+St. Martin, <i>pray for us</i>.
+St. Nicholas, <i>pray for us</i>.
+All holy Bishops and Confessors, <i>pray for us</i>.
+All holy Doctors, <i>pray for us</i>.
+St. Anthony, <i>pray for us</i>.
+St. Benedict, <i>pray for us</i>.
+St. Bernard, <i>pray for us</i>.
+St. Dominic, <i>pray for us</i>.
+St. Francis, <i>pray for us</i>.
+All holy Priests and Levites, <i>pray for us</i>.
+All holy Monks and Hermits, <i>pray for us</i>.
 _
 &nonbreakingspace
 _
-r. St. Mary Magdalen, pray for us.
-St. Agatha, pray for us.
-St. Lucy, pray for us.
-St. Agnes, pray for us.
-St. Cecilia, pray for us.
-St. Catherine, pray for us.
-St. Anastasia, pray for us.
-All holy Virgins and Widows, pray for us.
-All holy Saints of God, intercede for us.
+r. St. Mary Magdalen, <i>pray for us</i>.
+St. Agatha, <i>pray for us</i>.
+St. Lucy, <i>pray for us</i>.
+St. Agnes, <i>pray for us</i>.
+St. Cecilia, <i>pray for us</i>.
+St. Catherine, <i>pray for us</i>.
+St. Anastasia, <i>pray for us</i>.
+All holy Virgins and Widows, <i>pray for us</i>.
+All holy Saints of God, <i>intercede for us</i>.
 _
 &nonbreakingspace
 _
-r. Be merciful, Spare us, O Lord.
-Be merciful, Hear us, O Lord.
-From all evil, Spare us, O Lord.
-From all sin, Spare us, O Lord.
-From thy anger, Spare us, O Lord
-From a sudden and unprovided death, Spare us, O Lord.
-From the snares of the devil, Spare us, O Lord.
-From anger, and hatred, and every evil will, Spare us, O Lord.
-From the spirit of fornication, Spare us, O Lord.
-From lightning and storms, Spare us, O Lord.
-From the scourge of earthquake, Spare us, O Lord.
-From plague, famine, and war, Spare us, O Lord.
-From everlasting death, Spare us, O Lord.
-Through the mystery of thy holy Incarnation, Spare us, O Lord.
-Through thy Coming, Spare us, O Lord.
-Through thy Birth, Spare us, O Lord.
-Through thy Baptism and holy Fasting, Spare us, O Lord.
-Through thy Cross and Passion, Spare us, O Lord.
-Through thy Death and Burial, Spare us, O Lord.
-Through thy holy Resurrection, Spare us, O Lord.
-Through thy admirable Ascension, Spare us, O Lord.
-Through the coming of the Holy Spirit, the Paraclete, Spare us, O Lord.
-In the day of Judgment, Spare us, O Lord.
+r. Be merciful, <i>Spare us, O Lord</i>.
+Be merciful, <i>Graciously hear us, O Lord</i>.
+From all evil, <i>Deliver us, O Lord</i>.
+From all sin, <i>Deliver us, O Lord</i>.
+From thy anger, <i>Deliver us, O Lord</i>.
+From a sudden and unprovided death, <i>Deliver us, O Lord</i>.
+From the snares of the devil, <i>Deliver us, O Lord</i>.
+From anger, and hatred, and every evil will, <i>Deliver us, O Lord</i>.
+From the spirit of fornication, <i>Deliver us, O Lord</i>.
+From lightning and storms, <i>Deliver us, O Lord</i>.
+From the scourge of earthquake, <i>Deliver us, O Lord</i>.
+From plague, famine, and war, <i>Deliver us, O Lord</i>.
+From everlasting death, <i>Deliver us, O Lord</i>.
+Through the mystery of thy holy Incarnation, <i>Deliver us, O Lord</i>.
+Through thy Coming, <i>Deliver us, O Lord</i>.
+Through thy Birth, <i>Deliver us, O Lord</i>.
+Through thy Baptism and holy Fasting, <i>Deliver us, O Lord</i>.
+Through thy Cross and Passion, <i>Deliver us, O Lord</i>.
+Through thy Death and Burial, <i>Deliver us, O Lord</i>.
+Through thy holy Resurrection, <i>Deliver us, O Lord</i>.
+Through thy admirable Ascension, <i>Deliver us, O Lord</i>.
+Through the coming of the Holy Spirit, the Paraclete, <i>Deliver us, O Lord</i>.
+In the day of Judgment, <i>Deliver us, O Lord</i>.
 _
 &nonbreakingspace
 _
-r. We sinners, We beg of thee, hear us.
-That thou wouldst spare us, We beg of thee, hear us.
-That thou wouldst pardon us, We beg of thee, hear us.
-That thou wouldst kindly bring us to true penance, We beg of thee, hear us.
-That thou wouldst kindly govern and preserve thy holy Church, We beg of thee, hear us.
-That thou wouldst kindly preserve in holy religion the Pope and all clerics in holy orders, We beg of thee, hear us.
-That thou wouldst kindly humble the enemies of holy Church, We beg of thee, hear us.
-That thou wouldst kindly give peace and true concord to Christian kings and princes, We beg of thee, hear us.
-That thou wouldst kindly grant peace and unity to the whole Christian world, We beg of thee, hear us.
-That thou wouldst restore to the unity of the Church all who have strayed from the truth and lead all infidels to the light of the Gospel, We beg of thee, hear us.
-That thou wouldst kindly confirm and preserve us in thy holy service, We beg of thee, hear us.
-That thou wouldst kindly lift up our minds to heavenly desires, We beg of thee, hear us.
-That thou wouldst kindly give eternal blessings to all our benefactors, We beg of thee, hear us.
-That thou wouldst kindly deliver our souls, and the souls of our brethren, relations, and benefactors from eternal damnation, We beg of thee, hear us.
-That thou wouldst kindly give and preserve the fruits of the earth, We beg of thee, hear us.
-That thou wouldst kindly grant eternal rest to all the faithful departed, We beg of thee, hear us.
-That thou wouldst be so kind as to answer our prayers Son of God, We beg of thee, hear us.
-Son of God, we beseech Thee, hear us.
+r. We sinners, <i>We beseech Thee, hear us</i>.
+That thou wouldst spare us, <i>We beseech Thee, hear us</i>.
+That thou wouldst pardon us, <i>We beseech Thee, hear us</i>.
+That thou wouldst kindly bring us to true penance, <i>We beseech Thee, hear us</i>.
+That thou wouldst kindly govern and preserve thy holy Church, <i>We beseech Thee, hear us</i>.
+That thou wouldst kindly preserve in holy religion the Pope and all clerics in holy orders, <i>We beseech Thee, hear us</i>.
+That thou wouldst kindly humble the enemies of holy Church, <i>We beseech Thee, hear us</i>.
+That thou wouldst kindly give peace and true concord to Christian kings and princes, <i>We beseech Thee, hear us</i>.
+That thou wouldst kindly grant peace and unity to the whole Christian world, <i>We beseech Thee, hear us</i>.
+That thou wouldst restore to the unity of the Church all who have strayed from the truth and lead all infidels to the light of the Gospel, <i>We beseech Thee, hear us</i>.
+That thou wouldst kindly confirm and preserve us in thy holy service, <i>We beseech Thee, hear us</i>.
+That thou wouldst kindly lift up our minds to heavenly desires, <i>We beseech Thee, hear us</i>.
+That thou wouldst kindly give eternal blessings to all our benefactors, <i>We beseech Thee, hear us</i>.
+That thou wouldst kindly deliver our souls, and the souls of our brethren, relations, and benefactors from eternal damnation, <i>We beseech Thee, hear us</i>.
+That thou wouldst kindly give and preserve the fruits of the earth, <i>We beseech Thee, hear us</i>.
+That thou wouldst kindly grant eternal rest to all the faithful departed, <i>We beseech Thee, hear us</i>.
+That thou wouldst be so kind as to answer our prayers Son of God, <i>We beseech Thee, hear us</i>.
+Son of God, <i>We beseech Thee, hear us</i>.
 _
 &nonbreakingspace
 _
-r. Lamb of God, who takest away the sins of the world, spare us, O Lord.
-r. Lamb of God, who takest away the sins of the world, graciously hear us, O Lord.
-r. Lamb of God, who takest away the sins of the world, have mercy on us.
+r. Lamb of God, who takest away the sins of the world, <i>Spare us, O Lord</i>.
+r. Lamb of God, who takest away the sins of the world, <i>graciously hear us, O Lord</i>.
+r. Lamb of God, who takest away the sins of the world, <i>have mercy on us</i>.
 _
 &nonbreakingspace
 _
@@ -271,7 +272,8 @@ r. O God, from whom all holy desires, all good counsels, and all just works do p
 r. Inflame our hearts and our desires, O Lord, with the fire of the Holy Spirit, so that we may serve thee with a chaste body, and please thee with a pure heart.
 r. O God, thou art the creator and redeemer of all the faithful. Grant to the souls of thy servants departed the remission of all their sins, so that by our faithful prayers they may obtain the pardon they have always desired.
 r. We beg thee, O Lord, to direct our actions by thy holy inspiration, and carry them forward by thy gracious assistance, so that every prayer and work of ours may always begin with thee, and, begun through thee, be happily ended.
-r. Almighty and everlasting God, who hast dominion over the living and the dead and who art merciful to all whom thou foreknowest shall be thine by faith and good works, we humbly beg of thee, that they for whom we have intended to pour out our prayers, whether this present world still detains them in the flesh, or whether the world to come has already received them out of their bodies, may, through the prayers of all thy saints, by thy merciful goodness obtain the remission of all their sins.
+r. Almighty and everlasting God, who hast dominion over the living and the dead and who art merciful to all whom thou foreknowest shall be thine by faith and good works, we humbly beg of thee, that they for whom we have intended to pour out our prayers,
+whether this present world still detains them in the flesh, or whether the world to come has already received them out of their bodies, may, through the prayers of all thy saints, by thy merciful goodness obtain the remission of all their sins.
 $Per Dominum
 $Dominus vobiscum
 V. May the almighty and merciful Lord graciously hear us.
@@ -423,11 +425,24 @@ Amen.
 
 [StMichaelLong]
 #Saint Michael (Full)
-v. O GLORIOUS Prince of the heavenly host, Saint Michael the Archangel, defend us in the battle and fearful warfare that we are waging against the principalities and powers, against the rulers of this world of darkness, against the evil spirits. Come thou to the assistance of men, whom Almighty God created immortal, making them in His own image and likeness and redeeming them at a great price from the tyranny of Satan. Fight this day the battle of the Lord with thy legions of holy Angels, even as of old thou didst fight against Lucifer, the leader of the proud spirits and all his rebel angels, who were powerless to stand against thee, neither was their place found any more in heaven. And that great dragon was cast forth, the ancient serpent, who is called the devil and satan, who seduces the whole world; and he was cast forth upon Earth, and his angels were sent with him.
-r. But behold! the ancient enemy of mankind and a murderer from the beginning has been fiercely aroused. Changing himself into an angel of light, he goes about with the whole multitude of the wicked spirits to invade the earth and blot out the Name of God and of His Christ, to plunder, to slay, and to consign to eternal damnation the souls that have been destined for a crown of everlasting life. This wicked serpent, like an unclean torrent, pours into men of depraved minds and corrupt hearts the poison of his malice, the spirit of lying, impiety and blasphemy, and the deadly breath of impurity and every form of vice and iniquity.
-r. Be favorable to Thy Church, the Bride of the Lamb without spot, whose enemies have filled to overflowing with gall and inebriated with wormwood. They have laid profane hands upon Her most sacred treasures. Where the See of the most blessed Peter and the Chair of Truth has been constituted as a light to the nations, there they have placed a throne of their abomination and impiety; so that with the Pastor struck, they may prevail to disperse the flock.
-r. Therefore, most invincible Leader, be with the people of God against this spiritual wickedness and bring about victory. Thou art venerated by Holy Church as Her guard and patron; Thou art glorified as our defender against the impious powers of earth and of hell. Unto thee the Lord hath handed over the souls of the redeemed to be placed in happiness above.
-r. Entreat the God of peace, to obliterate satan beneath our feet, lest he prevail further to hold men captive, and to injure the Church. Offer our prayers in the sight of the Most High, so that the mercy of the Lord may swiftly overtake us, and apprehend the dragon, the ancient serpent, who is the devil and satan, and send him bound into the abyss, so that he may seduce the nations no more.
+v. O GLORIOUS Prince of the heavenly host, Saint Michael the Archangel, defend us in the battle and fearful warfare that we are waging against the principalities and powers, against the rulers of this world of darkness, against the evil spirits.
+Come thou to the assistance of men, whom Almighty God created immortal, making them in His own image and likeness and redeeming them at a great price from the tyranny of Satan.
+Fight this day the battle of the Lord with thy legions of holy Angels, even as of old thou didst fight against Lucifer, the leader of the proud spirits and all his rebel angels, who were powerless to stand against thee, neither was their place found any more in heaven.
+And that great dragon was cast forth, the ancient serpent, who is called the devil and satan, who seduces the whole world; and he was cast forth upon Earth, and his angels were sent with him.
+_
+r. But behold! the ancient enemy of mankind and a murderer from the beginning has been fiercely aroused. Changing himself into an angel of light, he goes about with the whole multitude of the wicked spirits to invade the earth and blot out the Name of God and of His Christ,
+to plunder, to slay, and to consign to eternal damnation the souls that have been destined for a crown of everlasting life.
+This wicked serpent, like an unclean torrent, pours into men of depraved minds and corrupt hearts the poison of his malice, the spirit of lying, impiety and blasphemy, and the deadly breath of impurity and every form of vice and iniquity.
+_
+r. Be favorable to Thy Church, the Bride of the Lamb without spot, whose enemies have filled to overflowing with gall and inebriated with wormwood. They have laid profane hands upon Her most sacred treasures.
+Where the See of the most blessed Peter and the Chair of Truth has been constituted as a light to the nations, there they have placed a throne of their abomination and impiety; so that with the Pastor struck, they may prevail to disperse the flock.
+_
+r. Therefore, most invincible Leader, be with the people of God against this spiritual wickedness and bring about victory. Thou art venerated by Holy Church as Her guard and patron;
+Thou art glorified as our defender against the impious powers of earth and of hell. Unto thee the Lord hath handed over the souls of the redeemed to be placed in happiness above.
+_
+r. Entreat the God of peace, to obliterate satan beneath our feet, lest he prevail further to hold men captive, and to injure the Church.
+Offer our prayers in the sight of the Most High, so that the mercy of the Lord may swiftly overtake us, and apprehend the dragon, the ancient serpent, who is the devil and satan, and send him bound into the abyss, so that he may seduce the nations no more.
+_
 r. Henceforth having been confided to thy escort and protection, we sacred ministers by the authority of the Holy Mother Church [if recited by a cleric of the order of exorcist or above, say instead: by our authority], do undertake to repel the infestations of diabolical deceit in the Name of Jesus Christ, Our God and Lord.
 V. Behold the Cross of the Lord; be scattered hostile powers.
 R. The Lion of the tribe of Juda has conquered, the root of David.
@@ -439,31 +454,45 @@ R. And let my cry come unto Thee.
 V. The Lord be with you all.
 R. And with thy spirit.
 $Oremus
-r. O God, and Father of Our Lord Jesus Christ, we invoke Thy Holy Name, and we humbly implore Thy clemency so that, through the intercession of Mary, the Immaculate ever-Virgin Mother of God, of blessed Michael the Archangel, of blessed Joseph, the Spouse of the same blessed Virgin, of the blessed Apostles Peter and Paul, and of all the Saints, Thou may deign to offer us aid against satan, and all the other unclean spirits, who wander through the world to injure the human race and to destroy souls. We ask this through Christ Our Lord.
+r. O God, and Father of Our Lord Jesus Christ, we invoke Thy Holy Name, and we humbly implore Thy clemency so that, through the intercession of Mary, the Immaculate ever-Virgin Mother of God, of blessed Michael the Archangel, of blessed Joseph, the Spouse of the same blessed Virgin,
+of the blessed Apostles Peter and Paul, and of all the Saints, Thou may deign to offer us aid against satan, and all the other unclean spirits, who wander through the world to injure the human race and to destroy souls. We ask this through Christ Our Lord.
 Amen.
 
 [AthanasianCreed]
 #Athanasian Creed
-v. Whoever wishes to be saved must, above all, keep the Catholic faith. For unless a person keeps this faith whole and entire, he will undoubtedly be lost forever. And the Catholic faith is this: we worship one God in Trinity and Trinity in unity. Neither confounding the Persons, nor dividing the substance. For there is one Person of the Father, another of the Son, another of the Holy Spirit.
+v. Whoever wishes to be saved must, above all, keep the Catholic faith. For unless a person keeps this faith whole and entire, he will undoubtedly be lost forever.
+And the Catholic faith is this: we worship one God in Trinity and Trinity in unity. Neither confounding the Persons, nor dividing the substance. For there is one Person of the Father, another of the Son, another of the Holy Spirit.
 r. But the Father and the Son and the Holy Spirit have one divinity, equal glory, and coeternal majesty. What the Father is, the Son is, and the Holy Spirit is.
 r. The Father is uncreated, the Son is uncreated, and the Holy Spirit is uncreated. The Father is boundless, the Son is boundless, and the Holy Spirit is boundless. The Father is eternal, the Son is eternal, and the Holy Spirit is eternal.
 r. Nevertheless, there are not three eternal beings, but one eternal being. So there are not three uncreated beings, nor three boundless beings, but one uncreated being and one boundless being. Likewise, the Father is omnipotent, the Son is omnipotent, the Holy Spirit is omnipotent.
 r. Yet there are not three omnipotent beings, but one omnipotent being. Thus the Father is God, the Son is God, and the Holy Spirit is God.
-r. However, there are not three gods, but one God. The Father is Lord, the Son is Lord, and the Holy Spirit is Lord. However, there are not three lords, but one Lord. For as we are obliged by Christian truth to acknowledge every Person singly to be God and Lord, so too are we forbidden by the Catholic religion to say that there are three Gods or Lords.
-r. The Father was not made, nor created, nor generated by anyone. The Son is not made, nor created, but begotten by the Father alone. The Holy Spirit is not made, nor created, nor generated, but proceeds from the Father and the Son. There is, then, one Father, not three Fathers; one Son, not three sons; one Holy Spirit, not three holy spirits. In this Trinity, there is nothing before or after, nothing greater or less. The entire three Persons are coeternal and coequal with one another. So that in all things, as is has been said above, the Unity is to be worshiped in Trinity and the Trinity in Unity.
-r. He, therefore, who wishes to be saved, must believe thus about the Trinity. It is also necessary for eternal salvation that he believes steadfastly in the incarnation of our Lord Jesus Christ. Thus the right faith is that we believe and confess that our Lord Jesus Christ, the Son of God, is both God and man. As God, He was begotten of the substance of the Father before time; as man, He was born in time of the substance of His Mother. He is perfect God; and He is perfect man, with a rational soul and human flesh. He is equal to the Father in His divinity, but inferior to the Father in His humanity. Although He is God and man, He is not two, but one Christ. And He is one, not because His divinity was changed into flesh, but because His humanity was assumed unto God. He is one, not by a mingling of substances, but by unity of person. As a rational soul and flesh are one man: so God and man are one Christ. He died for our salvation, descended into Hell, and rose from the dead on the third day. He ascended into Heaven, sits at the right hand of God the Father almighty. From there He shall come to judge the living and the dead. At His coming, all men are to arise with their own bodies; and they are to give an account of their own deeds. Those who have done good deeds will go into eternal life; those who have done evil will go into the everlasting fire.
+r. However, there are not three gods, but one God. The Father is Lord, the Son is Lord, and the Holy Spirit is Lord. However, there are not three lords, but one Lord.
+For as we are obliged by Christian truth to acknowledge every Person singly to be God and Lord, so too are we forbidden by the Catholic religion to say that there are three Gods or Lords.
+r. The Father was not made, nor created, nor generated by anyone. The Son is not made, nor created, but begotten by the Father alone. The Holy Spirit is not made, nor created, nor generated, but proceeds from the Father and the Son.
+There is, then, one Father, not three Fathers; one Son, not three sons; one Holy Spirit, not three holy spirits. In this Trinity, there is nothing before or after, nothing greater or less. The entire three Persons are coeternal and coequal with one another.
+So that in all things, as is has been said above, the Unity is to be worshiped in Trinity and the Trinity in Unity.
+r. He, therefore, who wishes to be saved, must believe thus about the Trinity. It is also necessary for eternal salvation that he believes steadfastly in the incarnation of our Lord Jesus Christ.
+Thus the right faith is that we believe and confess that our Lord Jesus Christ, the Son of God, is both God and man. As God, He was begotten of the substance of the Father before time; as man, He was born in time of the substance of His Mother.
+He is perfect God; and He is perfect man, with a rational soul and human flesh. He is equal to the Father in His divinity, but inferior to the Father in His humanity. Although He is God and man, He is not two, but one Christ.
+And He is one, not because His divinity was changed into flesh, but because His humanity was assumed unto God. He is one, not by a mingling of substances, but by unity of person. As a rational soul and flesh are one man: so God and man are one Christ.
+He died for our salvation, descended into Hell, and rose from the dead on the third day. He ascended into Heaven, sits at the right hand of God the Father almighty. From there He shall come to judge the living and the dead.
+At His coming, all men are to arise with their own bodies; and they are to give an account of their own deeds. Those who have done good deeds will go into eternal life; those who have done evil will go into the everlasting fire.
 r. This is the Catholic faith, which except a man believe faithfully and firmly, he cannot be saved.
 r. Amen.
 
 [ApostlesCreed]
 #Apostles Creed
-v. I believe in God, the Father Almighty, Creator of Heaven and earth; and in Jesus Christ, His only Son, Our Lord, Who was conceived by the Holy Ghost, born of the Virgin Mary, suffered under Pontius Pilate, was crucified; died, and was buried. He descended into Hell; the third day He arose again from the dead; He ascended into Heaven, sitteth at the right hand of God, the Father Almighty; from thence He shall come to judge the living and the dead. I believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting.
+v. I believe in God, the Father Almighty, Creator of Heaven and earth; and in Jesus Christ, His only Son, Our Lord, Who was conceived by the Holy Ghost, born of the Virgin Mary,
+suffered under Pontius Pilate, was crucified; died, and was buried. He descended into Hell; the third day He arose again from the dead; He ascended into Heaven, sitteth at the right hand of God, the Father Almighty; from thence He shall come to judge the living and the dead.
+I believe in the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting.
 r. Amen.
 
 [NiceneCreed]
 #The Nicene Creed
 v. I believe in one God, the Father Almighty, maker of Heaven and earth, of all things visible and invisible.
-r. And in one Lord, Jesus Christ, the only-begotten Son of God. Born of the Father before all ages. God of God, Light of Light, true God of true God. Begotten, not made: consubstantial with the Father; by Whom all things were made. Who for us men and for our salvation, came down from Heaven: [kneel] and was incarnate by the Holy Ghost of the Virgin Mary: and was made man. [stand] He was crucified also for us, suffered under Pontius Pilate, and was buried. And on the third day He rose again according to the Scriptures. And He ascended into Heaven and sitteth at the right hand of the Father. And He shall come again with glory to judge the living and the dead: of Whose kindgom there shall be no end.
+r. And in one Lord, Jesus Christ, the only-begotten Son of God. Born of the Father before all ages. God of God, Light of Light, true God of true God. Begotten, not made: consubstantial with the Father; by Whom all things were made.
+Who for us men and for our salvation, came down from Heaven: [kneel] and was incarnate by the Holy Ghost of the Virgin Mary: and was made man. [stand] He was crucified also for us, suffered under Pontius Pilate, and was buried. And on the third day He rose again according to the Scriptures.
+And He ascended into Heaven and sitteth at the right hand of the Father. And He shall come again with glory to judge the living and the dead: of Whose kindgom there shall be no end.
 r. And in the Holy Ghost, the Lord and Giver of life: Who proceedeth from the Father and the Son. Who together with the Father and the Son is adored and glorified: Who spoke through the Prophets.
 r. And in One, Holy, Catholic and Apostolic Church. I confess one Baptism for the remission of sins. And I look for the resurrection of the dead, and the life of the world to come.
 r. Amen.
@@ -471,17 +500,33 @@ r. Amen.
 [PiusIVCreed]
 #Profession of the Tridentine Faith (The Creed of Pope Pius IV)
 v. I, N, with a firm faith believe and profess each and everything which is contained in the Creed which the Holy Roman Church maketh use of. To wit:
-r. I believe in one God, The Father Almighty, Maker of heaven and earth, and of all things visible and invisible. And in one Lord, Jesus Christ, the Only-begotten Son of God. Born of the Father before all ages. God of God, Light of Light, true God of true God. Begotten, not made, of one substance with the Father. By whom all things were made. Who for us men and for our salvation came down from heaven. And became incarnate by the Holy Spirit of the Virgin Mary: and was made man. He was also crucified for us, suffered under Pontius Pilate, and was buried. And on the third day He rose again according to the Scriptures. He ascended into heaven and sits at the right hand of the Father. He will come again in glory to judge the living and the dead and His kingdom will have no end. And in the Holy Spirit, the Lord and Giver of life, Who proceeds from the Father and the Son. Who together with the Father and the Son is adored and glorified, and who spoke through the prophets. And one holy, Catholic and Apostolic Church. I confess one baptism for the forgiveness of sins and I await the resurrection of the dead and the life of the world to come. Amen.
+r. I believe in one God, The Father Almighty, Maker of heaven and earth, and of all things visible and invisible. And in one Lord, Jesus Christ, the Only-begotten Son of God. Born of the Father before all ages. God of God, Light of Light, true God of true God.
+Begotten, not made, of one substance with the Father. By whom all things were made. Who for us men and for our salvation came down from heaven. And became incarnate by the Holy Spirit of the Virgin Mary: and was made man.
+He was also crucified for us, suffered under Pontius Pilate, and was buried. And on the third day He rose again according to the Scriptures. He ascended into heaven and sits at the right hand of the Father. He will come again in glory to judge the living and the dead and His kingdom will have no end.
+And in the Holy Spirit, the Lord and Giver of life, Who proceeds from the Father and the Son. Who together with the Father and the Son is adored and glorified, and who spoke through the prophets.
+And one holy, Catholic and Apostolic Church. I confess one baptism for the forgiveness of sins and I await the resurrection of the dead and the life of the world to come. Amen.
+_
 r. The Apostolic and Ecclesiastical traditions and all other observances and constitutions of that same Church I firmly admit to and embrace.
 r. I also accept the Holy Scripture according to that sense which holy mother the Church hath held, and doth hold, and to whom it belongeth to judge the true sense and interpretations of the Scriptures. Neither will I ever take and interpret them otherwise than according to the unanimous consent of the Fathers.
-r. I also profess that there are truly and properly Seven Sacraments of the New Law, instituted by Jesus Christ our Lord, and necessary for the salvation of mankind, though not all are necessary for everyone; to wit, Baptism, Confirmation, Eucharist, Penance, Extreme Unction, Holy Orders, and Matrimony; and that they confer grace; and that of these, Baptism, Confirmation, and Holy Orders cannot be repeated without sacrilege. I also receive and admit the accepted and approved ceremonies of the Catholic Church in the solemn administration of the aforesaid sacraments.
+r. I also profess that there are truly and properly Seven Sacraments of the New Law, instituted by Jesus Christ our Lord, and necessary for the salvation of mankind, though not all are necessary for everyone; to wit, Baptism, Confirmation, Eucharist, Penance, Extreme Unction, Holy Orders, and Matrimony;
+and that they confer grace; and that of these, Baptism, Confirmation, and Holy Orders cannot be repeated without sacrilege. I also receive and admit the accepted and approved ceremonies of the Catholic Church in the solemn administration of the aforesaid sacraments.
+_
 r. I embrace and accept each and everything which has been defined and declared in the holy Council of Trent concerning original sin and justification.
-r. I profess, likewise, that in the Mass there is offered to God a true, proper, and propitiatory sacrifice for the living and the dead; and that in the most holy sacrament of the Eucharist there is truly, really, and substantially, the Body and Blood, together with the soul and divinity, of our Lord Jesus Christ; and that a conversion takes place of the whole substance of the bread into the Body, and of the whole substance of the wine into the Blood, which conversion the Catholic Church calls Transubstantiation. I also confess that under either species alone Christ is received whole and entire, and a true sacrament.
-r. I steadfastly hold that there is a Purgatory, and that the souls therein detained are helped by the suffrages of the faithful. Likewise, that the saints, reigning together with Christ, are to be honored and invoked, and that they offer prayers to God for us, and that their relics are to be venerated. I most firmly assert that the images of Christ, of the Mother of God, ever virgin, and also of other Saints, ought to be kept and retained, and that due honor and veneration is to be given them.
+_
+r. I profess, likewise, that in the Mass there is offered to God a true, proper, and propitiatory sacrifice for the living and the dead; and that in the most holy sacrament of the Eucharist there is truly, really, and substantially, the Body and Blood, together with the soul and divinity, of our Lord Jesus Christ;
+and that a conversion takes place of the whole substance of the bread into the Body, and of the whole substance of the wine into the Blood, which conversion the Catholic Church calls Transubstantiation. I also confess that under either species alone Christ is received whole and entire, and a true sacrament.
+_
+r. I steadfastly hold that there is a Purgatory, and that the souls therein detained are helped by the suffrages of the faithful. Likewise, that the saints, reigning together with Christ, are to be honored and invoked, and that they offer prayers to God for us, and that their relics are to be venerated.
+I most firmly assert that the images of Christ, of the Mother of God, ever virgin, and also of other Saints, ought to be kept and retained, and that due honor and veneration is to be given them.
+_
 r. I also affirm that the power of indulgences was left by Christ in the Church, and that the use of them is most wholesome to Christian people.
 r. I acknowledge the Holy Catholic Apostolic Roman Church as the mother and teacher of all churches; and I promise true obedience to the Bishop of Rome, successor to St. Peter, Prince of the Apostles, and Vicar of Jesus Christ.
-r. I likewise undoubtedly receive and profess all other things delivered, defined, and declared by the sacred Canons, and general Councils, and particularly by the holy Council of Trent, and by the ecumenical Council of the Vatican, particularly concerning the primacy of the Roman Pontiff and his infallible teaching. I condemn, reject, and anathematize all things contrary thereto, and all heresies which the Church hath condemned, rejected, and anathematized.
-r. This true Catholic faith, outside of which no one can be saved, which I now freely profess and to which I truly adhere, I do so profess and swear to maintain inviolate and with firm constancy with the help of God until the last breath of life. And I shall strive, as far as possible, that this same faith shall be held, taught, and professed by all those over whom I have charge. I N. do so pledge, promise, and swear, so help me God and these Holy Gospels of God.
+_
+r. I likewise undoubtedly receive and profess all other things delivered, defined, and declared by the sacred Canons, and general Councils, and particularly by the holy Council of Trent, and by the ecumenical Council of the Vatican, particularly concerning the primacy of the Roman Pontiff and his infallible teaching.
+I condemn, reject, and anathematize all things contrary thereto, and all heresies which the Church hath condemned, rejected, and anathematized.
+_
+r. This true Catholic faith, outside of which no one can be saved, which I now freely profess and to which I truly adhere, I do so profess and swear to maintain inviolate and with firm constancy with the help of God until the last breath of life.
+And I shall strive, as far as possible, that this same faith shall be held, taught, and professed by all those over whom I have charge. I N. do so pledge, promise, and swear, so help me God and these Holy Gospels of God.
 
 [BaptismPart1Questioning]
 #The Questioning
@@ -501,31 +546,37 @@ Priest: Go forth from him (her), unclean spirit, and give place to the Holy Spir
 #The Sign of the Cross
 !The priest now makes the Sign of the Cross with his thumb on the candidate's forehead and breast.
 Priest: Receive the Sign of the Cross both upon your + forehead and also upon your + heart; take to you the faith of the heavenly precepts; and so order your life as to be, from henceforth, the temple of God.
-Priest: Let us pray: Mercifully hear our prayers, we beseech Thee, O Lord; and by Thy perpetual assistance keep this Thine elect, N, signed with the sign of the Lord's cross, so that, preserving this first experience of the greatness of Thy glory, he (she) may deserve, by keeping Thy commandments, to attain to the glory of regeneration. Through Christ our Lord.
+Priest: Let us pray: Mercifully hear our prayers, we beseech Thee, O Lord; and by Thy perpetual assistance keep this Thine elect, N, signed with the sign of the Lord's cross,
+so that, preserving this first experience of the greatness of Thy glory, he (she) may deserve, by keeping Thy commandments, to attain to the glory of regeneration. Through Christ our Lord.
 Sponsor/Catechumen: Amen.
 
 [BaptismPart1ImpositionOfHands]
 #The Imposition of Hands
 !The priest places his hands on the candidate's head.
-Priest: Let us pray: Almighty, everlasting God, Father of our Lord Jesus Christ, look graciously down upon this Thy servant, N., whom Thou hast graciously called unto the beginnings of the faith; drive out from him (her) all blindness of heart; break all the toils of Satan wherewith he (she) was held: open unto him (her), O Lord, the gate of Thy loving kindness, that, being impressed with the sign of Thy wisdom, he (she) may be free from the foulness of all wicked desires, and in the sweet odor of Thy precepts may joyfully serve Thee in Thy Church, and grow in grace from day to day. Through the same Christ our Lord. Amen.
+Priest: Let us pray: Almighty, everlasting God, Father of our Lord Jesus Christ, look graciously down upon this Thy servant, N., whom Thou hast graciously called unto the beginnings of the faith;
+drive out from him (her) all blindness of heart; break all the toils of Satan wherewith he (she) was held: open unto him (her), O Lord, the gate of Thy loving kindness, that, being impressed with the sign of Thy wisdom, he (she)
+may be free from the foulness of all wicked desires, and in the sweet odor of Thy precepts may joyfully serve Thee in Thy Church, and grow in grace from day to day. Through the same Christ our Lord. Amen.
 Priest: Through the same Christ our Lord.
 Sponsor/Catechumen: Amen
 
 [BaptismPart1ImpositionOfSalt]
 #The Imposition of Salt
-!Now the priest puts a little blessed salt in the candidate's mouth. Salt is the symbol of that wisdom which gives a relish for the sweetness of divine nourishment; preserves, by the teaching of the Gospel, from the corruption of sin, and prevents evil passions from growing in men's souls. Adult catechumens might be signed on the brow, ears, eyes, nostrils, mouth, breast, and between the shoulders before the imposition of salt. If this procedure is followed, afterwards the candidate will kneel, recite the Our Father several times, and a Cross is made on his forehead, first by the sponsor and then by the priest.
+!Now the priest puts a little blessed salt in the candidate's mouth. Salt is the symbol of that wisdom which gives a relish for the sweetness of divine nourishment; preserves, by the teaching of the Gospel, from the corruption of sin, and prevents evil passions from growing in men's souls.
+!Adult catechumens might be signed on the brow, ears, eyes, nostrils, mouth, breast, and between the shoulders before the imposition of salt. If this procedure is followed, afterwards the candidate will kneel, recite the Our Father several times, and a Cross is made on his forehead, first by the sponsor and then by the priest.
 Priest: N., Receive the salt of wisdom; let it be to thee a token of mercy unto everlasting life. May it make your way easy to eternal life.
 Sponsor/Catechumen: Amen.
 Priest: Peace be with you.
 Sponsor/Catechumen: And with your spirit.
-Priest: Let us pray: O God of our fathers, O God the Author of all truth, vouchsafe, we humbly beseech Thee, to look graciously down upon this Thy servant, N., and as he (she) tastes this first nutriment of salt, suffer him (her) no longer to hunger for want of heavenly food, to the end that he (she) may be always fervent in spirit, rejoicing in hope, always serving Thy name. Lead him (her), O Lord, we beseech Thee, to the laver of the new regeneration, that, together with Thy faithful, he may deserve to attain the everlasting rewards of Thy promises. Through Christ our Lord.
+Priest: Let us pray: O God of our fathers, O God the Author of all truth, vouchsafe, we humbly beseech Thee, to look graciously down upon this Thy servant, N., and as he (she) tastes this first nutriment of salt, suffer him (her) no longer to hunger for want of heavenly food,
+to the end that he (she) may be always fervent in spirit, rejoicing in hope, always serving Thy name. Lead him (her), O Lord, we beseech Thee, to the laver of the new regeneration, that, together with Thy faithful, he may deserve to attain the everlasting rewards of Thy promises. Through Christ our Lord.
 Priest: Through the same Christ our Lord.
 Sponsor/Catechumen: Amen
 
 [BaptismPart2Exorcism]
 #The Exorcism
 !The priest makes the Sign of the Cross over the candidate three times and says:
-Priest: I exorcise thee, unclean spirit, in the name of the Father + and of the Son, + and of the Holy + Spirit, that thou goest out and depart from this servant of God, N. For He commands Thee, accursed one, Who walked upon the sea, and stretched out His right hand to Peter about to sink. Therefore, accursed devil, acknowledge thy sentence, and give honor to the living and true God: give honor to Jesus Christ His Son, and to the Holy Spirit; and depart from this servant of God, N. because God and our Lord Jesus Christ hath vouchsafed to call him (her) to His holy grace and benediction and to the font of Baptism.
+Priest: I exorcise thee, unclean spirit, in the name of the Father + and of the Son, + and of the Holy + Spirit, that thou goest out and depart from this servant of God, N. For He commands Thee, accursed one, Who walked upon the sea, and stretched out His right hand to Peter about to sink.
+Therefore, accursed devil, acknowledge thy sentence, and give honor to the living and true God: give honor to Jesus Christ His Son, and to the Holy Spirit; and depart from this servant of God, N. because God and our Lord Jesus Christ hath vouchsafed to call him (her) to His holy grace and benediction and to the font of Baptism.
 
 [BaptismPart2SignOfTheCross]
 #The Sign of the Cross
@@ -537,7 +588,8 @@ Sponsor/Catechumen: Amen
 [BaptismPart2ImpositionOfHands]
 #The Imposition of Hands
 !For the final time, the priest lays his hand on the candidate's head
-Priest: Let us pray: O Holy Lord, Father Almighty, Eternal God, Author of light and truth, I implore Thine everlasting and most just goodness upon this Thy servant N., that Thou wouldst vouchsafe to enlighten him (her) with the light of Thy wisdom: cleanse him (her) and sanctify him (her), give unto him (her) true knowledge; that, being made worthy of the grace of Thy Baptism, he (she) may hold firm hope, right counsel and holy doctrine.
+Priest: Let us pray: O Holy Lord, Father Almighty, Eternal God, Author of light and truth, I implore Thine everlasting and most just goodness upon this Thy servant N., that Thou wouldst vouchsafe to enlighten him (her) with the light of Thy wisdom:
+cleanse him (her) and sanctify him (her), give unto him (her) true knowledge; that, being made worthy of the grace of Thy Baptism, he (she) may hold firm hope, right counsel and holy doctrine.
 Priest: Through Christ our Lord.
 Sponsor/Catechumen: Amen.
 
@@ -549,16 +601,20 @@ Sponsor/Catechumen: Amen.
 
 [BaptismPart2CredoAndPater]
 #The Credo and Pater
-Sponsor/Catechumen: I believe in God the Father Almighty, Creator of heaven and earth, and in Jesus Christ his only Son our Lord, who was conceived by the Holy Ghost, born of the Virgin Mary; suffered under Pontius Pilate, was crucified, dead, and buried. He descended into Hell. On the third day, He rose again from the dead. He ascended into heaven, and sitteth at the right hand of God the Father Almighty; from thence shall He come to judge the living and the dead. I believe in the Holy Ghost, the holy Catholic Church; the communion of saints; the forgiveness of sins; the resurrection of the body, and life everlasting. Amen.
+Sponsor/Catechumen: I believe in God the Father Almighty, Creator of heaven and earth, and in Jesus Christ his only Son our Lord, who was conceived by the Holy Ghost, born of the Virgin Mary; suffered under Pontius Pilate, was crucified, dead, and buried. He descended into Hell. On the third day, He rose again from the dead.
+He ascended into heaven, and sitteth at the right hand of God the Father Almighty; from thence shall He come to judge the living and the dead. I believe in the Holy Ghost, the holy Catholic Church; the communion of saints; the forgiveness of sins; the resurrection of the body, and life everlasting. Amen.
 Sponsor/Catechumen: Our Father, who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive them that trespass against us. And lead us not into temptation: but deliver us from evil. Amen.
 
 [BaptismPart3SolemnExorcism]
 #The Solemn Exorcism
-Priest: I exorcise thee, every unclean spirit, in the name of God the Father + Almighty, in the name of Jesus + Christ, His Son, our Lord and Judge, and in the power of the Holy + Spirit, that thou be depart from this creature of God N, which our Lord hath deigned to call unto His holy temple, that it may be made the temple of the living God, and that the Holy Spirit may dwell therein. Through the same Christ our Lord, who shall come to judge the living and the dead, and the world by fire.
+Priest: I exorcise thee, every unclean spirit, in the name of God the Father + Almighty, in the name of Jesus + Christ, His Son, our Lord and Judge, and in the power of the Holy + Spirit,
+that thou be depart from this creature of God N, which our Lord hath deigned to call unto His holy temple, that it may be made the temple of the living God, and that the Holy Spirit may dwell therein.
+Through the same Christ our Lord, who shall come to judge the living and the dead, and the world by fire.
 
 [BaptismPart3Ephpheta]
 #The Ephpheta
-!The priest takes a little spittle and touches the ears and nostrils of the candidate with it. For health reasons, the use of spittle may be omitted. This rite comes from Mark 7:33-35, when Jesus healed the deaf-mute: "And taking him from the multitude apart, he put his fingers into his ears: and spitting, he touched his tongue. And looking up to heaven, he groaned and said to him: Ephpheta, which is, Be thou opened. And immediately his ears were opened and the string of his tongue was loosed and he spoke right.".
+!The priest takes a little spittle and touches the ears and nostrils of the candidate with it. For health reasons, the use of spittle may be omitted. This rite comes from Mark 7:33-35, when Jesus healed the deaf-mute:
+!"And taking him from the multitude apart, he put his fingers into his ears: and spitting, he touched his tongue. And looking up to heaven, he groaned and said to him: Ephpheta, which is, Be thou opened. And immediately his ears were opened and the string of his tongue was loosed and he spoke right.".
 Priest: Ephpheta, that is to say, Be opened, for an odour of sweetness. Be thou, devil, begone; for the judgement of God shall draw near.
 
 [BaptismPart3RenunciationOfSatan]

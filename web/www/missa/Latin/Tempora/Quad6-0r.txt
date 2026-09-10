@@ -16,6 +16,9 @@ no Ultima Evangelium
 [Station]
 S. Giovanni in Laterano
 
+[SanctaMissaName]
+Palm Sunday
+
 [Prelude]
 #Benedictio Palmorum
 ! Hora competenti, in choro post Tertiam, omissa aspersione aquæ, proceditur ad benedicendum ramos palmarum seu olivarum, sive aliarum arborum. Color paramentorum est rubeus. Celebrans induitur amictu, alba, cingulo, stola et pluviali; ministri sacri amictu, alba, cingulo, subdiaconus insuper tunicella, diaconus stola et dalmatica. Celebrans induitur amictu, alba, cingulo, stola et pluviali, vel manet sine casula.
@@ -79,7 +82,11 @@ $Dominus vobiscum
 Sequéntia ++ sancti Evangélii secúndum Matthǽum.
 R. Glória tibi, Dómine.
 !Matt 21:1-9
-In illo témpore: Cum appropinquásset Jesus Jerosólymis, et venísset Béthphage ad montem Olivéti: tunc misit duos discípulos suos, dicens eis: Ite in castéllum, quod contra vos est, et statim inveniétis ásinam alligátam et pullum cum ea: sólvite et addúcite mihi: et si quis vobis áliquid díxerit, dícite, quia Dóminus his opus habet, et conféstim dimíttet eos. Hoc autem totum factum est, ut adimplerétur, quod dictum est per Prophétam, dicéntem: Dícite fíliæ Sion: Ecce, Rex tuus venit tibi mansuétus, sedens super ásinam et pullum, fílium subjugális. Eúntes autem discípuli, fecérunt, sicut præcépit illis Jesus. Et adduxérunt ásinam et pullum: et imposuérunt super eos vestiménta sua, et eum désuper sedére tecérunt. Plúrima autem turba stravérunt vestiménta sua in via: álii autem cædébant ramos de arbóribus, et sternébant in via: turbæ autem, quæ præcedébant et quæ sequebántur, clamábant, dicéntes: Hosánna fílio David: benedíctus, qui venit in nómine Dómini.
+In illo témpore: Cum appropinquásset Jesus Jerosólymis, et venísset Béthphage ad montem Olivéti: tunc misit duos discípulos suos, dicens eis:
+Ite in castéllum, quod contra vos est, et statim inveniétis ásinam alligátam et pullum cum ea: sólvite et addúcite mihi: et si quis vobis áliquid díxerit, dícite, quia Dóminus his opus habet, et conféstim dimíttet eos.
+Hoc autem totum factum est, ut adimplerétur, quod dictum est per Prophétam, dicéntem: Dícite fíliæ Sion: Ecce, Rex tuus venit tibi mansuétus, sedens super ásinam et pullum, fílium subjugális.
+Eúntes autem discípuli, fecérunt, sicut præcépit illis Jesus. Et adduxérunt ásinam et pullum: et imposuérunt super eos vestiménta sua, et eum désuper sedére tecérunt.
+Plúrima autem turba stravérunt vestiménta sua in via: álii autem cædébant ramos de arbóribus, et sternébant in via: turbæ autem, quæ præcedébant et quæ sequebántur, clamábant, dicéntes: Hosánna fílio David: benedíctus, qui venit in nómine Dómini.
 R. Laus tibi, Christe!
 S. Per Evangélica dicta, deleántur nostra delícta.
 ! Evangelio finito, subdiaconus defert librum osculandum celebranti, qui non incensatur a diacono.
@@ -136,7 +143,9 @@ Ant. Omnes colláudant nomen tuum, et dicunt: «Benedíctus qui venit in nómine
 _
 _
 v. Fulgéntibus palmis prostérnimur adveniénti Dómino: huic omnes occurrámus cum hymnis et cánticis, glorificántes et dicéntes: «Benedíctus Dóminus».
-v. Ave, Rex noster, Fili David, Redémptor mundi, quem prophétæ prædixérunt Salvatórem dómui Israël esse ventúrum. Te enim ad salutárem víctimam Pater misit in mundum, quem exspectábant omnes sancti ab orígine mundi, et nunc: «Hosánna Fílio David. Benedíctus qui venit in nómine Dómini. Hosánna in excélsis».
+v. Ave, Rex noster, Fili David, Redémptor mundi, quem prophétæ prædixérunt Salvatórem dómui Israël esse ventúrum.
+Te enim ad salutárem víctimam Pater misit in mundum, quem exspectábant omnes sancti ab orígine mundi, et nunc: «Hosánna Fílio David.
+Benedíctus qui venit in nómine Dómini. Hosánna in excélsis».
 ! Nihil impedit, quominus cantetur a fidelibus hymnus Christus vincit, vel alius cantus in honorem Christi Regis.
 _
 _
@@ -152,7 +161,8 @@ _
 ! Ministrantes serviunt ad librum, et omnia fiunt, ut supra dictum est.
 $Dominus vobiscum
 v. Oremus.
-v. Dómine Jesu Christe, Rex ac Redémptor noster, in cuius honórem, hoc ramos gestántes, solémnes laudes decantávimus: concéde propítius ut, quocúmque hi rami deportáti fúerint, ibi tuæ benedictiónis grátia descéndat, et quavis dǽmonum iniquitáte vel illusióne profligáta, déxtera tua prótegat, quos redémit: Qui vivis et regnas in sǽcula sæculórum.
+v. Dómine Jesu Christe, Rex ac Redémptor noster, in cuius honórem, hoc ramos gestántes, solémnes laudes decantávimus:
+concéde propítius ut, quocúmque hi rami deportáti fúerint, ibi tuæ benedictiónis grátia descéndat, et quavis dǽmonum iniquitáte vel illusióne profligáta, déxtera tua prótegat, quos redémit: Qui vivis et regnas in sǽcula sæculórum.
 R. Amen.
 ! Oratione finita, celebrans et ministri, facta debita altari reverentia, deponunt paramenta rubea, assumentes, pro Missa, violacea. Rami non tenentur manibus, dum in Missa historia Passionis Domini cantatur vel legitur.
 
@@ -170,7 +180,9 @@ $Per eumdem
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses
 !Phil 2:5-11
-Fratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in forma Dei esset, non rapínam arbitrátus est esse se æquálem Deo: sed semetípsum exinanívit, formam servi accípiens, in similitúdinem hóminum factus, et hábitu invéntus ut homo. Humiliávit semetípsum, factus obédiens usque ad mortem, mortem autem crucis. Propter quod et Deus exaltávit illum: et donávit illi nomen, quod est super omne nomen: (hic genuflectitur) ut in nómine Jesu omne genu flectátur cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris.
+Fratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in forma Dei esset, non rapínam arbitrátus est esse se æquálem Deo: sed semetípsum exinanívit, formam servi accípiens, in similitúdinem hóminum factus, et hábitu invéntus ut homo.
+Humiliávit semetípsum, factus obédiens usque ad mortem, mortem autem crucis.
+Propter quod et Deus exaltávit illum: et donávit illi nomen, quod est super omne nomen: (hic genuflectitur) ut in nómine Jesu omne genu flectátur cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris.
 
 [Graduale]
 !Ps 72:24 et 1-3

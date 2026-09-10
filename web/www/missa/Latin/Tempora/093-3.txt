@@ -9,6 +9,9 @@ Feria Quarta Quattuor Temporum Septembris
 [Rule]
 LectioL1
 
+[SanctaMissaName]
+Ember Wednesday in September
+
 [Introitus]
 !Ps 80:2; 80:3; 80:4; 80:5
 v. Exsultáte Deo, adjutóri nostro: jubiláte Deo Jacob: súmite psalmum jucúndum cum cíthara: cánite in inítio mensis tuba, quia præcéptum in Israël est, et judícium Deo Jacob.

@@ -7,7 +7,8 @@ v. Hail Mary, full of grace; The Lord is with thee; Blessed art thou amongst wom
 Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.
 
 [Credo]
-v. I believe in God, the Father almighty, Creator of heaven and earth. And in Jesus Christ, his only Son, our Lord; who was conceived by the  Holy Ghost, born of the Virgin Mary, suffered under Pontius Pilate, was  crucified, died and was buried: he descended into hell; the third day he arose again from the dead; he ascended into heaven; sitteth at the right hand of God the Father almighty: from thence he shall come to judge the living and the dead.
+v. I believe in God, the Father almighty, Creator of heaven and earth. And in Jesus Christ, his only Son, our Lord; who was conceived by the  Holy Ghost, born of the Virgin Mary, suffered under Pontius Pilate, was  crucified, died and was buried: he descended into hell;
+the third day he arose again from the dead; he ascended into heaven; sitteth at the right hand of God the Father almighty: from thence he shall come to judge the living and the dead.
 I believe in the Holy Ghost, the holy Catholic Church, the communion of Saints, the forgiveness of sins. The resurrection of the body. And life everlasting. Amen.
 
 [Gloria]
@@ -51,7 +52,9 @@ V. May they rest in peace.
 R. Amen.
 
 [Confiteor]
-v. I confess to almighty God, to blessed Mary ever Virgin, to blessed Michael the Archangel, to blessed John the Baptist, to the holy Apostles Peter and Paul, and to all the Saints, that I have sinned exceedingly in thought, word and deed: through my fault, through my fault, through my most grievous fault. Therefore I beseech blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, and all the Saints, to pray for me to our Lord our God.
+v. I confess to almighty God, to blessed Mary ever Virgin, to blessed Michael the Archangel, to blessed John the Baptist, to the holy Apostles Peter and Paul, and to all the Saints, that I have sinned exceedingly in thought, word and deed:
+through my fault, through my fault, through my most grievous fault.
+Therefore I beseech blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, and all the Saints, to pray for me to our Lord our God.
 
 [Misereatur]
 v. May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. Amen.
@@ -173,7 +176,8 @@ R. Amen.
 v. Lord, in union with that Divine Intention wherewith thou didst thyself praise God, whilst thou wast on earth, I offer these Hours unto thee.
 
 [Post]
-v. To the Most Holy and undivided Trinity, to the Manhood of our Lord Jesus Christ Crucified, to the fruitful Virginity of the most blessed and most glorious Mary, always a Virgin, and to the holiness of all the Saints be ascribed everlasting praise, honour, and glory, by all creatures, and to us be granted the forgiveness of all our sins, world without end.
+v. To the Most Holy and undivided Trinity, to the Manhood of our Lord Jesus Christ Crucified, to the fruitful Virginity of the most blessed and most glorious Mary, always a Virgin,
+and to the holiness of all the Saints be ascribed everlasting praise, honour, and glory, by all creatures, and to us be granted the forgiveness of all our sins, world without end.
 R. Amen. 
 _
 V. Blessed be the womb of the Virgin Mary which bore the Son of the Eternal Father. 
@@ -270,7 +274,7 @@ Gospel
 Commemoration
 
 [ThanksgivingAfterMass]
-<span class="text-sm"><i>Pope Leo XIII on the 20th of December 1884, allowed a one year indulgence for any priest saying the Canticle Tres pueri, Psalm 150 and the accompanied antiphons, versicles and prayers, and the prayers of Saint Thomas Aquinas and Saint Bonaventure as below.</i></span>
+/:sbi Pope Leo XIII on the 20th of December 1884, allowed a one year indulgence for any priest saying the Canticle Tres pueri, Psalm 150 and the accompanied antiphons, versicles and prayers, and the prayers of Saint Thomas Aquinas and Saint Bonaventure as below.:/
 Ant. Let us sing the hymn of the three children * which these holy ones sang of old in the fiery furnace, giving praise to the Lord. (Alleluia.)
 !The antiphon is only duplicated on feasts of double rite.
 !Canticum trium Puerorum
@@ -321,13 +325,14 @@ R. And let my cry come unto Thee.
 V. The Lord be with you.
 R. And with thy spirit.
 V. Let us pray.
-v. O God, who for the three boys mitigated the flames of fire: graciously grant that the flame of vices may not consume us, Thy servants. Direct, we beseech Thee, O Lord, our actions by Thy inspirations, and further them with Thy continual help: so that every prayer and work of ours may always begin from Thee, and through Thee, once begun, be finished.
+v. O God, who for the three boys mitigated the flames of fire: graciously grant that the flame of vices may not consume us, Thy servants. Direct, we beseech Thee, O Lord, our actions by Thy inspirations, and further them with Thy continual help:
+so that every prayer and work of ours may always begin from Thee, and through Thee, once begun, be finished.
 v. Grant to us, we beseech Thee, O Lord, to extinguish the flames of our vices: Thou who didst grant to blessed Lawrence to overcome the fires of his torments. Through Christ our Lord.
 R. Amen.
 
 [SaintThomasAquinas]
 # Prayer of St. Thomas Aquinas
-<span class="text-sm"><i>Indulgence of 3 years each time; if said daily during a month, a plenary indulgence on the usual conditions with a visit to a church (Pius XI, 1936).</i></span>
+/:sbi Indulgence of 3 years each time; if said daily during a month, a plenary indulgence on the usual conditions with a visit to a church (Pius XI, 1936).:/
 _
 v. I give thanks to Thee, O Lord, most holy, Father almighty, eternal God, that Thou hast vouchsafed, for no merit of mine own, but out of Thy pure mercy, to appease the hunger of my soul with the precious body and blood of Thy Son, Our Lord Jesus Christ.
 Humbly I implore Thee, let not this holy communion be to me an increase of guilt unto my punishment, but an availing plea unto pardon and salvation.
@@ -346,15 +351,17 @@ v. Pierce, O most sweet Lord Jesus, my inmost soul with the most joyous and heal
 Grant that my soul may hunger after Thee, the Bread of Angels, the refreshment of holy souls, our daily and supersubstantial bread, having all sweetness and savor and every delightful taste.
 May my heart ever hunger after and feed upon Thee, Whom the angels desire to look upon, and may my inmost soul be filled with the sweetness of Thy savor; may it ever thirst for Thee, the fountain of life, the fountain of widsom and knowledge, the fountain of eternal light, the torrent of pleasure, the fulness of the house of God;
 may it ever compass Thee, seek Thee, find Thee, run to Thee, come up to Thee, meditate on Thee, speak of Thee, and do all for the praise and glory of Thy name, with humility and discretion, with love and delight, with ease and affection, with perseverence to the end;
-and be Thou alone ever my hope, my entire confidence, my riches, my delight, my pleasure, my joy, my rest and tranquility, my peace, my sweetness, my food, my refreshment, my refuge, my help, my wisdom, my portion, my possession, my treasure; in Whom may my mind and my heart be ever fixed and firm and rooted immovably. Amen.
+and be Thou alone ever my hope, my entire confidence, my riches, my delight, my pleasure, my joy, my rest and tranquility, my peace, my sweetness, my food, my refreshment, my refuge, my help, my wisdom, my portion, my possession, my treasure;
+in Whom may my mind and my heart be ever fixed and firm and rooted immovably. Amen.
 
 [PrayerToJesusInThanksgiving]
 # Prayer to Jesus (in Thanksgiving)
-v. O LORD Jesus Christ, Son of the living God, Who according to the will of the Father, with the co-operation of the Holy Ghost, hast by Thy death given life unto the world, deliver me by Thy most sacred Body, which I, unworthy, have presumed to receive, from all my iniquities and from every evil, and make me ever to hold fast to Thy commandments and suffer me never to be separated from Thee. Amen.
+v. O LORD Jesus Christ, Son of the living God, Who according to the will of the Father, with the co-operation of the Holy Ghost, hast by Thy death given life unto the world,
+deliver me by Thy most sacred Body, which I, unworthy, have presumed to receive, from all my iniquities and from every evil, and make me ever to hold fast to Thy commandments and suffer me never to be separated from Thee. Amen.
 
 [HymnStThomasAquinas]
 # Hymn of St. Thomas Aquinas
-<span class="red, text-sm"><i>Indulgence 100 days daily by Leo PP. XIII, 20 Dec. 1884</i></span>
+/:sbi Indulgence 100 days daily by Leo PP. XIII, 20 Dec. 1884:/
 r. Godhead here in hiding, whom I do adore,
 Masked by these bare shadows, shape and nothing more,
 See, Lord, at thy service low lies here a heart
@@ -402,7 +409,7 @@ From the bottom of my heart, therefore, do I thank Thee and I firmly resolve eve
 
 [AnimaChristi]
 # Anima Christi
-<span class="text-sm"><i>An indulgence of 300 days each time; of seven years after Holy Communion. If said every day during the month, a plenary indulgence on the usual conditions. (Pius IX, 1854).</i></span>
+/:sbi An indulgence of 300 days each time; of seven years after Holy Communion. If said every day during the month, a plenary indulgence on the usual conditions. (Pius IX, 1854).:/
 v. SOUL of Christ, sanctify me.
 Body of Christ, save me.
 Blood of Christ, inebriate me.
@@ -478,11 +485,11 @@ Amen.
 
 [PrayerBeforeCrucifix]
 # Prayer before a Crucifix
+/:sbi (Pre-1968 Plenary Indulgence under normal conditions: Confession, Communion, etc. and above prayers for the Holy Father.):/
 v. BEHOLD, O Kind and most sweet Jesus, before Thy Face I humbly kneel, and with the most fervent desire of soul, I pray and beseech Thee to impress upon my heart lively sentiments of faith, hope and charity, true contrition for my sins and a firm purpose of amendment.
 _
 V. With deep affection and grief of soul, I ponder within myself, mentally contemplating Thy five Wounds, having before my eyes the words which David the Prophet spoke concerning Thee: “They have pierced my hands and my feet, they have numbered all my bones.” Amen.
 <i>Conclude with Our Father, Hail Mary & Glory Be for the Holy Father’s intentions.</i>
-<span class="red, text-sm"><i>(Pre-1968 Plenary Indulgence under normal conditions: Confession, Communion, etc. and above prayers for the Holy Father.)</i></span>
 
 [Psalm95]
 # Psalm 95 - Cantate Domino
@@ -504,10 +511,12 @@ _
 
 [PrayerStJosephAfterMass]
 # Prayer to St. Joseph After Mass
-v. Guardian of virgins and father, Saint Joseph, to whose faithful custody Innocence itself, Christ Jesus, and Mary, Virgin of virgins, was committed; I pray and beseech thee by each of these dear pledges, Jesus and Mary, that, being preserved from all uncleanness, I may with spotless mind, pure heart, and a chaste body, ever serve Jesus and Mary most chastely all the days of my life. Amen.
+v. Guardian of virgins and father, Saint Joseph, to whose faithful custody Innocence itself, Christ Jesus, and Mary, Virgin of virgins, was committed;
+I pray and beseech thee by each of these dear pledges, Jesus and Mary, that, being preserved from all uncleanness, I may with spotless mind, pure heart, and a chaste body, ever serve Jesus and Mary most chastely all the days of my life. Amen.
 
 [AllThingsNecessarySalvation]
 # Prayer for All Things Necessary to Salvation
+/:sbi (Clement XI 1649-1721, Pope and Scholar):/
 v. LORD, I believe in Thee: but let me believe more strongly. I hope in Thee: but let me hope more securely. I love Thee: but let me love Thee more ardently. I sorrow, but deepen my sorrow for my sins.
 I adore Thee as my first beginning, I long for Thee as my last end, I praise Thee as my constant benefactor, I call on Thee as my loving protector.
 Guide me by Thy wisdom, hold me with Thy justice, comfort me with Thy mercy, protect me with Thy power.
@@ -525,7 +534,6 @@ May I be ever-watchfull in guarding against my weaknesses, cherishing Thy grace,
 May I learn from Thee the passing nature of this world, the grandness of heaven, the shortness of this life, and the life to come eternal.
 Grant that I may prepare for death, fear judgment, flee from Hell, and obtain paradise.
 Grant this though Christ our Lord. Amen.
-<span class="red, text-sm"><i>(Clement XI 1649-1721, Pope and Scholar)</i></span>
 
 [TrinitarianAfterMass1]
 # Trinitarian Thanksgiving I
@@ -630,7 +638,8 @@ r. O ever-blessed Trinity, three Persons and one God, help me to live according 
 
 [FormulaIntensionisAnteMissam]
 # Statement of Intention Before Mass by Pope Gregory XIII
-v. My purpose is to celebrate Mass and to make present the Body and Blood of our Lord Jesus Christ according to the rite of the holy Roman Church to the praise of our all-powerful God and all His assembly in the glory of heaven, for my good and the good of all His pilgrim Church on earth, and for all who have asked me to pray for them in general and in particular, and for the good of the holy Roman Church.
+v. My purpose is to celebrate Mass and to make present the Body and Blood of our Lord Jesus Christ according to the rite of the holy Roman Church to the praise of our all-powerful God and all His assembly in the glory of heaven,
+for my good and the good of all His pilgrim Church on earth, and for all who have asked me to pray for them in general and in particular, and for the good of the holy Roman Church.
 r. May the almighty and merciful Lord grant us joy and peace, amendment of life, room for true repentance, the grace and comfort of the Holy Spirit and perseverance in good works. Amen.
 
 [PrayerBeforeMass]
@@ -659,13 +668,15 @@ v. ALMIGHTY, Eternal God, by ever giving strength to our weakness, Thou enable t
 
 [ForTheFaithful]
 # For the Faithful:
-v. TO ALL who live in the Truths of the Faith give grace, most tender Father, that they may lead upright and holy lives, never departing from Thy teaching. To those who as yet have not found faith in Thee, grant that before they quit this life they may believe and know the love of Thy Holy Name. Then, having known it, may they keep it firm and inviolate. Let the Sacrifice of Thy Body and Blood win pardon of the sins for the living and the dead. Amen.
+v. TO ALL who live in the Truths of the Faith give grace, most tender Father, that they may lead upright and holy lives, never departing from Thy teaching.
+To those who as yet have not found faith in Thee, grant that before they quit this life they may believe and know the love of Thy Holy Name. Then, having known it, may they keep it firm and inviolate.
+Let the Sacrifice of Thy Body and Blood win pardon of the sins for the living and the dead. Amen.
 
 [InPreparationToReceiveCommunion]
 # In Preparation to Receive Communion
-<span class="red, text-sm"><i>Direct Your Intention</i></span>
+/:sr Direct Your Intention:/
 v. O Lord Jesus Christ, King of eternal glory, behold, I desire to come to Thee today, and to receive Thy Body and Blood in this heavenly Sacrament, to Thy honor and glory, and for the benefit of my soul. I desire to receive Thee, because this is Thy desire, and so Thou hast willed: blessed be Thy Name forever.
-V. I desire to come to Thee as Magdalene did, so that I may be freed from all my evils, and embrace Thee, my only Good. I desire to come to Thee, that I may be happily united to Thee, so that henceforth I may remain in Thee, and Thou in me; and that nothing in life, nor in death, may ever separate me from Thee. Amen."
+V. I desire to come to Thee as Magdalene did, so that I may be freed from all my evils, and embrace Thee, my only Good. I desire to come to Thee, that I may be happily united to Thee, so that henceforth I may remain in Thee, and Thou in me; and that nothing in life, nor in death, may ever separate me from Thee. Amen.
 
 [CommemorateThePassionOfChrist]
 # Commemorate the Passion of Christ
@@ -710,7 +721,8 @@ v. LET the receiving of Thy Body, O Lord Jesus Christ, which I, though unworthy,
 [PrayerStThomasAquinasBeforeMass]
 # Prayer of St. Thomas Aquinas
 v. Almighty and ever-lasting God, I approach the sacrament of Thy only-begotten Son, our Lord Jesus Christ. I come sick to the doctor of life, unclean to the fountain of mercy, blind to the radiance of eternal light, and poor and needy to the Lord of heaven and earth.
-Therefore, I implore Thee in Thy great generosity, to heal my sickness, to wash away my defilement, enlighten my blindness, to enrich my poverty, and to clothe my nakedness, so that I may receive the bread of angels, the King of kings, and the Lord of lords with reverence and humility, with contrition and devotion, with purity and faith, and with such purpose and determination that will be expedient to the salvation of my soul.
+Therefore, I implore Thee in Thy great generosity, to heal my sickness, to wash away my defilement, enlighten my blindness, to enrich my poverty, and to clothe my nakedness,
+so that I may receive the bread of angels, the King of kings, and the Lord of lords with reverence and humility, with contrition and devotion, with purity and faith, and with such purpose and determination that will be expedient to the salvation of my soul.
 Grant me, I beseech Thee, that I may not only receive the Sacrament of the Body and Blood of the Lord, but also the reality and power of the Sacrament.
 O most kind God, grant that I may receive the Body of Thine only-begotten Son, our Lord Jesus Christ, born of the Virgin Mary, and so received that I may be worthy to be incorporated into His mystical body, and numbered among His members.
 O most loving Father, grant me Thy beloved Son, which I now receive under the veil of a sacrament, that I may one day behold Him face to face in glory, Who lives and reigns with Thee in the unity of the Holy Spirit, God, forever. Amen.
@@ -724,11 +736,14 @@ V. Lord Jesus Christ, Eternal King, God and man, crucified for mankind, look upo
 V. Praise to Thee saving sacrifice, offered on the wood of the cross for me and for all mankind. Praise to the noble and precious Blood, flowing from the wounds of my crucified Lord Jesus Christ and washing away the sins of the whole world.
 V. Remember, Lord, Thy creature, whom Thou hast redeemed with Thy blood; I repent my sins, and I long to put right what I have done.
 Merciful Father, take away all my offenses and sins; purify me in body and soul, and make me worthy to taste the Holy of Holies.
-May Thy Body and Blood, which I intend to receive, although I am unworthy, be for me the remission of my sins, the washing away of my guilt, the end of my evil thoughts, and the rebirth of my better instincts. May it incite me to do the works pleasing to Thee, and a firm defense of body and soul against the wiles of my enemies. Amen.
+May Thy Body and Blood, which I intend to receive, although I am unworthy, be for me the remission of my sins, the washing away of my guilt, the end of my evil thoughts, and the rebirth of my better instincts.
+May it incite me to do the works pleasing to Thee, and a firm defense of body and soul against the wiles of my enemies. Amen.
 
 [PrayerBlessedVirginMaryBeforeMass]
 # Prayer to the Blessed Virgin Mary
-v. O MOST Blessed Virgin Mary, Mother of gentleness and mercy, I, a miserable and unworthy sinner, fly to thy protection with every sentiment of humility and love; and I implore of thy loving kindness that thou wouldst vouchsafe graciously to be near me, and all who throughout the whole Church are to receive the Body and Blood of thy Son this day, even as thou wert near thy sweetest Son as He hung bleeding on the Cross. Aided by thy gracious help, may we worthily approach this august Sacrament. Amen.
+v. O MOST Blessed Virgin Mary, Mother of gentleness and mercy, I, a miserable and unworthy sinner, fly to thy protection with every sentiment of humility and love;
+and I implore of thy loving kindness that thou wouldst vouchsafe graciously to be near me, and all who throughout the whole Church are to receive the Body and Blood of thy Son this day, even as thou wert near thy sweetest Son as He hung bleeding on the Cross.
+Aided by thy gracious help, may we worthily approach this august Sacrament. Amen.
 
 [PrayerStJosephBeforeMass]
 # Prayer to St. Joseph
@@ -736,15 +751,20 @@ v. HAPPY and blessed art thou, O Joseph, to whom it was given not only to see an
 P. Pray for us, O blessed Joseph.
 S. That we may be made worthy of the promises of Christ.
 P. Let us pray.
-r. O God, who hast given unto us a royal priesthood, vouchsafe, we beseech Thee, that as Blessed Joseph was found worthy to handle with his hands, and bear within his arms, Thine only-begotten Son, born of the Virgin Mary, so may we be made fit, by cleanness of heart and innocence of works, worthily to receive the most sacred Body and Blood of Thy Son, now in this present, and deserve to attain an everlasting reward in the world to come. Through the same Christ our Lord. Amen.
+r. O God, who hast given unto us a royal priesthood, vouchsafe, we beseech Thee, that as Blessed Joseph was found worthy to handle with his hands, and bear within his arms, Thine only-begotten Son, born of the Virgin Mary,
+so may we be made fit, by cleanness of heart and innocence of works, worthily to receive the most sacred Body and Blood of Thy Son, now in this present, and deserve to attain an everlasting reward in the world to come.
+Through the same Christ our Lord. Amen.
 
 [AllTheAngelsAndSaintsBeforeMass]
 # Prayer to All the Angels and Saints
-v. Angels, Archangels, Thrones, Dominions, Principalities, Powers, Virtues of the heavens, Cherubim and Seraphim, all holy men and women of God, especially my Patrons, deign to intercede for me, so that I may be worthily able to offer this sacrifice to God Almighty, to the praise and glory of His name, and for my benefit and that of all His holy Church. Amen.
+v. Angels, Archangels, Thrones, Dominions, Principalities, Powers, Virtues of the heavens, Cherubim and Seraphim, all holy men and women of God, especially my Patrons,
+deign to intercede for me, so that I may be worthily able to offer this sacrifice to God Almighty, to the praise and glory of His name, and for my benefit and that of all His holy Church. Amen.
 
 [SaintInWhoseHonorMassIsCelebrated]
 # Prayer to the Saint in Whose Honor the Mass is Celebrated
-v. O HOLY N., behold I, a wretched sinner, relying on thy merits, now offer for thy honor and glory the most holy Sacrament of the Body and Blood of our Lord Jesus Christ. Humbly and devoutly do I beg thee to intercede for me this day, and to plead that I may have the grace to offer this great Sacrifice in a worthy and acceptable fashion and to be able to sing His praises eternally with thee and with all His elect in heaven. Who lives and reigns forever. Amen.
+v. O HOLY N., behold I, a wretched sinner, relying on thy merits, now offer for thy honor and glory the most holy Sacrament of the Body and Blood of our Lord Jesus Christ.
+Humbly and devoutly do I beg thee to intercede for me this day, and to plead that I may have the grace to offer this great Sacrifice in a worthy and acceptable fashion and to be able to sing His praises eternally with thee and with all His elect in heaven.
+Who lives and reigns forever. Amen.
 
 [FormingOfOnesIntention]
 # The Forming of One’s Intention
@@ -762,12 +782,16 @@ Amen.
 [SoulsLongingForGod]
 # Psalm 83 - Qual dilecta, anima.
 <i>The soul aspireth after heaven; rejoicing in the mean time, in being in the communion of God’s church upon earth.</i>
-v. HOW lovely are Thy tabernacles, O Lord of hosts! My soul longeth and fainteth for the courts of the Lord. My heart and my flesh have rejoiced in the living God. For the sparrow hath found herself a house, and the turtle a nest for herself where she may lay her young ones: Thy altars, O Lord of hosts, my king and my God. Blessed are they that dwell in thy house, O Lord: they shall praise Thee for ever and ever.
-r. Blessed is the man whose help is from Thee: in his heart he hath disposed to ascend by steps*, In the vale of tears, in the place which he hath set. For the lawgiver shall give a blessing, they shall go from virtue to virtue: the God of gods shall be seen in Sion. O Lord God of hosts, hear my prayer: give ear, O God of Jacob. Behold, O God our protector: and look on the face of Thy Christ.
-r. For better is one day in thy courts above thousands. I have chosen to be an abject in the house of my God, rather than to dwell in the tabernacles of sinners. For God loveth mercy and truth: the Lord will give grace and glory. He will not deprive of good things them that walk in innocence: O Lord of hosts, blessed is the man that trusteth in Thee.
+v. HOW lovely are Thy tabernacles, O Lord of hosts! My soul longeth and fainteth for the courts of the Lord. My heart and my flesh have rejoiced in the living God.
+For the sparrow hath found herself a house, and the turtle a nest for herself where she may lay her young ones: Thy altars, O Lord of hosts, my king and my God. Blessed are they that dwell in thy house, O Lord: they shall praise Thee for ever and ever.
+r. Blessed is the man whose help is from Thee: in his heart he hath disposed to ascend by steps*, In the vale of tears, in the place which he hath set.
+For the lawgiver shall give a blessing, they shall go from virtue to virtue: the God of gods shall be seen in Sion. O Lord God of hosts, hear my prayer: give ear, O God of Jacob. Behold, O God our protector: and look on the face of Thy Christ.
+r. For better is one day in thy courts above thousands. I have chosen to be an abject in the house of my God, rather than to dwell in the tabernacles of sinners.
+For God loveth mercy and truth: the Lord will give grace and glory. He will not deprive of good things them that walk in innocence: O Lord of hosts, blessed is the man that trusteth in Thee.
 <i>Gloria Patri …</i>
 _
-<i>In his heart he hath disposed to ascend by steps: Ascensiones in corde suo disposuit. As by steps men ascended to the temple of God situated on a hill; so the good Christian ascends towards the eternal temple by certain steps of virtue disposed or ordered within the heart: and this whilst he lives as yet in the body, in this vale of tears, the place which man hath set: that is, which he hath brought himself to: being cast out of paradise for his sin.</i>
+<i>In his heart he hath disposed to ascend by steps: Ascensiones in corde suo disposuit. As by steps men ascended to the temple of God situated on a hill; so the good Christian ascends towards the eternal temple by certain steps of virtue disposed or ordered within the heart:</i>
+<i>and this whilst he lives as yet in the body, in this vale of tears, the place which man hath set: that is, which he hath brought himself to: being cast out of paradise for his sin.</i>
 
 [TrinitarianPreparation1]
 # Trinitarian Preparation I
@@ -889,20 +913,23 @@ O Lord my God, from this moment on, whatever kind of death it shall please Thee 
 
 [PrayerToJesusCrucified]
 # Prayer to Jesus Crucified
-v. BEHOLD, O good and sweetest Jesus, I cast myself upon my knees in Thy sight, and with the most fervent desire of my soul I pray and beseech  Thee to impress upon my heart lively sentiments of faith, hope and charity, with true repentance for my sins and a most firm desire of amendment: whilst with deep affection and grief of soul I consider within myself and mentally contemplate Thy five most precious Wounds, having before mine eyes that which David, the prophet, long ago spoke in Thine Own person concerning Thee, my Jesus: They have pierced My hands and My feet, they have numbered all My bones. Amen.
+v. BEHOLD, O good and sweetest Jesus, I cast myself upon my knees in Thy sight, and with the most fervent desire of my soul I pray and beseech Thee to impress upon my heart lively sentiments of faith, hope and charity, with true repentance for my sins and a most firm desire of amendment:
+whilst with deep affection and grief of soul I consider within myself and mentally contemplate Thy five most precious Wounds, having before mine eyes that which David, the prophet, long ago spoke in Thine Own person concerning Thee, my Jesus: They have pierced My hands and My feet, they have numbered all My bones. Amen.
 !Psalm 21, 17, 18
 
 [OfferingOfAllMassesWorld]
 # Offering of all Masses in the World
-I unite myself with every Mass which at this time is being offered throughout the world. I place them in the hands of Mary, the Mediatrix of all grace, that she may obtain by this presentation of the Blood of Christ to the most Holy Trinity, the deliverance of souls from purgatory, relief for the sick and dying, the conversion of infidels and sinners, and the perseverance of all the faithful.
+I unite myself with every Mass which at this time is being offered throughout the world. I place them in the hands of Mary, the Mediatrix of all grace, that she may obtain by this presentation of the Blood of Christ to the most Holy Trinity,
+the deliverance of souls from purgatory, relief for the sick and dying, the conversion of infidels and sinners, and the perseverance of all the faithful.
 
 [AnOblationAfterMass]
 # An Oblation
-!From the Spiritual Exercises of St Ignatius Loyola
+/:sbi From the Spiritual Exercises of St Ignatius Loyola:/
 Take, Lord, and receive all my liberty. Receive my memory, understanding, and entire will. Whatever I have or possess, Thou hast given to me; to Thee I restore it all, and surrender it wholly to be governed by Thy will. Give me only Thy love with Thy grace, and I am rich enough, nor do I ask for anything more. Amen
 
 [PrayerForPerseverance]
 # Prayer for Perseverance
 O supreme and eternal God, I thank Thee for creating me, redeeming me by Jesus Christ, making me a Christian called to the true faith, and having waited for my repentance after so many sins.
-O infinite Bounty, I love Thee above all things, and I repent with all my heart for having offended Thee. I have confidence that Thou hast already pardoned me, but being always in danger of again falling into sin, I beg of Thee for the love of Jesus Christ, to grant me holy perseverance until death. Help me, O Lord, for Thou knowest my weakness and suffer me not again to be separated from Thee, may I die a thousand times rather than again have the misfortune of losing Thy grace,
+O infinite Bounty, I love Thee above all things, and I repent with all my heart for having offended Thee. I have confidence that Thou hast already pardoned me, but being always in danger of again falling into sin, I beg of Thee for the love of Jesus Christ, to grant me holy perseverance until death.
+Help me, O Lord, for Thou knowest my weakness and suffer me not again to be separated from Thee, may I die a thousand times rather than again have the misfortune of losing Thy grace,
 O, Mary, my Mother, obtain for me holy perseverance. Amen.

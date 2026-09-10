@@ -6,6 +6,9 @@ Feria Sexta Quattuor Temporum Septembris
 (sed rubrica 196 aut rubrica 1930)
 ;;Feria major;;4.9
 
+[SanctaMissaName]
+Ember Friday in September
+
 [Introitus]
 !Ps 104:3-4
 v. Lætétur cor quæréntium Dóminum: quǽrite Dóminum, et confirmámini: quǽrite fáciem ejus semper.

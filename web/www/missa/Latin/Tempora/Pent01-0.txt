@@ -9,8 +9,11 @@ Gloria
 Credo
 Prefatio=Trinitate
 
+[SanctaMissaName]
+Feast of the Most Holy Trinity
+
 [Introitus]
-@Tempora/Pent01-0:Introitus
+@Tempora/Pent01-0r:Introitus
 
 [Oratio]
 Omnípotens sempitérne Deus, qui dedísti fámulis tuis in confessióne veræ fídei, ætérnæ Trinitátis glóriam agnóscere, et in poténtia majestátis adoráre Unitátem: quǽsumus; ut, ejúsdem fídei firmitáte, ab ómnibus semper muniámur advérsis.

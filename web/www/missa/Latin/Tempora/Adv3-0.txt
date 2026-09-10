@@ -15,6 +15,9 @@ no Gloria
 Credo
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Third Sunday of Advent
+
 [Station]
 S. Pietro in Vaticano
 

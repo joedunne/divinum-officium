@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Vigil of the Nativity
+
 [Rank]
 Christmas Eve;;Duplex I classis;;6.1
 

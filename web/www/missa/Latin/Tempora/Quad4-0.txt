@@ -13,6 +13,9 @@ Suffragium=Sanctorum;Vivis;;
 [Station]
 S. Croce in Gerusalemme
 
+[SanctaMissaName]
+Laetare Sunday
+
 [Introitus]
 !Is 66:10 et 11
 v. Lætáre, Jerúsalem: et convéntum fácite, omnes qui dilígitis eam: gaudéte cum lætítia, qui in tristítia fuístis: ut exsultétis, et satiémini ab ubéribus consolatiónis vestræ.

@@ -1,3 +1,6 @@
+[SanctaMissaName]
+The Feast of All Saints
+
 [Rule]
 9 lectiones
 Gloria

@@ -14,6 +14,9 @@ prelude
 [Station]
 Archbasilica of Saint John Lateran
 
+[SanctaMissaName]
+Chrism Mass
+
 [Prelude]
 !The blessing of the oil of catechumens and of the sick, and the fashioning of the holy chrism, are performed according to the order described in the Roman Pontifical.
 
@@ -31,7 +34,8 @@ $Per Dominum
 [Lectio]
 Lesson from the letter of St James the Apostle
 !Jas 5:13-16
-Brethren: Is any of you sad? Let him pray. Is he cheerful in mind? Let him sing psalms. Is any man sick among you? Let him bring in the priests of the church, and let them pray over him, anointing him with oil in the name of the Lord; and the prayer of faith shall save the sick man, and the Lord shall raise him up; and if he be in sins, they shall be forgiven him. Confess therefore your sins one to another, and pray for one another, that you may be saved; for the continual prayer of a just man availeth much.
+Brethren: Is any of you sad? Let him pray. Is he cheerful in mind? Let him sing psalms. Is any man sick among you? Let him bring in the priests of the church, and let them pray over him, anointing him with oil in the name of the Lord;
+and the prayer of faith shall save the sick man, and the Lord shall raise him up; and if he be in sins, they shall be forgiven him. Confess therefore your sins one to another, and pray for one another, that you may be saved; for the continual prayer of a just man availeth much.
 
 [Graduale]
 !Ps 27:7-8
@@ -41,7 +45,9 @@ V. The Lord is the strength of His people, and the protector of the salvation of
 [Evangelium]
 Continuation + of the Holy Gospel according to Mark
 !Mark 6:7-13
-At that time: Jesus called the twelve, and began to send them out two by two, and gave them power over unclean spirits. And he commanded them that they should take nothing for the way, but a staff only; no scrip, no bread, nor money in their purse, but to be shod with sandals, and that they should not put on two coats. And he said to them: Wheresoever you shall enter into an house, there abide till you depart from that place. And whosoever shall not receive you, nor hear you; going forth from thence, shake off the dust from your feet for a testimony to them. And going forth they preached men should do penance: And they cast out many devils, and anointed with oil many that were sick, and healed them.
+At that time: Jesus called the twelve, and began to send them out two by two, and gave them power over unclean spirits. And he commanded them that they should take nothing for the way, but a staff only; no scrip, no bread, nor money in their purse, but to be shod with sandals, and that they should not put on two coats.
+And he said to them: Wheresoever you shall enter into an house, there abide till you depart from that place. And whosoever shall not receive you, nor hear you; going forth from thence, shake off the dust from your feet for a testimony to them.
+And going forth they preached men should do penance: And they cast out many devils, and anointed with oil many that were sick, and healed them.
 
 [Offertorium]
 !Ps 44:7

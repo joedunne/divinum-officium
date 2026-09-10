@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Vigil of the Ascension
+
 [Rank] (rubrica 196)
 ;;Feria;;5
 

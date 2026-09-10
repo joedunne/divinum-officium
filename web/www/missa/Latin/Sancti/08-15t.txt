@@ -6,6 +6,9 @@ Gloria
 Credo
 Prefatio=Maria=Assumptione;
 
+[SanctaMissaName]
+The Assumption of the Blessed Virgin Mary
+
 [Introitus]
 @Sancti/07-16
 

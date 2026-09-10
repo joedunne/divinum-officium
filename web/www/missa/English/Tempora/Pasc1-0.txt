@@ -11,6 +11,9 @@ Credo
 [Station]
 St. Pancras Basilica
 
+[SanctaMissaName]
+Low Sunday <Quasimodo Sunday>
+
 [Introitus]
 !1 Pet 2:2
 v. As newborn babes, alleluia, desire the rational milk without guile, alleluia, alleluia, alleluia.

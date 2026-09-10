@@ -9,6 +9,10 @@ Prefatio=Defunctorum
 celebranda aut missa prima aut missa secunda aut missa tertia
 Sequentia
 
+[SanctaMissaName]
+All Souls Day
+First Mass
+
 [Oratio]
 Fidélium, Deus, ómnium Cónditor et Redémptor: animábus famulórum famularúmque tuárum remissiónem cunctórum tríbue peccatórum; ut indulgéntiam, quam semper optavérunt, piis supplicatiónibus consequántur:
 $Qui vivis

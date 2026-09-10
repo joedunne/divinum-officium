@@ -10,6 +10,9 @@ Credo
 Prefatio=Cord (rubrica divino)
 Prefatio1960=Trinitate
 
+[SanctaMissaName]
+Third Sunday after Pentecost
+
 [Introitus]
 !Ps. 24:16; 24:18
 v. Réspice in me et miserére mei, Dómine: quóniam únicus et pauper sum ego: vide humilitátem meam et labórem meum: et dimítte ómnia peccáta mea, Deus meus.

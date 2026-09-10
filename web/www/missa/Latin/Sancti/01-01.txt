@@ -10,6 +10,9 @@ Prefatio=Nat
 [Station]
 S. Maria in Trastevere
 
+[SanctaMissaName]
+The Circumcision of Our Lord
+
 [Introitus]
 @Tempora/Nat30
 

@@ -8,6 +8,9 @@ Credo
 Prefatio=Regis
 Festum Domini
 
+[SanctaMissaName]
+Feast of Christ the King
+
 [Introitus]
 !Apoc 5:12; 1:6
 v. Worthy is the Lamb Who was slain to receive power, and divinity, and wisdom, and strength, and honor.  To Him belong glory and dominion forever and ever. 

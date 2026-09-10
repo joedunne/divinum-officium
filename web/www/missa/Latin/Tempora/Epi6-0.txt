@@ -9,6 +9,9 @@ Gloria
 Credo
 Prefatio=Trinitate
 
+[SanctaMissaName]
+Sixth Sunday after Epiphany
+
 [Introitus]
 @Tempora/Epi3-0:Introitus
 

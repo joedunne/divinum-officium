@@ -10,6 +10,9 @@ Dominica Infra Octavam Nativitatis
 [Rank] (rubrica tridentina)
 ;;Semiduplex;;2.93;;ex Sancti/12-25
 
+[SanctaMissaName]
+Sunday within the Octave of the Nativity
+
 [Rule]
 Gloria
 Credo

@@ -1,3 +1,6 @@
+[SanctaMissaName]
+The Purification of the Blessed Virgin Mary <Candlemas>
+
 [Rank]
 In Purificatione Beatae Mariae Virginis;;Duplex 2 class;;5.1;;ex C11
 

@@ -11,6 +11,9 @@ Sabbato Quattuor Temporum Septembris
 (si missa brevior et rubrica 1960) LectioL1
 LectioL5
 
+[SanctaMissaName]
+Ember Saturday in September
+
 [Introitus]
 !Ps 94:6-7
 v. Veníte, adorémus Deum et procidámus ante Dóminum, plorémus ante eum, qui fecit nos: quia ipse est Dóminus, Deus noster.

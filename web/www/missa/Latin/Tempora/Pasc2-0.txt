@@ -9,6 +9,9 @@ Gloria
 Credo
 Suffr=Maria3;Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Second Sunday after Easter
+
 [Introitus]
 !Ps 32:5-6
 v. Misericórdia Dómini plena est terra, allelúja: verbo Dómini cœli firmáti sunt, allelúja, allelúja.

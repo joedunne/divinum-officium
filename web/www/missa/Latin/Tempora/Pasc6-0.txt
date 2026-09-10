@@ -13,6 +13,9 @@ ex Tempora/Pasc5-4;
 Gloria
 Credo
 
+[SanctaMissaName]
+Sunday within the Octave of the Ascension
+
 [Introitus]
 !Ps 26:7; 26:8; 26:9
 v. Exáudi, Dómine, vocem meam, qua clamávi ad te, allelúja: tibi dixit cor meum, quæsívi vultum tuum, vultum tuum, Dómine, requíram: ne avértas fáciem tuam a me, allelúja, allelúja.

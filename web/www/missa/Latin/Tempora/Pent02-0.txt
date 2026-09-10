@@ -13,6 +13,9 @@ Credo
 Prefatio=Nat
 Prefatio1960=Trinitate
 
+[SanctaMissaName]
+Second Sunday after Pentecost
+
 [Introitus]
 !Ps 17:19-20
 v. Factus est Dóminus protéctor meus, et edúxit me in latitúdinem: salvum me fecit, quóniam vóluit me.

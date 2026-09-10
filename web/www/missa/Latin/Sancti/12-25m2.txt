@@ -10,6 +10,10 @@ Credo
 Prefatio=Nat
 celebranda aut missa prima aut missa secunda aut missa tertia
 
+[SanctaMissaName]
+The Nativity of Our Lord
+Second Mass at Dawn
+
 [Station]
 S. Anastasia
 

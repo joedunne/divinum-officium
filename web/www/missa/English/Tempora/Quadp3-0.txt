@@ -10,6 +10,9 @@
 [Officium]
 Dominica in Quinquagesima
 
+[SanctaMissaName]
+Quinquagesima Sunday
+
 [Rule]
 no Gloria
 Credo

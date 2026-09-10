@@ -10,6 +10,9 @@ Credo
 Prefatio=Trinitate
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Seventeenth Sunday after Pentecost
+
 [Introitus]
 !Ps 118:137; 118:124
 v. Justus es, Dómine, et rectum judícium tuum: fac cum servo tuo secúndum misericórdiam tuam.

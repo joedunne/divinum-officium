@@ -7,6 +7,10 @@ Gloria
 Credo
 Prefatio=Maria=Conceptióne immaculáta;
 
+
+[SanctaMissaName]
+The Immaculate Conception of the Blessed Virgin Mary
+
 [Oratio]
 Famulis tuis, quǽsumus Domine, cælestis gratiæ munus impertire: ut quibus beatæ Virginis partus exstitit salutis exordium, Conceptionis ejus votiva solemnitas pacis tribuat incrementum.
 $Per Dominum

@@ -1,3 +1,6 @@
+[SanctaMissaName]
+The Circumcision of Our Lord
+
 [Rule]
 ex Sancti/12-25m3;
 Gloria

@@ -8,31 +8,44 @@ Prefatio=Pasch;
 [Station]
 Archbasilica of Saint John Lateran
 
+[SanctaMissaName]
+Holy Saturday
+
 [Prelude]
 !! The Blessing of the Fire
-! At a convenient time, the altar is prepared, and the Hours are recited in choir, but the candles are not lighted until the beginning of Mass.  Meanwhile fire is struck from a flint outside the church and coals are kindled from it. Near at hand lies a vessel containing five large grains of incense to be set in the paschal candle.  The celebrant wearing amice, alb, girdle, stole and purple cope, goes to the church door accompanied by his ministers with the processional cross, holy water and incense, and blesses the new fire. -- The liturgy makes use of the fire or light as a symbol of Christ, whose teaching enlightens the minds of the faithful and whose grace enkindles thir hearts.  Hence the importance attached to the blessing of the candles on February 2, and the blessing of the new fire and paschal candle on this day. The priest first blesses the new fire, saying:
-V.  The Lord be with you.
-R.  And with thy spirit.
+! At a convenient time, the altar is prepared, and the Hours are recited in choir, but the candles are not lighted until the beginning of Mass.  Meanwhile fire is struck from a flint outside the church and coals are kindled from it. Near at hand lies a vessel containing five large grains of incense to be set in the paschal candle.
+!The celebrant wearing amice, alb, girdle, stole and purple cope, goes to the church door accompanied by his ministers with the processional cross, holy water and incense, and blesses the new fire.
+!The liturgy makes use of the fire or light as a symbol of Christ, whose teaching enlightens the minds of the faithful and whose grace enkindles their hearts.
+!Hence the importance attached to the blessing of the candles on February 2, and the blessing of the new fire and paschal candle on this day. The priest first blesses the new fire, saying:
+&DominusVobiscum
 v. Let us pray. 
-O God, Who hast bestowed on the faithful the fire of Thy brightness by Thy Son, Who is the Corner-stone, hallow + this new fire produced from a flint that it may be profitable to us: and grant that during this Paschal festival we may be so inflamed with heavenly desires, that with pure minds we may come to the solemnity of perpetual light.  Through the same Christ our Lord.  
+O God, Who hast bestowed on the faithful the fire of Thy brightness by Thy Son, Who is the Corner-stone, hallow + this new fire produced from a flint that it may be profitable to us:
+and grant that during this Paschal festival we may be so inflamed with heavenly desires, that with pure minds we may come to the solemnity of perpetual light.  Through the same Christ our Lord.
 R.  Amen.
 _
 _
 v.  Let us pray. 
-O Lord God, almighty Father, never-failing Light, Who art the Creator of all lights, bless this light that is blessed + and sanctified by Thee, Who hast enlightened the whole world: that we may be inflamed with that light and englithened by the fire of Thy brightness: and as Thou didst give light to Moses when he went out of Egypt, so nlighten our hearts and senses, that we may be found worthy to arrive at light and life everlasting.  Through Christ our Lord.  
+O Lord God, almighty Father, never-failing Light, Who art the Creator of all lights, bless this light that is blessed + and sanctified by Thee, Who hast enlightened the whole world:
+that we may be inflamed with that light and enlightened by the fire of Thy brightness: and as Thou didst give light to Moses when he went out of Egypt, so enlighten our hearts and senses, that we may be found worthy to arrive at light and life everlasting.
+Through Christ our Lord.
 R. Amen.
 _
 _
 v. Let us pray. 
-O holy Lord, almighty Father, everlasting God: vouchsafe to co-operate with us, who bless this fire in Thy Name, and in that of Thine only-begotten Son Jesus Christ our Lord and God, and of the Holy Ghost: help us against the fiery darts of the enemy, and illumine us with Thy heavenly grace.  Who livest and reignest with the same Thine only-begotten Son and the Holy Ghost, one God, for ever and ever. 
+O holy Lord, almighty Father, everlasting God: vouchsafe to co-operate with us, who bless this fire in Thy Name, and in that of Thine only-begotten Son Jesus Christ our Lord and God, and of the Holy Ghost:
+help us against the fiery darts of the enemy, and illumine us with Thy heavenly grace.  Who livest and reignest with the same Thine only-begotten Son and the Holy Ghost, one God, for ever and ever.
  R.  Amen.
 _
 _
 !   He then blesses the five grains of incense to be placed in the paschal candle, saying the following prayer:
-v. May the abundant outpouring of Thy + blessing, we beseech Thee, almighty God, descend upon this incense: and do Thou, O invisible Regenerator, lighten this nocturnal brightness, that not only the sacrifice that is offered this night may shine by the secret mixture of Thy light: but also into whatever place anything of this mysterious sanctification shall be brought, there the power of Thy Majesty may be present and all the malicious artifices of Satan may be defeated.  Through Christ our Lord.  
+v. May the abundant outpouring of Thy + blessing, we beseech Thee, almighty God, descend upon this incense: and do Thou, O invisible Regenerator, lighten this nocturnal brightness, that not only the sacrifice that is offered this night may shine by the secret mixture of Thy light:
+but also into whatever place anything of this mysterious sanctification shall be brought, there the power of Thy Majesty may be present and all the malicious artifices of Satan may be defeated.  Through Christ our Lord.
 R. Amen.
 _
-!   During this prayer an acolyte fills the thurible with coals from the blessed fire.  The celebrant then puts incense into the thurible, blessing it in the usual manner: he sprinkles the grains of incense and the new fire thrice with holy water, saying the Asperges Me, without the psalm, and thrice incenses them.  All the lamps in the church are extinguished, that they may afterward be lighted from the blessed fire. The deacon, vested in a white dalmatic, now takes up a reed with a triple candle fixed on the top: and all enter the church.  The thurifer goes first, with an acolyte carring in a dish the five grains of incense; the subdeacon follows with the cross, and the clergy in order; then the deacon with the reed and after him the officiating priest.  When the deacon has entered the church, he lowers the reed, and an acolyte, bringing a taper lighted from the new fire, lights one of the three candles set on the top; and the deacon, raising the reed, kneels down, as do all the rest, except the subdeacon who carries the cross, and sings:
+!   During this prayer an acolyte fills the thurible with coals from the blessed fire.  The celebrant then puts incense into the thurible, blessing it in the usual manner: he sprinkles the grains of incense and the new fire thrice with holy water, saying the Asperges Me, without the psalm, and thrice incenses them.
+!All the lamps in the church are extinguished, that they may afterward be lighted from the blessed fire. The deacon, vested in a white dalmatic, now takes up a reed with a triple candle fixed on the top: and all enter the church.
+!The thurifer goes first, with an acolyte carring in a dish the five grains of incense; the subdeacon follows with the cross, and the clergy in order; then the deacon with the reed and after him the officiating priest.
+!When the deacon has entered the church, he lowers the reed, and an acolyte, bringing a taper lighted from the new fire, lights one of the three candles set on the top; and the deacon, raising the reed, kneels down, as do all the rest, except the subdeacon who carries the cross, and sings:
 V. The light of Christ.
 R.  Thanks be to God.
 !   In the middle of the church the second branch of the candle is lighted, with the same ceremonies; and the third branch is lighted in the sanctuary, the deacon each time singing: Lumen Christi on a higher tone.
@@ -47,10 +60,18 @@ _
 !   The celebrant goes up to the epistle corner; and the deacon takes the book and asks the priest's blessing, as at the gospel; the blessing is given in the following words:
 v. May the Lord be in thy heart and on thy lips, that thou mayest worthily and fitly proclaim His Paschal praise.  In the Name of the Father, and of the Son, + and of the Holy Ghost. 
 R.  Amen.
-!   Then the deacon goes up to the lectern, puts the book on it and incenses it.  At his right hand stands the subdeacon with the cross, and the thurifer, at his left two acoltyes holding the reed and the grains of incense which are to be fixed in the candle.  All rise and stand as at the Gospel, and the deacon sings the Exsultet which is remarkable for its lyric beauty and symbolism and contains allusions to the Jewish Pasch and Christian Baptism.  We are reminded here that the whole of this Office was originally a Vigil and took place during the night between Saturday and Sunday.  The Mass which closes it was said at dawn on Easter Sunday.  The expressions as those of the Exsultet: haec nox est . . .; O vere beata nox . . .; etc., and those of the Mass: Deus, qui hanc sacratissimam noctem . . . (Collect), and of the Canon et noctem sacratissimam . . . -- recall the fact that it was during the night (nox) that this service was originally held.
+!   Then the deacon goes up to the lectern, puts the book on it and incenses it.  At his right hand stands the subdeacon with the cross, and the thurifer, at his left two acoltyes holding the reed and the grains of incense which are to be fixed in the candle.
+!All rise and stand as at the Gospel, and the deacon sings the Exsultet which is remarkable for its lyric beauty and symbolism and contains allusions to the Jewish Pasch and Christian Baptism.  We are reminded here that the whole of this Office was originally a Vigil and took place during the night between Saturday and Sunday.
+!The Mass which closes it was said at dawn on Easter Sunday.  The expressions as those of the Exsultet: haec nox est . . .; O vere beata nox . . .; etc., and those of the Mass:
+!Deus, qui hanc sacratissimam noctem . . . (Collect), and of the Canon et noctem sacratissimam . . . -- recall the fact that it was during the night (nox) that this service was originally held.
 _
 !   The deacon proceeds to the blessing of the paschal candle, while singing:
-v. Let the angelic choirs of Heaven now rejoice; let the divine Mysteries rejoice; and let the trumpet of salvation sound forth the victory of so great a King.  Let the earth also rejoice, made radiant by such splendor; and, enlightened with the brightness of the eternal King, let it know that the darkness of the whole world is scattered.  Let our mother the Church also rejoice, adorned with the brightness of so great a light; and let this temple resound with the loud acclamations of the people.  Wherefore I beseech you, most beloved brethren, who are here present in the wondrous brightness of this holy light, to invoke with me the mercy of almighty God.  That He who has vouchsafed to admit me among the Levites, without any merits of mine, would pour forth the brightness of His light upon me, and enable me to perfect the praise of this wax candle.  Through our Lord Jesus Christ His Son, Who with Him and the Holy Ghost liveth and reigneth one God for ever and ever.  
+v. Let the angelic choirs of Heaven now rejoice; let the divine Mysteries rejoice; and let the trumpet of salvation sound forth the victory of so great a King.
+Let the earth also rejoice, made radiant by such splendor; and, enlightened with the brightness of the eternal King, let it know that the darkness of the whole world is scattered.
+Let our mother the Church also rejoice, adorned with the brightness of so great a light; and let this temple resound with the loud acclamations of the people.
+Wherefore I beseech you, most beloved brethren, who are here present in the wondrous brightness of this holy light, to invoke with me the mercy of almighty God.
+That He who has vouchsafed to admit me among the Levites, without any merits of mine, would pour forth the brightness of His light upon me, and enable me to perfect the praise of this wax candle.
+Through our Lord Jesus Christ His Son, Who with Him and the Holy Ghost liveth and reigneth one God for ever and ever.
 R. Amen.
 V. The Lord be with you.
 R. And with thy spirit.
@@ -58,21 +79,32 @@ V. Lift up your hearts.
 R. We have them lifted up to the Lord.
 V. Let us give thanks to the Lord our God.
 R. It is meet and just.
-v. It is truly meet and right to proclaim with all our heart and all the affection of our mind, and with the ministry of our voices, the invisible God, the Father almighty, and His only-begotten Son our Lord Jesus Christ, who repaid for us to His eternal Father the debt of Adam, and by the merciful shedding of His Blood, cancelled the debt incurred by original sin.  For this is the Paschal Festival; in which that true Lamb is slain, with Whose Blood the doorposts of the faithful are consecrated.  This is the night in which Thou didst formerly cause our forefathers, the children of Israel, when brought out of Egypt, to pass through the Red Sea with dry foot.  This, therefore, is the night which dissipated the darkness of sinners by the light of the pillar.  This is the night which at this time throughout the world restores to grace and unites in sanctity those that believe in Christ, and are separated from the vices of the world and the darkness of sinners.  This is the night in which, destroying the chains of death, Christ arose victorious from the grave.  For it would have profited us nothing to have been born, unless redemption had also been bestowed upon us.  O wondrous condescension of Thy mercy towards us!  O inestimable affection of love: that Thou mightest redeem a slave, Thou didst deliver up Thy Son!  O truly needful sin of Adam, which was blotted out by the death of Christ!  O happy fault, that merited to possess such and so great a Redeemer!  O truly blessed night, which alone deserved to know the time and hour when Christ rose again from hell!  This is the night of which it is written: And the night shall be as clear as the day; and the night is my light in my delights.  Therefore the hallowing of this night puts to flight all wickedness, cleanses sins, and restores innocence to the fallen, and gladness to the sorrowful.  It drives forth hatreds, it prepares concord, and brings down haughtiness.
+v. It is truly meet and right to proclaim with all our heart and all the affection of our mind, and with the ministry of our voices, the invisible God, the Father almighty, and His only-begotten Son our Lord Jesus Christ,
+who repaid for us to His eternal Father the debt of Adam, and by the merciful shedding of His Blood, cancelled the debt incurred by original sin.  For this is the Paschal Festival;
+in which that true Lamb is slain, with Whose Blood the doorposts of the faithful are consecrated.  This is the night in which Thou didst formerly cause our forefathers, the children of Israel, when brought out of Egypt, to pass through the Red Sea with dry foot.
+This, therefore, is the night which dissipated the darkness of sinners by the light of the pillar.  This is the night which at this time throughout the world restores to grace and unites in sanctity those that believe in Christ, and are separated from the vices of the world and the darkness of sinners.
+This is the night in which, destroying the chains of death, Christ arose victorious from the grave.  For it would have profited us nothing to have been born, unless redemption had also been bestowed upon us.
+O wondrous condescension of Thy mercy towards us!  O inestimable affection of love: that Thou mightest redeem a slave, Thou didst deliver up Thy Son!  O truly needful sin of Adam, which was blotted out by the death of Christ!
+O happy fault, that merited to possess such and so great a Redeemer!  O truly blessed night, which alone deserved to know the time and hour when Christ rose again from hell!  This is the night of which it is written: And the night shall be as clear as the day; and the night is my light in my delights.
+Therefore the hallowing of this night puts to flight all wickedness, cleanses sins, and restores innocence to the fallen, and gladness to the sorrowful.  It drives forth hatreds, it prepares concord, and brings down haughtiness.
 _
 !   Here the deacon fixes the five blessed grains of incense in the paschal candle in the form of a cross.
-v. Wherefore, in this sacred night, receive, O holy Father, the evening sacrifice of this incense, which holy Church renders to Thee by the hands of Thy ministers in the solemn offering of this wax candle, made out the work of bees.  Now also we know the praises of this pillar, which the shining fire enkindles to the honor of God.
+v. Wherefore, in this sacred night, receive, O holy Father, the evening sacrifice of this incense, which holy Church renders to Thee by the hands of Thy ministers in the solemn offering of this wax candle, made out of the work of bees.  Now also we know the praises of this pillar, which the shining fire enkindles to the honor of God.
 _
 !   Here the deacon lights the paschal candel with one of the three candles on the reed.
 v. Which fire, although divided into parts, suffers no loss from its light being borrowed.  For it is nourished by the melting wax, which the mother bee produced for the substance of this precious light.
 _
 !   Here the lamps are lighted.
-v. O truly blessed night, which plundered the Egyptians and enriched the Hebrews!  A night in which heavenly things are united to those of earth, and things divine to those which are of man.  We beseech Thee, therefore, O Lord, that this wax candle hallowed in honor of Thy Name, may continue to burn to dissipate the darkness of this night.  And being accepted as a sweet savor, may be united with the heavenly lights.  Let the morning star find its flame alight.  That star, I mean, which knows no setting.  He Who returning from hell, serenely shone forth upon mankind.  We beseech Thee therefore, O Lord, that Thou wouldst grant peaceful times during this Paschal Festival, and vouchsafe to rule, govern, and keep with Thy constant protection us Thy servants, and all the clergy, and the devout people, together with our most holy Father, Pope N...., and our Bishop N....  Through the same Jesus Christ, Thy Son, our Lord, who with Thee and the Holy Ghost liveth and reigneth one God for ever and ever.  
+v. O truly blessed night, which plundered the Egyptians and enriched the Hebrews!  A night in which heavenly things are united to those of earth, and things divine to those which are of man.  We beseech Thee, therefore, O Lord, that this wax candle hallowed in honor of Thy Name, may continue to burn to dissipate the darkness of this night.
+And being accepted as a sweet savor, may be united with the heavenly lights.  Let the morning star find its flame alight.  That star, I mean, which knows no setting.  He Who returning from hell, serenely shone forth upon mankind.
+We beseech Thee therefore, O Lord, that Thou wouldst grant peaceful times during this Paschal Festival, and vouchsafe to rule, govern, and keep with Thy constant protection us Thy servants, and all the clergy, and the devout people, together with our most holy Father, Pope N...., and our Bishop N....
+Through the same Jesus Christ, Thy Son, our Lord, who with Thee and the Holy Ghost liveth and reigneth one God for ever and ever.
 R.  Amen.
 _
 _
 !! The Reading of the Prophecies
-!   After the blessing of the paschal candle the deacon lays aside his white dalmatic and puts on a purple one, and the officiating priest takes off his purple cope and puts on a purple chasuble.  The prophecies are then chanted without any title, while the celebrant, standing at the epistle corner, reads them in a low voice.  The twelve prophecies were formerly addressed to the catechumens, who would find therein outlined the principal points of Christian Doctrine; they were interspersed with prayers and tracts which sum up or explain the teaching contained in the Lessons just read.
+!   After the blessing of the paschal candle the deacon lays aside his white dalmatic and puts on a purple one, and the officiating priest takes off his purple cope and puts on a purple chasuble.  The prophecies are then chanted without any title, while the celebrant, standing at the epistle corner, reads them in a low voice.
+! The twelve prophecies were formerly addressed to the catechumens, who would find therein outlined the principal points of Christian Doctrine; they were interspersed with prayers and tracts which sum up or explain the teaching contained in the Lessons just read.
 !The first Prophecy
 !Gen. 1:1-31; 2:1-2
 ! The creation of the world. -- The man created after the image of God and His likeness had dominion over all living creatures.
@@ -451,12 +483,16 @@ _
 P. Our help + is in the Name of the Lord.
 S. Who made heaven and earth.
 ! Then, joining his hands, and humbly bowing down, he says the Confiteor:
-P. I confess to almighty God, to the blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, to all the Saints, and to you, brothers, that I have sinned exceedingly in thought, word, and deed, (Here he strikes his breast thrice.) through my fault, through my fault, through my most grievous fault. Therefore I beseech the blessed Mary, ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, brothers, to pray to the Lord our God for me.
-!x!S. May almighty God be merciful to thee, and forgiving thy sins, bring thee to everlasting life.
-!x!! The priest answers:
-!x!P. Amen.
-!x!! The server says the Confiteor.
-!x!S. I confess to almighty God, to the blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, to all the Saints, and to you, Father, that I have sinned exceedingly in thought, word, and deed, through my fault, through my fault, through my most grievous fault. Therefore I beseech the blessed Mary, ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, Father, to pray to the Lord our God for me.
+P. I confess to almighty God, to the blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, to all the Saints, and to you, brothers, that I have sinned exceedingly in thought, word, and deed,
+/:Here he strikes his breast thrice.:/ through my fault, through my fault, through my most grievous fault.
+Therefore I beseech the blessed Mary, ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, brothers, to pray to the Lord our God for me.
+S. May almighty God be merciful to thee, and forgiving thy sins, bring thee to everlasting life.
+!The priest answers:
+P. Amen.
+!The server says the Confiteor.
+S. I confess to almighty God, to the blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, to all the Saints, and to you, Father, that I have sinned exceedingly in thought, word, and deed,
+through my fault, through my fault, through my most grievous fault.
+Therefore I beseech the blessed Mary, ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, Father, to pray to the Lord our God for me.
 ! Then the priest, with his hands joined, says:
 P. May almighty God be merciful to you, and forgiving your sins, bring you to everlasting life.
 S. Amen.
@@ -543,7 +579,7 @@ P. The Lord be with you.
 S. And with thy spirit.
 Continuation ++ of the holy Gospel according to St. Matthew. 
 !Matt 28:1-7
-And in the end of the Sabbath, when it began to dawn toward the first day of the week, came Mary Magdalen and the other Mary to see the sepulchre. And behold there was a great earthquake. For an Angel of the Lord descended from heaven, and coming, rolled back the stone and sat upon it: and his countenance was as lightening and his raiment as snow. And for fear of him the guards were struck with terror and became as dead men. And the Angel answering, said to the women: Fear not you: for I know that you seek Jesus who was crucified: He is not here: for He is risen, as He said. Come and see the place where the Lord was laid. And going quickly, tell ye His disciples that He is risen: and behold He will go before you into Galilee: there you shall see Him. Lo, I have foretold it to you.
+And in the end of the Sabbath, when it began to dawn toward the first day of the week, came Mary Magdalen and the other Mary to see the sepulchre. And behold there was a great earthquake. For an Angel of the Lord descended from heaven, and coming, rolled back the stone and sat upon it: and his countenance was as lightning and his raiment as snow. And for fear of him the guards were struck with terror and became as dead men. And the Angel answering, said to the women: Fear not you: for I know that you seek Jesus who was crucified: He is not here: for He is risen, as He said. Come and see the place where the Lord was laid. And going quickly, tell ye His disciples that He is risen: and behold He will go before you into Galilee: there you shall see Him. Lo, I have foretold it to you.
 $Laus tibi
 _
 _
@@ -739,8 +775,27 @@ v. The Blood of our Lord Jesus Christ preserve my soul unto life everlasting. Am
 _
 _
 !!Communio Populi
+!If Holy Communion is to be distributed, the server says the Confiteor.
+!
+S. I confess to almighty God, to the blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, to all the Saints, and to you, Father, that I have sinned exceedingly in thought, word, and deed,
+/:Here he strikes his breast thrice:/ through my fault, through my fault, through my most grievous fault.
+Therefore I beseech the blessed Mary, ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, all the Saints, and you, Father, to pray to the Lord our God for me.
+!After which the priest communicates those who are to communicate, if there be any, saying:
+P. May almighty God have mercy upon you, forgive you your sins, and bring you unto life everlasting.
+S. Amen.
+!Making the Sign of the Cross, he continues:
+P. May the almighty and merciful Lord grant you pardon, † absolution, and remission of your sins.
+S. Amen.
+!Elevating a particle of the Blessed Sacrament and turning towards the people, he says:
+P. Behold the Lamb of God, behold Him who taketh away the sins of the world.
+!And then he says three times:
+S. Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed.
+S. Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed.
+S. Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed.
+!He administers the communion, saying to each:
+P. The Body of our Lord Jesus Christ preserve thy soul unto life everlasting. Amen.
+!
 wait16
-{ Soul of Christ, sanctify me. Body of Christ, save me. Blood of Christ, inebriate me. Water from Christ's side, wash me. Passion of Christ, strengthen me. O good Jesus, hear me. Within Thy wounds hide me. Suffer me not to be separated from Thee. From the malicious enemy defend me. In the hour of my death call me. And bid me come unto Thee. That I may praise Thee with Thy saints. and with Thy angels, Forever and ever. Amen. }
 _
 _
 ! The priest says silently:

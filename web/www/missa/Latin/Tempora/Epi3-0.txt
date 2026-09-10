@@ -9,6 +9,9 @@ Gloria
 Credo
 Prefatio=Trinitate
 
+[SanctaMissaName]
+Third Sunday after Epiphany
+
 [Introitus]
 !Ps 96:7-8
 v. Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ.

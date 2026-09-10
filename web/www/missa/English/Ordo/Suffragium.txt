@@ -59,7 +59,7 @@ $Per Dominum
 
 [Secreta Papa]
 !for the Pope
-Look down favorably, O Lord, we beseech thee, upon the gifts we have offered: and let thy constant protection direct thy servant Leo, whom tho hast chosen to be the chief pastor of the Church.
+Look down favorably, O Lord, we beseech thee, upon the gifts we have offered: and let thy constant protection direct thy servant Leo, whom thou hast chosen to be the chief pastor of the Church.
 $Per Dominum
 
 [Postcommunio Papa]
@@ -69,7 +69,8 @@ $Per Dominum
 
 [Oratio Sanctorum]
 !Collect of the Saints
-From all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints, graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.
+From all perils of soul and body defend us, O Lord, we beseech thee, and by the intercession of blessed and gloriosus ever Virgin Mary, Mother of God, of blessed Joseph, of thy blessed apostles Peter and Paul, and of blessed N. and all the Saints,
+graciously grant us safety and peace that all adversities and errors being overcome, thy Church may serve thee in security and freedom.
 $Per eundem
 
 [Secreta Sanctorum]
@@ -99,7 +100,8 @@ $Per Dominum eiusdem
 
 [Oratio Vivis]
 !pro vivis et mortuos
-Almighty and eternal God, who has dominion over both the living and the dead, and has mercy upon all whom You foreknow will be Yours by faith and good works; we humbly beseech You that all for whom we have resolved to make supplication, whether the present world home still holds them in the flesh or the world to come holds them out of the body, may, through the intercession of Your saints, obtain of Your goodness and clemency pardon for all their sins.
+Almighty and eternal God, who has dominion over both the living and the dead, and has mercy upon all whom You foreknow will be Yours by faith and good works;
+we humbly beseech You that all for whom we have resolved to make supplication, whether the present world home still holds them in the flesh or the world to come holds them out of the body, may, through the intercession of Your saints, obtain of Your goodness and clemency pardon for all their sins.
 $Per Dominum
 
 [Secreta Vivis]
@@ -109,7 +111,8 @@ $Per Dominum
 
 [Postcommunio Vivis]
 !pro vivis et mortuos
-May the Sacraments which we have received purify us, we beseech Thee, O almighty and merciful Lord; and through the intercession of all the saints, grant that this Thy Sacrament may not be unto us a condemnation, but a salutory intercession for pardon; may it be the washing away of sin, the strength of the weak, a protection against all dangers of the world, and a remission of all the sins of the faithful, whether living or dead. 
+May the Sacraments which we have received purify us, we beseech Thee, O almighty and merciful Lord; and through the intercession of all the saints, grant that this Thy Sacrament may not be unto us a condemnation, but a salutory intercession for pardon;
+may it be the washing away of sin, the strength of the weak, a protection against all dangers of the world, and a remission of all the sins of the faithful, whether living or dead.
 $Per Dominum
 
 [ad libitum]

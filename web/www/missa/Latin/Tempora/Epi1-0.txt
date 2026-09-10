@@ -12,6 +12,9 @@ Credo
 Prefatio=Epi
 No Sunday Commemoratio
 
+[SanctaMissaName]
+Feast of the Holy Family
+
 [Introitus]
 !Prov 23:24; 23:25
 v. Exsúltet gáudio pater Justi, gáudeat Pater tuus et Mater tua, et exsúltet quæ génuit te.

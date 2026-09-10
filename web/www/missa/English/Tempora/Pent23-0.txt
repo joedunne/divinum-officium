@@ -4,6 +4,9 @@
 [Officium]
 Dominica XXIII Post Pentecosten
 
+[SanctaMissaName]
+Twenty-Third Sunday after Pentecost
+
 [Introitus]
 !Jer 29:11-12; 29:14
 v. The Lord says: “I think thoughts of peace, and not of affliction. You shall call upon Me, and I will hear you; and I will bring back your captivity from all places.”

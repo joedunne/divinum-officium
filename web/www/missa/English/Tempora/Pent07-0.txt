@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Seventh Sunday after Pentecost
+
 [Rank]
 ;;Semiduplex;;5
 

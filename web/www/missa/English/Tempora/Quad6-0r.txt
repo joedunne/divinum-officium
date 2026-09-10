@@ -16,6 +16,9 @@ no Ultima Evangelium
 [Station]
 Archbasilica of Saint John Lateran
 
+[SanctaMissaName]
+Palm Sunday
+
 [Prelude]
 #The Blessing of the Palms,
 ! The priest in red cope, with his ministers also vested in red, proceeds to the blessing of palms, or of branches of olive or other trees which are placed in front or on the epistle side of the altar.
@@ -79,7 +82,11 @@ $Dominus vobiscum
 Continuation ++ of the holy Gospel according to Matthew.
 R. Glory be to Thee, O Lord.
 !Matt 21:1-9
-At that time, when Jesus drew nigh to Jerusalem, and was come to Bethphage, unto Mount Olivet, then He sent two disciples, saying to them: Go ye into the village that is over against you, and immediately you shall find an ass tied, and a colt with her: loose them and bring them to Me.  And if any man shall say anything to you, say ye, that the Lord hath need of them: and forthwith he will let them go.  Now all this was done that it might be fulfilled which was spoken by the prophet, saying: Tell ye the daughter of Sion: Behold thy King cometh to thee, meek, and sitting upon an ass, and a colt the foal of her that is used to the yoke.  And the disciples going, did as Jesus commanded them.  And they brought the ass and the colt, and laid their garments upon them, and made him sit thereon.  And a very great multitude spread their garments in the way: and others cut boughs from the trees, and strewed them in the way, and the multitudes that went before and that followed, cried, saying: Hosanna to the Son of David: Blessed is He that cometh in the name of the Lord.
+At that time, when Jesus drew nigh to Jerusalem, and was come to Bethphage, unto Mount Olivet, then He sent two disciples, saying to them:
+Go ye into the village that is over against you, and immediately you shall find an ass tied, and a colt with her: loose them and bring them to Me.  And if any man shall say anything to you, say ye, that the Lord hath need of them: and forthwith he will let them go.
+ Now all this was done that it might be fulfilled which was spoken by the prophet, saying: Tell ye the daughter of Sion: Behold thy King cometh to thee, meek, and sitting upon an ass, and a colt the foal of her that is used to the yoke.
+ And the disciples going, did as Jesus commanded them.  And they brought the ass and the colt, and laid their garments upon them, and made him sit thereon.
+ And a very great multitude spread their garments in the way: and others cut boughs from the trees, and strewed them in the way, and the multitudes that went before and that followed, cried, saying: Hosanna to the Son of David: Blessed is He that cometh in the name of the Lord.
 R. Praise be to Thee, O Christ.
 S. By the words of the Gospel may our sins be blotted out.
 !
@@ -91,8 +98,8 @@ V. Let us go forth in peace.
 !
 R. In the name of Christ. Amen.
 _
-! The thurifer precedes with the smoking censer, followed by the subdeacon, bearing the processional cross between two acolytes carrying lighted candles.  Then follow the clergy in order of rank, then the celebrant with the deacon on his left.  Where it is custom for the people to join the procession, they follow the celebrant.  All carry palms, and all or some of them sing the following anthems, hymns, and Psalms, during the whole time the procession lasts.
-!
+! The thurifer precedes with the smoking censer, followed by the subdeacon, bearing the processional cross between two acolytes carrying lighted candles.  Then follow the clergy in order of rank, then the celebrant with the deacon on his left.  Where it is custom for the people to join the procession, they follow the celebrant.
+! All carry palms, and all or some of them sing the following anthems, hymns, and Psalms, during the whole time the procession lasts.
 !
 v. The multitude goeth forth to meet our Redeemer with flowers and palms, and payeth the homage due to a triumphant Conqueror: the Gentiles proclaim the Son of God; and their voices thunder through the skies in praise of Christ: Hosanna in the highest!
 _
@@ -136,7 +143,9 @@ Ant. All praise Thy name highly and say: Blessed is He who cometh in the name of
 _
 _
 v. We are strewn with the shining palms before the Lord as He approacheth; let us all run to meet Him with hymns and songs, glorify Him and say: Blessed be the Lord!
-v. Hail, our King, O Son of David, O world's Redeemer, whom prophets did foretell as the Saviour to come of the house of Israel.  For the Father sent Thee into the world as victim for salvation; from the beginning of the world all the saints awaited Thee: Hosanna now to the Son of David!  Blessed be He who cometh in the name of the Lord.  Hosanna in the highest.
+v. Hail, our King, O Son of David, O world's Redeemer, whom prophets did foretell as the Saviour to come of the house of Israel.
+For the Father sent Thee into the world as victim for salvation; from the beginning of the world all the saints awaited Thee: Hosanna now to the Son of David!
+Blessed be He who cometh in the name of the Lord.  Hosanna in the highest.
 !
 _
 _
@@ -152,7 +161,8 @@ _
 !
 $Dominus vobiscum
 v. Let us pray. 
-v. O Lord Jesus Christ, our King and Redeemer, in whose honor we have borne these palms and gone on praising Thee with song and solemnity: mercifully grant that whithersoever these palms are taken, there the grace of Thy blessing may descend; may every wickedness and trick of the demons be frustrated; and may Thy right hand protect those it hath redeemed.  Who livest and reignest for ever and ever.  
+v. O Lord Jesus Christ, our King and Redeemer, in whose honor we have borne these palms and gone on praising Thee with song and solemnity:
+mercifully grant that whithersoever these palms are taken, there the grace of Thy blessing may descend; may every wickedness and trick of the demons be frustrated; and may Thy right hand protect those it hath redeemed.  Who livest and reignest for ever and ever.
 R. Amen.
 ! The sacred Ministers now change from red to purple vestments for the Mass.
 
@@ -170,7 +180,9 @@ $Per eumdem
 [Lectio]
 Lesson from the letter of St. Paul to the Philippians
 !Phil 2:5-11
-Brethren: Have this in mind in you which was also in Christ Jesus, Who, though He was by nature God, did not consider being equal to God a thing to be clung to, but emptied Himself, taking the nature of a slave and being made like unto men. And appearing in the form of man, He humbled Himself, becoming obedient to death, even to death on a cross. Therefore God also has exalted Him and has bestowed upon Him the Name that is above every name, (Kneel) so that at the Name of Jesus every knee should bend of those in heaven, on earth and under the earth and every tongue should confess that the Lord Jesus Christ is in the glory of God the Father.
+Brethren: Have this in mind in you which was also in Christ Jesus, Who, though He was by nature God, did not consider being equal to God a thing to be clung to, but emptied Himself, taking the nature of a slave and being made like unto men.
+And appearing in the form of man, He humbled Himself, becoming obedient to death, even to death on a cross.
+Therefore God also has exalted Him and has bestowed upon Him the Name that is above every name, (Kneel) so that at the Name of Jesus every knee should bend of those in heaven, on earth and under the earth and every tongue should confess that the Lord Jesus Christ is in the glory of God the Father.
 
 [Graduale]
 !Ps 72:24, 1-3

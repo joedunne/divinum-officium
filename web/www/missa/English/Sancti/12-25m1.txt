@@ -1,3 +1,7 @@
+[SanctaMissaName]
+The Nativity of Our Lord
+First Mass at Midnight
+
 [Rule]
 Gloria
 Credo

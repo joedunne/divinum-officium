@@ -10,6 +10,9 @@
 [Officium]
 Dominica in Septuagesima
 
+[SanctaMissaName]
+Septuagesima Sunday
+
 [Rule]
 no Gloria
 Credo

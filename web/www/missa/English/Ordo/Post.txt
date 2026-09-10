@@ -78,10 +78,11 @@ may it ever compass Thee, seek Thee, find Thee, run to Thee, come up to Thee, me
 and be Thou alone ever my hope, my entire confidence, my riches, my delight, my pleasure, my joy, my rest and tranquility, my peace, my sweetness, my food, my refreshment, my refuge, my help, my wisdom, my portion, my possession, my treasure; in Whom may my mind and my heart be ever fixed and firm and rooted immovably. Amen.
 _
 # Prayer to Jesus (in Thanksgiving)
-v. O LORD Jesus Christ, Son of the living God, Who according to the will of the Father, with the co-operation of the Holy Ghost, hast by Thy death given life unto the world, deliver me by Thy most sacred Body, which I, unworthy, have presumed to receive, from all my iniquities and from every evil, and make me ever to hold fast to Thy commandments and suffer me never to be separated from Thee. Amen.
+v. O LORD Jesus Christ, Son of the living God, Who according to the will of the Father, with the co-operation of the Holy Ghost, hast by Thy death given life unto the world, deliver me by Thy most sacred Body,
+which I, unworthy, have presumed to receive, from all my iniquities and from every evil, and make me ever to hold fast to Thy commandments and suffer me never to be separated from Thee. Amen.
 _
 # Hymn of St. Thomas Aquinas
-<span class="red, text-sm"><i>Indulgence 100 days daily by Leo PP. XIII, 20 Dec. 1884</i></span>
+/:sbi Indulgence 100 days daily by Leo PP. XIII, 20 Dec. 1884:/
 r. Godhead here in hiding, whom I do adore,
 Masked by these bare shadows, shape and nothing more,
 See, Lord, at thy service low lies here a heart
@@ -199,7 +200,7 @@ v. BEHOLD, O Kind and most sweet Jesus, before Thy Face I humbly kneel, and with
 _
 v. With deep affection and grief of soul, I ponder within myself, mentally contemplating Thy five Wounds, having before my eyes the words which David the Prophet spoke concerning Thee: “They have pierced my hands and my feet, they have numbered all my bones.” Amen.
 <i>Conclude with Our Father, Hail Mary & Glory Be for the Holy Father’s intentions.</i>
-<span class="red, text-sm"><i>(Pre-1968 Plenary Indulgence under normal conditions: Confession, Communion, etc. and above prayers for the Holy Father.)</i></span>
+/:sbi (Pre-1968 Plenary Indulgence under normal conditions: Confession, Communion, etc. and above prayers for the Holy Father.):/
 _
 # Psalm 95 - Cantate Domino
 v. Sing ye to the Lord a new canticle: * sing to the Lord, all the earth.
@@ -219,7 +220,8 @@ _
 <i>Gloria Patri …</i>
 _
 # Prayer to St. Joseph After Mass
-v. Guardian of virgins and father, Saint Joseph, to whose faithful custody Innocence itself, Christ Jesus, and Mary, Virgin of virgins, was committed; I pray and beseech thee by each of these dear pledges, Jesus and Mary, that, being preserved from all uncleanness, I may with spotless mind, pure heart, and a chaste body, ever serve Jesus and Mary most chastely all the days of my life. Amen.
+v. Guardian of virgins and father, Saint Joseph, to whose faithful custody Innocence itself, Christ Jesus, and Mary, Virgin of virgins, was committed;
+I pray and beseech thee by each of these dear pledges, Jesus and Mary, that, being preserved from all uncleanness, I may with spotless mind, pure heart, and a chaste body, ever serve Jesus and Mary most chastely all the days of my life. Amen.
 _
 # Prayer for All Things Necessary to Salvation
 v. LORD, I believe in Thee: but let me believe more strongly. I hope in Thee: but let me hope more securely. I love Thee: but let me love Thee more ardently. I sorrow, but deepen my sorrow for my sins.

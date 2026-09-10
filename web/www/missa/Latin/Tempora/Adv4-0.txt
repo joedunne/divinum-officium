@@ -15,6 +15,9 @@ no Gloria
 Credo
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Fourth Sunday of Advent
+
 [Station]
 SS. Apostoli
 

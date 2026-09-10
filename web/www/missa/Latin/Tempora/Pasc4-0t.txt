@@ -9,6 +9,9 @@ Gloria
 Credo
 Suffr=Maria3;Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Fourth Sunday after Easter
+
 [Introitus]
 !Ps 97:1; 97:2
 v. Cantáte Dómino cánticum novum, allelúja: quia mirabília fecit Dóminus, allelúja: ante conspéctum géntium revelávit justítiam suam, allelúja, allelúja, allelúja.

@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Fourth Sunday of Advent
+
 [Rank] (rubrica 196)
 ;;Semiduplex;;6.01
 

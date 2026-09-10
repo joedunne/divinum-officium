@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Third Sunday after Easter
+
 [Rank]
 ;;Duplex II classis;;5.5;;
 

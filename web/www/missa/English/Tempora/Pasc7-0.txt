@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Pentecost <Whitsunday>
+
 [Rank]
 ;;Duplex I Classis cum Octava privilegiata I ordinis;;7
 

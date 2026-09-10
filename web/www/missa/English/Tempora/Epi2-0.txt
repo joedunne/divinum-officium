@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Second Sunday after Epiphany
+
 [Rank]
 ;;Semiduplex;;5
 

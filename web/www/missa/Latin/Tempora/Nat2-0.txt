@@ -9,6 +9,9 @@ Gloria
 Credo
 Prefatio=Nat
 
+[SanctaMissaName]
+Feast of the Holy Name of Jesus
+
 [Introitus]
 !Phil 2:10-11
 v. In nómine Jesu omne genu flectátur, cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris

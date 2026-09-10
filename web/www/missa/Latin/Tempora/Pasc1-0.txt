@@ -11,6 +11,9 @@ Credo
 [Station]
 S. Pancrazio
 
+[SanctaMissaName]
+Low Sunday <Quasimodo Sunday>
+
 [Introitus]
 !1 Pet 2:2
 v. Quasi modo géniti infántes, allelúja: rationábiles, sine dolo lac concupíscite, allelúja, allelúja, allelúja.

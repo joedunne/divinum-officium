@@ -8,6 +8,9 @@ Gloria
 Credo
 Prefatio=Maria=Assumptióne;
 
+[SanctaMissaName]
+The Assumption of the Blessed Virgin Mary
+
 [Introitus]
 !Ap 12:1
 v. Signum magnum appáruit in cœlo: múlier amicta sole, et luna sub pédibus ejus, et in cápite ejus coróna stellárum duódecim.

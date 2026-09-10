@@ -9,6 +9,9 @@ Gloria
 Credo
 Prefatio=Trinitate
 
+[SanctaMissaName]
+Feast of the Most Holy Trinity
+
 [Introitus]
 @Tempora/Pent01-0:Introitus
 

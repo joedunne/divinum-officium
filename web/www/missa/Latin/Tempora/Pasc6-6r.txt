@@ -11,6 +11,9 @@ no Credo
 Prefatio=Spiritu=hodierna die;
 Suffr=Maria3;Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+The Vigil of Pentecost
+
 [Station]
 S. Giovanni in Laterano
 

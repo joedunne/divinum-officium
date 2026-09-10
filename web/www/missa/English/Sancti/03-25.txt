@@ -1,3 +1,6 @@
+[SanctaMissaName]
+The Annunciation of the Blessed Virgin Mary
+
 [Rank]
 In Annuntiatione Beate Mariæ Virgine;;Duplex I classis;;6.5;;ex C11
 

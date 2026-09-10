@@ -1,3 +1,7 @@
+[SanctaMissaName]
+The Nativity of Our Lord
+Second Mass at Dawn
+
 [Rule]
 Gloria
 Credo

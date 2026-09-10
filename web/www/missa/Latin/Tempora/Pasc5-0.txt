@@ -9,6 +9,9 @@ Gloria
 Credo
 Suffr=Maria3;Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Fifth Sunday after Easter
+
 [Introitus]
 !Isa 48:20
 v. Vocem jucunditátis annuntiáte, et audiátur, allelúja: annuntiáte usque ad extrémum terræ: liberávit Dóminus pópulum suum, allelúja, allelúja.

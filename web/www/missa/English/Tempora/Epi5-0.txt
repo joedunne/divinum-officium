@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Fifth Sunday after Epiphany
+
 [Rank]
 ;;Semiduplex;;5
 

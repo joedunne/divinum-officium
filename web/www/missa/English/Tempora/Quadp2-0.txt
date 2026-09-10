@@ -13,6 +13,9 @@ Dominica in Sexagesima
 [Station]
 St. Paul Outside the Walls
 
+[SanctaMissaName]
+Sexagesima Sunday
+
 [Rule]
 no Gloria
 Credo

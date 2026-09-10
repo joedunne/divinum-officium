@@ -1,3 +1,6 @@
+[SanctaMissaName]
+The Assumption of the Blessed Virgin Mary
+
 [Rule]
 Gloria
 Credo

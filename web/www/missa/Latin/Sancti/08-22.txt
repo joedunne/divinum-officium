@@ -7,6 +7,9 @@ Gloria
 Credo
 Prefatio=Maria=Festivitate;
 
+[SanctaMissaName]
+The Feast of the Immaculate Heart of the Blessed Virgin Mary
+
 [Introitus]
 !Hebr 4:16
 v. Adeámus cum fidúcia ad thronum grátiæ, ut misericórdiam consequámur, et grátiam inveniámus in auxílio opportúno.

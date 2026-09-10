@@ -11,6 +11,9 @@ Prefatio=Pasch;
 [Station]
 S. Giovanni in Laterano
 
+[SanctaMissaName]
+Holy Saturday
+
 [Prelude]
 !!Benedictio ignis
 ! Hora competenti tobaleis cooperiuntur altaria, sed candelæ exstinctæ manent usque ad principium Missæ. Interim excutitur ignis de lapide, et ex eo accenduntur carbones.
@@ -19,14 +22,16 @@ S. Giovanni in Laterano
 ! Adstantibus ministris, seu ministrantibus cum cruce, aqua benedicta et incenso, sive ante portam, sive in aditu ecclesiæ, vel intus eam, ubi scilicet populus ritum sacrum melius sequi possit, celebrans benedicit novum ignem, dicens:
 &DominusVobiscum
 v. Orémus.
-Deus, qui per Fílium tuum, angulárem scílicet lápidem, claritátis tuæ ignem fidélibus contulísti: prodúctum e sílice, nostris profutúrum úsibus, novum hunc ignem sanctí + fica: et concéde nobis, ita per hæc festa paschália cœléstibus desidériis inflammári; ut ad perpétuæ claritátis, puris méntibus, valeámus festa pertíngere. Per eúndem Christum Dóminum nostrum.
+Deus, qui per Fílium tuum, angulárem scílicet lápidem, claritátis tuæ ignem fidélibus contulísti: prodúctum e sílice, nostris profutúrum úsibus, novum hunc ignem sanctí + fica:
+et concéde nobis, ita per hæc festa paschália cœléstibus desidériis inflammári; ut ad perpétuæ claritátis, puris méntibus, valeámus festa pertíngere. Per eúndem Christum Dóminum nostrum.
 R. Amen.
 ! Deinde ignem ter aspergit, nihil dicens.
 ! Acolythus, seu unus ministrantium, assumens de carbonibus benedictis, ponit in thuribulo; celebrans vero ponit incensum in thuribulo, benedicens illud more solito, ignemque ter adolet incenso.
 _
 _
 !! De benedictione cerei Paschalis
-! Novo igne benedicto, acolythus, seu unus ministrantium, portat cereum paschalem in medium, ante celebrantem, qui cum stilo, inter extrema foramina ad insertionem granorum incensi destinata, incidit crucem. Deinde facit super earn litteram græcam Alpha, subtus vero litteram Omega, et inter bracchia crucis quatuor numeros exprimentes annum currentem, interim dicens:
+! Novo igne benedicto, acolythus, seu unus ministrantium, portat cereum paschalem in medium, ante celebrantem, qui cum stilo, inter extrema foramina ad insertionem granorum incensi destinata, incidit crucem.
+! Deinde facit super earn litteram græcam Alpha, subtus vero litteram Omega, et inter bracchia crucis quatuor numeros exprimentes annum currentem, interim dicens:
 r. Christus heri et hódie, (incidit hastam erectam)
 r. Princípium et Finis, (incidit hastam transversam)
 r. Alpha (incidit supra hastam erectam litteram &Alpha;)
@@ -36,7 +41,8 @@ r. et sǽcula; (incidit secundum numerum anni currentis in angulo dextro superio
 r. Ipsi gloria et imperium (incidit tertium numerum anni currentis in angulo sinistro inferiore crucis)
 r. per universa æternitátis sǽcula. Amen. (incidit quartum numerum anni currentis in angulo dextro inferiore crucis)
 _
-! Incisione crucis et aliorum signorum, quæ coloribus vel alio modo antea præparari possunt, peracta, diaconus, seu alius ministranttiun, præbet celebranti grana incensi, quæ idem celebrans, si non sunt benedicta ter aspergit et ter adolet incenso, nihil dicens. Deinde infigit quinque grana in foramina, interim dicens:
+! Incisione crucis et aliorum signorum, quæ coloribus vel alio modo antea præparari possunt, peracta, diaconus, seu alius ministranttiun, præbet celebranti grana incensi, quæ idem celebrans, si non sunt benedicta ter aspergit et ter adolet incenso, nihil dicens.
+! Deinde infigit quinque grana in foramina, interim dicens:
 r. Per sua sancta vúlnera
 r. gloriósa
 r. custódiat
@@ -48,15 +54,18 @@ Díssipet ténebras cordis et mentis.
 ! Mox, celebrans benedicit cereum accensum, dicens:
 &DominusVobiscum
 v. Orémus.
-Véniat, quǽsumus, omnípotens Deus, super hoc incénsum céreum larga tuæ bene + dictiónis infúsio: et hunc noctúrnum splendórem invisíbilis regenerátor, inténde; ut non solum sacrifícium, quod hac nocte litátum est, arcána lúminis tui admixtióne refúlgeat; sed in quocúmque loco ex hujus sanctificatiónis mystério aliquid fúerit deportátum, expúlsa diabólicæ fraudis nequítia, virtus tuæ majestátis assístat. Per Christum Dóminum nostrum.
+Véniat, quǽsumus, omnípotens Deus, super hoc incénsum céreum larga tuæ bene + dictiónis infúsio: et hunc noctúrnum splendórem invisíbilis regenerátor, inténde; ut non solum sacrifícium, quod hac nocte litátum est, arcána lúminis tui admixtióne refúlgeat;
+sed in quocúmque loco ex hujus sanctificatiónis mystério aliquid fúerit deportátum, expúlsa diabólicæ fraudis nequítia, virtus tuæ majestátis assístat. Per Christum Dóminum nostrum.
 R. Amen.
 _
 ! Interim luminaria ecclesiæ exstinguuntur.
 _
 _
 !! De solemni processione
-! Tum celebrans iterum ponit incensum in thuribulo; postea diaconus, depositis paramentis violaceis, et indutus stola et dalmatica albi coloris, accipit cereum paschalem accensum, et ordinatur processio: præcedit thuriferarius, sequitur subdiaconus cum cruce, diaconus cum cereo accenso, post eum statim celebrans, deinde clerus per ordinem, et populus.
-! (Tum sacerdos, depositis paramentis violaceis, et indutus stola et dalmatica albi coloris, iterum ponit incensum in thuribulo; postea accipit cereum paschalem accensum, et ordinatur processio: precedit thuriferarius, sequitur crucifer, post eum statim sacerdos cum cereo accenso, deinde ceteri ministrantes, et populus.)
+! Tum celebrans iterum ponit incensum in thuribulo; postea diaconus, depositis paramentis violaceis, et indutus stola et dalmatica albi coloris, accipit cereum paschalem accensum,
+! et ordinatur processio: præcedit thuriferarius, sequitur subdiaconus cum cruce, diaconus cum cereo accenso, post eum statim celebrans, deinde clerus per ordinem, et populus.
+! (Tum sacerdos, depositis paramentis violaceis, et indutus stola et dalmatica albi coloris, iterum ponit incensum in thuribulo;
+! postea accipit cereum paschalem accensum, et ordinatur processio: precedit thuriferarius, sequitur crucifer, post eum statim sacerdos cum cereo accenso, deinde ceteri ministrantes, et populus.)
 ! Cum diaconus ingressus est ecclesiam, stans, cantat solus:
 V. Lumen Christi.
 ! cui omnes alii, prater subdiaconum et thuriferarium, genuflectentes versus cereum benedictum, respondent:
@@ -86,10 +95,17 @@ Amen.
 _
 ! (Sacerdos deponit cereum paschalem in medio chori, supra parvum sustentaculum, seque recipit ad abacum; crucifer stat in latere Evangelii, contra legile; ceteri ministrantes disponuntur hinc et inde.
 ! Sacerdos vero, postquam posuerit incensum in thuribulo, accepto libro, dicit: Iube, Dómine, benedícere. - Dóminus sit in corde meo, et in lábiis meis: ut digne et competénter annúntiem suum paschále præcónium. Amen.)
+!
 _
 ! Postea diaconus vadit ad legile, strato albo coopertum, et ponit super eo librum, et incensat; deinde, circumiens cereum paschalem, etiam illum thurificat.
 ! Tunc surgentibus omnibus, et stantibus, ut fit ad Evangelium, diaconus cantat præconium paschale, habens ante se cereum paschalem, a dextris altare, a sinistris aulam ecclesiæ. Dum canitur præconium paschale, convenit, ut clerus et populus candelas accensas gestent.
-v. Exsúltet iam Angélica turba coelórum: exsúltent divína mystéria: et pro tanti Regis victória tuba ínsonet salutáris. Gáudeat et tellus tantis irradiáta fulgóribus: et ætérni Regis splendóre illustráta, totíus orbis se séntiat amisísse calíginem. Lætétur et mater Ecclésia, tanti lúminis adornáta fulgóribus: et magnis populórum vócibus hæc aula resúltet. Quaprópter astántes vos, fratres caríssimi, ad tam miram huius sancti lúminis claritátem, una mecum, quæso, Dei omnipoténtis misericórdiam invocáte. Ut, qui me non meis méritis intra Levitárum númerum dignatus est aggregáre: lúminis sui claritátem infúndens, Cérei huius laudem implére perfíciat. Per Dominum nostrum Jesum Christum, Fílium suum: qui cum eo vivit et regnat in unitáte Spíritus Sancti Deus: Per omnia sǽcula sæculórum.
+!
+v. Exsúltet iam Angélica turba coelórum: exsúltent divína mystéria: et pro tanti Regis victória tuba ínsonet salutáris.
+Gáudeat et tellus tantis irradiáta fulgóribus: et ætérni Regis splendóre illustráta, totíus orbis se séntiat amisísse calíginem.
+Lætétur et mater Ecclésia, tanti lúminis adornáta fulgóribus: et magnis populórum vócibus hæc aula resúltet.
+Quaprópter astántes vos, fratres caríssimi, ad tam miram huius sancti lúminis claritátem, una mecum, quæso, Dei omnipoténtis misericórdiam invocáte.
+Ut, qui me non meis méritis intra Levitárum númerum dignatus est aggregáre: lúminis sui claritátem infúndens, Cérei huius laudem implére perfíciat.
+Per Dominum nostrum Jesum Christum, Fílium suum: qui cum eo vivit et regnat in unitáte Spíritus Sancti Deus: Per omnia sǽcula sæculórum.
 R. Amen.
 V. Dóminus vobíscum.
 R. Et cum Spíritu tuo.
@@ -720,8 +736,27 @@ v. Sanguis Dómini nostri Jesu Christi custódiat ánimam meam in vitam ætérna
 _
 _
 !!Communio Populi
+!Si qui sunt communicandi in Missa, Sacerdos post sumptionem Sanguinis, antequam se purificet, facta genuflexione, ponat particulas consecratas in Pyxide, vel, super Patenam, nisi a principio positae fuerint in Pyxide seu alio Calice.
+!Interim minister ante eos extendit linteum seu velum album, et pro eis facit Confessionem dicens:
+M. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, ómnibus Sanctis, et tibi, pater: quia peccávi nimis cogitatióne, verbo et ópere:
+mea culpa, mea culpa, mea máxima culpa.
+Ideo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, omnes Sanctos, et te, pater, oráre pro me ad Dóminum, Deum nostrum.
+!Sacerdos iterum genuflectit, et manibus junctis vertens se ad populum in cornu Evangelii, dicit:
+S. Misereátur vestri omnípotens Deus, et, dimíssis peccátis vestris, perdúcat vos ad vitam ætérnam.
+R. Amen.
+!
+S. Indulgéntiam, + absolutiónem et remissiónem peccatórum vestrórum tríbuat vobis omnípotens et miséricors Dóminus.
+R. Amen.
+!et manu dextera facit signum crucis super eos. Postea genuflectens, accipit manu sinistra Pyxidem seu Patenam cum Sacramento, dextera vero sumit unam particulam, quam inter pollicem et indicem tenet aliquantulum elevatam super Pyxidem seu Patenam, et conversus adcommunicandos in medio Altaris, dicit:
+S. Ecce Agnus Dei, ecce, qui tollit peccáta mundi.
+!Deinde dicit:
+S. Dómine, non sum dignus, ut intres sub tectum meum, sed tantum dic verbo, et sanábitur ánima mea.
+S. Dómine, non sum dignus, ut intres sub tectum meum, sed tantum dic verbo, et sanábitur ánima mea.
+S. Dómine, non sum dignus, ut intres sub tectum meum, sed tantum dic verbo, et sanábitur ánima mea.
+!Quibus verbis tertio repetitis, accedit ad eorum dexteram, hoc est, ad latus Epistolæ, et unicuique porrigit Sacramentum faciens cum eo signum crucis super Pyxidem vel Patenam, et simul dicens:
+S. Corpus Dómini nostri Jesu Christi custódiat ánimam tuam in vitam ætérnam. Amen.
+!Omnibus communicatis, revertitur ad Altare, nihil dicens: et non dat eis benedictionem, quia illam daturus est in fine Missæ. Si particulæ positae erant super Corporale, extergit illud cum Patena, et si qua in eo fuerint fragmenta, in Calicem immittit.
 wait16
-{ Anima Christi, sanctifica me. Corpus Christi, salva me. Sanguis Christi, inebria me. Aqua lateris Christi, lava me. Passio Christi, conforta me. O bone Jesu, exaudi me. Intra tua vulnera absconde me. Ne permittas me separari a te. Ab hoste maligno defende me. In hora mortis meæ voca me. Et iube me venire ad te, Ut cum Sanctis tuis laudem te. In sǽcula sæculórum. Amen. }
 _
 _
 ! Postea dicit:

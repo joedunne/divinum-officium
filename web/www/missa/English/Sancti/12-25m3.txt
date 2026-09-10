@@ -1,3 +1,7 @@
+[SanctaMissaName]
+The Nativity of Our Lord
+Third Mass During the Daytime
+
 [Rank]
 In die Nativitatis Domini;;Duplex I Classis;;7
 

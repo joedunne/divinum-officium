@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Feast of the Most Holy Trinity
+
 [Rank]
 ;;Duplex I classis;;6.5
 

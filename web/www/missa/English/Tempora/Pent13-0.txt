@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Thirteenth Sunday after Pentecost
+
 [Rank]
 ;;Semiduplex;;5
 

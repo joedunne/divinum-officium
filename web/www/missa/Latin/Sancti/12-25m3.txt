@@ -8,6 +8,10 @@ Prefatio=Nat
 celebranda aut missa prima aut missa secunda aut missa tertia
 (rubrica 1960) no Ultima Evangelium
 
+[SanctaMissaName]
+The Nativity of Our Lord
+Third Mass During the Daytime
+
 [Station]
 S. Maria Maggiore
 

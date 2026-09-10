@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Fifth Sunday after Easter
+
 [Rank]
 ;;Semiduplex;;5;;
 

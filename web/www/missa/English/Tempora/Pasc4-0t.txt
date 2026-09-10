@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Fourth Sunday after Easter
+
 [Rank]
 ;;Semiduplex;;5;;
 
