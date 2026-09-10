@@ -107,6 +107,8 @@ print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Apostles
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Nicene Creed", ("NiceneCreed"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Profession of the Tridentine Faith", ("PiusIVCreed"));
 
+#Morning Prayers
+#Evening Prayers
 #Prayer before any work & Prayer after work
 #Antiphons to the Blessed Virgin
 #Prayers to St. Joseph

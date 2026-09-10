@@ -713,6 +713,7 @@ sub setupstring($$%) {
           if ($iiij++ > 6) {
             $error .= "Error in resolving $fname : $key :: $lang ::: $iiiT<br>";
             $sections{$key} = "Cannot resolve too deeply nested Hashes";
+            print STDERR "Cannot resolve too deeply nested Hashes : $key, $fname\n";
             last;
           }
         }
