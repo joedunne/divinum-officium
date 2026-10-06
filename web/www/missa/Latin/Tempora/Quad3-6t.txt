@@ -19,6 +19,9 @@ S. Susanna
 [CollectStation]
 S. Vitale in Fovea
 
+[SanctaMissaName]
+Saturday in the Third Week of Lent
+
 [Introitus]
 !Ps 5:2-3.
 v. Verba mea áuribus pércipe, Dómine, intéllege clamórem meum: inténde voci oratiónis meæ, Rex meus et Deus meus.

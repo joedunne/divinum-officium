@@ -2,7 +2,7 @@
 ;;Duplex majus;;4;;vide Tempora/Pent02-5
 
 [Officium]
-Die Octava SSmi Cordis Jesu
+The Octave of the Most Sacred Heard of Jesus
 
 [Rule]
 vide Tempora/Pent02-5;

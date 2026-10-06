@@ -8,3 +8,6 @@ Sabbato infra Hebdomadam II post Octavam Paschæ
 Gloria
 Credo
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
+
+[SanctaMissaName]
+Saturday in the Second Week After Easter

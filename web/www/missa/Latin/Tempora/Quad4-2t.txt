@@ -19,6 +19,9 @@ S. Lorenzo in Damaso
 [CollectStation]
 S. Caterina dei Funari
 
+[SanctaMissaName]
+Tuesday in the Fourth Week of Lent
+
 [Introitus]
 @Tempora/Quad4-2:Introitus
 

@@ -2,4 +2,4 @@
 ;;Feria;;1
 
 [Officium]
-Feria quinta infra Hebdomadam III post Octavam Pentecostes
+Thursday in the Third Week after Pentecost

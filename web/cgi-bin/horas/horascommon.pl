@@ -1871,6 +1871,13 @@ sub setheadline {
     return ($1 || $winner{Rank}) . " ~ " . rankname($lang1) . " : Tonus $chantTone";
   }
 
+#  my $missa_common_name = getitem('SanctaMissaName', $lang2);
+#  my $officium_name = getitem('Officium', $lang2);
+#  if ($missa_common_name && $missa_common_name !~ /SanctaMissaName missing!/) {
+#     return ($missa_common_name || $winner{Rank}) . " ~ " . rankname($lang1);
+#  } elsif ($officium_name && $officium_name !~ /Officium missing!/) {
+#     return ($officium_name || $winner{Rank}) . " ~ " . rankname($lang1);
+#  }
   $winner{Rank} =~ /^(.*?)\;/;
   ($1 || $winner{Rank}) . " ~ " . rankname($lang1);
 }

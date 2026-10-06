@@ -6,3 +6,6 @@ Feria Sexta infra Hebdomadam XVIII post Octavam Pentecostes
 
 [Rule]
 Oratio Dominica
+
+[SanctaMissaName]
+Friday of the Eighteenth Week after Pentecost

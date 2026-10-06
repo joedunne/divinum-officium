@@ -7,3 +7,6 @@ Feria III infra Hebdomadam V quæ superfuit post Epiphaniam
 [Rule]
 Oratio Dominica
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
+
+[SanctaMissaName]
+Tuesday in the Fifth Week After Epiphany <Transferred>

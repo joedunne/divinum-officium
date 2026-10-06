@@ -1,5 +1,8 @@
+[SanctaMissaName]
+Saturday of the Fifteenth Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 
 [Officium]
-Sabbato infra Hebdomadam XV post Octavam Pentecostes
+Saturday Within the Fifteenth Week After Pentecost

@@ -5,3 +5,6 @@ In Octava Immaculatæ Concept. Beatæ Mariæ Virgini;;Duplex majus;;4;;vide Sanc
 vide Sancti/12-08;
 Gloria
 Credo
+
+[Officium]
+In Octava Immaculatæ Conceptione Beatæ Mariæ Virgini

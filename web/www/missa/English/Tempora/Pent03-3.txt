@@ -2,7 +2,7 @@
 ;;Semiduplex;;2.1;;vide Tempora/Pent02-5
 
 [Officium]
-Die VI infra Octavam SSmi Cordis Jesu
+The Sixth Day within the Octave of the Most Sacred Heard of Jesus
 
 [Rule]
 vide Tempora/Pent02-5;

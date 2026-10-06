@@ -2,7 +2,7 @@
 ;;Duplex optional;;2;;vide C4
 
 [Officium]
-S. Eusebius of Vercelli, bishop
+S. Eusebius of Vercelli, Bishop
 
 [Rule]
 vide C4;

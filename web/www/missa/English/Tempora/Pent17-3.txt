@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Wednesday of the Seventeenth Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 

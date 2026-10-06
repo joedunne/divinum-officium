@@ -5,10 +5,7 @@
 ;;Duplex I classis cum Octava Privilegiata III classis;;7
 
 [Officium]
-In Ascensione Domini
-
-[SanctaMissaName]
-Ascension Thursday
+The Ascension of the Lord
 
 [Rule]
 Gloria

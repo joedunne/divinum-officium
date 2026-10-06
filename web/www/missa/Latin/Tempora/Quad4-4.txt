@@ -19,6 +19,9 @@ SS. Silvestro e Martino
 [CollectStation]
 SS. Quirico e Giulitta
 
+[SanctaMissaName]
+Thursday in the Fourth Week of Lent
+
 [Introitus]
 !Ps 104:3-4.
 v. Lætétur cor quæréntium Dóminum: quǽrite Dóminum, et confirmámini: quǽrite fáciem ejus semper.

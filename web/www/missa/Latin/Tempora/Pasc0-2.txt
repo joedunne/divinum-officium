@@ -12,6 +12,9 @@ Sequentia
 [Station]
 S. Paolo fuori le mura
 
+[SanctaMissaName]
+Tuesday within the Octave of Easter
+
 [Introitus]
 !Eccli 15:3-4
 v. Aqua sapiéntiæ potávit eos, allelúja: firmábitur in illis et non flectétur, allelúja: et exaltábit eos in ætérnum, allelúja, allelúja.

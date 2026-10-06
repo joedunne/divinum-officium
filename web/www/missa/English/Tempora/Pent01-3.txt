@@ -4,6 +4,9 @@
 [Officium]
 Feria Quarta infra Hebdomadam I post Octavam Pentecostes
 
+[SanctaMissaName]
+Wednesday of the First Week after Pentecost
+
 [Oratio]
 @Tempora/Pent01-1:Oratio
 

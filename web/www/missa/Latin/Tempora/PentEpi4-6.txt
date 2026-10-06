@@ -7,3 +7,6 @@ Sabbato infra Hebdomadam IV quæ superfuit post Epiphaniam
 [Rule]
 Oratio Dominica
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
+
+[SanctaMissaName]
+Saturday in the Fourth Week After Epiphany <Transferred>

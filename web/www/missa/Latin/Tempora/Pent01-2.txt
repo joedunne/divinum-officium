@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Tuesday of the First Week after Pentecost
+
 [Officium]
 Feria Tertia infra Hebdomadam I post Octavam Pentecostes
 

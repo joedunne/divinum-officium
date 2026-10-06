@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Tuesday in the Week of Sexagesima
+
 [Officium]
 Feria III infra Hebdomadam Sexagesimæ
 

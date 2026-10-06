@@ -8,3 +8,6 @@ Seventh day of the Octave of Christmas
 
 [Rank] (rubrica 196)
 ;;Duplex II classis;;5;;ex Sancti/12-25m3
+
+[SanctaMissaName]
+Seventh day of the Octave of Christmas

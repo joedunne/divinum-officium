@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Tuesday in Rogation Week
+
 [Rank]
 ;;Feria;;1
 

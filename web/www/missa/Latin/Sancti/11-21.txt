@@ -7,6 +7,9 @@ Gloria
 CredoDA
 Prefatio=Maria=Presentatióne;
 
+[Officium]
+In Presentatione Beatæ Mariæ Virginis
+
 [Oratio]
 Deus, qui beátam Maríam semper Vírginem, Spíritus Sancti habitáculum, hodiérna die in templo præsentári voluísti: præsta, quǽsumus; ut, ejus intercessióne, in templo glóriæ tuæ præsentári mereámur.
 $Per Dominum eiusdem

@@ -14,6 +14,9 @@ Credo
 Prefatio=Spiritu=hodierna die;
 Suffr=Ecclesiæ;Papa;;
 
+[SanctaMissaName]
+Ember Saturday of Pentecost
+
 [Graduale](missa brevior)
 Allelúja.
 V. (Hic genuflectitur) Veni, Sancte Spíritus, reple tuórum corda fidélium: et tui amóris in eis ignem accénde.

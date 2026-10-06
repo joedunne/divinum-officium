@@ -6,3 +6,6 @@ ex C11;
 Gloria
 CredoDA
 Prefatio=Maria=Festivity;
+
+[Officium]
+The Dedication of Our Lady of the Snows

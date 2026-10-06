@@ -7,6 +7,9 @@ Gloria
 Credo
 Prefatio=Maria=Festivitate
 
+[Officium]
+Holy Name of the Blessed Virgin Mary
+
 [Introitus]
 !Ps 44:13, 15-16.
 v. All the rich among the people seek your favor. Behind her the virgins of her train are brought to the King. They are borne in to you with gladness and joy.

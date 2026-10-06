@@ -19,6 +19,9 @@ S. Cecilia in Trastevere
 [CollectStation]
 S. Giorgio in Velabro
 
+[SanctaMissaName]
+Wednesday in the Second Week of Lent
+
 [Introitus]
 !Ps 37:22-23.
 v. Ne derelínquas me, Dómine, Deus meus, ne discédas a me: inténde in adjutórium meum, Dómine, virtus salútis meæ.

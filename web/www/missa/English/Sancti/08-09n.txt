@@ -6,7 +6,7 @@ Gloria
 ;;Duplex optional;;3;;vide C6
 
 [Officium]
-S. Teresa Benedicta of the Cross (Edith Stein), virgin and martyr
+S. Teresa Benedicta of the Cross <Edith Stein>, Virgin and Martyr
 
 [Name]
 Teresa

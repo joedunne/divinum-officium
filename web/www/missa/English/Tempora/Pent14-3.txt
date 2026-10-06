@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Wednesday of the Fourteenth Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 

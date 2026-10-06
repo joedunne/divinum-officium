@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Tuesday within the Octave of Easter
+
 [Rank]
 ;;Duplex I classis;;7;;ex Pasc0-0
 

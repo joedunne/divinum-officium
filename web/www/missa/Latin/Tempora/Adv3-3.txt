@@ -13,6 +13,9 @@ no Credo
 LectioL1
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Wednesday in the Third Week of Advent
+
 [Station]
 S. Maria Maggiore
 

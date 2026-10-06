@@ -8,6 +8,9 @@ Gloria
 Credo
 Prefatio=Dedicatio
 
+[Officium]
+Dedication of the Lateran Basilica of Our Savior
+
 [Secreta]
 Look with favor upon our prayers, we beseech You, O Lord, that as we offer our prayers before You, we may, with Your help attain eternal rewards.
 $Per Dominum

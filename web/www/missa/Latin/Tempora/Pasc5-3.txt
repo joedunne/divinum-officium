@@ -16,9 +16,6 @@ Gloria
 no Credo
 Suffr=Maria3
 
-[SanctaMissaName]
-Vigil of the Ascension
-
 [Introitus]
 !Is 48:20
 v. Vocem jucunditátis annuntiáte, et audiátur, allelúja: annuntiáte usque ad extrémum terræ: liberávit Dóminus pópulum suum, allelúja, allelúja

@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Tuesday of the Twentieth Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 

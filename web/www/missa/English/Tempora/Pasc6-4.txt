@@ -1,10 +1,10 @@
 @Tempora/Pasc5-4
 
 [Officium]
-Feria V in Octava Ascensionis
+Thursday within the Octave of the Ascension
 
 [Officium] (rubrica 196 aut rubrica 1955)
-Feria V post Ascensionem
+Thursday after Ascension
 
 [Evangelium]
 @Tempora/Pasc5-5

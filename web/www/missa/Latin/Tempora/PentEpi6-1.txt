@@ -7,3 +7,6 @@ Feria II infra Hebdomadam VI quæ superfuit post Epiphaniam
 [Rule]
 Oratio Dominica
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
+
+[SanctaMissaName]
+Monday in the Sixth Week After Epiphany <Transferred>

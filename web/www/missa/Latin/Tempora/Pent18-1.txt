@@ -7,3 +7,6 @@ Feria Secunda infra Hebdomadam XVIII post Octavam Pentecostes
 [Rule]
 Oratio Dominica
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
+
+[SanctaMissaName]
+Monday of the Eighteenth Week after Pentecost

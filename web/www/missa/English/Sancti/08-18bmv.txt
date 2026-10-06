@@ -1,6 +1,9 @@
 [Rank]
 Fourth day of the octave of the Assumption of Blessed Mary;;Semiduplex;;2;;ex Sancti/08-15
 
+[Officium]
+Fourth Day within the Octave of the Assumption of the Blessed Virgin Mary
+
 [Oratio]
 O Lord, we beseech thee, forgive the transgressions of thy servants, and, forasmuch as by our own deeds we cannot please thee, may we find safety through the prayers of the Mother of thy Son and our Lord.
 $Qui tecum

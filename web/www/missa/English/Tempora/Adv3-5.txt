@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Friday in the Third Week of Advent
+
 [Rank]
 ;;Feria major;;2.1
 (sed rubrica 196 aut rubrica 1930)

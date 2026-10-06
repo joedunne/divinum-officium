@@ -7,6 +7,9 @@ Gloria
 Credo
 Prefatio=Maria=Nativitate
 
+[Officium]
+Nativity of the Blessed Virgin Mary
+
 [Introitus]
 @Commune/C10
 

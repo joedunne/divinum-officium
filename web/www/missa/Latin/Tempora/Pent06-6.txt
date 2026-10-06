@@ -7,3 +7,6 @@ Sabbato infra Hebdomadam VI post Octavam Pentecostes
 [Rule]
 Oratio Dominica
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
+
+[SanctaMissaName]
+Saturday of the Sixth Week after Pentecost

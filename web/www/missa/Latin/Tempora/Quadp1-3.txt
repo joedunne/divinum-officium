@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Wednesday in the Week of Septuagesima
+
 [Officium]
 Feria IV infra Hebdomadam Septuagesimæ
 

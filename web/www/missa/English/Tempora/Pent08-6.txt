@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Saturday of the Eighth Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 

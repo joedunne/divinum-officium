@@ -8,8 +8,8 @@ Gloria
 Credo
 Prefatio=Maria=Assumptióne;
 
-[SanctaMissaName]
-The Assumption of the Blessed Virgin Mary
+[Officium]
+In Assumptione Beatæ Mariæ Virginis
 
 [Introitus]
 !Ap 12:1

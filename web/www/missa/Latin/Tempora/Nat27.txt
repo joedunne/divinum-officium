@@ -1,6 +1,9 @@
 [Officium]
 Diei III infra Octavam Nativitatis
 
+[SanctaMissaName]
+Third Day in the Octave of the Nativity
+
 [Rank]
 ;;Semiduplex;;2.1;;ex Sancti/12-25
 

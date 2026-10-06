@@ -8,6 +8,9 @@ Credo
 Prefatio=Nat
 Festum Domini
 
+[SanctaMissaName]
+The Transfiguration of Our Lord Jesus Christ
+
 [Introitus]
 !Ps 76:19
 v. Illuxérunt coruscatiónes tuæ orbi terræ: commóta est et contrémuit terra.

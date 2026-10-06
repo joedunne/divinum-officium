@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Saturday of the Twenty-Second Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 

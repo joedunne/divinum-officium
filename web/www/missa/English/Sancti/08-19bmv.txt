@@ -1,6 +1,9 @@
 [Rank]
 Quinta die infra Octavam S. Assumptionis;;Semiduplex;;2;;ex sancti/08-15
 
+[Officium]
+Fifth Day within the Octave of the Assumption of the Blessed Virgin Mary
+
 [Oratio]
 @Sancti/08-18bmv
 

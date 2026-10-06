@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Monday in the Week of Septuagesima
+
 [Officium]
 Feria II infra Hebdomadam Septuagesimæ
 

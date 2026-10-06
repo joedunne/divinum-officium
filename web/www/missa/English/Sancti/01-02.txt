@@ -1,3 +1,6 @@
+[Officium]
+Octave of St. Stephen, First Martyr
+
 [Rule]
 vide Sancti/12-26;
 Feria Te Deum

@@ -2,7 +2,7 @@
 ;;Duplex majus;;6.3;;ex Tempora/Pent01-4
 
 [Officium]
-Octava Sanctissimi Corporis Christi
+Thursday Within the Octave of Corpus Christi
 
 [Rule]
 ex Tempora/Pent01-4;

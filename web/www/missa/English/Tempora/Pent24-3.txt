@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Wednesday of the Last Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 

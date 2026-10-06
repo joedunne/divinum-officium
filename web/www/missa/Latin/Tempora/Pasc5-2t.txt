@@ -9,3 +9,6 @@ Oratio Dominica
 no Gloria
 no Credo
 Suffr=Maria3;Ecclesiæ,Papa;;
+
+[SanctaMissaName]
+Tuesday in Rogation Week

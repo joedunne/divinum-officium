@@ -9,7 +9,7 @@ Suffragium+Maria2;Ecclesiæ,Papæ;;
 ;;Simplex;;1.1;;vide C6
 
 [Officium]
-S. Martinae Virginis et Martyris
+St. Martina, Virgin and Martyr
 
 [Name]
 Martina

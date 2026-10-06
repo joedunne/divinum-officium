@@ -10,7 +10,7 @@ Gloria
 ;;Semiduplex;;2.2;;vide C6-1
 
 [Officium]
-S. Agnetis Virginis et Martyris
+St. Agnes, Virgin and Martyr
 
 [Introitus]
 @Commune/C6-1

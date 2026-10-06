@@ -7,7 +7,7 @@ Gloria
 ;;Duplex;;3;;vide C7a
 
 [Officium]
-St. Jeanne-Françoise Frémiot de Chantal, Widow;Duplex
+St. Jeanne-Frances Fremiot de Chantal, Widow
 
 [Oratio]
 Almighty and merciful God, Who endowed St. Jane Frances, burning with love of You, with a wondrous strength of spirit through all the paths of life in the way of perfection, and willed through her to ennoble Your Church by a new religious family; grant by her merits and prayers, that we who are aware of our weakness, may trust firmly in Your power and, by the assistance of divine grace, overcome all obstacles in our way.

@@ -7,3 +7,6 @@ Feria II infra Hebdomadam V post Epiphaniam
 [Rule]
 vide Epi5-0
 Suffragium=Maria2;Papa,Ecclesiæ;;
+
+[SanctaMissaName]
+Monday in the Fifth Week After Epiphany

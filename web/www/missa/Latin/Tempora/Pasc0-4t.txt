@@ -13,6 +13,9 @@ Suffr=Ecclesiæ,Papa;;
 [Station]
 SS. Apostoli
 
+[SanctaMissaName]
+Thursday within the Octave of Easter
+
 [Introitus]
 @Tempora/Pasc0-4:Introitus
 

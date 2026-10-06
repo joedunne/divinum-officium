@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Friday in the Second Week of Advent
+
 [Rank]
 ;;Feria major;;2.1
 

@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Thursday of the Eleventh Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 

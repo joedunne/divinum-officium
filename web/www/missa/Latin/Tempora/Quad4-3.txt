@@ -17,6 +17,9 @@ LectioL1
 [Station]
 S. Paolo fuori le mura
 
+[SanctaMissaName]
+Wednesday in the Fourth Week of Lent
+
 [Introitus]
 !Ezech 36:23-26
 v. Cum sanctificátus fúero in vobis, congregábo vos de univérsis terris: et effúndam super vos aquam mundam, et mundabímini ab ómnibus inquinaméntis vestris: et dabo vobis spíritum novum.

@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Saint Bonaventure, Bishop and Confessor
+
 [Rule]
 vide C4a;
 (sed rubrica 1570)

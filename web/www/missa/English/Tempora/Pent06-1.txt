@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Monday of the Sixth Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 

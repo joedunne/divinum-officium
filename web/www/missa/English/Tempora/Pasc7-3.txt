@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Ember Wednesday of Pentecost
+
 [Rank]
 ;;Semiduplex I classis;;6.9;;ex Pasc7-0
 

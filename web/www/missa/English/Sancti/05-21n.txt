@@ -6,4 +6,4 @@ Gloria
 ;;Duplex optional;;2;;vide C3
 
 [Officium]
-S. Christopher Magallanes and companions, martyrs
+S. Christopher Magallanes and companions, Martyrs

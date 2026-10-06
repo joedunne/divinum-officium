@@ -1,5 +1,11 @@
 [Rank] (rubrica 196 aut rubrica 1955)
-Die Duodecima Januarii;;Feria;;1.8;;vide Sancti/01-06
+The Twelfth Day of January;;Feria;;1.8;;vide Sancti/01-06
 
 [Rank]
-Septima die infra Octavam Epiphaniae;;Semiduplex;;2;;ex Sancti/01-06
+Seventh Day in the Octave of the Epiphany;;Semiduplex;;2;;ex Sancti/01-06
+
+[Officium]
+Seventh Day in the Octave of the Epiphany
+
+[Officium] (rubrica 196 aut rubrica 1955)
+The Twelfth Day of January

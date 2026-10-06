@@ -264,7 +264,8 @@ PrintTag
 #*** hedline($head) prints headline for main and pray
 sub headline {
   my $head = shift;
-  print "<P ALIGN=CENTER>" . html_dayhead(setheadline()) . "\n";
+#  jjd todo
+  print "<P ALIGN=CENTER>xxx " . html_dayhead(setheadline()) . "\n";
   print <<"PrintTag";
 <P ALIGN=CENTER>
 <FONT COLOR=MAROON SIZE=+1><B><I>$head</I></B></FONT>

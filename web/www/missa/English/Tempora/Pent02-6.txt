@@ -2,7 +2,7 @@
 ;;Semiduplex;;2.1;;vide Tempora/Pent02-5
 
 [Officium]
-Die II infra Octavam SSmi Cordis Jesu
+The Second Day within the Octave of the Most Sacred Heart of Jesus
 
 [Rule]
 vide Tempora/Pent02-5;

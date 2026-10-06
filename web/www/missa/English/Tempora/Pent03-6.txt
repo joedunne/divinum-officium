@@ -2,4 +2,4 @@
 ;;Feria;;1
 
 [Officium]
-Sabbato infra Hebdomadam III post Octavam Pentecostes
+Saturday in the Third Week after Pentecost

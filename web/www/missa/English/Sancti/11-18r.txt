@@ -6,5 +6,8 @@ ex C8;
 Gloria
 CredoDA
 
+[Officium]
+The Dedication of the Basilicas of Saints Peter and Paul
+
 [Oratio]
 @Commune/C8

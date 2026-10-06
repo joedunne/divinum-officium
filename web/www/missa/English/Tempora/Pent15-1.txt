@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Monday of the Fifteenth Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 

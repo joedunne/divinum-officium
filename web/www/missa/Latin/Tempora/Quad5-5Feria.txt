@@ -20,6 +20,9 @@ S. Stephani Rotondo
 [CollectStation]
 SS. Giovanni e Paolo
 
+[SanctaMissaName]
+Friday of Passion Week
+
 [Introitus]
 !Ps 30:10, 16, 18
 v. Miserére mihi, Dómine, quóniam tríbulor: líbera me, et éripe me de mánibus inimicórum meórum et a persequéntibus me: Dómine, non confúndar, quóniam invocávi te.

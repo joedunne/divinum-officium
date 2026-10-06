@@ -2,4 +2,4 @@
 ;;Duplex majus;;4.1;;ex Tempora/Pasc5-4
 
 [Officium]
-Feria V in Octava Ascensionis
+Thursday within the Octave of the Ascension

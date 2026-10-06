@@ -6,6 +6,9 @@ Gloria
 Credo
 Prefatio=Quad5;
 
+[SanctaMissaName]
+The Most Precious Blood of Our Lord Jesus Christ
+
 [Introitus]
 !Apoc 5:9-10
 v. Redemísti nos, Dómine, in sánguine tuo, ex omni tribu et lingua et pópulo et natióne: et fecísti nos Deo nostro regnum.

@@ -2,4 +2,4 @@
 ;;Feria;;1
 
 [Officium]
-Feria secunda infra Hebdomadam III post Octavam Pentecostes
+Monday in the Third Week after Pentecost

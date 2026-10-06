@@ -7,11 +7,11 @@ Gloria
 Credo
 Prefatio=Nat
 
+[Officium]
+In Circumcisione Domini
+
 [Station]
 S. Maria in Trastevere
-
-[SanctaMissaName]
-The Circumcision of Our Lord
 
 [Introitus]
 @Tempora/Nat30

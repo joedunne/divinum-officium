@@ -6,3 +6,6 @@ ex Sancti/09-08;
 Gloria
 Credo
 Prefatio=Maria=Nativitate;
+
+[Officium]
+In Octava Nativitatis Beatæ Mariæ Virginis

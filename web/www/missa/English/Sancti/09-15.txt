@@ -8,6 +8,9 @@ Sequentia
 Credo
 Prefatio=Maria=Transfixion;
 
+[Officium]
+Seven Sorrows of the Blessed Virgin Mary
+
 [Introitus]
 !Jn. 19:25
 v. There were standing by the Cross of Jesus His Mother, and His Mother’s sister, Mary of Cleophas, and Salome, and Mary Magdalene.

@@ -10,6 +10,12 @@ Gloria
 Credo
 Prefatio=Epi
 
+[Officium]
+Die Octava Epiphaniæ
+
+[Officium] (rubrica 196)
+Commemoratio Baptismatis Domini Nostri Jesu Christi
+
 [Introitus]
 @Sancti/01-06
 

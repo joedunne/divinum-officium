@@ -5,7 +5,7 @@ vide C6;
 ;;Duplex optional;;2;;vide C6
 
 [Officium]
-S. Maria Goretti, virgin and martyr
+S. Maria Goretti, Virgin and Martyr
 
 [Name]
 Maria

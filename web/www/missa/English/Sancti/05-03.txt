@@ -1,6 +1,9 @@
 [Rank]
 Inventione Sanctae crucis;;Duplex II classis;;5.1;;
 
+[Officium]
+The Finding of the Holy Cross
+
 [Rule]
 Gloria
 Credo

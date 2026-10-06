@@ -7,6 +7,9 @@ Prefatio=Maria=Assumptionis
 [Rank]
 Second day of the octave of the Assumption of Blessed Mary;;Semiduplex;;2;;ex Sancti/08-15
 
+[Officium]
+Second Day within the Octave of the Assumption of the Blessed Virgin Mary
+
 [Oratio]
 @Sancti/08-18bmv
 

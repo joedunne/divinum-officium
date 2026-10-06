@@ -7,6 +7,9 @@ In Exaltatione Sanctæ Crucis;;Duplex II classis;;5.5;;ex Sancti/05-03
 [Rank]
 In Exaltatione Sanctæ Crucis;;Duplex majus;;4;;ex Sancti/05-03
 
+[Officium]
+The Exaltation of the Holy Cross
+
 [Rule]
 ex Sancti/05-03
 Gloria

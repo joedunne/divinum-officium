@@ -5,6 +5,9 @@ In Octava S. Joannis Baptistæ;;Duplex;;3;;vide Sancti/06-24
 vide C1;
 9 lectiones
 
+[SanctaMissaName]
+Octave of the Nativity of St. John the Baptist
+
 [Commemoratio 2]
 !Commemoratio Octavæ Ss. Petri et Pauli
 Ant. Gloriósi príncipes terræ, quómodo in vita sua dilexérunt se, ita et in morte non sunt separáti.

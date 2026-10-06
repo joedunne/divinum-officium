@@ -6,6 +6,9 @@ vide C11;
 Gloria
 Prefatio=Maria=Festivitate
 
+[Officium]
+Beatæ Mariæ Virginis de Guadalupe
+
 [Oratio]
 Deus, qui sub beatíssimæ Vírginis Maríæ singulári patrocínio constitútos perpétuis benefíciis nos cumulári voluísti: præsta supplícibus tuis; ut, cujus hódie commemoratióne lætámur in terris, ejus conspéctu perfruámur in cælis.
 $Per Dominum

@@ -6,6 +6,9 @@ vide C11;
 Gloria
 Prefatio=Maria=Festivitate
 
+[Officium]
+The Blessed Virgin Mary of Guadalupe
+
 [Oratio]
 O God, Who willed that, under the special patronage of the Blessed Virgin Mary, we be laden with perpetual favors, grant to Your suppliants that, as we this day rejoice in her commemoration on earth, we may enjoy the vision of her in heaven.
 $Per Dominum

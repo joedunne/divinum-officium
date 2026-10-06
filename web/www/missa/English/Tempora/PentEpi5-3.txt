@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Wednesday in the Fifth Week After Epiphany <Transferred>
+
 [Rank]
 ;;Feria;;1
 

@@ -13,6 +13,9 @@ Suffr=Ecclesiæ,Papa;;
 [Station]
 S. Maria ad Martyres
 
+[SanctaMissaName]
+Friday within the Octave of Easter
+
 [Introitus]
 !Ps 77:53
 v. Edúxit eos Dóminus in spe, allelúja: et inimícos eórum opéruit mare, allelúja, allelúja, allelúja.

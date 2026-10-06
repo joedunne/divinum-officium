@@ -6,10 +6,10 @@
 ;;Feria;;1
 
 [Officium]
-Sabbato infra octavam Corporis Christi
+Saturday Within the Octave of Corpus Christi
 
 [Officium] (rubrica 196 aut rubrica 1955)
-Sabbato infra Hebdomadam I post Octavam Pentecostes
+Saturday Within the First Week after Pentecost
 
 [Rule]
 Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;

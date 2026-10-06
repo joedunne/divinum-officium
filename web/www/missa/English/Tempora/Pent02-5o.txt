@@ -5,7 +5,7 @@
 ;;Duplex majus;;4.01
 
 [Officium]
-Sacratissimi Cordis Domini Nostri Jesu Christi
+The Most Sacred Heart of Our Lord Jesus Christ
 
 [Rule]
 Gloria

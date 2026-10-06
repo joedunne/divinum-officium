@@ -10,6 +10,9 @@ Gloria
 Credo
 Prefatio=Joseph
 
+[SanctaMissaName]
+The Solemnity of St. Joseph
+
 [Introitus]
 !Ps 32:20-21
 v. Adjútor et protéctor noster est Dóminus: in eo lætábitur cor nostrum, et in nómine sancto ejus sperávimus, allelúja, allelúja

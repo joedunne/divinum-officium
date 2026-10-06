@@ -20,6 +20,9 @@ S. Pietro in Vaticano
 [CollectStation]
 S. Maria in Traspontina
 
+[SanctaMissaName]
+Saturday in the First Week of Lent
+
 [Introitus]
 !Ps 87:3
 v. Intret orátio mea in conspéctu tuo: inclína aurem tuam ad precem meam, Dómine.

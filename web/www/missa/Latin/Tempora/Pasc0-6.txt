@@ -13,6 +13,9 @@ Suffr=Ecclesiæ,Papa;;
 [Station]
 S. Giovanni in Laterano
 
+[SanctaMissaName]
+Saturday within the Octave of Easter
+
 [Introitus]
 !Ps 104:43.
 v. Edúxit Dóminus pópulum suum in exsultatióne, allelúja: et eléctos suos in lætítia, allelúja, allelúja.

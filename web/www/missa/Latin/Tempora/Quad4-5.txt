@@ -19,6 +19,9 @@ S. Eusebio
 [CollectStation]
 SS. Vito e Modesto
 
+[SanctaMissaName]
+Friday in the Fourth Week of Lent
+
 [Introitus]
 !Ps 18:15
 v. Meditátio cordis mei in conspéctu tuo semper: Dómine, adjútor meus, et redémptor meus.

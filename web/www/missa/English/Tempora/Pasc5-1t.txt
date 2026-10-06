@@ -2,7 +2,7 @@
 ;;Feria;;2
 
 [Officium]
-Feria Secunda in Rogationibus
+Monday in Rogation Week
 
 [Introitus]
 !Ps 17:7

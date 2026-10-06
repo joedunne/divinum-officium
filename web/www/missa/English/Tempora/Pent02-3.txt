@@ -6,10 +6,10 @@
 ;;Feria;;1
 
 [Officium]
-Feria Quarta infra Octavam Corporis Christi
+Wednesday Within the Octave of Corpus Christi
 
 [Officium] (rubrica 196 aut rubrica 1955)
-Feria IV infra Hebdomadam II post Octavam Pentecostes
+Wednesday Within the Second Week after Pentecost
 
 [Rule]
 ex Tempora/Pent01-4;

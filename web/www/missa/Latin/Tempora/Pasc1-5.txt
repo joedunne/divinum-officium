@@ -9,3 +9,6 @@ Oratio Dominica
 Gloria
 no Credo
 Suffr=Maria3;Ecclesiæ,Papa;;
+
+[SanctaMissaName]
+Friday in the First Week After Easter

@@ -1,3 +1,6 @@
+[SanctaMissaName]
+The Solemnity of St. Joseph
+
 [Rank]
 ;;Duplex I classis;;6;;
 

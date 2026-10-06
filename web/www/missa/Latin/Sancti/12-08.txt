@@ -7,8 +7,8 @@ Gloria
 Credo
 Prefatio=Maria=Conceptióne immaculáta;
 
-[SanctaMissaName]
-The Immaculate Conception of the Blessed Virgin Mary
+[Officium]
+In Conceptione Immaculata Beatæ Mariæ Virginis
 
 [Introitus]
 !Is 61:10

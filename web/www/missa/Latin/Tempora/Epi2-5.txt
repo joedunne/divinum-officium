@@ -7,3 +7,6 @@ Feria VI infra Hebdomadam II post Epiphaniam
 [Rule]
 vide Epi2-0
 Suffragium=Maria2;Papa,Ecclesiæ;;
+
+[SanctaMissaName]
+Friday in the Second Week After Epiphany

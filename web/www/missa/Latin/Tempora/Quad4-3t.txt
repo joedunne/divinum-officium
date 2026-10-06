@@ -17,6 +17,9 @@ LectioL1
 [Station]
 S. Paolo fuori le mura
 
+[SanctaMissaName]
+Wednesday in the Fourth Week of Lent
+
 [Introitus]
 @Tempora/Quad4-3:Introitus
 

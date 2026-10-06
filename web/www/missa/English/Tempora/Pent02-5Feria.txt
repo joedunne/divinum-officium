@@ -2,4 +2,4 @@
 ;;Feria;;1
 
 [Officium]
-Feria Sexta infra Hebdomadam II post Octavam Pentecostes
+Friday Within the Second Week after Pentecost

@@ -1,6 +1,3 @@
-[SanctaMissaName]
-Vigil of the Ascension
-
 [Rank] (rubrica 196)
 ;;Feria;;5
 
@@ -8,10 +5,10 @@ Vigil of the Ascension
 ;;Feria;;1
 
 [Officium]
-Feria Quarta in Rogationibus in Vigilia Ascensionis
+Wednesday of the Rogation Days on the Vigil of the Ascension
 
 [Officium] (rubrica 196)
-In Vigilia Ascensionis
+Vigil of the Ascension
 
 [Introitus]
 !Isa. 48:20.

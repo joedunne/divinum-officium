@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Thursday after Ash Wednesday
+
 [Officium]
 Feria V post Cineres
 

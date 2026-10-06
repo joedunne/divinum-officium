@@ -9,3 +9,6 @@ Oratio Dominica
 no Gloria
 no Credo
 Suffr=Maria1;Ecclesiæ,Papa;;
+
+[SanctaMissaName]
+Thursday in the First Week of Advent

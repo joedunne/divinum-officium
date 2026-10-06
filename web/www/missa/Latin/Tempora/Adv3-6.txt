@@ -13,6 +13,9 @@ no Credo
 LectioL5
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Saturday in the Third Week of Advent
+
 [Station]
 S. Pietro in Vaticano
 

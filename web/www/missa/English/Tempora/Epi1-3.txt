@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Wednesday in the First Week After Epiphany
+
 [Rank]
 ;;Feria;;1;;vide Epi1-0a
 

@@ -8,6 +8,9 @@ CredoDA
 Prefatio=Maria=Assumptionis
 Suffragium=Spiritu;Ecclesiæ,Papa;;
 
+[Officium]
+Sexta die infra Octavam Assumptionis B.M.V.
+
 [Oratio]
 @Sancti/08-18bmv
 

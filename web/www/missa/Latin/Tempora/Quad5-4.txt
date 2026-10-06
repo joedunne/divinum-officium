@@ -20,6 +20,9 @@ S. Apollinare
 [CollectStation]
 S. Maria in Via Lata
 
+[SanctaMissaName]
+Thursday of Passion Week
+
 [Introitus]
 !Dan 3:31
 v. Omnia, quæ fecísti nobis, Dómine, in vero judício fecísti: quia peccávimus tibi, et mandátis tuis non obedívimus: sed da glóriam nómini tuo, et fac nobíscum secúndum multitúdinem misericórdiæ tuæ.

@@ -7,3 +7,6 @@ Gloria
 Credo
 Prefatio=Maria=Conceptióne immaculáta;
 Suffragium=Spiritu;Ecclesiæ,Papa;;
+
+[Officium]
+De VI die Infra Octavam Immaculatæ Conceptione Beatæ Mariæ Virgini

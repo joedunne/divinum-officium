@@ -10,6 +10,9 @@ Gloria
 Credo
 Prefatio=Maria=Et te in festivitate
 
+[Officium]
+The Queenship of the Blessed Virgin Mary
+
 [Introitus]
 v. Let us all rejoice in the Lord, celebrating a feast in honor of the blessed Virgin Mary, our Queen, on whose solemnity the angels rejoice, and join in praising the Son of God. (Alleluia, alleluia.)
 !Ps 44:2

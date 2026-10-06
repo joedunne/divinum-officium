@@ -13,6 +13,9 @@ no Gloria
 Suffragium=Sanctorum;Vivis;;
 Super populum
 
+[SanctaMissaName]
+Monday in the First Week of Lent
+
 [Station]
 S. Pietro in Vincoli
 

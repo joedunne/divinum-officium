@@ -6,3 +6,6 @@ ex C11;
 Gloria
 CredoDA
 Prefatio=Maria=Festivitate;
+
+[Officium]
+S. Mariæ ad Nives

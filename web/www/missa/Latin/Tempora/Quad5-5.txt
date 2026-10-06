@@ -15,6 +15,9 @@ S. Stephani Rotondo
 [CollectStation]
 SS. Giovanni e Paolo
 
+[SanctaMissaName]
+Friday of Passion Week
+
 [Introitus]
 !Joann 19:25
 v. Stabant juxta Crucem Jesu Mater ejus, et soror Matris ejus, María Cléophæ, et Salóme et María Magdaléne.

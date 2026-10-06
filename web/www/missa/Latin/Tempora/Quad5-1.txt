@@ -20,6 +20,9 @@ S. Crisogono
 [CollectStation]
 S. Giorgio in Velabro
 
+[SanctaMissaName]
+Monday of Passion Week
+
 [Introitus]
 !Ps 55:2
 v. Miserére mihi, Dómine, quóniam conculcávit me homo: tota die bellans tribulávit me.

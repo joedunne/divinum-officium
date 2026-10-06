@@ -1,3 +1,6 @@
+[SanctaMissaName]
+The Second Day within the Octave St. Joseph
+
 [Rank]
 ;;Semiduplex;;2;;vide Tempora/Pasc2-3
 

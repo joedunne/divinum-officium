@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Monday of the First Week after Pentecost
+
 [Officium]
 Feria Secunda infra Hebdomadam I post Octavam Pentecostes
 

@@ -12,6 +12,9 @@ no Gloria
 no Credo
 Suffr=Maria1;Ecclesiæ,Papa;;
 
+[SanctaMissaName]
+Friday in the Third Week of Advent
+
 [Station]
 SS. Apostoli
 

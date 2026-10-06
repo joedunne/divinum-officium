@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Tuesday of the Ninth Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 

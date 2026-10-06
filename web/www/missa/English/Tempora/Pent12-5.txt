@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Friday of the Twelfth Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 

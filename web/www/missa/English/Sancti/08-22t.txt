@@ -6,3 +6,6 @@ ex C11;
 Gloria
 CredoDA
 Prefatio=Maria=Assumptione;
+
+[Officium]
+Octave of the Assumption of the Blessed Virgin Mary

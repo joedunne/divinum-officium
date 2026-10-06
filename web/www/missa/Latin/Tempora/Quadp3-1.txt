@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Monday in the Week of Quinquagesima
+
 [Officium]
 Feria II infra Hebdomadam Quinquagesimæ
 

@@ -8,6 +8,9 @@ CredoDA
 Prefatio=Maria=Assumptionis
 Suffragium=Spiritu;Ecclesiæ,Papa;;
 
+[Officium]
+Quarta die infra Octavam S. Assumptionis B.M.V.
+
 [Oratio]
 Famulórum tuórum, quǽsumus, Dómine, delíctis ignósce: ut, qui tibi placére de áctibus nostris non valémus; Genetrícis Fílii tui, Dómini nostri, intercessióne salvémur:
 $Qui tecum

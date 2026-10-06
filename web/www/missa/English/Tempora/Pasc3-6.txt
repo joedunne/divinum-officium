@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Saturday in the Third Week After Easter
+
 [Rank]
 ;;Feria;;1
 

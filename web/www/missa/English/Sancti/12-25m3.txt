@@ -1,4 +1,4 @@
-[SanctaMissaName]
+[Officium]
 The Nativity of Our Lord
 Third Mass During the Daytime
 

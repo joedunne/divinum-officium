@@ -5,12 +5,11 @@ In die Nativitatis Domini;;Duplex I Classis;;7
 Gloria
 Credo
 Prefatio=Nat
-celebranda aut missa prima aut missa secunda aut missa tertia
+celebranda aut missa Prima aut missa Secunda aut missa Tertia
 (rubrica 1960) no Ultima Evangelium
 
-[SanctaMissaName]
-The Nativity of Our Lord
-Third Mass During the Daytime
+[Officium]
+In die Nativitatis Domini
 
 [Station]
 S. Maria Maggiore

@@ -7,3 +7,6 @@ Prefatio=Nat
 In Octava Ss. Innocentium;;Simplex;;1.4;;vide Sancti/12-28
 (sed rubrica tridentina)
 In Octava Ss. Innocentium;;Duplex;;3.1;;ex Sancti/12-28
+
+[Officium]
+Octave of the Holy Innocents

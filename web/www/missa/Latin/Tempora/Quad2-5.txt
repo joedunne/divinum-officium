@@ -19,6 +19,9 @@ S. Vitale in Fovea
 [CollectStation]
 S. Agata dei Goti
 
+[SanctaMissaName]
+Friday in the Second Week of Lent
+
 [Introitus]
 !Ps 16:15
 v. Ego autem cum justítia apparébo in conspéctu tuo: satiábor, dum manifestábitur glória tua.

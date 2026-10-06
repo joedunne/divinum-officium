@@ -13,6 +13,9 @@ Suffr=Ecclesiæ,Papa;;
 [Station]
 S. Lorenzo fuori le mura
 
+[SanctaMissaName]
+Wednesday within the Octave of Easter
+
 [Introitus]
 @Tempora/Pasc0-3:Introitus
 

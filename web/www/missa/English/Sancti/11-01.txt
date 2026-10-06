@@ -1,6 +1,3 @@
-[SanctaMissaName]
-The Feast of All Saints
-
 [Rule]
 9 lectiones
 Gloria
@@ -10,7 +7,7 @@ Credo
 ;;Duplex I classis cum octava communi;;6.4;;vide C3
 
 [Officium]
-All Saints
+The Feast of All Saints
 
 [Introitus]
 v. Let us all rejoice in the Lord, celebrating a feast day in honor of all the Saints, on whose solemnity the angels rejoice, and join in praising the Son of God.

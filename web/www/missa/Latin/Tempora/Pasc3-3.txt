@@ -8,3 +8,6 @@ Die Octava Patrocinii St Joseph
 ex Tempora/Pasc2-3
 Gloria
 Credo
+
+[SanctaMissaName]
+The Octave St. Joseph

@@ -17,6 +17,9 @@ SS. Dodici Apostoli
 [CollectStation]
 S. Marco
 
+[SanctaMissaName]
+Friday in the First Week of Lent
+
 [Introitus]
 !Ps 24:17; 24:18
 v. De necessitátibus meis éripe me, Dómine: vide humilitátem meam et labórem meum, et dimítte ómnia peccáta mea.

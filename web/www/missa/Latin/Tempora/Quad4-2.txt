@@ -19,6 +19,9 @@ S. Lorenzo in Damaso
 [CollectStation]
 S. Caterina dei Funari
 
+[SanctaMissaName]
+Tuesday in the Fourth Week of Lent
+
 [Introitus]
 !Ps 54:2-3
 v. Exáudi, Deus, oratiónem meam, et ne despéxeris deprecatiónem meam: inténde in me et exáudi me.

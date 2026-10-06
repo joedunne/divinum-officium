@@ -10,6 +10,9 @@ Gloria
 Credo
 Prefatio=Maria=Feastday;
 
+[Officium]
+The Maternity of the Blessed Virgin Mary
+
 [Introitus]
 !Isa 7:14
 v. Behold, the Virgin shall be with child and bear a Son, and shall name Him Emmanuel.

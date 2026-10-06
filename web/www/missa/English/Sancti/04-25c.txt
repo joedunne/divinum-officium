@@ -1,5 +1,5 @@
 [Rank]
-Litaniae Maiores;;Commemoratio;;3
+The Greater Litanies;;Commemoratio;;3
 
 [Oratio]
 @Tempora/Pasc5-1:Oratio

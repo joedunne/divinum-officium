@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Saturday in the Week of Septuagesima
+
 [Officium]
 Sabbato infra Hebdomadam Septuagesimæ
 

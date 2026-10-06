@@ -1,5 +1,5 @@
 [Rank]
-Quinta die infra Octavam Assumptionis B.M.V.;;Semiduplex;;2;;ex sancti/08-15
+Tertia die infra Octavam Assumptionis B.M.V.;;Semiduplex;;2;;ex Sancti/08-15
 
 [Rule]
 ex Sancti/08-15;
@@ -9,7 +9,7 @@ Prefatio=Maria=Assumptionis
 Suffragium=Spiritu;Ecclesiæ,Papa;;
 
 [Officium]
-Quinta die infra Octavam Assumptionis B.M.V.
+Third Day within the Octave of the Assumption of the Blessed Virgin Mary
 
 [Oratio]
 @Sancti/08-18bmv

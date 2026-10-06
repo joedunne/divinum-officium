@@ -19,6 +19,9 @@ S. Nicola in Carcere
 [CollectStation]
 S. Angelo in Pescheria
 
+[SanctaMissaName]
+Saturday in the Fourth Week of Lent
+
 [Introitus]
 !Isa 55:1
 v. Sitiéntes, veníte ad aquas, dicit Dóminus: et qui non habétis prétium, veníte et bíbite cum lætítia.

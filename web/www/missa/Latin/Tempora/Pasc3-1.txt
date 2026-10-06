@@ -10,3 +10,6 @@ Gloria
 Credo
 Prefatio=Joseph
 Suffragium=Maria3;Ecclesiæ,Papa;;
+
+[SanctaMissaName]
+The Sixth Day within the Octave St. Joseph

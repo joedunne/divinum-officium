@@ -8,3 +8,6 @@ Die V infra Octavam Nativitatis
 
 [Rank] (rubrica 196)
 ;;Duplex II classis;;5;;ex Sancti/12-25m3
+
+[SanctaMissaName]
+Fifth Day in the Octave of the Nativity

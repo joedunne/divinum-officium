@@ -3,6 +3,9 @@ Ad Romános, cap. 6
 (sed rubrica 1955 aut rubrica 196 aut rubrica altovadensis)
 Die Tertia Januarii
 
+[SanctaMissaName]
+Third Day of January
+
 [Rank]
 ;;Feria;;1;;vide Sancti/01-01
 (sed rubrica 1955 aut rubrica 196)

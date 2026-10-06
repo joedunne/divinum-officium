@@ -7,5 +7,8 @@ Gloria
 CredoDA
 Prefatio=Dedicatio
 
+[Officium]
+The Dedication of the Basilicas of Saints Peter and Paul
+
 [Oratio]
 @Commune/C8

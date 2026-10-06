@@ -6,7 +6,7 @@ Second Mass at Dawn
 Gloria
 Credo
 Prefatio=Nat
-celebranda aut missa prima aut missa secunda aut missa tertia
+celebranda aut missa Prima aut missa Secunda aut missa Tertia
 
 [Officium]
 In Nativitate Domini in aurora

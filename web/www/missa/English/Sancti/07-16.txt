@@ -4,6 +4,9 @@ In Commemoratione Beatae Mariae Virgine de Monte Carmelo.;;Duplex majus;;4;;ex C
 [Rank1960]
 In Commemoratione Beatae Mariae Virgine de Monte Carmelo.;;Simplex;;1.1;;vide C11
 
+[Officium]
+Our Lady of Mount Carmel
+
 [Rule]
 ex C11;
 Gloria

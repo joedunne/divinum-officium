@@ -1,11 +1,8 @@
-[SanctaMissaName]
-Feast of Corpus Christi
-
 [Rank]
 ;;Duplex I classis;;7
 
 [Officium]
-Festum Sanctissimi Corporis Christi
+Feast of Corpus Christi
 
 [Rule]
 Gloria

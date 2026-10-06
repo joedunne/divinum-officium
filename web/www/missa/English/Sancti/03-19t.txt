@@ -5,6 +5,9 @@
 Gloria
 Prefatio=Joseph=Festivitate
 
+[Officium]
+St. Joseph, Spouse of the Blessed Virgin Mary, Confessor
+
 [Introitus]
 @Commune/C5-1
 

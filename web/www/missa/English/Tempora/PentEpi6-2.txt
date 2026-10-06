@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Tuesday in the Sixth Week After Epiphany <Transferred>
+
 [Rank]
 ;;Feria;;1
 

@@ -12,3 +12,9 @@ Suffragium=Maria2;;Papa,Ecclesiæ;;
 (sed rubrica 1960)
 CPapaM=Hygínum
 vide C4b;
+
+[Officium]
+Sexta die infra Octavam Epiphaniæ
+
+[Officium] (rubrica 196 aut rubrica 1955)
+Die Undecima Januarii

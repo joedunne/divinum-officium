@@ -6,5 +6,8 @@ ex C8;
 Gloria
 CredoDA
 
+[Officium]
+In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli
+
 [Oratio]
 @Commune/C8

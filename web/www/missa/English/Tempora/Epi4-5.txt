@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Friday in the Fourth Week After Epiphany
+
 [Rank]
 ;;Feria;;1;;vide Epi4-0
 

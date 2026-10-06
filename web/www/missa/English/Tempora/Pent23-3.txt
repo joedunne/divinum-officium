@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Wednesday of the Twenty-Third Week after Pentecost
+
 [Rank]
 ;;Feria;;1
 

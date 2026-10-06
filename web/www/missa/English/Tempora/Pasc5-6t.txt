@@ -2,4 +2,4 @@
 ;;Semiduplex;;2;;ex Tempora/Pasc5-4
 
 [Officium]
-Sabbato infra Octavam Ascensionis
+Saturday within the Octave of the Ascension

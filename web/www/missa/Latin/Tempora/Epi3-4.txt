@@ -7,3 +7,6 @@ Feria V infra Hebdomadam III post Epiphaniam
 [Rule]
 vide Epi3-0
 Suffragium=Maria2;Papa,Ecclesiæ;;
+
+[SanctaMissaName]
+Thursday in the Third Week After Epiphany

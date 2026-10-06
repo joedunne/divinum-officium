@@ -1,6 +1,9 @@
 [Officium]
 Maternitatis Beatæ Mariæ Virginis
 
+[Rank] (rubrica 196)
+Maternitatis Beatæ Mariæ Virginis;;Duplex 2 classis;;5;;ex C11
+
 [Rank]
 ;;Duplex 2 classis;;5.1;;ex C11
 (sed rubrica 196)

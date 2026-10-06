@@ -6,7 +6,7 @@ Gloria
 ;;Simplex;;1.1;;vide C6-1
 
 [Officium]
-S. Dorothy virgin and martyr
+S. Dorothy, Virgin and Martyr
 
 [Name]
 Dorothy

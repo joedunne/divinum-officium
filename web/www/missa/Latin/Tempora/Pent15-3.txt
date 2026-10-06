@@ -7,3 +7,6 @@ Feria Quarta infra Hebdomadam XV post Octavam Pentecostes
 [Rule]
 Oratio Dominica
 Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
+
+[SanctaMissaName]
+Wednesday of the Fifteenth Week after Pentecost

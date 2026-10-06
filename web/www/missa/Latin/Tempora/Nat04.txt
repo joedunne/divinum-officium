@@ -3,6 +3,9 @@ Ad Romános, cap. 7
 (sed rubrica 1955 aut rubrica 196 aut rubrica altovadensis)
 Die Quarta Januarii
 
+[SanctaMissaName]
+Fourth Day of January
+
 [Rank]
 ;;Feria;;1;;vide Sancti/01-01
 (sed rubrica 1955 aut rubrica 196)

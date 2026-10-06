@@ -14,6 +14,9 @@ Suffr=Ecclesiæ;Papa;;
 [Station]
 SS. Apostoli
 
+[SanctaMissaName]
+Ember Friday of Pentecost
+
 [Introitus]
 !Ps 70:8 70:23
 v. Repleátur os meum laude tua, allelúja: ut possim cantáre, allelúja: gaudébunt lábia mea, dum cantávero tibi, allelúja, allelúja.

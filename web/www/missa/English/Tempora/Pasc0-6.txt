@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Saturday within the Octave of Easter
+
 [Rank]
 ;;Semiduplex I class;;6;;ex Pasc0-0
 

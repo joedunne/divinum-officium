@@ -12,7 +12,7 @@ Gloria
 ;;Duplex;;3;;vide C6
 
 [Officium]
-S. Agathae Virginis et Martyris
+St. Agatha Virgin and Martyr
 
 [Name]
 Agatha

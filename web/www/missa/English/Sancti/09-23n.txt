@@ -5,4 +5,4 @@ vide C5;
 ;;Duplex memorial;;3;;vide C5
 
 [Officium]
-S. Pio of Pietrelcina (Padre Pio), priest
+S. Pio of Pietrelcina <Padre Pio>, priest

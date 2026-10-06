@@ -10,6 +10,9 @@ CredoDA
 Prefatio=Nat
 Suffragium=Maria2;;
 
+[Officium]
+In Vigilia Epiphaniæ
+
 [Introitus]
 !Sap 18:14-15
 @Tempora/Nat1-0

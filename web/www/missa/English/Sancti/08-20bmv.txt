@@ -4,6 +4,9 @@ Gloria
 CredoDA
 Prefatio=Maria=Assumptionis
 
+[Officium]
+Sixth Day within the Octave of the Assumption of the Blessed Virgin Mary
+
 [Rank]
 Sixth Day Within the Octave of Assumption;;Semiduplex;;2;;ex sancti/08-15
 

@@ -19,6 +19,9 @@ S. Lorenzo in Panisperna
 [CollectStation]
 S. Agata del Goti
 
+[SanctaMissaName]
+Thursday in the First Week of Lent
+
 [Introitus]
 !Ps 95:6
 v. Conféssio et pulchritúdo in conspéctu ejus: sánctitas et magnificéntia in sanctificatióne eius.

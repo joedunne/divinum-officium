@@ -88,14 +88,24 @@ sub postOrdo() {
 sub ordo {
 
   my $missa_common_name = getitem('SanctaMissaName', $lang);
-
+  my $officium_name = getitem('Officium', $lang2);
 
   print "<H2 ID='$missastartid'>$missaname</H2>\n" if $content;
   if ($missa_common_name && $missa_common_name !~ /SanctaMissaName missing!/) {
       $missa_common_name =~ s/<([^>]+)>/($1)/g;
-      $missa_common_name =~ s/\R/<br\/>/g;
+      $missa_common_name =~ s/\R+\z//;         # Removes all trailing newlines
+      $missa_common_name =~ s/\R/<br\/>/g;     # Replaces internal newlines
 #      $missaname .= "<br/>" . $missa_common_name;
       print "<H3>$missa_common_name</H3>\n" if $content;
+      print STDERR "Missa Name : $missa_common_name\n";
+  } elsif ($officium_name && $officium_name !~ /Officium missing!/) {
+      $officium_name =~ s/<([^>]+)>/($1)/g;
+      $officium_name =~ s/\R/<br\/>/g;
+      print "<H3>$officium_name</H3>\n" if $content;
+      print STDERR "Missa Name : $officium_name\n";
+  } else {
+      print "<H3>MissingMissaCommonName</H3>\n";
+      print STDERR "Cannot resolve Missa Common Name : $winner\n";
   }
 
   headline($head);

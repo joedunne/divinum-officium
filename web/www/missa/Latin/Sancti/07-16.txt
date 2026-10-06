@@ -7,6 +7,9 @@ In Commemoratione Beatae Mariae Virgine de Monte Carmelo.;;Simplex;;1.1;;vide C1
 [TODO]
 Unsure of the Rank1960...it was not in the original latin
 
+[Officium]
+Beatæ Mariæ Virginis de Monte Carmelo
+
 [Rule]
 ex C11;
 Gloria

@@ -3,3 +3,9 @@ Die Decima Januarii;;Feria;;1.2;;vide Sancti/01-06
 
 [Rank]
 Quinta die infra Octavam Epiphaniae;;Semiduplex;;2;;ex Sancti/01-06
+
+[Officium]
+Fifth Day in the Octave of the Epiphany
+
+[Officium] (rubrica 196 aut rubrica 1955)
+The Tenth Day of January

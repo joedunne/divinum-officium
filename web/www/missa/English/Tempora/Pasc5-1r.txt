@@ -2,4 +2,4 @@
 ;;Feria;;1
 
 [Officium]
-Feria Secunda in Rogationibus
+Monday in Rogation Week

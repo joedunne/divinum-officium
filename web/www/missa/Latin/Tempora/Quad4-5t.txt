@@ -19,6 +19,9 @@ S. Eusebio
 [CollectStation]
 SS. Vito e Modesto
 
+[SanctaMissaName]
+Friday in the Fourth Week of Lent
+
 [Introitus]
 @Tempora/Quad4-5:Introitus
 

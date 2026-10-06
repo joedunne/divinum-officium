@@ -19,6 +19,9 @@ SS. Marcellino e Pietro
 [CollectStation]
 S. Clemente
 
+[SanctaMissaName]
+Saturday in the Second Week of Lent
+
 [Introitus]
 !Ps 18:8.
 v. Lex Dómini irreprehensíbilis, convértens ánimas: testimónium Dómini fidéle, sapiéntiam præstans párvulis.

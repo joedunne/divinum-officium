@@ -11,3 +11,6 @@ Suffragium=Maria2;Papa,Ecclesia;;
 
 [Graduale]
 @Tempora/Quadp3-0:GradualeF
+
+[SanctaMissaName]
+Tuesday in the Week of Quinquagesima

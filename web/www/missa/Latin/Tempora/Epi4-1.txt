@@ -7,3 +7,6 @@ Feria Secunda infra Hebdomadam IV post Epiiphaniam
 [Rule]
 vide Epi4-0
 Suffragium=Maria2;Papa,Ecclesiæ;;
+
+[SanctaMissaName]
+Monday in the Fourth Week After Epiphany

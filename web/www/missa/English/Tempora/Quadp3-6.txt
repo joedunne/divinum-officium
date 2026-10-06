@@ -23,6 +23,9 @@ St. Tryphon's
 [CollectStation]
 St. Lawrence in Lucina
 
+[SanctaMissaName]
+Saturday after Ash Wednesday
+
 [Introitus]
 @Tempora/Quadp3-5:Introitus
 

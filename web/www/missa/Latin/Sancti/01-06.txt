@@ -9,8 +9,8 @@ Prefatio=Epi
 [Station]
 S. Pietro in Vaticano
 
-[SanctaMissaName]
-The Epiphany of Our Lord
+[Officium]
+In Epiphania Domini
 
 [Introitus]
 !Malach 3:1; 1 Par 29:12

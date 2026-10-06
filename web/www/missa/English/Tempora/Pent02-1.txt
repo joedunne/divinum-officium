@@ -6,10 +6,10 @@
 ;;Feria;;1
 
 [Officium]
-Feria Secunda infra Octavam Corporis Christi
+Monday Within the Octave of Corpus Christi
 
 [Officium] (rubrica 196 aut rubrica 1955)
-Feria II infra Hebdomadam II post Octavam Pentecostes
+Monday Within the Second Week after Pentecost
 
 [Rule]
 ex Tempora/Pent01-4;

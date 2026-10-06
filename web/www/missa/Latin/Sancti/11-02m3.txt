@@ -6,7 +6,7 @@ ex C9
 no Gloria
 no Credo
 Prefatio=Defunctorum
-celebranda aut missa prima aut missa secunda aut missa tertia
+celebranda aut missa Prima aut missa Secunda aut missa Tertia
 Sequentia
 
 [SanctaMissaName]

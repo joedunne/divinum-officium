@@ -9,9 +9,6 @@ Omnium Sanctorum
 Gloria
 Credo
 
-[SanctaMissaName]
-The Feast of All Saints
-
 [Introitus]
 v. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre Sanctórum ómnium: de quorum sollemnitáte gaudent Angeli et colláudant Fílium Dei.
 !Ps 32:1

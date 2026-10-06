@@ -13,6 +13,9 @@ Suffr=Ecclesiæ,Papa;;
 [Station]
 S. Lorenzo fuori le mura
 
+[SanctaMissaName]
+Wednesday within the Octave of Easter
+
 [Introitus]
 !Matt 25:34
 v. Veníte, benedícti Patris mei, percípite regnum, allelúja: quod vobis parátum est ab orígine mundi, allelúja, allelúja, allelúja.

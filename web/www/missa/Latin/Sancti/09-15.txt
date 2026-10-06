@@ -8,6 +8,9 @@ Sequentia
 Credo
 Prefatio=Maria=Transfixióne;
 
+[Officium]
+Septem Dolorum Beatæ Mariæ Virginis
+
 [Introitus]
 !Joann 19:25
 v. Stabant juxta Crucem Jesu Mater ejus, et soror Matris ejus, María Cléophæ, et Salóme et María Magdaléne.

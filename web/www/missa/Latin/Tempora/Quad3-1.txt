@@ -16,6 +16,9 @@ Super popul
 [Station]
 S. Marco
 
+[SanctaMissaName]
+Monday in the Third Week of Lent
+
 [Introitus]
 !Ps 55:5.
 v. In Deo laudábo verbum, in Dómino laudábo sermónem: in Deo sperábo, non timebo, quid fáciat mihi homo.

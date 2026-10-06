@@ -1,3 +1,6 @@
+[SanctaMissaName]
+Friday in the Week of Septuagesima
+
 [Officium]
 Feria VI infra Hebdomadam Septuagesimæ
 

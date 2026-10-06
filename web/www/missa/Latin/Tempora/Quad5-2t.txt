@@ -17,6 +17,9 @@ Super popul
 [Station]
 S. Maria in Via Lata
 
+[SanctaMissaName]
+Tuesday of Passion Week
+
 [Introitus]
 !Ps 26:14
 v. Exspécta Dóminum, viríliter age: et confortétur cor tuum, et sústine Dóminum.

@@ -6,6 +6,9 @@ Gloria
 Credo
 Prefatio=Maria=Visitation;
 
+[Officium]
+The Visitation of the Blessed Virgin Mary
+
 [Introitus]
 @Commune/C10
 

@@ -7,3 +7,6 @@ Sabbato infra Hebdomadam VI post Epiphaniam
 [Rule]
 vide Epi6-0
 Suffragium=Maria2;Papa,Ecclesiæ;;
+
+[SanctaMissaName]
+Saturday in the Sixth Week After Epiphany

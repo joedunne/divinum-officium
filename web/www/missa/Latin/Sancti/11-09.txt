@@ -8,6 +8,9 @@ Gloria
 Credo
 Prefatio=Dedicatio
 
+[Officium]
+In Dedicatione Basilicæ Ss. Salvatoris
+
 [Secreta]
 Annue, quǽsumus, Dómine, précibus nostris: ut, dum hæc vota præséntia réddimus, ad ætérna præmia, te adjuvánte, perveníre mereámur.
 $Per Dominum
