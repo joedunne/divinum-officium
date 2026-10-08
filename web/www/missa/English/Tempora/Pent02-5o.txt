@@ -28,7 +28,9 @@ $Per eumdem
 [Lectio]
 From the Prophecy of Isaias
 !c. 12
-And you shall say in that day: I will give thanks to thee, O Lord, for you were angry with me: your wrath is turned away, and you have comforted me. Behold, God is my saviour, I will deal confidently, and will not fear: O because the Lord is my strength, and my praise, and he is become my salvation. You shall draw waters with joy out of the saviour's fountains: And you shall say in that day: Praise the Lord, and call upon his name: make his works known among the people: remember that his name is high. Sing to the Lord, for he hath done great things: show this forth in all the earth. Rejoice, and praise, O habitation of Sion: for great is he that is in the midst of you, the Holy One of Israel.
+And you shall say in that day: I will give thanks to thee, O Lord, for you were angry with me: your wrath is turned away, and you have comforted me.
+Behold, God is my saviour, I will deal confidently, and will not fear: O because the Lord is my strength, and my praise, and he is become my salvation. You shall draw waters with joy out of the saviour's fountains:
+And you shall say in that day: Praise the Lord, and call upon his name: make his works known among the people: remember that his name is high. Sing to the Lord, for he hath done great things: show this forth in all the earth. Rejoice, and praise, O habitation of Sion: for great is he that is in the midst of you, the Holy One of Israel.
 
 [Graduale]
 !Jer. In Thren. 1 
@@ -54,7 +56,9 @@ V. I am poured out like water, and all my bones are scattered. My heart is becom
 [Evangelium]
 A reading from ++ the Holy Gospel according to John
 !Joannes 19:31-37
-At that time : Jews, because it was the Parasceve, that the bodies might not remain on the cross on the sabbath day, (for that was a great sabbath day,) besought Pilate that their legs might be broken, and that they might be taken away. The soldiers therefore came; and they broke the legs of the first, and of the other that was crucified with him. But after they were come to Jesus, when they saw that he was already dead, they did not break his legs. But one of the soldiers with a spear opened his side, and immediately there came out blood and water. And he that saw it, hath given testimony, and his testimony is true.
+At that time : Jews, because it was the Parasceve, that the bodies might not remain on the cross on the sabbath day, (for that was a great sabbath day,) besought Pilate that their legs might be broken, and that they might be taken away.
+The soldiers therefore came; and they broke the legs of the first, and of the other that was crucified with him. But after they were come to Jesus, when they saw that he was already dead, they did not break his legs. But one of the soldiers with a spear opened his side, and immediately there came out blood and water.
+And he that saw it, hath given testimony, and his testimony is true.
 
 [Offertorium]
 !Ps. 102

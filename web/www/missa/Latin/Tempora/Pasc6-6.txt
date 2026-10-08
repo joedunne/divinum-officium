@@ -17,7 +17,8 @@ The Vigil of Pentecost
 S. Giovanni in Laterano
 
 [Prelude]
-!In Choro, dicta Nona, Sacerdos et Ministri, induti paramentis violacei coloris, accedunt ad Altare, et facta reverentia, Sacerdos illud osculatur in medio. Deinde leguntur Prophetiæ sine titulo, candelis Altaris exstinctis usque ad principium Missæ, sicut in Sabbato sancto. Sacerdos legit eas submissa voce ad Altare in cornu Epistolæ.
+!In Choro, dicta Nona, Sacerdos et Ministri, induti paramentis violacei coloris, accedunt ad Altare, et facta reverentia, Sacerdos illud osculatur in medio. Deinde leguntur Prophetiæ sine titulo, candelis Altaris exstinctis usque ad principium Missæ, sicut in Sabbato sancto.
+!Sacerdos legit eas submissa voce ad Altare in cornu Epistolæ.
 _
 _
 !!Prophetia Prima
@@ -34,7 +35,8 @@ _
 _`
 !Oratio
 $Oremus
-v. Deus, qui primis tempóribus impléta mirácula novi Testaménti luce reserásti, ut et Mare Rubrum forma sacri fontis exsísteret, et liberáta plebs ab Ægyptíaca servitúte christiáni pópuli sacraménta præférret: da, ut omnes gentes, Israélis privilégium mérito fídei consecútæ, Spíritus tui participatióne regeneréntur.
+v. Deus, qui primis tempóribus impléta mirácula novi Testaménti luce reserásti, ut et Mare Rubrum forma sacri fontis exsísteret, et liberáta plebs ab Ægyptíaca servitúte christiáni pópuli sacraménta præférret:
+da, ut omnes gentes, Israélis privilégium mérito fídei consecútæ, Spíritus tui participatióne regeneréntur.
 $Per Dominum eiusdem
 _
 _
@@ -52,7 +54,8 @@ _
 _`
 !Oratio
 $Oremus
-v. Omnípotens sempitérne Deus, qui, per únicum Fílium tuum, Ecclésiæ tuæ demonstrásti te esse cultórem, omnem pálmitem, fructum in eodem Christo tuo, qui vera vitis est, afferéntem, cleménter éxcolens, ut fructus áfferat amplióres: fidélibus tuis, quos velut víneam ex Ægýpto per fontem baptísmi transtulísti, nullæ peccatórum spinæ præváleant; ut, Spíritus tui sanctificatióne muníti, perpétua fruge diténtur.
+v. Omnípotens sempitérne Deus, qui, per únicum Fílium tuum, Ecclésiæ tuæ demonstrásti te esse cultórem, omnem pálmitem, fructum in eodem Christo tuo, qui vera vitis est, afferéntem, cleménter éxcolens, ut fructus áfferat amplióres:
+fidélibus tuis, quos velut víneam ex Ægýpto per fontem baptísmi transtulísti, nullæ peccatórum spinæ præváleant; ut, Spíritus tui sanctificatióne muníti, perpétua fruge diténtur.
 $Per eundem
 _
 _

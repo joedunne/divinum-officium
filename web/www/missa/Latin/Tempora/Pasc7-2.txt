@@ -28,7 +28,8 @@ $Per Dominum eiusdem
 [Lectio]
 Léctio Actuum Apostolórum
 !Acts 8:14-17
-In diébus illis: Cum audíssent Apóstoli, qui erant Jerosólymis, quod recepísset Samaría verbum Dei, misérunt ad eos Petrum et Joánnem. Qui cum veníssent, oravérunt pro ipsis, ut accíperent Spíritum Sanctum: nondum enim in quemquam illórum vénerat, sed baptizáti tantum erant in nómine Dómini Jesu. Tunc imponébant manus super illos, et accipiébant Spíritum Sanctum.
+In diébus illis: Cum audíssent Apóstoli, qui erant Jerosólymis, quod recepísset Samaría verbum Dei, misérunt ad eos Petrum et Joánnem. Qui cum veníssent, oravérunt pro ipsis, ut accíperent Spíritum Sanctum:
+nondum enim in quemquam illórum vénerat, sed baptizáti tantum erant in nómine Dómini Jesu. Tunc imponébant manus super illos, et accipiébant Spíritum Sanctum.
 
 [Graduale]
 Allelúja, allelúja.
@@ -42,7 +43,10 @@ V. Veni, Sancte Spíritus, reple tuórum corda fidélium: et tui amóris in eis 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Joánnem
 !Joannes 10:1-10
-In illo témpore: Dixit Jesus pharisǽis: Amen, amen, dico vobis: qui non intrat per óstium in ovíle óvium, sed ascéndit aliúnde, ille fur est et latro. Qui autem intrat per óstium, pastor est óvium. Huic ostiárius áperit, et oves vocem ejus áudiunt, et próprias oves vocat nominátim et edúcit eas. Et cum próprias oves emíserit, ante eas vadit: et oves illum sequúntur, quia sciunt vocem ejus. Aliénum autem non sequúntur, sed fúgiunt ab eo; quia non novérunt vocem alienórum. Hoc provérbium dixit eis Jesus. Illi autem non cognovérunt, quid loquerétur eis. Dixit ergo eis íterum Jesus: Amen, amen, dico vobis, quia ego sum óstium óvium. Omnes, quotquot venérunt, fures sunt et latrónes, et non audiérunt eos oves. Ego sum óstium. Per me si quis introíerit, salvábitur: et ingrediétur et egrediétur et páscua invéniet. Fur non venit, nisi ut furétur et mactet et perdat. Ego veni, ut vitam hábeant et abundántius hábeant.
+In illo témpore: Dixit Jesus pharisǽis: Amen, amen, dico vobis: qui non intrat per óstium in ovíle óvium, sed ascéndit aliúnde, ille fur est et latro. Qui autem intrat per óstium, pastor est óvium.
+Huic ostiárius áperit, et oves vocem ejus áudiunt, et próprias oves vocat nominátim et edúcit eas. Et cum próprias oves emíserit, ante eas vadit: et oves illum sequúntur, quia sciunt vocem ejus.
+Aliénum autem non sequúntur, sed fúgiunt ab eo; quia non novérunt vocem alienórum. Hoc provérbium dixit eis Jesus. Illi autem non cognovérunt, quid loquerétur eis. Dixit ergo eis íterum Jesus: Amen, amen, dico vobis, quia ego sum óstium óvium.
+Omnes, quotquot venérunt, fures sunt et latrónes, et non audiérunt eos oves. Ego sum óstium. Per me si quis introíerit, salvábitur: et ingrediétur et egrediétur et páscua invéniet. Fur non venit, nisi ut furétur et mactet et perdat. Ego veni, ut vitam hábeant et abundántius hábeant.
 
 [Offertorium]
 !Ps 77:23-25

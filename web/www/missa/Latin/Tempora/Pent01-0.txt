@@ -27,7 +27,8 @@ $Per Dominum
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Romános
 !Rom 11:33-36.
-O altitúdo divitiárum sapiéntiæ et sciéntiæ Dei: quam incomprehensibília sunt judícia ejus, et investigábiles viæ ejus! Quis enim cognovit sensum Dómini? Aut quis consiliárius ejus fuit? Aut quis prior dedit illi, et retribuétur ei? Quóniam ex ipso et per ipsum et in ipso sunt ómnia: ipsi glória in sǽcula. Amen.
+O altitúdo divitiárum sapiéntiæ et sciéntiæ Dei: quam incomprehensibília sunt judícia ejus, et investigábiles viæ ejus! Quis enim cognovit sensum Dómini? Aut quis consiliárius ejus fuit?
+Aut quis prior dedit illi, et retribuétur ei? Quóniam ex ipso et per ipsum et in ipso sunt ómnia: ipsi glória in sǽcula. Amen.
 
 [Graduale]
 !Dan 3:55-56
@@ -39,7 +40,8 @@ V. Benedíctus es, Dómine, Deus patrum nostrórum, et laudábilis in sǽcula. A
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthǽum
 !Matt 28:18-20
-In illo témpore: Dixit Jesus discípulis suis: Data est mihi omnis potéstas in cœlo et in terra. Eúntes ergo docéte omnes gentes, baptizántes eos in nómine Patris, et Fílii, et Spíritus Sancti: docéntes eos serváre ómnia, quæcúmque mandávi vobis. Et ecce, ego vobíscum sum ómnibus diébus usque ad consummatiónem sǽculi.
+In illo témpore: Dixit Jesus discípulis suis: Data est mihi omnis potéstas in cœlo et in terra. Eúntes ergo docéte omnes gentes, baptizántes eos in nómine Patris, et Fílii, et Spíritus Sancti: docéntes eos serváre ómnia, quæcúmque mandávi vobis.
+Et ecce, ego vobíscum sum ómnibus diébus usque ad consummatiónem sǽculi.
 
 [Ultima Evangelium]
 @Tempora/Pent01-0a:Evangelium
