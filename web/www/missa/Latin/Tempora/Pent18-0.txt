@@ -28,7 +28,8 @@ $Per Dominum
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios
 !1 Cor 1:4-8
-Fratres: Grátias ago Deo meo semper pro vobis in grátia Dei, quæ data est vobis in Christo Jesu: quod in ómnibus dívites facti estis in illo, in omni verbo et in omni sciéntia: sicut testimónium Christi confirmátum est in vobis: ita ut nihil vobis desit in ulla grátia, exspectántibus revelatiónem Dómini nostri Jesu Christi, qui et confirmábit vos usque in finem sine crímine, in die advéntus Dómini nostri Jesu Christi.
+Fratres: Grátias ago Deo meo semper pro vobis in grátia Dei, quæ data est vobis in Christo Jesu: quod in ómnibus dívites facti estis in illo, in omni verbo et in omni sciéntia: sicut testimónium Christi confirmátum est in vobis:
+ita ut nihil vobis desit in ulla grátia, exspectántibus revelatiónem Dómini nostri Jesu Christi, qui et confirmábit vos usque in finem sine crímine, in die advéntus Dómini nostri Jesu Christi.
 
 [Graduale]
 !Ps 121:1; 121:7
@@ -40,7 +41,9 @@ Timébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam. Allel
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthǽum
 !Matt 9:1-8
-In illo témpore: Ascéndens Jesus in navículam, transfretávit et venit in civitátem suam. Et ecce, offerébant ei paralýticum jacéntem in lecto. Et videns Jesus fidem illórum, dixit paralýtico: Confíde, fili, remittúntur tibi peccáta tua. Et ecce, quidam de scribis dixérunt intra se: Hic blasphémat. Et cum vidísset Jesus cogitatiónes eórum, dixit: Ut quid cogitátis mala in córdibus vestris? Quid est facílius dícere: Dimittúntur tibi peccáta tua; an dícere: Surge et ámbula? Ut autem sciátis, quia Fílius hóminis habet potestátem in terra dimitténdi peccáta, tunc ait paralýtico: Surge, tolle lectum tuum, et vade in domum tuam. Et surréxit et ábiit in domum suam. Vidéntes autem turbæ timuérunt, et glorificavérunt Deum, qui dedit potestátem talem homínibus.
+In illo témpore: Ascéndens Jesus in navículam, transfretávit et venit in civitátem suam. Et ecce, offerébant ei paralýticum jacéntem in lecto. Et videns Jesus fidem illórum, dixit paralýtico: Confíde, fili, remittúntur tibi peccáta tua. Et ecce, quidam de scribis dixérunt intra se: Hic blasphémat.
+Et cum vidísset Jesus cogitatiónes eórum, dixit: Ut quid cogitátis mala in córdibus vestris? Quid est facílius dícere: Dimittúntur tibi peccáta tua; an dícere: Surge et ámbula? Ut autem sciátis, quia Fílius hóminis habet potestátem in terra dimitténdi peccáta, tunc ait paralýtico:
+Surge, tolle lectum tuum, et vade in domum tuam. Et surréxit et ábiit in domum suam. Vidéntes autem turbæ timuérunt, et glorificavérunt Deum, qui dedit potestátem talem homínibus.
 
 [Offertorium]
 !Exodi 24:4; 24:5

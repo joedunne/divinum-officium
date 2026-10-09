@@ -22,7 +22,8 @@ $Per Dominum
 [Lectio]
 Lesson from the first letter of St. Paul the Apostle to the Corinthians
 !1 Cor. 1:4-8
-Brethren: I give thanks to my God always concerning you for the grace of God which was given you in Christ Jesus, because in everything you have been enriched in Him, in all utterance and in all knowledge; even as the witness to the Christ has been made so firm in you that you lack no grace, while awaiting the appearance of our Lord Jesus Christ, Who will also keep you secure unto the end, unimpeachable in the day of the coming of our Lord Jesus Christ.
+Brethren: I give thanks to my God always concerning you for the grace of God which was given you in Christ Jesus, because in everything you have been enriched in Him, in all utterance and in all knowledge;
+even as the witness to the Christ has been made so firm in you that you lack no grace, while awaiting the appearance of our Lord Jesus Christ, Who will also keep you secure unto the end, unimpeachable in the day of the coming of our Lord Jesus Christ.
 
 [Graduale]
 !Ps 121:1, 7
@@ -34,7 +35,9 @@ V. The nations shall revere Your name, O Lord, and all the kings of the earth Yo
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
 !Matt 9:1-8
-At that time, Jesus, getting into a boat, crossed over and came to his own town. And behold, they brought to Him a paralytic lying on a pallet. And Jesus, seeing their faith, said to the paralytic, Take courage, son; your sins are forgiven you. And behold, some of the scribes said within themselves, This man blasphemes. And Jesus, knowing their thoughts, said, Why do you harbor evil thoughts in your hearts? For which is easier, to say, ‘Your sins are forgiven you,’ or to say, ‘Arise, and walk’? But that you may know that the Son of Man has power on earth to forgive sins, - then He said to the paralytic - Arise, take up your pallet and go to your house. And he arose, and went away to his house. But when the crowds saw it, they were struck with fear, and glorified God Who had given such power to men.
+At that time, Jesus, getting into a boat, crossed over and came to his own town. And behold, they brought to Him a paralytic lying on a pallet. And Jesus, seeing their faith, said to the paralytic, Take courage, son; your sins are forgiven you. And behold, some of the scribes said within themselves, This man blasphemes.
+And Jesus, knowing their thoughts, said, Why do you harbor evil thoughts in your hearts? For which is easier, to say, ‘Your sins are forgiven you,’ or to say, ‘Arise, and walk’? But that you may know that the Son of Man has power on earth to forgive sins, - then He said to the paralytic -
+Arise, take up your pallet and go to your house. And he arose, and went away to his house. But when the crowds saw it, they were struck with fear, and glorified God Who had given such power to men.
 
 [Offertorium]
 !Ex 24:4-5

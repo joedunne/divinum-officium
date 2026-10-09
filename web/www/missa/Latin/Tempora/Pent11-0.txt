@@ -28,7 +28,10 @@ $Per Dominum
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios.
 !1 Cor 15:1-10
-Fratres: Notum vobis fácio Evangélium, quod prædicávi vobis, quod et accepístis, in quo et statis, per quod et salvámini: qua ratione prædicáverim vobis, si tenétis, nisi frustra credidístis. Trádidi enim vobis in primis, quod et accépi: quóniam Christus mortuus est pro peccátis nostris secúndum Scriptúras: et quia sepúltus est, et quia resurréxit tértia die secúndum Scriptúras: et quia visus est Cephæ, et post hoc úndecim. Deinde visus est plus quam quingéntis frátribus simul, ex quibus multi manent usque adhuc, quidam autem dormiérunt. Deinde visus est Jacóbo, deinde Apóstolis ómnibus: novíssime autem ómnium tamquam abortívo, visus est et mihi. Ego enim sum mínimus Apostolórum, qui non sum dignus vocári Apóstolus, quóniam persecútus sum Ecclésiam Dei. Grátia autem Dei sum id quod sum, et grátia ejus in me vácua non fuit.
+Fratres: Notum vobis fácio Evangélium, quod prædicávi vobis, quod et accepístis, in quo et statis, per quod et salvámini: qua ratione prædicáverim vobis, si tenétis, nisi frustra credidístis.
+Trádidi enim vobis in primis, quod et accépi: quóniam Christus mortuus est pro peccátis nostris secúndum Scriptúras: et quia sepúltus est, et quia resurréxit tértia die secúndum Scriptúras: et quia visus est Cephæ, et post hoc úndecim.
+Deinde visus est plus quam quingéntis frátribus simul, ex quibus multi manent usque adhuc, quidam autem dormiérunt. Deinde visus est Jacóbo, deinde Apóstolis ómnibus:
+novíssime autem ómnium tamquam abortívo, visus est et mihi. Ego enim sum mínimus Apostolórum, qui non sum dignus vocári Apóstolus, quóniam persecútus sum Ecclésiam Dei. Grátia autem Dei sum id quod sum, et grátia ejus in me vácua non fuit.
 
 [Graduale]
 !Ps 27:7 27:1
@@ -40,7 +43,10 @@ Exsultáte Deo, adjutóri nostro, jubiláte Deo Jacob: súmite psalmum jucúndum
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Marcum.
 !Marc 7:31-37
-In illo témpore: Exiens Jesus de fínibus Tyri, venit per Sidónem ad mare Galilǽæ, inter médios fines Decapóleos. Et addúcunt ei surdum et mutum, et deprecabántur eum, ut impónat illi manum. Et apprehéndens eum de turba seórsum, misit dígitos suos in aurículas ejus: et éxspuens, tétigit linguam ejus: et suspíciens in cœlum, ingémuit, et ait illi: Ephphetha, quod est adaperíre. Et statim apértæ sunt aures ejus, et solútum est vínculum linguæ ejus, et loquebátur recte. Et præcépit illis, ne cui dícerent. Quanto autem eis præcipiébat, tanto magis plus prædicábant: et eo ámplius admirabántur, dicéntes: Bene ómnia fecit: et surdos fecit audíre et mutos loqui.
+In illo témpore: Exiens Jesus de fínibus Tyri, venit per Sidónem ad mare Galilǽæ, inter médios fines Decapóleos. Et addúcunt ei surdum et mutum, et deprecabántur eum, ut impónat illi manum.
+Et apprehéndens eum de turba seórsum, misit dígitos suos in aurículas ejus: et éxspuens, tétigit linguam ejus: et suspíciens in cœlum, ingémuit, et ait illi: Ephphetha, quod est adaperíre.
+Et statim apértæ sunt aures ejus, et solútum est vínculum linguæ ejus, et loquebátur recte. Et præcépit illis, ne cui dícerent. Quanto autem eis præcipiébat, tanto magis plus prædicábant:
+et eo ámplius admirabántur, dicéntes: Bene ómnia fecit: et surdos fecit audíre et mutos loqui.
 
 [Offertorium]
 !Ps 29:2-3

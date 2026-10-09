@@ -22,7 +22,8 @@ $Per Dominum
 [Lectio]
 Lesson from the letter of St. Paul the Apostle to the Ephesians
 !Eph 4:1-6
-Brethren: I, the prisoner in the Lord, exhort you to walk in a manner worthy of the calling with which you were called, with all humility and meekness, with patience, bearing with one another in love, careful to preserve the unity of the Spirit in the bond of peace: one body and one Spirit, even as you were called in one hope of your calling; one Lord, one faith, one Baptism, one God and Father of all, Who is above all, and throughout all, and in us all, Who is blessed forever and ever. Amen.
+Brethren: I, the prisoner in the Lord, exhort you to walk in a manner worthy of the calling with which you were called, with all humility and meekness, with patience, bearing with one another in love, careful to preserve the unity of the Spirit in the bond of peace:
+one body and one Spirit, even as you were called in one hope of your calling; one Lord, one faith, one Baptism, one God and Father of all, Who is above all, and throughout all, and in us all, Who is blessed forever and ever. Amen.
 
 [Graduale]
 !Ps 32:12; 32:6
@@ -34,7 +35,9 @@ V. O Lord, hear my prayer, and let my cry come to You. Alleluia.
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
 !Matt 22:34-46
-At that time, the Pharisees came to Jesus and one of them, a doctor of the Law, putting Him to the test, asked Him, Master, which is the great commandment in the Law? Jesus said to him, ‘You shall love the Lord your God with your whole heart, and with your whole soul, and with your whole mind.’ This is the greatest and first commandment. And the second is like it, ‘You shall love your neighbor as yourself.’ On these two commandments depend the whole Law and the Prophets. Now while the Pharisees were gathered together, Jesus questioned them, saying, What do you think of the Christ? Whose son is He? They said to Him, David’s. He said to them, How then does David in the spirit call Him Lord, saying, The Lord said to my Lord: Sit at My right hand, till I make Your enemies Your footstool?’ If David, therefore, calls Him ‘Lord,’ how is He his son? And no one could answer Him a word; neither did anyone dare from that day forth to ask Him any more questions.
+At that time, the Pharisees came to Jesus and one of them, a doctor of the Law, putting Him to the test, asked Him, Master, which is the great commandment in the Law? Jesus said to him, ‘You shall love the Lord your God with your whole heart, and with your whole soul, and with your whole mind.’ This is the greatest and first commandment.
+And the second is like it, ‘You shall love your neighbor as yourself.’ On these two commandments depend the whole Law and the Prophets. Now while the Pharisees were gathered together, Jesus questioned them, saying, What do you think of the Christ? Whose son is He? They said to Him, David’s.
+He said to them, How then does David in the spirit call Him Lord, saying, The Lord said to my Lord: Sit at My right hand, till I make Your enemies Your footstool?’ If David, therefore, calls Him ‘Lord,’ how is He his son? And no one could answer Him a word; neither did anyone dare from that day forth to ask Him any more questions.
 
 [Offertorium]
 !Dan 9:17-19
