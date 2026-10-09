@@ -28,7 +28,8 @@ $Per Dominum
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Romános
 !Rom 6:19-23
-Fratres: Humánum dico, propter infirmitátem carnis vestræ: sicut enim exhibuístis membra vestra servíre immundítiæ et iniquitáti ad iniquitátem, ita nunc exhibéte membra vestra servíre justítiæ in sanctificatiónem. Cum enim servi essétis peccáti, líberi fuístis justítiæ. Quem ergo fructum habuístis tunc in illis, in quibus nunc erubéscitis? Nam finis illórum mors est. Nunc vero liberáti a peccáto, servi autem facti Deo, habétis fructum vestrum in sanctificatiónem, finem vero vitam ætérnam. Stipéndia enim peccáti mors. Grátia autem Dei vita ætérna, in Christo Jesu, Dómino nostro.
+Fratres: Humánum dico, propter infirmitátem carnis vestræ: sicut enim exhibuístis membra vestra servíre immundítiæ et iniquitáti ad iniquitátem, ita nunc exhibéte membra vestra servíre justítiæ in sanctificatiónem. Cum enim servi essétis peccáti, líberi fuístis justítiæ.
+Quem ergo fructum habuístis tunc in illis, in quibus nunc erubéscitis? Nam finis illórum mors est. Nunc vero liberáti a peccáto, servi autem facti Deo, habétis fructum vestrum in sanctificatiónem, finem vero vitam ætérnam. Stipéndia enim peccáti mors. Grátia autem Dei vita ætérna, in Christo Jesu, Dómino nostro.
 
 [Graduale]
 !Ps 33:12; 33:6
@@ -40,7 +41,9 @@ Omnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis. Allelúj
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthǽum
 !Matt 7:15-21
-In illo témpore: Dixit Jesus discípulis suis: Atténdite a falsis prophétis, qui véniunt ad vos in vestiméntis óvium, intrínsecus autem sunt lupi rapáces: a frúctibus eórum cognoscétis eos. Numquid cólligunt de spinis uvas, aut de tríbulis ficus? Sic omnis arbor bona fructus bonos facit: mala autem arbor malos fructus facit. Non potest arbor bona malos fructus fácere: neque arbor mala bonos fructus fácere. Omnis arbor, quæ non facit fructum bonum, excidétur et in ignem mittétur. Igitur ex frúctibus eórum cognoscétis eos. Non omnis, qui dicit mihi, Dómine, Dómine, intrábit in regnum cœlórum: sed qui facit voluntátem Patris mei, qui in cœlis est, ipse intrábit in regnum cœlórum.
+In illo témpore: Dixit Jesus discípulis suis: Atténdite a falsis prophétis, qui véniunt ad vos in vestiméntis óvium, intrínsecus autem sunt lupi rapáces: a frúctibus eórum cognoscétis eos. Numquid cólligunt de spinis uvas, aut de tríbulis ficus? Sic omnis arbor bona fructus bonos facit: mala autem arbor malos fructus facit.
+Non potest arbor bona malos fructus fácere: neque arbor mala bonos fructus fácere. Omnis arbor, quæ non facit fructum bonum, excidétur et in ignem mittétur. Igitur ex frúctibus eórum cognoscétis eos.
+Non omnis, qui dicit mihi, Dómine, Dómine, intrábit in regnum cœlórum: sed qui facit voluntátem Patris mei, qui in cœlis est, ipse intrábit in regnum cœlórum.
 
 [Offertorium]
 !Dan 3:40

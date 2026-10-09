@@ -28,7 +28,9 @@ $Per Dominum
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios
 !1 Cor 10:6-13
-Fratres: Non simus concupiscéntes malórum, sicut et illi concupiérunt. Neque idolólatræ efficiámini, sicut quidam ex ipsis: quemádmodum scriptum est: Sedit pópulus manducáre et bíbere, et surrexérunt lúdere. Neque fornicémur, sicut quidam ex ipsis fornicáti sunt, et cecidérunt una die vigínti tria mília. Neque tentémus Christum, sicut quidam eórum tentavérunt, et a serpéntibus periérunt. Neque murmuravéritis, sicut quidam eórum murmuravérunt, et periérunt ab exterminatóre. Hæc autem ómnia in figúra contingébant illis: scripta sunt autem ad correptiónem nostram, in quos fines sæculórum devenérunt. Itaque qui se exístimat stare, vídeat ne cadat. Tentátio vos non apprehéndat, nisi humána: fidélis autem Deus est, qui non patiétur vos tentári supra id, quod potéstis, sed fáciet étiam cum tentatióne provéntum, ut póssitis sustinére.
+Fratres: Non simus concupiscéntes malórum, sicut et illi concupiérunt. Neque idolólatræ efficiámini, sicut quidam ex ipsis: quemádmodum scriptum est: Sedit pópulus manducáre et bíbere, et surrexérunt lúdere. Neque fornicémur, sicut quidam ex ipsis fornicáti sunt, et cecidérunt una die vigínti tria mília.
+Neque tentémus Christum, sicut quidam eórum tentavérunt, et a serpéntibus periérunt. Neque murmuravéritis, sicut quidam eórum murmuravérunt, et periérunt ab exterminatóre. Hæc autem ómnia in figúra contingébant illis: scripta sunt autem ad correptiónem nostram, in quos fines sæculórum devenérunt.
+Itaque qui se exístimat stare, vídeat ne cadat. Tentátio vos non apprehéndat, nisi humána: fidélis autem Deus est, qui non patiétur vos tentári supra id, quod potéstis, sed fáciet étiam cum tentatióne provéntum, ut póssitis sustinére.
 
 [Graduale]
 !Ps 8:2
@@ -40,7 +42,9 @@ Eripe me de inimícis meis, Deus meus: et ab insurgéntibus in me líbera me. Al
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam
 !Luc 19:41-47
-In illo témpore: Cum appropinquáret Jesus Jerúsalem, videns civitátem, flevit super illam, dicens: Quia si cognovísses et tu, et quidem in hac die tua, quæ ad pacem tibi, nunc autem abscóndita sunt ab óculis tuis. Quia vénient dies in te: et circúmdabunt te inimíci tui vallo, et circúmdabunt te: et coangustábunt te úndique: et ad terram prostérnent te, et fílios tuos, qui in te sunt, et non relínquent in te lápidem super lápidem: eo quod non cognóveris tempus visitatiónis tuæ. Et ingréssus in templum, cœpit ejícere vendéntes in illo et eméntes, dicens illis: Scriptum est: Quia domus mea domus oratiónis est. Vos autem fecístis illam speluncam latrónum. Et erat docens cotídie in templo.
+In illo témpore: Cum appropinquáret Jesus Jerúsalem, videns civitátem, flevit super illam, dicens: Quia si cognovísses et tu, et quidem in hac die tua, quæ ad pacem tibi, nunc autem abscóndita sunt ab óculis tuis.
+Quia vénient dies in te: et circúmdabunt te inimíci tui vallo, et circúmdabunt te: et coangustábunt te úndique: et ad terram prostérnent te, et fílios tuos, qui in te sunt, et non relínquent in te lápidem super lápidem: eo quod non cognóveris tempus visitatiónis tuæ.
+Et ingréssus in templum, cœpit ejícere vendéntes in illo et eméntes, dicens illis: Scriptum est: Quia domus mea domus oratiónis est. Vos autem fecístis illam speluncam latrónum. Et erat docens cotídie in templo.
 
 [Offertorium]
 !Ps 18:9, 10, 11, 12

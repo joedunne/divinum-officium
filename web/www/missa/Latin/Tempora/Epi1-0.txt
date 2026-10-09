@@ -32,7 +32,9 @@ $Per Dominum
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Colossénses
 !Col 3:12-17
-Fratres: Indúite vos sicut elécti Dei, sancti et dilécti, víscera misericórdiæ, benignitátem, humilitátem, modéstiam, patiéntiam: supportántes ínvicem, et donántes vobismetípsis, si quis advérsus áliquem habet querélam: sicut et Dóminus donávit vobis, ita et vos. Super ómnia autem hæc caritátem habéte, quod est vínculum perfectiónis: et pax Christi exsúltet in córdibus vestris, in qua et vocáti estis in uno córpore: et grati estóte. Verbum Christi hábitet in vobis abundánter, in omni sapiéntia, docéntes et commonéntes vosmetípsos psalmis, hymnis et cánticis spirituálibus, in grátia cantántes in córdibus vestris Deo. Omne, quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Jesu Christi, grátias agéntes Deo et Patri per ipsum.
+Fratres: Indúite vos sicut elécti Dei, sancti et dilécti, víscera misericórdiæ, benignitátem, humilitátem, modéstiam, patiéntiam: supportántes ínvicem, et donántes vobismetípsis, si quis advérsus áliquem habet querélam: sicut et Dóminus donávit vobis, ita et vos.
+Super ómnia autem hæc caritátem habéte, quod est vínculum perfectiónis: et pax Christi exsúltet in córdibus vestris, in qua et vocáti estis in uno córpore: et grati estóte.
+Verbum Christi hábitet in vobis abundánter, in omni sapiéntia, docéntes et commonéntes vosmetípsos psalmis, hymnis et cánticis spirituálibus, in grátia cantántes in córdibus vestris Deo. Omne, quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Jesu Christi, grátias agéntes Deo et Patri per ipsum.
 
 [Graduale]
 !Ps 26:4
@@ -60,7 +62,11 @@ V. In cápite libri scriptum est de me: Ut fáciam, Deus, voluntátem tuam.
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam.
 !Luc 2:42-52
-Cum factus esset Jesus annórum duódecim, ascendéntibus illis Jerosólymam secúndum consuetúdinem diéi festi, consummatísque diébus, cum redírent, remánsit puer Jesus in Jerúsalem, et non cognovérunt paréntes ejus. Existimántes autem illum esse in comitátu, venérunt iter diéi, et requirébant eum inter cognátos et notos. Et non inveniéntes, regréssi sunt in Jerúsalem, requiréntes eum. Et factum est, post tríduum invenérunt illum in templo sedéntem in médio doctórum, audiéntem illos et interrogántem eos. Stupébant autem omnes, qui eum audiébant, super prudéntia et respónsis ejus. Et vidéntes admiráti sunt. Et dixit Mater ejus ad illum: Fili, quid fecísti nobis sic? Ecce, pater tuus et ego doléntes quærebámus te. Et ait ad illos: Quid est, quod me quærebátis? Nesciebátis, quia in his, quæ Patris mei sunt, opórtet me esse? Et ipsi non intellexérunt verbum, quod locútus est ad eos. Et descéndit cum eis, et venit Názareth: et erat súbditus illis. Et Mater ejus conservábat ómnia verba hæc in corde suo. Et Jesus proficiébat sapiéntia et ætáte et grátia apud Deum et hómines.
+Cum factus esset Jesus annórum duódecim, ascendéntibus illis Jerosólymam secúndum consuetúdinem diéi festi, consummatísque diébus, cum redírent, remánsit puer Jesus in Jerúsalem, et non cognovérunt paréntes ejus.
+Existimántes autem illum esse in comitátu, venérunt iter diéi, et requirébant eum inter cognátos et notos. Et non inveniéntes, regréssi sunt in Jerúsalem, requiréntes eum.
+Et factum est, post tríduum invenérunt illum in templo sedéntem in médio doctórum, audiéntem illos et interrogántem eos. Stupébant autem omnes, qui eum audiébant, super prudéntia et respónsis ejus. Et vidéntes admiráti sunt.
+Et dixit Mater ejus ad illum: Fili, quid fecísti nobis sic? Ecce, pater tuus et ego doléntes quærebámus te. Et ait ad illos: Quid est, quod me quærebátis? Nesciebátis, quia in his, quæ Patris mei sunt, opórtet me esse?
+Et ipsi non intellexérunt verbum, quod locútus est ad eos. Et descéndit cum eis, et venit Názareth: et erat súbditus illis. Et Mater ejus conservábat ómnia verba hæc in corde suo. Et Jesus proficiébat sapiéntia et ætáte et grátia apud Deum et hómines.
 
 [Offertorium]
 !Luc 2:22

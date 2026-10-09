@@ -22,7 +22,8 @@ $Per Dominum
 [Lectio]
 Lesson from the letter of St. Paul the Apostle to the Romans
 !Rom 6:19-23
-Brethren: I speak in a human way because of the weakness of your flesh; for as you yielded your members as slaves of uncleanness and iniquity unto iniquity, so now yield your members as slaves of justice unto sanctification. For when you were slaves of sin, you were free as regards justice. But what fruit had you then from those things of which you are now ashamed? For the end of these things is death. But now set free from sin and become slaves to God, you have your fruit unto sanctification, and as your end, life everlasting. For the wages of sin is death, but the gift of God is life everlasting in Christ Jesus our Lord.
+Brethren: I speak in a human way because of the weakness of your flesh; for as you yielded your members as slaves of uncleanness and iniquity unto iniquity, so now yield your members as slaves of justice unto sanctification. For when you were slaves of sin, you were free as regards justice.
+But what fruit had you then from those things of which you are now ashamed? For the end of these things is death. But now set free from sin and become slaves to God, you have your fruit unto sanctification, and as your end, life everlasting. For the wages of sin is death, but the gift of God is life everlasting in Christ Jesus our Lord.
 
 [Graduale]
 !Ps 33:12, 6
@@ -34,7 +35,9 @@ V. All you peoples, clap your hands, shout to God with cries of gladness. Allelu
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
 !Matt 7:15-21
-At that time, Jesus said to His disciples: Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravenous wolves. By their fruits you will know them. Do men gather grapes from thorns, or figs from thistles? Even so, every good tree bears good fruit, but the bad tree bears bad fruit. A good tree cannot bear bad fruit, nor can a bad tree bear good fruit. Every tree that does not bear good fruit is cut down and thrown into the fire. Therefore, by their fruits you will know them. Not everyone who says to Me, ‘Lord, Lord,’ shall enter the kingdom of heaven; but he who does the will of My Father in heaven shall enter the kingdom of heaven.
+At that time, Jesus said to His disciples: Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravenous wolves. By their fruits you will know them. Do men gather grapes from thorns, or figs from thistles? Even so, every good tree bears good fruit, but the bad tree bears bad fruit.
+A good tree cannot bear bad fruit, nor can a bad tree bear good fruit. Every tree that does not bear good fruit is cut down and thrown into the fire. Therefore, by their fruits you will know them.
+Not everyone who says to Me, ‘Lord, Lord,’ shall enter the kingdom of heaven; but he who does the will of My Father in heaven shall enter the kingdom of heaven.
 
 [Offertorium]
 !Dan 3:40

@@ -36,7 +36,9 @@ $Qui vivis
 [Lectio]
 Léctio Epístolæ beáti Joánnis Apóstoli
 !1 John 3:13-18
-Caríssimi: Nolíte mirári, si odit vos mundus. Nos scimus, quóniam transláti sumus de morte ad vitam, quóniam dilígimus fratres. Qui non díligit, manet in morte: omnis, qui odit fratrem suum, homicída est. Et scitis, quóniam omnis homicída non habet vitam ætérnam in semetípso manéntem. In hoc cognóvimus caritátem Dei, quóniam ille ánimam suam pro nobis pósuit: et nos debémus pro frátribus ánimas pónere. Qui habúerit substántiam hujus mundi, et víderit fratrem suum necessitátem habére, et cláuserit víscera sua ab eo: quómodo cáritas Dei manet in eo? Filíoli mei, non diligámus verbo neque lingua, sed ópere et veritáte.
+Caríssimi: Nolíte mirári, si odit vos mundus. Nos scimus, quóniam transláti sumus de morte ad vitam, quóniam dilígimus fratres. Qui non díligit, manet in morte: omnis, qui odit fratrem suum, homicída est. Et scitis, quóniam omnis homicída non habet vitam ætérnam in semetípso manéntem.
+In hoc cognóvimus caritátem Dei, quóniam ille ánimam suam pro nobis pósuit: et nos debémus pro frátribus ánimas pónere.
+Qui habúerit substántiam hujus mundi, et víderit fratrem suum necessitátem habére, et cláuserit víscera sua ab eo: quómodo cáritas Dei manet in eo? Filíoli mei, non diligámus verbo neque lingua, sed ópere et veritáte.
 
 [Graduale]
 !Ps 119:1-2
@@ -48,7 +50,10 @@ Dómine, Deus meus, in te sperávi: salvum me fac ex ómnibus persequéntibus me
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam
 !Luc 14:16-24
-In illo témpore: Dixit Jesus pharisǽis parábolam hanc: Homo quidam fecit cœnam magnam, et vocávit multos. Et misit servum suum hora cœnæ dícere invitátis, ut venírent, quia jam paráta sunt ómnia. Et cœpérunt simul omnes excusáre. Primus dixit ei: Villam emi, et necésse hábeo exíre et vidére illam: rogo te, habe me excusátum. Et alter dixit: Juga boum emi quinque et eo probáre illa: rogo te, habe me excusátum. Et álius dixit: Uxórem duxi, et ídeo non possum veníre. Et revérsus servus nuntiávit hæc dómino suo. Tunc irátus paterfamílias, dixit servo suo: Exi cito in pláteas et vicos civitátis: et páuperes ac débiles et cæcos et claudos íntroduc huc. Et ait servus: Dómine, factum est, ut imperásti, et adhuc locus est. Et ait dóminus servo: Exi in vias et sepes: et compélle intrare, ut impleátur domus mea. Dico autem vobis, quod nemo virórum illórum, qui vocáti sunt, gustábit cœnam meam.
+In illo témpore: Dixit Jesus pharisǽis parábolam hanc: Homo quidam fecit cœnam magnam, et vocávit multos. Et misit servum suum hora cœnæ dícere invitátis, ut venírent, quia jam paráta sunt ómnia. Et cœpérunt simul omnes excusáre.
+Primus dixit ei: Villam emi, et necésse hábeo exíre et vidére illam: rogo te, habe me excusátum. Et alter dixit: Juga boum emi quinque et eo probáre illa: rogo te, habe me excusátum. Et álius dixit: Uxórem duxi, et ídeo non possum veníre.
+Et revérsus servus nuntiávit hæc dómino suo. Tunc irátus paterfamílias, dixit servo suo: Exi cito in pláteas et vicos civitátis: et páuperes ac débiles et cæcos et claudos íntroduc huc.
+Et ait servus: Dómine, factum est, ut imperásti, et adhuc locus est. Et ait dóminus servo: Exi in vias et sepes: et compélle intrare, ut impleátur domus mea. Dico autem vobis, quod nemo virórum illórum, qui vocáti sunt, gustábit cœnam meam.
 
 [Offertorium]
 !Ps 6:5
