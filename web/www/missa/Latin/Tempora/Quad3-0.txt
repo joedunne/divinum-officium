@@ -31,7 +31,9 @@ $Per Dominum
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios.
 !Ephes 5:1-9
-Fratres: Estóte imitatóres Dei, sicut fílii caríssimi: et ambuláte in dilectióne, sicut et Christus diléxit nos, et trádidit semetípsum pro nobis oblatiónem, et hóstiam Deo in odórem suavitátis. Fornicátio autem et omnis immundítia aut avarítia nec nominétur in vobis, sicut decet sanctos: aut turpitúdo aut stultilóquium aut scurrílitas, quæ ad rem non pértinet: sed magis gratiárum áctio. Hoc enim scitóte intelligéntes, quod omnis fornicátor aut immúndus aut ávarus, quod est idolórum sérvitus, non habet hereditátem in regno Christi et Dei. Nemo vos sedúcat inánibus verbis: propter hæc enim venit ira Dei in fílios diffidéntiæ. Nolíte ergo éffici partícipes eórum. Erátis enim aliquándo ténebræ: nunc autem lux in Dómino. Ut fílii lucis ambuláte: fructus enim lucis est in omni bonitáte et justítia et veritáte.
+Fratres: Estóte imitatóres Dei, sicut fílii caríssimi: et ambuláte in dilectióne, sicut et Christus diléxit nos, et trádidit semetípsum pro nobis oblatiónem, et hóstiam Deo in odórem suavitátis. Fornicátio autem et omnis immundítia aut avarítia nec nominétur in vobis, sicut decet sanctos:
+aut turpitúdo aut stultilóquium aut scurrílitas, quæ ad rem non pértinet: sed magis gratiárum áctio. Hoc enim scitóte intelligéntes, quod omnis fornicátor aut immúndus aut ávarus, quod est idolórum sérvitus, non habet hereditátem in regno Christi et Dei. Nemo vos sedúcat inánibus verbis:
+propter hæc enim venit ira Dei in fílios diffidéntiæ. Nolíte ergo éffici partícipes eórum. Erátis enim aliquándo ténebræ: nunc autem lux in Dómino. Ut fílii lucis ambuláte: fructus enim lucis est in omni bonitáte et justítia et veritáte.
 
 [Graduale]
 !Ps 9:20; 9:4
@@ -48,7 +50,12 @@ V. Miserére nobis, Dómine, miserére nobis.
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam.
 !Luc 11:14-28
-In illo témpore: Erat Jesus ejíciens dæmónium, et illud erat mutum. Et cum ejecísset dæmónium, locútus est mutus, et admirátæ sunt turbæ. Quidam autem ex eis dixérunt: In Beélzebub, príncipe dæmoniórum, éjicit dæmónia. Et álii tentántes, signum de cœlo quærébant ab eo. Ipse autem ut vidit cogitatiónes eórum, dixit eis: Omne regnum in seípsum divísum desolábitur, et domus supra domum cadet. Si autem et sátanas in seípsum divísus est, quómodo stabit regnum ejus? quia dícitis, in Beélzebub me ejícere dæmónia. Si autem ego in Beélzebub ejício dæmónia: fílii vestri in quo ejíciunt? Ideo ipsi júdices vestri erunt. Porro si in dígito Dei ejício dæmónia: profécto pervénit in vos regnum Dei. Cum fortis armátus custódit átrium suum, in pace sunt ea, quæ póssidet. Si autem fórtior eo supervéniens vícerit eum, univérsa arma ejus áuferet, in quibus confidébat, et spólia ejus distríbuet. Qui non est mecum, contra me est: et qui non cólligit mecum, dispérgit. Cum immúndus spíritus exíerit de hómine, ámbulat per loca inaquósa, quærens réquiem: et non invéniens, dicit: Revértar in domum meam, unde exívi. Et cum vénerit, invénit eam scopis mundátam, et ornátam. Tunc vadit, et assúmit septem álios spíritus secum nequióres se, et ingréssi hábitant ibi. Et fiunt novíssima hóminis illíus pejóra prióribus. Factum est autem, cum hæc díceret: extóllens vocem quædam múlier de turba, dixit illi: Beátus venter, qui te portávit, et úbera, quæ suxísti. At ille dixit: Quinímmo beáti, qui áudiunt verbum Dei, et custódiunt illud.
+In illo témpore: Erat Jesus ejíciens dæmónium, et illud erat mutum. Et cum ejecísset dæmónium, locútus est mutus, et admirátæ sunt turbæ. Quidam autem ex eis dixérunt: In Beélzebub, príncipe dæmoniórum, éjicit dæmónia. Et álii tentántes, signum de cœlo quærébant ab eo.
+Ipse autem ut vidit cogitatiónes eórum, dixit eis: Omne regnum in seípsum divísum desolábitur, et domus supra domum cadet. Si autem et sátanas in seípsum divísus est, quómodo stabit regnum ejus? quia dícitis, in Beélzebub me ejícere dæmónia.
+Si autem ego in Beélzebub ejício dæmónia: fílii vestri in quo ejíciunt? Ideo ipsi júdices vestri erunt. Porro si in dígito Dei ejício dæmónia: profécto pervénit in vos regnum Dei. Cum fortis armátus custódit átrium suum, in pace sunt ea, quæ póssidet.
+Si autem fórtior eo supervéniens vícerit eum, univérsa arma ejus áuferet, in quibus confidébat, et spólia ejus distríbuet. Qui non est mecum, contra me est: et qui non cólligit mecum, dispérgit. Cum immúndus spíritus exíerit de hómine, ámbulat per loca inaquósa, quærens réquiem: et non invéniens, dicit:
+Revértar in domum meam, unde exívi. Et cum vénerit, invénit eam scopis mundátam, et ornátam. Tunc vadit, et assúmit septem álios spíritus secum nequióres se, et ingréssi hábitant ibi. Et fiunt novíssima hóminis illíus pejóra prióribus.
+Factum est autem, cum hæc díceret: extóllens vocem quædam múlier de turba, dixit illi: Beátus venter, qui te portávit, et úbera, quæ suxísti. At ille dixit: Quinímmo beáti, qui áudiunt verbum Dei, et custódiunt illud.
 
 [Offertorium]
 @Tempora/Pent09-0

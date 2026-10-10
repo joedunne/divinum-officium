@@ -34,7 +34,10 @@ $Per Dominum
 [Lectio]
 Léctio libri Regum.
 !4 Reg 4:1-7
-In diébus illis: Múlier quædam clamábat ad Eliséum Prophétam, dicens: Servus tuus vir meus mórtuus est, et tu nosti, quia servus tuus fuit timens Dóminum: et ecce, créditor venit, ut tollat duos fílios meos ad serviéndum sibi. Cui dixit Eliséus: Quid vis, ut fáciam tibi? Dic mihi, quid habes in domo tua? At illa respóndit: Non hábeo ancílla tua quidquam in domo mea, nisi parum ólei, quo ungar. Cui ait: Vade, pete mútuo ab ómnibus vicínis tuis vasa vácua non pauca. Et ingrédere, et claude óstium tuum, cum intrínsecus fúeris tu et fílii tui: et mitte inde in ómnia vasa hæc: et cum plena fúerint, tolles. Ivit ítaque múlier, et clausit óstium super se et super fílios suos: illi offerébant vasa, et illa infundébat. Cumque plena fuíssent vasa, dixit ad fílium suum: Affer mihi adhuc vas. Et ille respóndit: Non hábeo. Stetítque óleum. Venit autem illa, et indicávit hómini Dei. Et ille: Vade, inquit, vende oleum, et redde creditóri tuo: tu autem et fílii tui vívite de réliquo.
+In diébus illis: Múlier quædam clamábat ad Eliséum Prophétam, dicens: Servus tuus vir meus mórtuus est, et tu nosti, quia servus tuus fuit timens Dóminum: et ecce, créditor venit, ut tollat duos fílios meos ad serviéndum sibi. Cui dixit Eliséus: Quid vis, ut fáciam tibi? Dic mihi, quid habes in domo tua?
+At illa respóndit: Non hábeo ancílla tua quidquam in domo mea, nisi parum ólei, quo ungar. Cui ait: Vade, pete mútuo ab ómnibus vicínis tuis vasa vácua non pauca. Et ingrédere, et claude óstium tuum, cum intrínsecus fúeris tu et fílii tui: et mitte inde in ómnia vasa hæc: et cum plena fúerint, tolles.
+Ivit ítaque múlier, et clausit óstium super se et super fílios suos: illi offerébant vasa, et illa infundébat. Cumque plena fuíssent vasa, dixit ad fílium suum: Affer mihi adhuc vas. Et ille respóndit: Non hábeo.
+Stetítque óleum. Venit autem illa, et indicávit hómini Dei. Et ille: Vade, inquit, vende oleum, et redde creditóri tuo: tu autem et fílii tui vívite de réliquo.
 
 [Graduale]
 !Ps 18:13-14
@@ -44,7 +47,10 @@ V. Si mei non fúerint domináti, tunc immaculátus ero: et emundábor a delíct
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthǽum.
 !Matt 18:15-22
-In illo témpore: Dixit Jesus discípulis suis: Si peccáverit in te frater tuus, vade, et córripe eum inter te et ipsum solum. Si te audíerit, lucrátus eris fratrem tuum. Si autem te non audíerit, ádhibe tecum adhuc unum vel duos, ut in ore duórum vel trium téstium stet omne verbum. Quod si non audíerit eos: dic ecclésiæ. Si autem ecclésiam non audíerit: sit tibi sicut éthnicus et publicánus. Amen, dico vobis, quæcúmque alligavéritis super terram, erunt ligáta et in cœlo: et quæcúmque solvéritis super terram, erunt solúta et in cœlo. Iterum dico vobis, quia si duo ex vobis consénserint super terram, de omni re quamcúmque petíerint, fiet illis a Patre meo, qui in cœlis est. Ubi enim sunt duo vel tres congregáti in nómine meo, ibi sum in médio eórum. Tunc accédens Petrus ad eum, dixit: Dómine, quóties peccábit in me frater meus, et dimíttam ei? usque sépties? Dicit illi Jesus: Non dico tibi usque sépties, sed usque septuágies sépties.
+In illo témpore: Dixit Jesus discípulis suis: Si peccáverit in te frater tuus, vade, et córripe eum inter te et ipsum solum. Si te audíerit, lucrátus eris fratrem tuum. Si autem te non audíerit, ádhibe tecum adhuc unum vel duos, ut in ore duórum vel trium téstium stet omne verbum.
+Quod si non audíerit eos: dic ecclésiæ. Si autem ecclésiam non audíerit: sit tibi sicut éthnicus et publicánus. Amen, dico vobis, quæcúmque alligavéritis super terram, erunt ligáta et in cœlo: et quæcúmque solvéritis super terram, erunt solúta et in cœlo.
+Iterum dico vobis, quia si duo ex vobis consénserint super terram, de omni re quamcúmque petíerint, fiet illis a Patre meo, qui in cœlis est. Ubi enim sunt duo vel tres congregáti in nómine meo, ibi sum in médio eórum.
+Tunc accédens Petrus ad eum, dixit: Dómine, quóties peccábit in me frater meus, et dimíttam ei? usque sépties? Dicit illi Jesus: Non dico tibi usque sépties, sed usque septuágies sépties.
 
 [Offertorium]
 !Ps 117:16, 17
