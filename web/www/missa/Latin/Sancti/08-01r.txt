@@ -22,7 +22,9 @@ $Per Dominum
 [Lectio]
 Lectio Epistolæ Sancti Pauli Apostoli ad Hebrǽos
 !Heb 11:33-39
-Fratres: sancti per fidem vicérunt regna, operáti sunt justítiam, adépti sunt repromissiónes, obturavérunt ora leónum, extinxérunt ímpetum ignis, effugérunt áciem gládii, convaluérunt de infirmitáte, fortes facti sunt in bello, castra vertérunt exterórum: accepérunt mulíeres de resurrectióne mórtuos suos: álii autem disténti sunt non suscipiéntes redemptiónem ut meliórem invenírent resurrectiónem. Alii vero ludíbria, et vérbera expérti, ínsuper et víncula, et cárceres: lapidáti sunt, secti sunt, tentáti sunt, in occisióne gládii mórtui sunt, circuiérunt in melótis, in péllibus caprínis, egéntes, angustiáti, afflícti: quibus dignus non erat mundus: in solitudínibus errántes, in móntibus, in spelúncis, et in cavérnis terræ. Et hi omnes testimónio fídei probáti, invénti sunt in Christo Iesu, Dómino nostro.
+Fratres: sancti per fidem vicérunt regna, operáti sunt justítiam, adépti sunt repromissiónes, obturavérunt ora leónum, extinxérunt ímpetum ignis, effugérunt áciem gládii, convaluérunt de infirmitáte, fortes facti sunt in bello, castra vertérunt exterórum: accepérunt mulíeres de resurrectióne mórtuos suos:
+álii autem disténti sunt non suscipiéntes redemptiónem ut meliórem invenírent resurrectiónem. Alii vero ludíbria, et vérbera expérti, ínsuper et víncula, et cárceres: lapidáti sunt, secti sunt, tentáti sunt, in occisióne gládii mórtui sunt,
+circuiérunt in melótis, in péllibus caprínis, egéntes, angustiáti, afflícti: quibus dignus non erat mundus: in solitudínibus errántes, in móntibus, in spelúncis, et in cavérnis terræ. Et hi omnes testimónio fídei probáti, invénti sunt in Christo Iesu, Dómino nostro.
 
 [Graduale]
 @Sancti/06-26

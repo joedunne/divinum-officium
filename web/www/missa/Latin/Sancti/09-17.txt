@@ -25,7 +25,8 @@ $Qui vivis
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Gálatas
 !Gal 6:14-18
-Fratres: Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo. In Christo enim Jesu neque circumcísio áliquid valet neque præpútium, sed nova creatúra. Et quicúmque hanc régulam secúti fúerint, pax sin per illos et misericórdia, et super Israël Dei. De cetero nemo mihi moléstus sit: ego enim stígmata Dómini Jesu in córpore meo porto. Grátia Dómini nostri Jesu Christi cum spíritu vestro, fratres. Amen.
+Fratres: Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per quem mihi mundus crucifíxus est, et ego mundo. In Christo enim Jesu neque circumcísio áliquid valet neque præpútium, sed nova creatúra. Et quicúmque hanc régulam secúti fúerint, pax sin per illos et misericórdia, et super Israël Dei.
+De cetero nemo mihi moléstus sit: ego enim stígmata Dómini Jesu in córpore meo porto. Grátia Dómini nostri Jesu Christi cum spíritu vestro, fratres. Amen.
 
 [Graduale]
 !Ps 36:30-31
@@ -36,7 +37,8 @@ V. Francíscus pauper et húmilis cœlum dives ingréditur, hymnis cœléstibus 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthǽum
 !Matt 16:24-27
-In illo témpore: Dixit Jesus discípulis suis: Si quis vult post me veníre, ábneget semetípsum, et tollat crucem suam, et sequátur me. Qui enim volúerit ánimam suam salvam fácere, perdet eam: qui autem perdíderit ánimam suam propter me, invéniet eam. Quid enim prodest hómini, si mundum univérsum lucrétur, ánimæ vero suæ detriméntum patiátur? Aut quam dabit homo commutatiónem pro ánima sua? Fílius enim hóminis ventúrus est in glória Patris sui cum Angelis suis: et tunc reddet unicuíque secúndum ópera ejus.
+In illo témpore: Dixit Jesus discípulis suis: Si quis vult post me veníre, ábneget semetípsum, et tollat crucem suam, et sequátur me. Qui enim volúerit ánimam suam salvam fácere, perdet eam: qui autem perdíderit ánimam suam propter me, invéniet eam. Quid enim prodest hómini, si mundum univérsum lucrétur, ánimæ vero suæ detriméntum patiátur?
+Aut quam dabit homo commutatiónem pro ánima sua? Fílius enim hóminis ventúrus est in glória Patris sui cum Angelis suis: et tunc reddet unicuíque secúndum ópera ejus.
 
 [Offertorium]
 @Commune/C2

@@ -23,7 +23,9 @@ $Per Dominum
 [Lectio]
 Lesson from the book of Revelation
 !Rev 1:1-5
-In those days God signified the things which must shortly come to pass: and signified, sending by his angel to his servant John, Who hath given testimony to the word of God, and the testimony of Jesus Christ, what things soever he hath seen. Blessed is he, that readeth and heareth the words of this prophecy; and keepeth those things which are written in it; for the time is at hand. John to the seven churches which are in Asia. Grace be unto you and peace from him that is, and that was, and that is to come, and from the seven spirits which are before his throne, And from Jesus Christ, who is the faithful witness, the first begotten of the dead, and the prince of the kings of the earth, who hath loved us, and washed us from our sins in his own blood,
+In those days God signified the things which must shortly come to pass: and signified, sending by his angel to his servant John, Who hath given testimony to the word of God, and the testimony of Jesus Christ, what things soever he hath seen. Blessed is he, that readeth and heareth the words of this prophecy;
+and keepeth those things which are written in it; for the time is at hand. John to the seven churches which are in Asia. Grace be unto you and peace from him that is, and that was, and that is to come, and from the seven spirits which are before his throne,
+And from Jesus Christ, who is the faithful witness, the first begotten of the dead, and the prince of the kings of the earth, who hath loved us, and washed us from our sins in his own blood,
 
 [Graduale]
 Alleluja, alleluja.
@@ -33,7 +35,11 @@ V. The sea was shaken and the earth trembled when archangel Michael came down fr
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
 !Matt 18:1-10
-In that time: the disciples came to Jesus, saying: Who thinkest thou is the greater in the kingdom of heaven? And Jesus calling unto him a little child, set him in the midst of them, And said: Amen I say to you, unless you be converted, and become as little children, you shall not enter into the kingdom of heaven. Whosoever therefore shall humble himself as this little child, he is the greater in the kingdom of heaven. And he that shall receive one such little child in my name, receiveth me. But he that shall scandalize one of these little ones that believe in me, it were better for him that a millstone should be hanged about his neck, and that he should be drowned in the depth of the sea. Woe to the world because of scandals. For it must needs be that scandals come: but nevertheless woe to that man by whom the scandal cometh. And if thy hand, or thy foot scandalize thee, cut it off, and cast it from thee. It is better for thee to go into life maimed or lame, than having two hands or two feet, to be cast into everlasting fire. And if thy eye scandalize thee, pluck it out, and cast it from thee. It is better for thee having one eye to enter into life, than having two eyes to be cast into hell fire. See that you despise not one of these little ones: for I say to you, that their angels in heaven always see the face of my Father who is in heaven.
+In that time: the disciples came to Jesus, saying: Who thinkest thou is the greater in the kingdom of heaven? And Jesus calling unto him a little child, set him in the midst of them, And said: Amen I say to you, unless you be converted, and become as little children, you shall not enter into the kingdom of heaven.
+Whosoever therefore shall humble himself as this little child, he is the greater in the kingdom of heaven. And he that shall receive one such little child in my name, receiveth me.
+But he that shall scandalize one of these little ones that believe in me, it were better for him that a millstone should be hanged about his neck, and that he should be drowned in the depth of the sea. Woe to the world because of scandals. For it must needs be that scandals come: but nevertheless woe to that man by whom the scandal cometh.
+And if thy hand, or thy foot scandalize thee, cut it off, and cast it from thee. It is better for thee to go into life maimed or lame, than having two hands or two feet, to be cast into everlasting fire. And if thy eye scandalize thee, pluck it out, and cast it from thee.
+It is better for thee having one eye to enter into life, than having two eyes to be cast into hell fire. See that you despise not one of these little ones: for I say to you, that their angels in heaven always see the face of my Father who is in heaven.
 
 [Offertorium]
 !Rev 8:3; 8:4

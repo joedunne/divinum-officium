@@ -214,43 +214,53 @@ R. Amen.
 ! Deinde, de altari descendens, procedit sub baldachino, duobus acolythis, vel ministrantibus, Sacramentum continue incensantibus, usque ad locum paratum. Ministri sacri, vel ministrantes, comitantur celebrantem, a dextris et a sinistris procedentes.
 ! Dum fit processio, cantatur hymnus Pange, lingua, gloriosi Corporis mysterium, usque ad verba Tantum ergo; si vero opus sit, idem hymnus repetitur.
 _
-v. Pange língua, gloriósi
+r. Pange língua, gloriósi
 Córporis mystérium,
 Sanguinísque pretiósi,
 Quem in mundi prétium
 Fructus ventris generósi
 Rex effúdit géntium.
 _
-v. Nobis datus, nobis natus
+&nonbreakingspace
+_
+r. Nobis datus, nobis natus
 Ex intácta Vírgine,
 Et in mundo conversátus,
 Sparso verbi sémine.
 Sui moras incolátus.
 Miro clausit órdine.
 _
-v. In suprémæ nocte cœnæ
+&nonbreakingspace
+_
+r. In suprémæ nocte cœnæ
 Recúmbens cum frátribus,
 Observáta lege plene
 Cibis in legálibus,
 Cibum turbæ duodénæ
 Se dat suis mánibus.
 _
-v. Verbum caro, panem verum
+&nonbreakingspace
+_
+r. Verbum caro, panem verum
 Verbo carnem éfficit;
 Fitque sanguis Christi merum:
 Et si sensus déficit,
 Ad firmándum cor sincérum
-Sola fides súfficit.
+Sola fides sufficit.
+_
+&nonbreakingspace
 _
 ! Cum autem ventum fuerit ad locum paratum, celebrans, adiuvante, si opus sit, diacono, deponit pyxidem super altare, genuflectit, et incensat, thure iterum imposito interim canitur Tantum ergo.
-v. Tantum ergo Sacraméntum
+r. Tantum ergo Sacraméntum
 Venerémur cérnui:
 Et antíquum documéntum
 Novo cedat ritui:
 Præstet fides supplémentum
 Sénsuum deféctui.
 _
-v. Genitóri, Genitóque
+&nonbreakingspace
+_
+r. Genitóri, Genitóque
 Laus et iubilátio:
 Salus, honor, virtus quoque
 Sit et benedíctio

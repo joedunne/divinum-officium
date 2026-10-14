@@ -7,6 +7,15 @@ Sacerdotes
 v. Hear, O Lord, we beseech thee, the prayers which we offer thee on this the solemn feast-day of thy blessed Confessor and bishop N., and, for the sake of him who so nobly served thee, forgive us our trespasses.
 $Per Dominum
 
+[Lectio7]
+@Commune/C4:Lectio7 in 2 loco
+
+[Lectio8]
+@Commune/C4:Lectio8 in 2 loco
+
+[Lectio9]
+@Commune/C4:Lectio9 in 2 loco
+
 [Introitus]
 !Ps 131:9-10
 v. May Your priests, O Lord, be clothed with justice; let Your faithful ones shout merrily for joy. For the sake of David, Your servant, reject not the plea of Your anointed. (Allelúja, allelúja.)
@@ -22,7 +31,9 @@ $Per Dominum
 [Lectio]
 Lesson from the letter of St Paul the Apostle to the Jews
 !Heb 7:23-27
-Brethren: The priests were numerous, because they were prevented by death from continuing in office; but Jesus, because he continues forever, has an everlasting priesthood. Therefore He is able at all times to save those who come to God through Him, since He lives always to make intercession for them. For it was fitting that we should have such a high priest, holy, innocent, undefiled, set apart from sinners, and become higher than the heavens. He does not need to offer sacrifices daily - as the other priests did - first for His own sins, and then for the sins of the people; for this latter He did once for all in offering up Himself, Jesus Christ our Lord.
+Brethren: The priests were numerous, because they were prevented by death from continuing in office; but Jesus, because he continues forever, has an everlasting priesthood. Therefore He is able at all times to save those who come to God through Him, since He lives always to make intercession for them.
+For it was fitting that we should have such a high priest, holy, innocent, undefiled, set apart from sinners, and become higher than the heavens.
+He does not need to offer sacrifices daily - as the other priests did - first for His own sins, and then for the sins of the people; for this latter He did once for all in offering up Himself, Jesus Christ our Lord.
 
 [Graduale]
 !Ps 131:16-17
@@ -47,7 +58,9 @@ V. Glory and wealth shall be in his house: and his justice remaineth for ever an
 [Evangelium]
 Continuation ++ of the Holy Gospel according to Matthew
 !Matt 24:42-47.
-At that time, Jesus said to His disciples, “Watch, for you do not know at what hour your Lord is to come. But of this be assured, that if the householder had known at what hour the thief was coming, he would certainly have watched, and not have let his house be broken into. Therefore you also must be ready, because at an hour that you do not expect, the Son of Man will come. Who, do you think, is the faithful and prudent servant whom his master has set over his household to give them their food in due time? Blessed is that servant whom his master, when he comes, shall find so doing. Amen I say to you, he will set him over all his goods.”
+At that time, Jesus said to His disciples, “Watch, for you do not know at what hour your Lord is to come. But of this be assured, that if the householder had known at what hour the thief was coming, he would certainly have watched, and not have let his house be broken into.
+Therefore you also must be ready, because at an hour that you do not expect, the Son of Man will come. Who, do you think, is the faithful and prudent servant whom his master has set over his household to give them their food in due time?
+Blessed is that servant whom his master, when he comes, shall find so doing. Amen I say to you, he will set him over all his goods.”
 
 [Offertorium]
 @Commune/C2

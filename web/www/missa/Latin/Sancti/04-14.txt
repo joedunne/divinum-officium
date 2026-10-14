@@ -27,7 +27,10 @@ $Per eundem
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios
 !1 Cor 1:18-25; 1:30
-v. Fratres: Verbum crucis pereúntibus quidem stultítia est: iis autem, qui salvi fiunt, id est nobis, Dei virtus est. Scriptum est enim: Perdam sapiéntiam sapiéntium et prudéntiam prudéntium reprobábo. Ubi sápiens? ubi scriba? ubi conquisítor hujus sǽculi? Nonne stultam fecit Deus sapiéntiam hujus mundi? Nam quia in Dei sapiéntia non cognóvit mundus per sapiéntiam Deum: placuit Deo per stultítiam prædicatiónis salvos fácere credéntes. Quóniam et Judæi signa petunt, et Græci sapiéntiam quærunt: nos autem prædicámus Christum crucifíxum: Judæis quidem scándalum, géntibus autem stultítiam, ipsis autem vocátis Judæis, atque Græcis. Christum Dei virtútem et Dei sapiéntiam: quia, quod stultum est Dei, sapiéntius est homínibus: et, quod infírmum est Dei, fórtius est homínibus. Ex ipso autem vos estis in Christo Jesu, qui factus est nobis sapiéntia a Deo et justítia ei sanctificátio et redémptio.
+v. Fratres: Verbum crucis pereúntibus quidem stultítia est: iis autem, qui salvi fiunt, id est nobis, Dei virtus est. Scriptum est enim: Perdam sapiéntiam sapiéntium et prudéntiam prudéntium reprobábo. Ubi sápiens? ubi scriba? ubi conquisítor hujus sǽculi?
+Nonne stultam fecit Deus sapiéntiam hujus mundi? Nam quia in Dei sapiéntia non cognóvit mundus per sapiéntiam Deum: placuit Deo per stultítiam prædicatiónis salvos fácere credéntes. Quóniam et Judæi signa petunt, et Græci sapiéntiam quærunt:
+nos autem prædicámus Christum crucifíxum: Judæis quidem scándalum, géntibus autem stultítiam, ipsis autem vocátis Judæis, atque Græcis. Christum Dei virtútem et Dei sapiéntiam: quia, quod stultum est Dei, sapiéntius est homínibus: et, quod infírmum est Dei, fórtius est homínibus.
+Ex ipso autem vos estis in Christo Jesu, qui factus est nobis sapiéntia a Deo et justítia ei sanctificátio et redémptio.
 
 [Graduale]
 Allelúja, allelúja.
@@ -50,7 +53,9 @@ V. Quam nemo príncipum hujus sǽculi cognóvit. Si enim cognovíssent, numquam 
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam.
 !Luc 12:2-8
-In illo témpore: Dixit Jesus discípulis suis: Nihil est opértum, quod non revelétur, neque abscónditum, quod non sciátur. Quóniam quæ in ténebris dixístis, in lúmine dicéntur: et quod in aurem locúti estis in cubículis, prædicábitur in tectis. Dico autem vobis amícis meis: Ne terreámini ab his, qui occidunt corpus et post hæc non habent ámplius, quid fáciant. Osténdam autem vobis, quem timeátis: timéte eum, qui, postquam occídent, habet potestátem míttere in gehénnam; ita dico vobis, hunc timéte. Nonne quinque pásseres véneunt dipóndio, et unus ex illis non est in oblivióne coram Deo? Sed et capílli capitis vestri omnes numeráti sunt. Nolíte ergo timére: multis passéribus pluris estis vos. Dico autem vobis: Omnis, quicúmque conféssus fúerit me coram homínibus, et Fílius hóminis confitébitur illum coram Angelis Dei.
+In illo témpore: Dixit Jesus discípulis suis: Nihil est opértum, quod non revelétur, neque abscónditum, quod non sciátur. Quóniam quæ in ténebris dixístis, in lúmine dicéntur: et quod in aurem locúti estis in cubículis, prædicábitur in tectis.
+Dico autem vobis amícis meis: Ne terreámini ab his, qui occidunt corpus et post hæc non habent ámplius, quid fáciant. Osténdam autem vobis, quem timeátis: timéte eum, qui, postquam occídent, habet potestátem míttere in gehénnam; ita dico vobis, hunc timéte.
+Nonne quinque pásseres véneunt dipóndio, et unus ex illis non est in oblivióne coram Deo? Sed et capílli capitis vestri omnes numeráti sunt. Nolíte ergo timére: multis passéribus pluris estis vos. Dico autem vobis: Omnis, quicúmque conféssus fúerit me coram homínibus, et Fílius hóminis confitébitur illum coram Angelis Dei.
 
 [Offertorium]
 !1 Cor 2:2; 

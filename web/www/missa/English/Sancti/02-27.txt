@@ -25,7 +25,8 @@ $Qui vivis
 [Lectio]
 Lesson from the first letter of St John the Apostle
 !1 John 2:14-17
-Beloved: I am writing to you, young men, because you are strong and the word of God abides in you, and you have conquered the evil one. Do not love the world, or the things that are in the world. If anyone loves the world, the love of the Father is not in him; because all that is in the world is the lust of the flesh, and the lust of the eyes, and the pride of life; which is not from the Father, but from the world. And the world with its lust is passing away, but he who does the will of God abides forever.
+Beloved: I am writing to you, young men, because you are strong and the word of God abides in you, and you have conquered the evil one. Do not love the world, or the things that are in the world. If anyone loves the world, the love of the Father is not in him;
+because all that is in the world is the lust of the flesh, and the lust of the eyes, and the pride of life; which is not from the Father, but from the world. And the world with its lust is passing away, but he who does the will of God abides forever.
 
 [Graduale]
 !Ps 30:20
@@ -55,7 +56,10 @@ V. He withholds no good thing from those who walk in sincerity, O Lord of Hosts,
 [Evangelium]
 Continuation + of the Holy Gospel according to Mark
 !Mark 10:13-21
- At that time, they were bringing little children to Jesus that He might touch them; but the disciples rebuked those who brought them. But when Jesus saw them, He was indignant, and said to them, Let the little children come to Me, and do not hinder them, for of such is the kingdom of God. Amen I say to you, whoever does not accept the kingdom of God as a little child will not enter into it. And He put His arms about them, He began to bless them.  And as he was going forth on His journey, a certain man running up fell upon his knees before Him, and asked Him, Good Master, what shall I do to gain eternal life? But Jesus said to him, Why do you call Me good? No one is good but only God. You know the commandments: You shall not commit adultery. You shall not kill. You shall not steal. You shall not bear false witness. You shall not defraud. Honor your father and mother. And he answered and said, ‘Master, all these I have kept ever since I was a child. And Jesus, looking upon him, loved him, and said to him, One thing is lacking to you; go, sell whatever you have, and give to the poor, and you shall have treasure in heaven; and come, follow Me.
+At that time, they were bringing little children to Jesus that He might touch them; but the disciples rebuked those who brought them. But when Jesus saw them, He was indignant, and said to them, Let the little children come to Me, and do not hinder them, for of such is the kingdom of God.
+Amen I say to you, whoever does not accept the kingdom of God as a little child will not enter into it. And He put His arms about them, He began to bless them.  And as he was going forth on His journey, a certain man running up fell upon his knees before Him, and asked Him, Good Master, what shall I do to gain eternal life?
+But Jesus said to him, Why do you call Me good? No one is good but only God. You know the commandments: You shall not commit adultery. You shall not kill. You shall not steal. You shall not bear false witness. You shall not defraud. Honor your father and mother.
+And he answered and said, ‘Master, all these I have kept ever since I was a child. And Jesus, looking upon him, loved him, and said to him, One thing is lacking to you; go, sell whatever you have, and give to the poor, and you shall have treasure in heaven; and come, follow Me.
 
 [Offertorium]
 !Ps 115:16-17

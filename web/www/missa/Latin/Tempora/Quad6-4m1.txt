@@ -98,42 +98,52 @@ et elevátis óculis in cœlum ad te Deum, Patrem suum omnipoténtem, (Caput inc
 ! Finita autem Missa, accenduntur intorticia, et fit Processio more solito, alio tamen Subdiacono parato Crucem ferente. Celebrans indutus Pluviali albo, stans ante Altare, imponit incensum in duobus thuribulis absque benedictione:
 ! deinde in medio genuflexus, cum altero incensat ter Sacramentum: et accepto Calice cum Sacramento de manu Diaconi stantis, et cooperto extremitatibus Veli, quo ejus humeri teguntur,
 ! procedit médius inter eúndem Diaconum a dextris et Subdiaconum a sinistris sub baldachino, duobus Acolythis Sacramentum continue incensantibus, usque ad locum præparatum, ubi pro crastino servandum est. Interea dum fit Processio, cantatur Hymnus Pange, lingua, gloriosi Corporis mystérium.
-v. Pange língua, gloriósi
+r. Pange língua, gloriósi
 Córporis mystérium,
 Sanguinísque pretiósi,
 Quem in mundi prétium
 Fructus ventris generósi
 Rex effúdit géntium.
 _
-v. Nobis datus, nobis natus
+&nonbreakingspace
+_
+r. Nobis datus, nobis natus
 Ex intácta Vírgine,
 Et in mundo conversátus,
 Sparso verbi sémine.
 Sui moras incolátus.
 Miro clausit órdine.
 _
-v. In suprémæ nocte cœnæ
+&nonbreakingspace
+_
+r. In suprémæ nocte cœnæ
 Recúmbens cum frátribus,
 Observáta lege plene
 Cibis in legálibus,
 Cibum turbæ duodénæ
 Se dat suis mánibus.
 _
-v. Verbum caro, panem verum
+&nonbreakingspace
+_
+r. Verbum caro, panem verum
 Verbo carnem éfficit;
 Fitque sanguis Christi merum:
 Et si sensus déficit,
 Ad firmándum cor sincérum
 Sola fides súfficit.
 _
-v. Tantum ergo Sacraméntum
+&nonbreakingspace
+_
+r. Tantum ergo Sacraméntum
 Venerémur cérnui:
 Et antíquum documéntum
 Novo cedat rítui:
 Præstet fides supplémentum
 Sénsuum deféctui.
 _
-v. Genitóri, Genitóque
+&nonbreakingspace
+_
+r. Genitóri, Genitóque
 Laus et iubilátio:
 Salus, honor, virtus quoque
 Sit et benedíctio

@@ -31,7 +31,9 @@ v. Sacerdótes tui, Dómine, índuant justítiam, et sancti tui exsúltent: prop
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Hebrǽos
 !Hebr 7:23-27
-Fratres: Plures facti sunt sacerdótes, idcírco quod morte prohiberéntur permanére: Jesus autem, eo quod máneat in ætérnum, sempitérnum habet sacerdótium. Unde et salváre in perpétuum potest accedéntes per semetípsum ad Deum: semper vivens ad interpellándum pro nobis. Talis enim decébat, ut nobis esset póntifex, sanctus, ínnocens, impollútus, segregátus a peccatóribus, et excélsior cœlis factus: qui non habet necessitátem cotídie, quemádmodum sacerdótes, prius pro suis delíctis hóstias offérre, déinde pro pópuli: hoc enim fecit semel, seípsum offeréndo, Jesus Christus, Dóminus noster.
+Fratres: Plures facti sunt sacerdótes, idcírco quod morte prohiberéntur permanére: Jesus autem, eo quod máneat in ætérnum, sempitérnum habet sacerdótium. Unde et salváre in perpétuum potest accedéntes per semetípsum ad Deum: semper vivens ad interpellándum pro nobis.
+Talis enim decébat, ut nobis esset póntifex, sanctus, ínnocens, impollútus, segregátus a peccatóribus, et excélsior cœlis factus:
+qui non habet necessitátem cotídie, quemádmodum sacerdótes, prius pro suis delíctis hóstias offérre, déinde pro pópuli: hoc enim fecit semel, seípsum offeréndo, Jesus Christus, Dóminus noster.
 
 [Graduale]
 !Ps 131:16-17
@@ -56,7 +58,9 @@ V. Glória et divítiæ in domo ejus: et justítia ejus manet in sǽculum sǽcul
 [Evangelium]
 Sequéntia ++ Sancti Evangélii secúndum Matthéum
 !Matt 24:42-47
-In illo témpore: Dixit Jesus discípulis suis: Vigiláte ergo, quia nescítis qua hora Dóminus vester ventúrus sit. Illud autem scitóte, quóniam si sciret paterfamólias qua hora fur ventúrus esset, vigiláret útique, et non síneret pérfodi domum suam. Ideo et vos estóte paráti: quia qua nescítis hora Fílius hóminis ventúrus est. Quis, putas, est fidélis servus, et prudens, quem constítuit dóminus suus super famíliam suam ut det illis cibum in témpore? Beátus ille servus, quem cum vénerit dóminus ejus, invénerit sic faciéntem. Amen dico vobis, quóniam super ómnia bona sua constítuet eum.
+In illo témpore: Dixit Jesus discípulis suis: Vigiláte ergo, quia nescítis qua hora Dóminus vester ventúrus sit. Illud autem scitóte, quóniam si sciret paterfamólias qua hora fur ventúrus esset, vigiláret útique, et non síneret pérfodi domum suam.
+Ideo et vos estóte paráti: quia qua nescítis hora Fílius hóminis ventúrus est. Quis, putas, est fidélis servus, et prudens, quem constítuit dóminus suus super famíliam suam ut det illis cibum in témpore?
+Beátus ille servus, quem cum vénerit dóminus ejus, invénerit sic faciéntem. Amen dico vobis, quóniam super ómnia bona sua constítuet eum.
 
 [Offertorium]
 @Commune/C2

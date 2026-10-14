@@ -10,7 +10,8 @@ Gloria
 (rubrica tridentina aut rubrica divino) Credo
 
 [Oratio]
-Omnípotens et miséricors Deus, qui beátam Joánnam Francíscam, tuo amóre succénsam, admirábili spíritus fortitúdine per omnes vitæ sémitas in via perfectiónis donásti, quique per illam illustráre Ecclésiam tuam nova prole voluísti: ejus méritis et précibus concéde; ut, qui infirmitátis nostræ cónscii de tua virtúte confídimus, cœléstis grátiæ auxílio cuncta nobis adversántia vincámus.
+Omnípotens et miséricors Deus, qui beátam Joánnam Francíscam, tuo amóre succénsam, admirábili spíritus fortitúdine per omnes vitæ sémitas in via perfectiónis donásti, quique per illam illustráre Ecclésiam tuam nova prole voluísti:
+ejus méritis et précibus concéde; ut, qui infirmitátis nostræ cónscii de tua virtúte confídimus, cœléstis grátiæ auxílio cuncta nobis adversántia vincámus.
 $Per Dominum
 
 [Secreta]

@@ -92,42 +92,52 @@ His almighty Father, giving thanks to Thee, (He signs the host with the Sign of 
 
 [Post Missam]
 !!Pange Lingua
-v. Sing, my tongue, the Saviour's glory:
+r. Sing, my tongue, the Saviour's glory:
 Of His Flesh the mystery sing;
 Of His Blood all price exceeding.
 Shed by our immortal King.
 Destined for the world's redemption
 From a noble womb to spring. 
-_  
-v. Of a pure and spotless Virgin,
+_
+&nonbreakingspace
+_
+r. Of a pure and spotless Virgin,
 Born for us on earth below,
 He, as Man with man conversing,
 Stayed the seeds of truth to sow,
 Then He closed in solemn order
 Wondrously His life of woe. 	
 _
-On the night of His last supper,
+&nonbreakingspace
+_
+r. On the night of His last supper,
 Seated with His chosen band,
 He, the paschal victim eating,
 First fulfills the Law's command;
 Then as food to all His brethren
 Gives himself with His own hand. 	
 _
-v. Word made Flesh, the bread of nature,
+&nonbreakingspace
+_
+r. Word made Flesh, the bread of nature,
 By His words to Flesh He turns;
 Wine into His Blood He changes:
 What though sense no change discerns,
 Only be the heart in earnest,
 Faith her lesson quickly learns. 	
 _
-v. Down in adoration falling,
+&nonbreakingspace
+_
+r. Down in adoration falling,
 Lo, the Sacred Host we hail,
 Lo, o'er ancient forms departing
 Newer rites of grace prevail;
 Faith for all defects supplying,
 Where the feeble senses fail. 
 _
-v. To the everlasting Father
+&nonbreakingspace
+_
+r. To the everlasting Father
 And the Son who reigns on high
 With the Holy Ghost proceeding
 Forth from each eternally,

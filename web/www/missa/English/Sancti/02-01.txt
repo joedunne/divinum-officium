@@ -26,7 +26,8 @@ v. God forbid that I should glory, save in the cross of our Lord Jesus Christ: b
 [Lectio]
 Lesson from the letter of St. Paul the Apostle to the Romans
 !Rom 8:35-39
-Brethren, who shall separate us from the love of Christ? shall tribulation? or distress? or famine? Or nakedness? or danger? Or persecution? or the sword? As it is written: For Thy sake we are put to death all the day long: we are accounted as sheep for the slaughter. But in all these things we overcome because of Him that hath loved us. For I am sure that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor might, nor height, nor depth, nor any other creature shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
+Brethren, who shall separate us from the love of Christ? shall tribulation? or distress? or famine? Or nakedness? or danger? Or persecution? or the sword? As it is written: For Thy sake we are put to death all the day long: we are accounted as sheep for the slaughter. But in all these things we overcome because of Him that hath loved us.
+For I am sure that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor might, nor height, nor depth, nor any other creature shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
 
 [Graduale]
 !Ecclus 44:16
@@ -55,7 +56,8 @@ V. Thou hast set on his head a crown of precious stones.
 [Evangelium]
 Continuation + of the Holy Gospel according to John
 !John 12:24-26
-At that time, Jesus said to His Disciples, “Amen, amen, I say to you, unless the grain of wheat falls into the ground and dies, it remains alone. But if it dies, it brings forth much fruit. He who loves his life, loses it; and he who hates his life in this world, keeps it unto life everlasting. If anyone serves Me, let him follow Me; and where I am there also shall My servant be. If anyone serves Me, My Father will honor him.”
+At that time, Jesus said to His Disciples, “Amen, amen, I say to you, unless the grain of wheat falls into the ground and dies, it remains alone. But if it dies, it brings forth much fruit. He who loves his life, loses it; and he who hates his life in this world, keeps it unto life everlasting.
+If anyone serves Me, let him follow Me; and where I am there also shall My servant be. If anyone serves Me, My Father will honor him.”
 
 [Offertorium]
 @Commune/C1v

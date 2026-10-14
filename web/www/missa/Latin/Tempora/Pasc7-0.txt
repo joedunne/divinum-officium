@@ -47,37 +47,55 @@ Veni, Sancte Spíritus,
 et emítte cǽlitus 
 lucis tuæ rádium.
 _
+&nonbreakingspace
+_
 Veni, pater páuperum; 
 veni, dator múnerum; 
 veni, lumen córdium.
+_
+&nonbreakingspace
 _
 Consolátor óptime, 
 dulcis hospes ánimæ, 
 dulce refrigérium.
 _
+&nonbreakingspace
+_
 In labóre réquies, 
 in æstu tempéries, 
 in fletu solácium.
+_
+&nonbreakingspace
 _
 O lux beatíssima, 
 reple cordis íntima 
 tuórum fidélium.
 _
+&nonbreakingspace
+_
 Sine tuo númine 
 nihil est in hómine, 
 nihil est innóxium.
+_
+&nonbreakingspace
 _
 Lava quod est sórdidum, 
 riga quod est áridum, 
 sana quod est sáucium.
 _
+&nonbreakingspace
+_
 Flecte quod est rígidum, 
 fove quod est frígidum,
 rege quod est dévium.
 _
+&nonbreakingspace
+_
 Da tuis fidélibus, 
 in te confidéntibus, 
 sacrum septenárium.
+_
+&nonbreakingspace
 _
 Da virtútis méritum, 
 da salútis éxitum, 

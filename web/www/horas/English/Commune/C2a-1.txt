@@ -31,7 +31,9 @@ $Per Dominum
 [Lectio]
 Lesson from the secons letter of St Paul the Apostle to Timotheus
 !2 Tim. 2:8-10; 3:10-12.
-Beloved: Remember that Jesus Christ rose from the dead and was descended from David; this is my Gospel, in which I suffer even to bonds, as a criminal. But the word of God is not bound. This is why I bear all things for the sake of the elect, that they also may obtain the salvation that is in Christ Jesus, with heavenly glory. But you have closely followed my doctrine, my conduct, my purpose, my faith, my long-suffering, my love, my patience, my persecutions, my afflictions; such as befell me at Antioch, Iconium and Lystra - such persecutions as I suffered, and out of them all the Lord delivered me. And all who want to live piously in Christ Jesus will suffer persecution.
+Beloved: Remember that Jesus Christ rose from the dead and was descended from David; this is my Gospel, in which I suffer even to bonds, as a criminal. But the word of God is not bound. This is why I bear all things for the sake of the elect, that they also may obtain the salvation that is in Christ Jesus, with heavenly glory.
+But you have closely followed my doctrine, my conduct, my purpose, my faith, my long-suffering, my love, my patience, my persecutions, my afflictions;
+such as befell me at Antioch, Iconium and Lystra - such persecutions as I suffered, and out of them all the Lord delivered me. And all who want to live piously in Christ Jesus will suffer persecution.
 
 [Graduale]
 !Ps 36:24, 26
@@ -52,7 +54,9 @@ V. Wealth and riches shall be in his house; his generosity shall endure forever.
 [Evangelium]
 Continuation ++ of the Holy Gospel according to Matthew
 !Matt 10:26-32.
-At that time, Jesus said to His disciples, There is nothing concealed that will not be disclosed, and nothing hidden that will not be made known. What I tell you in darkness, speak it in the light; and what you hear whispered, preach it on the housetops. And do not be afraid of those who kill the body but cannot kill the soul. But rather be afraid of Him Who is able to destroy both soul and body in hell. Are not two sparrows sold for a farthing? And yet not one of them will fall to the ground without your Father’s leave. But as for you, the very hairs of your head are all numbered. Therefore do not be afraid; you are of more value than many sparrows. Therefore, everyone who acknowledges Me before men, I also will acknowledge him before My Father in heaven.
+At that time, Jesus said to His disciples, There is nothing concealed that will not be disclosed, and nothing hidden that will not be made known. What I tell you in darkness, speak it in the light; and what you hear whispered, preach it on the housetops. And do not be afraid of those who kill the body but cannot kill the soul.
+But rather be afraid of Him Who is able to destroy both soul and body in hell. Are not two sparrows sold for a farthing? And yet not one of them will fall to the ground without your Father’s leave. But as for you, the very hairs of your head are all numbered. Therefore do not be afraid; you are of more value than many sparrows.
+Therefore, everyone who acknowledges Me before men, I also will acknowledge him before My Father in heaven.
 
 [Offertorium]
 !Ps 20:4-5.
@@ -73,7 +77,10 @@ $Per Dominum
 [Lectio in 2 loco]
 Lesson from the letter of St. James the Apostle
 !Jas 1:2-12
-Dearly beloved: Esteem it all joy, my brethren, when you fall into various trials, knowing that the trying of your faith begets patience. And let patience have its perfect work, that you may be perfect and entire, lacking nothing. But if any of you is wanting in wisdom, let him ask it of God, Who gives abundantly to all men, and does not reproach; and it will be given to him. But let him ask with faith, without hesitation. For he who hesitates is like a wave of the sea, driven and carried about by the wind. Therefore, let not such a one think that he will receive anything from the Lord, being a double-minded man, unstable in all his ways. But let the brother of lowly condition glory in his high estate, and the rich man in his low condition; for he will pass away like the flower of the grass. For the sun rises with a burning heat and parches the grass, and its flower falls and the beauty of its appearance perishes. So too will the rich man wither in his ways. Blessed is the man who endures temptation; for when he has been tried, he will receive the crown of life which God has promised to those who love Him.
+Dearly beloved: Esteem it all joy, my brethren, when you fall into various trials, knowing that the trying of your faith begets patience. And let patience have its perfect work, that you may be perfect and entire, lacking nothing.
+But if any of you is wanting in wisdom, let him ask it of God, Who gives abundantly to all men, and does not reproach; and it will be given to him. But let him ask with faith, without hesitation. For he who hesitates is like a wave of the sea, driven and carried about by the wind.
+Therefore, let not such a one think that he will receive anything from the Lord, being a double-minded man, unstable in all his ways. But let the brother of lowly condition glory in his high estate, and the rich man in his low condition; for he will pass away like the flower of the grass.
+For the sun rises with a burning heat and parches the grass, and its flower falls and the beauty of its appearance perishes. So too will the rich man wither in his ways. Blessed is the man who endures temptation; for when he has been tried, he will receive the crown of life which God has promised to those who love Him.
 
 [Evangelium in 2 loco]
 @Sancti/08-10:Evangelium

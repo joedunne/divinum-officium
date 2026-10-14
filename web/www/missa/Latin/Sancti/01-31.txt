@@ -25,7 +25,8 @@ $Per Dominum
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses.
 !Philipp 4:4-9
-Fratres: Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus prope est. Nihil sollíciti sitis; sed in omni oratióne et obsecratióne, cum gratiárum actióne, petitiónes vestræ innotéscant apud Deum. Et pax Dei quæ exsúperat omnem sensum, custódiat corda vestra et intelligéntias vestras, in Christo Jesu. De cétero, fratres, quæcúmque sunt vera, quæcúmque púdica, quæcúmque justa, quæcúmque sancta, quæcúmque amabília, quæcúmque bonæ famæ, si qua virtus, si qua laus disciplínæ, hæc cogitáte. Quæ et didicístis, et accepístis, et audístis, et vidístis in me, hæc agite: et Deus pacis erit vobíscum.
+Fratres: Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus prope est. Nihil sollíciti sitis; sed in omni oratióne et obsecratióne, cum gratiárum actióne, petitiónes vestræ innotéscant apud Deum. Et pax Dei quæ exsúperat omnem sensum, custódiat corda vestra et intelligéntias vestras, in Christo Jesu.
+De cétero, fratres, quæcúmque sunt vera, quæcúmque púdica, quæcúmque justa, quæcúmque sancta, quæcúmque amabília, quæcúmque bonæ famæ, si qua virtus, si qua laus disciplínæ, hæc cogitáte. Quæ et didicístis, et accepístis, et audístis, et vidístis in me, hæc agite: et Deus pacis erit vobíscum.
 
 [Graduale]
 !Ps 36:3-5
@@ -50,7 +51,8 @@ V. Quóniam tu, Deus, exaudísti oratiónem meam: dedísti hereditátem timénti
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthǽum.
 !Matt 18:1-5
-In illo témpore: Accessérunt discípuli ad Jesum dicéntes: Quis, putas, major est in regno cælórum? Et ádvocans Jesus párvulum, státuit eum in médio eórum, et dixit: Amen dico vobis, nisi convérsi fueritis, et efficiámini sicut párvuli, non intrábitis in regnum cœlórum. Quicúmque ergo humiliáverit se sicut párvulus iste, hic est major in regno cœlórum. Et qui suscéperit unum párvulum talem in nómine meo, me súscipit.
+In illo témpore: Accessérunt discípuli ad Jesum dicéntes: Quis, putas, major est in regno cælórum? Et ádvocans Jesus párvulum, státuit eum in médio eórum, et dixit: Amen dico vobis, nisi convérsi fueritis, et efficiámini sicut párvuli, non intrábitis in regnum cœlórum.
+Quicúmque ergo humiliáverit se sicut párvulus iste, hic est major in regno cœlórum. Et qui suscéperit unum párvulum talem in nómine meo, me súscipit.
 
 [Offertorium]
 !Ps 33:12

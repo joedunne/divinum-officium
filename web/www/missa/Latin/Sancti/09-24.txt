@@ -10,7 +10,8 @@ Prefatio=Maria=Festivitate
 Beatæ Mariæ Virginis de Mercede
 
 [Oratio]
-Deus, qui per gloriosíssimam Fílii tui Matrem, ad liberandos Christi fidéles a potestáte paganórum, nova Ecclésiam tuam prole amplificáre dignátus es: præsta, quǽsumus; ut, quam pie venerámur tanti óperis institutrícem, ejus páriter méritis et intercessióne, a peccátis ómnibus et captivitáte dæmonis liberémur.
+Deus, qui per gloriosíssimam Fílii tui Matrem, ad liberandos Christi fidéles a potestáte paganórum, nova Ecclésiam tuam prole amplificáre dignátus es:
+præsta, quǽsumus; ut, quam pie venerámur tanti óperis institutrícem, ejus páriter méritis et intercessióne, a peccátis ómnibus et captivitáte dæmonis liberémur.
 $Per eundem
 
 [Secreta]

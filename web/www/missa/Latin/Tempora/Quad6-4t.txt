@@ -92,42 +92,52 @@ Patrem suum omnipoténtem, Caput inclinat, tibi grátias agens, Signat super Hos
 
 [Post Missam]
 !!Pange Lingua
-v. Pange lingua, gloriosi
+r. Pange lingua, gloriosi
 Corporis mysterium,
 Sanguinisque pretiosi,
 Quem in mundi pretium
 Fructus ventris generosi
 Rex effudit gentium.
-_	
-v. Nobis datus, nobis natus
+_
+&nonbreakingspace
+_
+r. Nobis datus, nobis natus
 Ex intacta Virgine,
 Et in mundo conversatus,
 Sparso verbi semine.
 Sui moras incolatus.
 Miro clausit ordine. 		   
 _
-v. In supremæ nocte cœnæ
+&nonbreakingspace
+_
+r. In supremæ nocte cœnæ
 Recumbens cum fratribus,
 Observata lege plene
 Cibis in legalibus,
 Cibum turbæ duodenæ
 Se dat suis manibus. 		   
 _
-v. Verbum caro, panem verum
+&nonbreakingspace
+_
+r. Verbum caro, panem verum
 Verbo carnem efficit;
 Fitque sanguis Christi merum:
 Et si sensus deficit,
 Ad firmandum cor sincerum
 Sola fides sufficit. 		   
 _
-v.Tantum ergo Sacramentum
+&nonbreakingspace
+_
+r.Tantum ergo Sacramentum
 Veneremur cernui:
 Et antiquum documentum
 Novo cedat ritui:
 Præstet fides supplementum
 Sensuum defectui. 		   
-_	
-v. Genitori, Genitoque
+_
+&nonbreakingspace
+_
+r. Genitori, Genitoque
 Laus et iubilatio:
 Salus, honor, virtus quoque
 Sit et benedictio

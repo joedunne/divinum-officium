@@ -37,7 +37,8 @@ $Per Dominum
 [Lectio]
 Lesson from the letter of St. Paul the Apostle to Titus
 !Titus 3:4-7
-Dearly beloved: When the goodness and kindness of God our Saviour appeared, then not by reason of good works that we did ourselves, but according to His mercy, He saved us through the bath of regeneration and renewal by the Holy Spirit; Whom He has abundantly poured out upon us through Jesus Christ our Saviour, in order that, justified by His grace, we may be heirs in the hope of life everlasting, in Christ Jesus our Lord.
+Dearly beloved: When the goodness and kindness of God our Saviour appeared, then not by reason of good works that we did ourselves, but according to His mercy, He saved us through the bath of regeneration and renewal by the Holy Spirit;
+Whom He has abundantly poured out upon us through Jesus Christ our Saviour, in order that, justified by His grace, we may be heirs in the hope of life everlasting, in Christ Jesus our Lord.
 
 [Graduale]
 !Ps 117:26-27, 23
@@ -49,7 +50,8 @@ V. The Lord is King, in splendor robed; robed is the Lord and girt about with st
 [Evangelium]
 Continuation ++ of the Holy Gospel according to Luke
 !Luke 2:15-20
-At that time, the shepherds were saying to one another, Let us go over to Bethlehem and see this thing that has come to pass, which the Lord has made known to us. So they went with haste, and they found Mary and Joseph, and the Babe lying in the manger. And when they had seen, they understood what had been told them concerning this Child. And all who heard marveled at the things told them by the shepherds. But Mary kept in mind all these things, pondering them in her heart. And the shepherds returned, glorifying and praising God for all that they had heard and seen, even as it was spoken to them.
+At that time, the shepherds were saying to one another, Let us go over to Bethlehem and see this thing that has come to pass, which the Lord has made known to us. So they went with haste, and they found Mary and Joseph, and the Babe lying in the manger. And when they had seen, they understood what had been told them concerning this Child.
+And all who heard marveled at the things told them by the shepherds. But Mary kept in mind all these things, pondering them in her heart. And the shepherds returned, glorifying and praising God for all that they had heard and seen, even as it was spoken to them.
 
 [Offertorium]
 @Tempora/Nat1-0

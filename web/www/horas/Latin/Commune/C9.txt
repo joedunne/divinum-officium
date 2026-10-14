@@ -53,7 +53,8 @@ v. Fidélium, Deus, ómnium Cónditor et Redémptor, animábus famulórum famula
 $Qui vivis
 
 [Oratio1]
-v. Absólve, quǽsumus Dómine, ánimam fámuli tui N., ut defúnctus sǽculo tibi vivat: et quæ per fragilitátem carnis humána conversatióne commísit, tu vénia misericordíssimæ pietátis abstérge.
+v. Absólve, quǽsumus Dómine, ánimam fámuli tui N., ut defúnctus sǽculo tibi vivat:
+et quæ per fragilitátem carnis humána conversatióne commísit, tu vénia misericordíssimæ pietátis abstérge.
 $Per Dominum
 
 [Invit]
@@ -319,73 +320,109 @@ Dies iræ, dies illa
 Solvet sæclum in favílla:
 Teste David cum Sibýlla.
 _
+&nonbreakingspace
+_
 Quantus tremor est futúrus,
 Quando judex est ventúrus,
 Cuncta stricte discussúrus!
+_
+&nonbreakingspace
 _
 Tuba mirum spargens sonum
 Per sepúlcra regiónum,
 Coget omnes ante thronum.
 _
+&nonbreakingspace
+_
 Mors stupébit et natúra,
 Cum resúrget creatúra,
 Judicánti responsúra.
+_
+&nonbreakingspace
 _
 Liber scriptus proferétur,
 In quo totum continétur,
 Unde mundus judicétur.
 _
+&nonbreakingspace
+_
 Judex ergo cum sedébit,
 Quidquid latet, apparébit:
 Nil inúltum remanébit.
+_
+&nonbreakingspace
 _
 Quid sum miser tunc dictúrus?
 Quem patrónum rogatúrus,
 Cum vix justus sit secúrus?
 _
+&nonbreakingspace
+_
 Rex treméndæ majestátis,
 Qui salvándos salvas gratis,
 Salva me, fons pietátis.
+_
+&nonbreakingspace
 _
 Recordáre, Jesu pie,
 Quod sum causa tuæ viæ:
 Ne me perdas illa die.
 _
+&nonbreakingspace
+_
 Quærens me, sedísti lassus:
 Redemísti Crucem passus:
 Tantus labor non sit cassus.
+_
+&nonbreakingspace
 _
 Juste judex ultiónis,
 Donum fac remissiónis
 Ante diem ratiónis.
 _
+&nonbreakingspace
+_
 Ingemísco, tamquam reus:
 Culpa rubet vultus meus:
 Supplicánti parce, Deus.
+_
+&nonbreakingspace
 _
 Qui Maríam absolvísti,
 Et latrónem exaudísti,
 Mihi quoque spem dedísti.
 _
+&nonbreakingspace
+_
 Preces meæ non sunt dignæ:
 Sed tu bonus fac benígne,
 Ne perénni cremer igne.
+_
+&nonbreakingspace
 _
 Inter oves locum præsta,
 Et ab hœdis me sequéstra,
 Státuens in parte dextra.
 _
+&nonbreakingspace
+_
 Confutátis maledíctis,
 Flammis ácribus addíctis:
 Voca me cum benedíctis.
+_
+&nonbreakingspace
 _
 Oro supplex et acclínis,
 Cor contrítum quasi cinis:
 Gere curam mei finis.
 _
+&nonbreakingspace
+_
 Lacrimósa dies illa,
 Qua resúrget ex favílla
 Judicándus homo reus.
+_
+&nonbreakingspace
 _
 Huic ergo parce, Deus:
 Pie Jesu Dómine,
@@ -395,7 +432,8 @@ Amen.
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Joánnem
 !Joannes 6:51-55
-In illo témpore: Dixit Jesus turbis Judæórum: Ego sum panis vivus, qui de cœlo descéndi. Si quis manducáverit ex hoc pane, vivet in ætérnum: et panis, quem ego dabo, caro mea est pro mundi vita. Litigábant ergo Judǽi ad ínvicem, dicéntes: Quómodo potest hic nobis carnem suam dare ad manducándum? Dixit ergo eis Jesus: Amen, amen, dico vobis: nisi manducavéritis carnem Fílii hóminis et bibéritis ejus sánguinem, non habébitis vitam in vobis. Qui mánducat meam carnem et bibit meum sánguinem, habet vitam ætérnam: et ego resuscitábo eum in novíssimo die.
+In illo témpore: Dixit Jesus turbis Judæórum: Ego sum panis vivus, qui de cœlo descéndi. Si quis manducáverit ex hoc pane, vivet in ætérnum: et panis, quem ego dabo, caro mea est pro mundi vita. Litigábant ergo Judǽi ad ínvicem, dicéntes: Quómodo potest hic nobis carnem suam dare ad manducándum?
+Dixit ergo eis Jesus: Amen, amen, dico vobis: nisi manducavéritis carnem Fílii hóminis et bibéritis ejus sánguinem, non habébitis vitam in vobis. Qui mánducat meam carnem et bibit meum sánguinem, habet vitam ætérnam: et ego resuscitábo eum in novíssimo die.
 
 [Offertorium]
 Dómine Jesu Christe, Rex glóriæ, líbera ánimas ómnium fidélium defunctórum de pœnis inférni et de profúndo lacu: líbera eas de ore leónis, ne absórbeat eas tártarus, ne cadant in obscúrum: sed sígnifer sanctus Míchaël repræséntet eas in lucem sanctam: 

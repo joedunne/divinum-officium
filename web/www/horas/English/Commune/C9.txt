@@ -53,7 +53,8 @@ v. O God, who art thyself at once the Maker and the Redeemer of all thy faithful
 $Qui vivis
 
 [Oratio1]
-v. Lord, we pray thee to absolve the soul of thy servant or, thine handmaid N. (here express the name) who hath died unto the world, that he (or, she) may live unto thee. And whereinsoever while he (or, she) walked among men he (or, she) hath transgressed through the weakness of the flesh, do Thou in the exceeding tenderness of thy mercy forgive and put away.
+v. Lord, we pray thee to absolve the soul of thy servant or, thine handmaid N. (here express the name) who hath died unto the world, that he (or, she) may live unto thee.
+And whereinsoever while he (or, she) walked among men he (or, she) hath transgressed through the weakness of the flesh, do Thou in the exceeding tenderness of thy mercy forgive and put away.
 $Per Dominum
 
 [Invit]
@@ -311,73 +312,109 @@ Dreaded day, that day of ire,
 When the world shall melt in fire,
 Told by Sibyl and David’s lyre.
 _
+&nonbreakingspace
+_
 Fright men’s hearts shall rudely shift,
 As the Judge through gleaming rift
 Comes each soul to closely sift.
+_
+&nonbreakingspace
 _
 Then, the trumpet’s shrill refrain,
 Piercing tombs by hill and plain,
 Souls to judgment shall arraign.
 _
+&nonbreakingspace
+_
 Death and nature stand aghast,
 As the bodies rising fast,
 Hie to hear the sentence passed.
+_
+&nonbreakingspace
 _
 Then, before Him shall be placed,
 That whereon the verdict’s based,
 Book wherein each deed is traced.
 _
+&nonbreakingspace
+_
 When the Judge His seat shall gain,
 All that’s hidden shall be plain,
 Nothing shall unjudged remain.
+_
+&nonbreakingspace
 _
 Wretched man, what can I plead?
 Whom to ask to intercede,
 When the just much mercy need?
 _
+&nonbreakingspace
+_
 You, O awe-inspiring Lord,
 Saving e’en when unimplored,
 Save me, mercy’s fount adored.
+_
+&nonbreakingspace
 _
 O sweet Jesus, mindful be,
 That You came on earth for me:
 Cast me not from You this day.
 _
+&nonbreakingspace
+_
 Seeking me Your strength was spent
 Ransoming Your limbs were rent:
 Is this toil to no intent?
+_
+&nonbreakingspace
 _
 You, awarding pains condign,
 Mercy’s ear to me incline,
 Ere the reckoning You assign.
 _
+&nonbreakingspace
+_
 I, felon-like, my lot bewail,
 Suffused cheeks my shame unveil:
 God! O let my prayer prevail.
+_
+&nonbreakingspace
 _
 Mary’s soul You fashioned white,
 And did to heaven the thief invite;
 Hope in me these now excite.
 _
+&nonbreakingspace
+_
 Prayers of mine in vain ascend:
 You are good and will forefend,
 In quenchless fire my life to end.
+_
+&nonbreakingspace
 _
 When the cursed by shame oppressed,
 Enter flames at Your behest,
 Call me then to join the blessed.
 _
+&nonbreakingspace
+_
 Place amid Your sheep accord,
 Keep me from the tainted horde,
 Set me in Your sight, O Lord.
+_
+&nonbreakingspace
 _
 Prostrate, suppliant, now no more
 Unrepenting, as of yore,
 Save me dying, I implore.
 _
+&nonbreakingspace
+_
 Mournful day that day of sighs,
 When from dust shall man arise,
 Stained with guilt his doom to know,
+_
+&nonbreakingspace
 _
 Mercy, Lord, on him bestow.
 Jesus, kind! Your souls release,
@@ -387,7 +424,8 @@ Amen.
 [Evangelium]
 Continuation + of the Holy Gospel according to John
 !John 6:51-55
-At that time, Jesus said to the multitudes of the Jews, I am the living bread that has come down from heaven. If anyone eat of this bread he shall live forever; and the bread that I will give is My Flesh for the life of the world. The Jews on that account argued with one another, saying, How can this man give us His Flesh to eat? Jesus therefore said to them, Amen, amen, I say to you, unless you eat the Flesh of the Son of Man, and drink His Blood, you shall not have life in you. He who eats My Flesh and drinks My Blood has life everlasting and I will raise him up on the last day.
+At that time, Jesus said to the multitudes of the Jews, I am the living bread that has come down from heaven. If anyone eat of this bread he shall live forever; and the bread that I will give is My Flesh for the life of the world. The Jews on that account argued with one another, saying, How can this man give us His Flesh to eat?
+Jesus therefore said to them, Amen, amen, I say to you, unless you eat the Flesh of the Son of Man, and drink His Blood, you shall not have life in you. He who eats My Flesh and drinks My Blood has life everlasting and I will raise him up on the last day.
 
 [Offertorium]
 O Lord, Jesus Christ, King of glory, deliver the souls of all the faithful departed from the pains of hell and the deep pit; deliver them from the lion’s mouth, that hell engulf them not, nor they fall into darkness, but that Michael, the holy standard-bearer, bring them into the holy light

@@ -21,7 +21,9 @@ $Per Dominum eiusdem
 [Lectio]
 Lesson from the letter of St. Paul the Apostle to the Hebrews
 !Heb 5:1-6
-Brethren: Every high priest taken from among men is appointed for men in the things pertaining to God, that he may offer gifts and sacrifices for sins. He is able to have compassion on the ignorant and erring, because he himself also is beset with weakness, and by reason thereof is obliged to offer for sins, as on behalf of the people so also for himself. And no man takes the honor to himself; he takes it who is called by God, as Aaron was. So also Christ did not glorify Himself with the high priesthood, but He Who spoke to Him, “You are My Son, I this day have Begotten You.” As He says also in another place, “You are a priest forever, according to the order of Melchisedec.”
+Brethren: Every high priest taken from among men is appointed for men in the things pertaining to God, that he may offer gifts and sacrifices for sins. He is able to have compassion on the ignorant and erring, because he himself also is beset with weakness,
+and by reason thereof is obliged to offer for sins, as on behalf of the people so also for himself. And no man takes the honor to himself; he takes it who is called by God, as Aaron was. So also Christ did not glorify Himself with the high priesthood, but He Who spoke to Him,
+“You are My Son, I this day have Begotten You.” As He says also in another place, “You are a priest forever, according to the order of Melchisedec.”
 
 [Graduale]
 !Ps 88:21-23

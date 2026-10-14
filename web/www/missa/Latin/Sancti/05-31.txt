@@ -30,7 +30,8 @@ $Per Dominum
 [Lectio]
 Lectio libri Sapientiæ
 !Eccli 24:5, 7, 9-11, 30-31
-Ego ex ore Altíssimi prodívi, primogénita ante omnem creatúram; ego in altíssimis habitávi, et thronus meus in colúmna nubis. In omni terra steti; et in omni pópulo, et in omni gente primátum hábui, et ómnium excelléntium et humílium corda virtúte calcávi. Qui audit me, non confundétur, et qui operántur in me, non peccábunt; qui elúcidant me, vitam ætérnam habébunt.
+Ego ex ore Altíssimi prodívi, primogénita ante omnem creatúram; ego in altíssimis habitávi, et thronus meus in colúmna nubis. In omni terra steti; et in omni pópulo, et in omni gente primátum hábui, et ómnium excelléntium et humílium corda virtúte calcávi.
+Qui audit me, non confundétur, et qui operántur in me, non peccábunt; qui elúcidant me, vitam ætérnam habébunt.
 
 [Graduale]
 !Apo 19:16; Ps 44:10
@@ -52,7 +53,9 @@ V. Dei Génetrix, intercéde pro nobis.
 [Evangelium]
 Sequentia sancti Evangelii secundum Lucam.
 !Luc 1:26-33
-In illo témpore: Missus est Angelus Gábriel a Deo in civitátem Galilǽæ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Ioseph, de domo David, et nomen Vírginis María. Et ingréssus Angelus ad eam, dixit: Ave, grátia plena: Dóminus tecum: benedícta tu in muliéribus. Quæ cum audísset, turbáta est in sermóne eius: et cogitábat, qualis esset ista salutátio. Et ait Angelus ei: Ne tímeas, María, invenísti enim grátiam apud Deum: ecce concípies in útero, et páries fílium, et vocábis nomen eius Iesum. Hic erit magnus, et Fílius Altíssimi vocábitur, et dabit illi Dóminus Deus sedem David patris eius: et regnábit in domo Iacob in ætérnum, et regni eius non erit finis.
+In illo témpore: Missus est Angelus Gábriel a Deo in civitátem Galilǽæ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Ioseph, de domo David, et nomen Vírginis María. Et ingréssus Angelus ad eam, dixit: Ave, grátia plena: Dóminus tecum: benedícta tu in muliéribus.
+Quæ cum audísset, turbáta est in sermóne eius: et cogitábat, qualis esset ista salutátio. Et ait Angelus ei: Ne tímeas, María, invenísti enim grátiam apud Deum: ecce concípies in útero, et páries fílium, et vocábis nomen eius Iesum.
+Hic erit magnus, et Fílius Altíssimi vocábitur, et dabit illi Dóminus Deus sedem David patris eius: et regnábit in domo Iacob in ætérnum, et regni eius non erit finis.
 
 [Offertorium]
 Regáli ex progénie María exórta refúlget; cuius præscibus nos adiuvári, mente et spíritu devotíssime póscimus. (Allelúia.)

@@ -23,7 +23,9 @@ $Qui tecum
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios
 !1 Cor 13:1-8
-Fratres: Si linguis hóminum loquar et Angelorum, caritátem autem non hábeam, factus sum velut æs sonans aut cýmbalum tínniens. Et si habúero prophetiam, et nóverim mystéria ómnia et omnem sciéntiam: et si habúero omnem fidem, ita ut montes tránsferam, caritátem autem non habúero, nihil sum. Et si distribúere in cibos páuperum omnes facultátes meas, et si tradídere corpus meum, ita ut árdeam, caritátem autem non habúero, nihil mihi prodest. Cáritas pátiens est, benígna est: cáritas non æmulátur, non agit pérperam, non inflátur, non est ambitiósa, non quærit quæ sua sunt, non irritátur, non cógitat malum, non gaudet super iniquitáte, congáudet autem veritáti: ómnia suffert, ómnia credit, ómnia sperat, ómnia sústinet. Cáritas numquam éxcidit: sive prophétiæ evacuabúntur, sive linguæ cessábunt, sive sciéntia destruétur.
+Fratres: Si linguis hóminum loquar et Angelorum, caritátem autem non hábeam, factus sum velut æs sonans aut cýmbalum tínniens. Et si habúero prophetiam, et nóverim mystéria ómnia et omnem sciéntiam: et si habúero omnem fidem, ita ut montes tránsferam, caritátem autem non habúero, nihil sum.
+Et si distribúere in cibos páuperum omnes facultátes meas, et si tradídere corpus meum, ita ut árdeam, caritátem autem non habúero, nihil mihi prodest. Cáritas pátiens est, benígna est: cáritas non æmulátur, non agit pérperam, non inflátur, non est ambitiósa, non quærit quæ sua sunt, non irritátur,
+non cógitat malum, non gaudet super iniquitáte, congáudet autem veritáti: ómnia suffert, ómnia credit, ómnia sperat, ómnia sústinet. Cáritas numquam éxcidit: sive prophétiæ evacuabúntur, sive linguæ cessábunt, sive sciéntia destruétur.
 
 [Graduale]
 !Ps 20:4-5

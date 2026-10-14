@@ -13,7 +13,8 @@ Matthǽi
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Lucam
 !Luc 5:27-32
-In illo témpore: Vidit Jesus publicánum nómine Levi, sedéntem ad telónium, et ait illi: Séquere me. Et relíctis ómnibus, surgens secútus est eum. Et fecit ei convívium magnum Levi in domo sua: et erat turba multa publicanórum et aliórum, qui cum illis erant discumbéntes. Et murmurábant pharisæi et scribæ eórum, dicéntes ad discípulos ejus: Quare cum publicánis et peccatóribus manducátis et bíbitis? Et respóndens Jesus, dixit ad illos: Non egent, qui sani sunt, médice, sed qui male habent. Non veni vocáre justos, sed peccatóres ad pœniténtiam.
+In illo témpore: Vidit Jesus publicánum nómine Levi, sedéntem ad telónium, et ait illi: Séquere me. Et relíctis ómnibus, surgens secútus est eum. Et fecit ei convívium magnum Levi in domo sua: et erat turba multa publicanórum et aliórum, qui cum illis erant discumbéntes.
+Et murmurábant pharisæi et scribæ eórum, dicéntes ad discípulos ejus: Quare cum publicánis et peccatóribus manducátis et bíbitis? Et respóndens Jesus, dixit ad illos: Non egent, qui sani sunt, médice, sed qui male habent. Non veni vocáre justos, sed peccatóres ad pœniténtiam.
 
 [Secreta]
 @Commune/C1v:Secreta pro Evangelistae

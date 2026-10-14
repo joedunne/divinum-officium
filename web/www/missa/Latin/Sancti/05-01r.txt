@@ -27,7 +27,8 @@ $Per Dominum
 [Lectio]
 Léctio Epístolæ beáti Pauli Apóstoli ad Colossénses.
 !Col. 3:14-15, 17, 23-24
-Fratres: Caritátem habéte, quod est vínculum perfectiónis, et pax Christi exsúltet in córdibus vestris, in qua et vocáti estis in uno córpore, et grati estóte. Omne quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Jesu Christi, grátias agéntes Deo et Patri per ipsum. Quodcúmque fácitis, ex ánimo operámini sicut Dómino, et non homínibus, sciéntes quod a Dómino accipiétis retributiónem hereditátis. Dómino Christo servíte.
+Fratres: Caritátem habéte, quod est vínculum perfectiónis, et pax Christi exsúltet in córdibus vestris, in qua et vocáti estis in uno córpore, et grati estóte. Omne quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Jesu Christi, grátias agéntes Deo et Patri per ipsum.
+Quodcúmque fácitis, ex ánimo operámini sicut Dómino, et non homínibus, sciéntes quod a Dómino accipiétis retributiónem hereditátis. Dómino Christo servíte.
 
 [Graduale]
 Allelúja, allelúja.
@@ -37,7 +38,8 @@ V. Fac nos innócuam, Joseph, decúrrere vitam: sitque tuo semper tuta patrocín
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Matthǽum
 !Matt 13:54-58
-In illo témpore: Véniens Jesus in pátriam suam, docébat eos in synagógis eórum, ita ut miraréntur et dícerent: Unde huic sapiéntia hæc et virtútes? Nonne hic est fabri fílius? Nonne mater ejus dícitur María, et fratres ejus Jacóbus et Joseph et Simon et Judas? Et soróres ejus nonne omnes apud nos sunt? Unde ergo huic ómnia ista? Et scandalizabántur in eo. Jesus autem dixit eis: Non est prophéta sine honóre nisi in pátria sua et in domo sua. Et non fecit ibi virtútes multas propter incredulitátem illórum.
+In illo témpore: Véniens Jesus in pátriam suam, docébat eos in synagógis eórum, ita ut miraréntur et dícerent: Unde huic sapiéntia hæc et virtútes? Nonne hic est fabri fílius? Nonne mater ejus dícitur María, et fratres ejus Jacóbus et Joseph et Simon et Judas? Et soróres ejus nonne omnes apud nos sunt?
+Unde ergo huic ómnia ista? Et scandalizabántur in eo. Jesus autem dixit eis: Non est prophéta sine honóre nisi in pátria sua et in domo sua. Et non fecit ibi virtútes multas propter incredulitátem illórum.
 
 [Offertorium]
 !Ps 89:17

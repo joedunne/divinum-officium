@@ -27,7 +27,8 @@ v. Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per qu
 [Lectio]
 Léctio Epistolæ beáti Pauli Apóstoli ad Romános
 !Rom 8:35-39
-Fratres: Quis nos separábit a caritáte Christi: tribulátio, an angustia, an fames, an núditas, an perículum, an persecútio, an gládius? sicut scriptum est: Quia propter te mortificámur tota die: æstimáti sumus sicut oves occisiónis. Sed in his ómnibus superámus propter eum, qui diléxit nos. Certus sum enim, quia neque mors, neque vita, neque ángeli, neque principátus, neque virtútes, neque instántia, neque futúra, neque fortitúdo, neque altitúdo, neque profúndum, neque creatúra alia poterit nos separáre a caritáte Dei, quæ est in Christo Jesu, Dómino nostro.
+Fratres: Quis nos separábit a caritáte Christi: tribulátio, an angustia, an fames, an núditas, an perículum, an persecútio, an gládius? sicut scriptum est: Quia propter te mortificámur tota die: æstimáti sumus sicut oves occisiónis. Sed in his ómnibus superámus propter eum, qui diléxit nos.
+Certus sum enim, quia neque mors, neque vita, neque ángeli, neque principátus, neque virtútes, neque instántia, neque futúra, neque fortitúdo, neque altitúdo, neque profúndum, neque creatúra alia poterit nos separáre a caritáte Dei, quæ est in Christo Jesu, Dómino nostro.
 
 [Graduale]
 !Eccli 44:16.
@@ -56,7 +57,8 @@ V. Posuísti in cápite ejus coronam de lápide pretióso.
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Joánnem
 !Joann 12:24-26
-In illo témpore: Dixit Jesus discípulis suis: Amen, amen, dico vobis, nisi granum fruménti cadens in terram, mórtuum fúerit, ipsum solum manet: si autem mórtuum fúerit, multum fructum affert. Qui amat ánimam suam, perdet eam: et qui odit ánimam suam in hoc mundo, in vitam ætérnam custódit eam. Si quis mihi mínistrat, me sequátur: et ubi sum ego, illic et miníster meus erit. Si quis mihi ministráverit, honorificábit eum Pater meus.
+In illo témpore: Dixit Jesus discípulis suis: Amen, amen, dico vobis, nisi granum fruménti cadens in terram, mórtuum fúerit, ipsum solum manet: si autem mórtuum fúerit, multum fructum affert. Qui amat ánimam suam, perdet eam: et qui odit ánimam suam in hoc mundo, in vitam ætérnam custódit eam.
+Si quis mihi mínistrat, me sequátur: et ubi sum ego, illic et miníster meus erit. Si quis mihi ministráverit, honorificábit eum Pater meus.
 
 [Offertorium]
 @Commune/C1v

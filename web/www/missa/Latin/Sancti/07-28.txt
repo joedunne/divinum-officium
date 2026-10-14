@@ -19,7 +19,8 @@ $Per Dominum
 [Lectio]
 Léctio libri Sapiéntiæ
 !Sap 10:17-20
-Réddidit Deus justis mercédem labórum suorum, et deduxit illos in via mirábili: et fuit illis in velaménto diei et in luce stellárum per noctem: tránstulit illos per Mare Rubrum, et transvéxit illos per aquam nímiam. Inimícos autem illórum demérsit in mare, et ab altitúdine inferórum edúxit illos. Ideo justi tulérunt spolia impiórum, et decantavérunt, Dómine, nomen sanctum tuum, et victrícem manum tuam laudavérunt páriter, Dómine, Deus noster.
+Réddidit Deus justis mercédem labórum suorum, et deduxit illos in via mirábili: et fuit illis in velaménto diei et in luce stellárum per noctem: tránstulit illos per Mare Rubrum, et transvéxit illos per aquam nímiam. Inimícos autem illórum demérsit in mare, et ab altitúdine inferórum edúxit illos.
+Ideo justi tulérunt spolia impiórum, et decantavérunt, Dómine, nomen sanctum tuum, et victrícem manum tuam laudavérunt páriter, Dómine, Deus noster.
 
 [Graduale]
 !Exodi 15:11

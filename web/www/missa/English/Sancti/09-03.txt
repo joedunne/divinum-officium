@@ -24,7 +24,9 @@ $Per eundem
 [Lectio]
 Lesson from the first letter of St. Paul the Apostle to the Thessalonians
 !1 Thess. 2:2-8
-Brethren: We had confidence in our God to preach to you the gospel of God amid much anxiety. For our exhortation was not from error, nor from impure motives, nor from guile; but, as approved by God to be entrusted with the gospel, so we speak not as pleasing men, but God, Who proves our hearts. For at no time have we used words of flattery, as you know, nor any pretext for avarice, God is witness, nor have we sought glory from men, neither from you nor from others. Although as the apostles of Christ we could have claimed a position of honor among you, still while in your midst we were as children, as if a nurse were cherishing her own children. So, we, in our love for you, would gladly have imparted to you not only the gospel of God, but also our own souls, because you had become most dear to us.
+Brethren: We had confidence in our God to preach to you the gospel of God amid much anxiety. For our exhortation was not from error, nor from impure motives, nor from guile; but, as approved by God to be entrusted with the gospel, so we speak not as pleasing men, but God, Who proves our hearts.
+For at no time have we used words of flattery, as you know, nor any pretext for avarice, God is witness, nor have we sought glory from men, neither from you nor from others.
+Although as the apostles of Christ we could have claimed a position of honor among you, still while in your midst we were as children, as if a nurse were cherishing her own children. So, we, in our love for you, would gladly have imparted to you not only the gospel of God, but also our own souls, because you had become most dear to us.
 
 [Graduale]
 !Ps 39:10-11
@@ -49,7 +51,8 @@ V. His enemies I will clothe with shame, but upon him My crown shall shine.
 [Evangelium]
 Continuation + of the Holy Gospel according to John
 !John 21:15-17
-At that time, Jesus said to Simon Peter, Simon, son of John, do you love Me more than these do? He said to Him, Yes, Lord, You know that I love You. He said to him, Feed My lambs. He said to him a second time, Simon, son of John, do you love Me? He said to Him, Yes, Lord, You know that I love You. He said to him, Feed My lambs. And third time He said to him, Simon, son of John, do you love Me? Peter was grieved because He said to him for the third time, Do you love Me? And he said to Him, Lord, You know all things, You know that I love You. He said to him, Feed My sheep.
+At that time, Jesus said to Simon Peter, Simon, son of John, do you love Me more than these do? He said to Him, Yes, Lord, You know that I love You. He said to him, Feed My lambs. He said to him a second time, Simon, son of John, do you love Me? He said to Him, Yes, Lord, You know that I love You. He said to him, Feed My lambs.
+And third time He said to him, Simon, son of John, do you love Me? Peter was grieved because He said to him for the third time, Do you love Me? And he said to Him, Lord, You know all things, You know that I love You. He said to him, Feed My sheep.
 
 [Offertorium]
 !Ps 33:12

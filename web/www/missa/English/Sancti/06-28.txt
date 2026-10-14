@@ -24,7 +24,11 @@ $Per Dominum
 [Lectio]
 Lesson from the second letter of St. Paul the Apostle to Timothy
 !2 Tim. 3:14-17; 4:1-5
-Beloved: Continue in the things that you have learned and that have been entrusted to you, knowing of whom you have learned them. For from your infancy you have known the Sacred Writings, which are able to instruct you unto salvation by the faith which is in Christ Jesus. All Scripture is inspired by God and useful for teaching, for reproving, for correcting, for instructing in justice; that the man of God may be perfect, equipped for every good work. I charge you, in the sight of God and Christ Jesus, Who will judge the living and the dead by His coming and by His kingdom, preach the word, be urgent in season, out of season; reprove, entreat, rebuke with all patience and teaching. For there will come a time when they will not endure the sound doctrine; but having itching ears, will heap up to themselves teachers according to their own lusts, and they will turn away their hearing from the truth and turn aside rather to fables. But be watchful in all things, bear with tribulation patiently, work as a preacher of the Gospel, fulfill your ministry.
+Beloved: Continue in the things that you have learned and that have been entrusted to you, knowing of whom you have learned them. For from your infancy you have known the Sacred Writings, which are able to instruct you unto salvation by the faith which is in Christ Jesus.
+All Scripture is inspired by God and useful for teaching, for reproving, for correcting, for instructing in justice; that the man of God may be perfect, equipped for every good work.
+I charge you, in the sight of God and Christ Jesus, Who will judge the living and the dead by His coming and by His kingdom, preach the word, be urgent in season, out of season; reprove, entreat, rebuke with all patience and teaching.
+For there will come a time when they will not endure the sound doctrine; but having itching ears, will heap up to themselves teachers according to their own lusts, and they will turn away their hearing from the truth and turn aside rather to fables.
+But be watchful in all things, bear with tribulation patiently, work as a preacher of the Gospel, fulfill your ministry.
 
 [Graduale]
 !Ps 121:8
@@ -50,12 +54,15 @@ V. The law of his God is in his heart, and his steps shall not be supplanted.
 [Evangelium]
 Continuation + of the Holy Gospel according to Matthew
 !Matt 10:28-33
-At that time, Jesus said to His disciples, Do not be afraid of those who kill the body but cannot kill the soul. But rather be afraid of Him Who is able to destroy both soul and body in hell. Are not two sparrows sold for a farthing? And yet not one of them will fall to the ground without your Father’s leave. But as for you, the very hairs of your head are all numbered. Therefore do not be afraid; you are of more value than many sparrows. Therefore, everyone who acknowledges Me before men, I also will acknowledge him before My Father in heaven. But whoever disowns Me before men, I in turn will disown him before My Father in heaven.
+At that time, Jesus said to His disciples, Do not be afraid of those who kill the body but cannot kill the soul. But rather be afraid of Him Who is able to destroy both soul and body in hell. Are not two sparrows sold for a farthing? And yet not one of them will fall to the ground without your Father’s leave.
+But as for you, the very hairs of your head are all numbered. Therefore do not be afraid; you are of more value than many sparrows. Therefore, everyone who acknowledges Me before men, I also will acknowledge him before My Father in heaven. But whoever disowns Me before men, I in turn will disown him before My Father in heaven.
 
 [Ultima Evangelium]
 Continuation + of the Holy Gospel according to John
 !John 21:15-19
-At that time, Jesus said to Simon Peter, Simon, son of John, do you love Me more than these do? He said to Him, Yes, Lord, You know that I love You. He said to him, Feed My lambs. He said to him a second time, Simon, son of John, do you love Me? He said to Him, Yes, Lord, You know that I love You. He said to him, Feed My lambs. A third time He said to him, Simon, son of John, do you love Me? Peter was grieved because He said to him for the third time, Do you love Me? And he said to Him, Lord, You know all things, You know that I love You. He said to him, Feed My sheep. Amen, amen, I say to you, when you were young you girded yourself and walked where you would. But when you are old you will stretch forth your hands, and another will gird you, and lead you where you would not. Now this He said to signify by what manner of death he should glorify God.
+At that time, Jesus said to Simon Peter, Simon, son of John, do you love Me more than these do? He said to Him, Yes, Lord, You know that I love You. He said to him, Feed My lambs. He said to him a second time, Simon, son of John, do you love Me? He said to Him, Yes, Lord, You know that I love You. He said to him, Feed My lambs.
+A third time He said to him, Simon, son of John, do you love Me? Peter was grieved because He said to him for the third time, Do you love Me? And he said to Him, Lord, You know all things, You know that I love You. He said to him, Feed My sheep. Amen, amen, I say to you, when you were young you girded yourself and walked where you would.
+But when you are old you will stretch forth your hands, and another will gird you, and lead you where you would not. Now this He said to signify by what manner of death he should glorify God.
 
 [Offertorium]
 !Eccli 24:44

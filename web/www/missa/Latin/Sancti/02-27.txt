@@ -25,7 +25,8 @@ $Qui vivis
 [Lectio]
 Léctio Epístolæ beáti Joannis Apóstoli
 !1 Joann 2, 14-17
-Caríssimi: Scribo vobis, júvenes, quóniam fortes estis, et verbum Dei manet in vobis, et vicístis malígnum. Nolíte dilígere mundum neque ea, quæ in mundo sunt. Si quis díligit mundum, non est cáritas Patris in eo: quóniam omne, quod est in mundo, concupiscéntia carnis est, et concupiscéntia oculórum, et supérbia vitæ: quæ non est ex Patre, sed ex mundo est. Et mundus transit et concupiscéntia ejus. Qui autem facit voluntátem Dei, manet in ætérnum.
+Caríssimi: Scribo vobis, júvenes, quóniam fortes estis, et verbum Dei manet in vobis, et vicístis malígnum. Nolíte dilígere mundum neque ea, quæ in mundo sunt. Si quis díligit mundum, non est cáritas Patris in eo:
+quóniam omne, quod est in mundo, concupiscéntia carnis est, et concupiscéntia oculórum, et supérbia vitæ: quæ non est ex Patre, sed ex mundo est. Et mundus transit et concupiscéntia ejus. Qui autem facit voluntátem Dei, manet in ætérnum.
 
 [Graduale]
 !Ps 30:20
@@ -55,7 +56,10 @@ V. Non privábit bonis eos, qui ámbulant in innocéntia: Dómine virtútum, be�
 [Evangelium]
 Sequéntia ++ sancti Evangélii secúndum Marcum
 !Marc 10:13-21
-In illo témpore: Offerébant Jesu parvulos, ut tángeret illos. Discípuli autem comminabántur offeréntibus. Quos cum vidéret Jesus, indígne tulit et ait illis: Sinite párvulos veníre ad me, et ne prohibuéritis eos: tálium enim est regnum Dei. Amen, dico vobis: Quisquis non recéperit regnum Dei velut párvulus, non intrábit in illud. Et compléxans eos et impónens manus super illos, benedicébat eos. Et cum egréssus esset in viam, procúrrens quidam genu flexo ante eum, rogábat eum: Magíster bone, quid fáciam, ut vitam ætérnam percípiam? Jesus autem dixit ei: Quid me dicis bonum? Nemo bonus, nisi unus Deus. Præcépta nosti: Ne adúlteris, Ne occídas, Ne furóris, Ne falsum testimónium díxeris, Ne fraudem féceris, Hónora patrem tuum et matrem. At ille respóndens, ait illi: Magíster, hæc ómnia observávi a juventúte mea. Jesus autem intúitus eum, diléxit eum et dixit ei: Unum tibi deest: vade, quæcúmque habes, vende et da paupéribus, et habébis thesáurum in cœlo: et veni, séquere me.
+In illo témpore: Offerébant Jesu parvulos, ut tángeret illos. Discípuli autem comminabántur offeréntibus. Quos cum vidéret Jesus, indígne tulit et ait illis: Sinite párvulos veníre ad me, et ne prohibuéritis eos: tálium enim est regnum Dei.
+Amen, dico vobis: Quisquis non recéperit regnum Dei velut párvulus, non intrábit in illud. Et compléxans eos et impónens manus super illos, benedicébat eos. Et cum egréssus esset in viam, procúrrens quidam genu flexo ante eum, rogábat eum: Magíster bone, quid fáciam, ut vitam ætérnam percípiam?
+Jesus autem dixit ei: Quid me dicis bonum? Nemo bonus, nisi unus Deus. Præcépta nosti: Ne adúlteris, Ne occídas, Ne furóris, Ne falsum testimónium díxeris, Ne fraudem féceris, Hónora patrem tuum et matrem.
+At ille respóndens, ait illi: Magíster, hæc ómnia observávi a juventúte mea. Jesus autem intúitus eum, diléxit eum et dixit ei: Unum tibi deest: vade, quæcúmque habes, vende et da paupéribus, et habébis thesáurum in cœlo: et veni, séquere me.
 
 [Offertorium]
 !Ps 115:16-17

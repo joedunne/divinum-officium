@@ -20,7 +20,8 @@ $Per Dominum
 [Lectio]
 Léctio libri Exodi
 !Exod 23:20-23
-Hæc dicit Dóminus Deus: Ecce, ego mittam Angelum meum, qui præcédat te, et custódiat in via, et intróducat in locum, quem parávi. Obsérva eum, et audi vocem ejus, nec contemnéndum putes: quia non dimíttet, cum peccáveris, et est nomen meum in illo. Quod si audiéris vocem ejus et féceris ómnia, quæ loquor, inimícus ero inimícis tuis et affligam affligéntes te: præcedétque te Angelus meus.
+Hæc dicit Dóminus Deus: Ecce, ego mittam Angelum meum, qui præcédat te, et custódiat in via, et intróducat in locum, quem parávi. Obsérva eum, et audi vocem ejus, nec contemnéndum putes: quia non dimíttet, cum peccáveris, et est nomen meum in illo.
+Quod si audiéris vocem ejus et féceris ómnia, quæ loquor, inimícus ero inimícis tuis et affligam affligéntes te: præcedétque te Angelus meus.
 
 [Graduale]
 !Ps 90:11-12
