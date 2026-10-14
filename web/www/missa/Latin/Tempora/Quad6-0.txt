@@ -206,19 +206,19 @@ _
 V. Glória, laus et honor tibi sit, Rex Christe, Redémptor: Cui pueríle decus prompsit Hosánna pium.
 R. Glória, laus et honor tibi sit, Rex Christe, Redémptor: Cui pueríle decus prompsit Hosánna pium.
 _
-v. Israël es tu Rex, Davidis et ínclita proles: Nómine qui in Dómini, Rex benedícte, venis.
+V. Israël es tu Rex, Davidis et ínclita proles: Nómine qui in Dómini, Rex benedícte, venis.
 R. Glória, laus et honor tibi sit, Rex Christe, Redémptor: Cui pueríle decus prompsit Hosánna pium.
 _
-v. Cœtus in excélsis te laudat cælicus omnis, Et mortális homo, et cuncta creáta simul.
+V. Cœtus in excélsis te laudat cælicus omnis, Et mortális homo, et cuncta creáta simul.
 R. Glória, laus et honor tibi sit, Rex Christe, Redémptor: Cui pueríle decus prompsit Hosánna pium.
 _
-v. Plebs Hebræa tibi cum palmis óbvia venit: Cum prece, voto, hymnis, ádsumus ecce tibi.
+V. Plebs Hebræa tibi cum palmis óbvia venit: Cum prece, voto, hymnis, ádsumus ecce tibi.
 R. Glória, laus et honor tibi sit, Rex Christe, Redémptor: Cui pueríle decus prompsit Hosánna pium.
 _
-v. Hi tibi passúro solvébant múnia laudis: Nos tibi regnánti pángimus ecce melos.
+V. Hi tibi passúro solvébant múnia laudis: Nos tibi regnánti pángimus ecce melos.
 R. Glória, laus et honor tibi sit, Rex Christe, Redémptor: Cui pueríle decus prompsit Hosánna pium.
 _
-v. Hi placuére tibi, pláceat devótio nostra: Rex bone, Rex clemens, cui bona cuncta placent.
+V. Hi placuére tibi, pláceat devótio nostra: Rex bone, Rex clemens, cui bona cuncta placent.
 R. Glória, laus et honor tibi sit, Rex Christe, Redémptor: Cui pueríle decus prompsit Hosánna pium.
 _
 _
@@ -378,9 +378,13 @@ Tunc Pilátus jussit reddi corpus. Et accépto córpore, Joseph invólvit illud 
 [Evangelium4]
 Erat autem ibi María Magdaléne et áltera María, sedéntes contra sepúlcrum.
 _
+&nonbreakingspace
+_
 v. Munda cor meum ac lábia mea, omnípotens Deus, qui lábia Isaíæ Prophétæ cálculo mundásti igníto: ita me tua grata miseratióne dignáre mundáre, ut sanctum Evangélium tuum digne váleam nuntiáre. Per Christum, Dóminum nostrum. Amen.
 D. Jube, domne, benedícere.
 S. Dóminus sit in corde tuo et in lábiis tuis: ut digne et competénter annúnties Evangélium suum: In nómine Patris, et Fílii, + et Spíritus Sancti. Amen.
+_
+&nonbreakingspace
 _
 v. Altera autem die, quæ est post Parascéven, convenérunt príncipes sacerdótum et pharisǽi ad Pilátum, dicéntes: Dómine, recordáti sumus, quia sedúctor ille dixit adhuc vivens:
 Post tres dies resúrgam. Jube ergo custodíri sepúlcrum usque in diem tértium: ne forte véniant discípuli ejus, et furéntur eum, et dicant plebi: Surréxit a mórtuis; et erit novíssimus error pejor prióre.

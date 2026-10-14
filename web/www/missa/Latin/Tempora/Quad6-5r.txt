@@ -330,7 +330,9 @@ Et super Crucis trophǽo
 Dic triúmphum nóbilem:
 Quáliter Redémptor orbis
 Immolátus vícerit.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Crux fidélis, inter omnes Arbor una nóbilis! Nulla silva talem profert, Fronde, flore, gérmine.
 V. De paréntis protoplásti
 Fráude Factor cóndolens,
@@ -338,7 +340,9 @@ Quando pomi noxiális
 In necem morsu ruit:
 Ipse lignum tunc notávit.
 Damna ligni ut sólveret.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Dulce lignum, dulces clavos, Dulce pondus sústinet.
 V. Hoc opus nostræ salútis
 Ordo depopóscerat:
@@ -346,7 +350,9 @@ Multifórmis proditóris
 Ars ut artem fálleret:
 Et medélam ferret inde,
 Hostis unde lǽserat.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Crux fidélis, inter omnes Arbor una nóbilis! Nulla silva talem profert, Fronde, flore, gérmine.
 V. Quando venit ergo sacri
 Plenitúdo témporis,
@@ -354,7 +360,9 @@ Missus est ab arce Patris
 Natus, orbis Cónditor:
 Atque ventre virgináli
 Carne amíctus pródiit.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Dulce lignum, dulces clavos, Dulce pondus sústinet.
 V. Vagit infans inter arcta
 Cónditus præsépia:
@@ -362,7 +370,9 @@ Membra pannis involúta
 Virgo Mater álligat:
 Et Dei manus, pedésque
 Stricta cingit fáscia.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Crux fidélis, inter omnes Arbor una nóbilis! Nulla silva talem profert, Fronde, flore, gérmine.
 V. Lustra sex qui iam perégit,
 Tempus implens córporis,
@@ -370,7 +380,9 @@ Sponte líbera Redémptor
 Passióni déditus,
 Agnus in Crucis levátur
 Immolándus stípite.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Dulce lignum, dulces clavos, Dulce pondus sústinet.
 V. Felle potus ecce languet:
 Spina, clavi, láncea,
@@ -378,7 +390,9 @@ Mite corpus perforárunt,
 Unda manat, et cruor:
 Terra, pontus, astra, mundus.
 Quo lavántur flúmine!
-_ `
+_
+&nonbreakingspace
+_
 Ant. Crux fidélis, inter omnes Arbor una nóbilis! Nulla silva talem profert, Fronde, flore, gérmine.
 V. Flecte ramos, arbor alta,
 Tensa lax víscera,
@@ -386,7 +400,9 @@ Et rigor lentéscat ille,
 Quem dedit natívitas:
 Et supérni membra Regis
 Tende miti stípite.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Dulce lignum, dulces clavos, Dulce pondus sústinet.
 V. Sola digna tu fuísti
 Ferre mundi víctimam:
@@ -394,7 +410,9 @@ Atque portum præparáre
 Arca mundo naúfrago:
 Quam sacer cruor perúnxit,
 Fusus Agni córpore.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Crux fidélis, inter omnes Arbor una nóbilis! Nulla silva talem profert, Fronde, flore, gérmine.
 !Conclusio numquam omittenda:
 V. Sempitérna sit beátæ

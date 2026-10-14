@@ -206,25 +206,25 @@ _
 V. Glory, praise and honor to Thee, O King Christ, the Redeemer: to whom children poured their glad and sweet hosanna's song.
 R. Glory, praise and honor to Thee, O King Christ, the Redeemer: to whom children poured their glad and sweet hosanna's song.
 _
-v. Hail, King of Israel! David's Son of royal fame! Who comest in the Name of the Lord, O Blessed King.
+V. Hail, King of Israel! David's Son of royal fame! Who comest in the Name of the Lord, O Blessed King.
 R. Glory, praise and honor to Thee, O King Christ, the Redeemer: to whom children poured their glad and sweet hosanna's song.
 _
-v. The Angel host laud Thee on high, On earth mankind, with all created things.
+V. The Angel host laud Thee on high, On earth mankind, with all created things.
 R. Glory, praise and honor to Thee, O King Christ, the Redeemer: to whom children poured their glad and sweet hosanna's song.
 _
-v. With palms the Jews went forth to meet Thee. We greet Thee now with prayers and hymns.
+V. With palms the Jews went forth to meet Thee. We greet Thee now with prayers and hymns.
 R. Glory, praise and honor to Thee, O King Christ, the Redeemer: to whom children poured their glad and sweet hosanna's song.
 _
-v. On Thy way to die, they crowned Thee with praise; We raise our song to Thee, now King on high.
+V. On Thy way to die, they crowned Thee with praise; We raise our song to Thee, now King on high.
 R. Glory, praise and honor to Thee, O King Christ, the Redeemer: to whom children poured their glad and sweet hosanna's song.
 _
-v. Their poor homage pleased Thee, O gracious King! O clement King, accept too ours, the best that we can bring.
+V. Their poor homage pleased Thee, O gracious King! O clement King, accept too ours, the best that we can bring.
 R. Glory, praise and honor to Thee, O King Christ, the Redeemer: to whom children poured their glad and sweet hosanna's song.
 _
 _
 ! After this, the subdeacon knocks thrice on the door with the shaft of the processional cross: when the door is opened, the procession enters the church, singing:
 !!RESPONSORY
-v. As our Lord entered the holy city, the Hebrew children, declaring the resurrection of life, 
+R. As our Lord entered the holy city, the Hebrew children, declaring the resurrection of life,
 * With palm branches, cried out: Hosanna in the highest.
 V. When the people heard that Jesus was coming to Jerusalem, they went forth to meet Him:
 * With palm branches, cried out: Hosanna in the highest.
@@ -378,9 +378,13 @@ Then Pilate commanded that the body should be delivered. And Joseph taking the b
 [Evangelium4]
 And there was Mary Magdalen and the other Mary, sitting over against the sepulchre.
 _
+&nonbreakingspace
+_
 v. Cleanse my heart and my lips, O almighty God, who didst cleanse the lips of the prophet Isaias with a burning coal, and vouchsafe, through Thy gracious mercy, so to purify me, that I may worthily announce Thy holy Gospel. Through Christ our Lord. Amen.
 D. Sir, give me thy blessing.
 S. The Lord be in thy heart and on thy lips, that thou mayst worthily and in a becoming manner, proclaim His holy Gospel. In the name of the Father, and of the Son, + and of the Holy Ghost. Amen.
+_
+&nonbreakingspace
 _
 v. And the next day, which followed the day of preparation, the chief priests and the Pharisees came together to Pilate, saying: Sir, we have remembered that that seducer said, while He was yet alive:
 After three days I will rise again. Command therefore the sepulchre to be guarded until the third day, lest perhaps His disciples come and steal Him away and say to the people: He is risen; and the last error shall be worse than the first.

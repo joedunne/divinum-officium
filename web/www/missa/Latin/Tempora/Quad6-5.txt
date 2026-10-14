@@ -123,8 +123,12 @@ Venérunt ergo mílites: et primi quidem fregérunt crura et altérius, qui cruc
 sed unus mílitum láncea latus ejus apéruit, et contínuo exívit sanguis et aqua. Et qui vidit, testimónium perhíbuit: et verum est testimónium ejus. Et ille scit, quia vera dicit: ut et vos credátis.
 Facta sunt enim hæc, ut Scriptúra implerétur: Os non comminuétis ex eo. Et íterum ália Scriptúra dicit: Vidébunt in quem transfixérunt.
 _
+&nonbreakingspace
+_
 ! Quod sequitur, legitur in tono Evangelii: et dicitur Munda cor meum, sed non petitur benedíctio, et non deferuntur luminaria neque incensum, et Celebrans in fine non osculatur librum.
 v. Munda cor meum ac lábia mea, omnípotens Deus, qui lábia Isaíæ Prophétæ cálculo mundásti igníto: ita me tua grata miseratióne dignáre mundáre, ut sanctum Evangélium tuum digne váleam nuntiáre. Per Christum, Dóminum nostrum. Amen.
+_
+&nonbreakingspace
 _
 v. Post hæc autem rogávit Pilátum Joseph ab Arimathǽa - eo quod esset discípulus Jesu - occúltus autem propter metum Judæórum, ut tólleret corpus Jesu. Et permísit Pilátus.
 Venit ergo et tulit corpus Jesu. Venit autem et Nicodémus, qui vénerat ad Jesum nocte primum, ferens mixtúram myrrhæ et áloës, quasi libras centum.
@@ -137,30 +141,30 @@ _
 !Pro Ecclesia
 v. Orémus, dilectíssimi nobis, pro Ecclésia sancta Dei: ut eam Deus et Dóminus noster pacificáre, adunáre, et custodíre dignétur toto orbe terrárum: subjíciens ei principátus et potestátes: detque nobis quietam et tranquíllam vitam degentibus, glorificáre Deum, Patrem omnipoténtem.
 _
-v. Orémus.
+P. Orémus.
 D. Flectámus génua.
 R. Leváte.
-v. Omnípotens sempitérne Deus, qui glóriam tuam ómnibus in Christo géntibus revelásti: custódi ópera misericórdiæ tuæ; ut Ecclésia tua, toto orbe diffúsa, stábili fide in confessióne tui nóminis persevéret.
+V. Omnípotens sempitérne Deus, qui glóriam tuam ómnibus in Christo géntibus revelásti: custódi ópera misericórdiæ tuæ; ut Ecclésia tua, toto orbe diffúsa, stábili fide in confessióne tui nóminis persevéret.
 $Per eumdem
 _
 _
 !Pro papa
 v. Orémus et pro beatíssimo Papa nostro N. . . . ut Deus et Dóminus noster, qui elégit eum in órdine episcopátus, salvum atque incólumem custódiat Ecclésiæ suæ sanctæ, ad regéndum pópulum sanctum Dei.
 _
-v. Oremus
+P. Oremus
 D. Flectámus génua.
 R. Leváte.
-v. Deus, cujus judício univérsa fundántur: réspice propítius ad preces nostras, et electum nobis Antístitem tua pietáte consérva; ut christiána plebs, quæ te gubernátur auctóre, sub tanto Pontífice, credulitátis suæ méritis augeátur.
+V. Deus, cujus judício univérsa fundántur: réspice propítius ad preces nostras, et electum nobis Antístitem tua pietáte consérva; ut christiána plebs, quæ te gubernátur auctóre, sub tanto Pontífice, credulitátis suæ méritis augeátur.
 $Per Dominum
 _
 _
 !Pro clerici et populo
 v. Orémus et pro ómnibus Epíscopis, Presbýteris, Diacónibus, Subdiacónibus, Acólythis, Exorcístis, Lectóribus, Ostiáriis, Confessóribus, Virgínibus, Víduis: et pro omni pópulo sancto Dei.
 _
-v. Orémus.
+P. Orémus.
 D. Flectámus génua.
 R. Leváte.
-v. Deus, cujus Spíritu totum corpus Ecclésiæ sanctificátur et régitur: exáudi nos pro univérsis ordínibus supplicántes; ut, grátiæ tuæ múnere, ab ómnibus tibi grádibus fidéliter serviátur.
+V. Deus, cujus Spíritu totum corpus Ecclésiæ sanctificátur et régitur: exáudi nos pro univérsis ordínibus supplicántes; ut, grátiæ tuæ múnere, ab ómnibus tibi grádibus fidéliter serviátur.
 $Per Dominum
 _
 _
@@ -168,57 +172,57 @@ _
 ! Si non est coronatus, dicatur, elécto Imperatóre
 v. Orémus et pro Christianíssimo Imperatóre nostro N. ut Deus, et Dóminus noster súbditas illi fáciat omnes bárbaras natiónes, ad nostram perpétuam pacem.
 _
-v. Orémus.
+P. Orémus.
 D. Flectámus génua.
 R. Leváte.
-v. Omnípotens sempitérne Deus, in cujus manu sunt ómnium potestátes, et ómnium jura regnórum: réspice ad Románum benígnus Impérium; ut gentes, quæ in sua feritáte confídunt, poténtiæ tuæ déxtera comprimántur.
+V. Omnípotens sempitérne Deus, in cujus manu sunt ómnium potestátes, et ómnium jura regnórum: réspice ad Románum benígnus Impérium; ut gentes, quæ in sua feritáte confídunt, poténtiæ tuæ déxtera comprimántur.
 $Per Dominum
 _
 _
 !Pro catechumenis
 v. Orémus et pro catechúmenis nostris: ut Deus et Dóminus noster adapériat aures præcordiórum ipsórum januámque misericordiæ; ut, per lavácrum regeneratiónis accépta remissióne ómnium peccatórum, et ipsi inveniántur in Christo Jesu, Dómino nostro.
 _
-v. Orémus.
+P. Orémus.
 D. Flectámus génua.
 R. Leváte.
-v. Omnípotens sempitérne Deus, qui Ecclésiam tuam nova semper prole fecúndas: auge fidem et intellectum catechúmenis nostris; ut, renáti fonte baptismátis, adoptiónis tuæ fíliis aggregéntur.
+V. Omnípotens sempitérne Deus, qui Ecclésiam tuam nova semper prole fecúndas: auge fidem et intellectum catechúmenis nostris; ut, renáti fonte baptismátis, adoptiónis tuæ fíliis aggregéntur.
 $Per Dominum
 _
 _
 !Contra errores
 v. Orémus, dilectíssimi nobis, Deum Patrem omnipoténtem, ut cunctis mundum purget erróribus: morbos áuferat: famem depéllat: apériat cárceres: víncula dissólvat: peregrinántibus réditum: infirmántibus sanitátem: navigántibus portum salútis indúlgeat.
 _
-v. Orémus.
+P. Orémus.
 D. Flectámus génua.
 R. Leváte.
-v. Omnípotens sempitérne Deus, mæstórum consolátio, laborántium fortitúdo: pervéniant ad te preces de quacúmque tribulatióne clamántium; ut omnes sibi in necessitátibus suis misericórdiam tuam gáudeant affuísse.
+V. Omnípotens sempitérne Deus, mæstórum consolátio, laborántium fortitúdo: pervéniant ad te preces de quacúmque tribulatióne clamántium; ut omnes sibi in necessitátibus suis misericórdiam tuam gáudeant affuísse.
 $Per Dominum
 _
 _
 !Pro hæreticis et schismaticis
 v. Orémus et pro hæréticis et schismáticis: ut Deus et Dóminus noster éruat eos ab erróribus univérsis; et ad sanctam matrem Ecclésiam Cathólicam atque Apostólicam revocáre dignétur.
 _
-v. Orémus.
+P. Orémus.
 D. Flectámus génua.
 R. Leváte
-v. Omnípotens sempitérne Deus, qui salvas omnes, et néminem vis períre: réspice ad ánimas diabólica fraude decéptas; ut, omni hærética pravitáte depósita, errántium corda resipíscant, et ad veritátis tuæ rédeant unitátem.
+V. Omnípotens sempitérne Deus, qui salvas omnes, et néminem vis períre: réspice ad ánimas diabólica fraude decéptas; ut, omni hærética pravitáte depósita, errántium corda resipíscant, et ad veritátis tuæ rédeant unitátem.
 $Per Dominum
 _
 _
 !Pro Judæis
 v. Orémus et pro pérfidis Judǽis: ut Deus et Dóminus noster áuferat velámen de córdibus eórum; ut et ipsi agnóscant Jesum Christum, Dóminum nostrum.
 !
-v. Omnípotens sempitérne Deus, qui étiam judáicam perfídiam a tua misericórdia non repéllis: exáudi preces nostras, quas pro illíus pópuli obcæcatióne deférimus; ut, ágnita veritátis tuæ luce, quæ Christus est, a suis ténebris eruántur.
+V. Omnípotens sempitérne Deus, qui étiam judáicam perfídiam a tua misericórdia non repéllis: exáudi preces nostras, quas pro illíus pópuli obcæcatióne deférimus; ut, ágnita veritátis tuæ luce, quæ Christus est, a suis ténebris eruántur.
 $Per eumdem
 _
 _
 !Pro paganis
 v. Orémus et pro pagánis: ut Deus omnípotens áuferat iniquitátem a córdibus eórum; ut, relíctis idólis suis, convertántur ad Deum vivum et verum, et únicum Fílium ejus Jesum Christum, Deum et Dóminum nostrum.
 _
-v. Orémus.
+P. Orémus.
 D. Flectámus génua.
 R. Leváte.
-v. Omnípotens sempitérne Deus, qui non mortem peccatórum, sed vitam semper inquíris: súscipe propítius oratiónem nostram, et líbera eos ab idolórum cultúra; et ággrega Ecclésiæ tuæ sanctæ, ad laudem et glóriam nóminis tui.
+V. Omnípotens sempitérne Deus, qui non mortem peccatórum, sed vitam semper inquíris: súscipe propítius oratiónem nostram, et líbera eos ab idolórum cultúra; et ággrega Ecclésiæ tuæ sanctæ, ad laudem et glóriam nóminis tui.
 $Per Dominum
 _
 _
@@ -296,82 +300,100 @@ V. Deus misereátur nostri et benedícat nobis: Illúminet vultum suum super nos
 R. Crucem tuam adorámus, Dómine: et sanctam resurrectiónem tuam laudámus et glorificámus: ecce enim, propter lignum venit gáudium in univérso mundo.
 _
 _
-!Hymnus
+!CRUX FIDELIS
 !
 Ant. Crux fidélis, inter omnes arbor una nóbilis: nulla silva talem profert fronde, flore, gérmine. * Dulce lignum dulces clavos, dulce pondus sústinet.
-v. Pange, lingua, gloriósi
+r. Pange, lingua, gloriósi
 láuream certáminis,
 et super Crucis trophæo
 dic triúmphum nóbilem:
 quáliter Redémptor orbis
 immolátus vícerit.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Crux fidélis, inter omnes arbor una nóbilis: nulla silva talem profert fronde, flore, gérmine.
-v. De paréntis protoplásti
+r. De paréntis protoplásti
 fraude Factor cóndolens,
 quando pomi noxiális
 in necem morsu ruit:
 ipse lignum tunc notávit,
 damna ligni ut sólveret.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Dulce lignum dulces clavos, dulce pondus sústinet.
-v. Hoc opus nostræ salútis
+r. Hoc opus nostræ salútis
 ordo depopóscerat:
 multifórmis proditóris
 ars ut artem fálleret:
 et medélam ferret inde,
 hostis unde lǽserat.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Crux fidélis, inter omnes arbor una nóbilis: nulla silva talem profert fronde, flore, gérmine.
-v. Quando venit ergo sacri
+r. Quando venit ergo sacri
 plenitúdo témporis,
 missus est ab arce Patris
 Natus, orbis Cónditor:
 atque ventre virgináli
 carne amíctus pródiit.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Dulce lignum dulces clavos, dulce pondus sústinet.
-v. Vagit Infans inter arcta
+r. Vagit Infans inter arcta
 cónditus præsépia:
 membra pannis involúta
 Virgo Mater álligat:
 et Dei manus pedésque
 stricta cingit fáscia.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Crux fidélis, inter omnes arbor una nóbilis: nulla silva talem profert fronde, flore, gérmine.
-v. Lustra sex qui jam perégit,
+r. Lustra sex qui jam perégit,
 tempus implens córporis,
 sponte líbera Redémptor
 passióni déditus,
 Agnus in Crucis levátur
 immolándus stípite.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Dulce lignum dulces claves, dulce pondus sústinet.
-v. Felle potus ecce languet:
+r. Felle potus ecce languet:
 spina, clavi, láncea
 mite corpus perforárunt,
 unda manat et cruor:
 terra, pontus, astra, mundus,
 quo lavántur flúmine!
-_ `
+_
+&nonbreakingspace
+_
 Ant. Crux fidélis, inter omnes arbor una nóbilis: nulla silva talem profert fronde, flore, gérmine.
-v. Flecte ramos, arbor alta,
+r. Flecte ramos, arbor alta,
 tensa laxa víscera,
 et rigor lentéscat ille,
 quem dedit natívitas:
 et supérni membra Regis
 tende miti stípite.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Dulce lignum dulces clavos, dulce pondus sústinet.
-v. Sola digna tu fuísti
+r. Sola digna tu fuísti
 ferre mundi víctimam:
 atque portum præparáre
 arca mundo náufrago:
 quam sacer cruor perúnxit,
 fusus Agni córpore.
-_ `
+_
+&nonbreakingspace
+_
 Ant. Crux fidélis, inter omnes arbor una nóbilis: nulla silva talem profert fronde, flore, gérmine.
-v. Sempitérna sit beátæ
+r. Sempitérna sit beátæ
 Trinitáti glória:
 æqua Patri Filióque;
 par decus Paráclito:
@@ -392,37 +414,51 @@ v. Vexílla Regis pródeunt;
 Fulget crucis mystérium,
 Qua vita mortem pértulit,
 Et morte vitam prótulit.
-_ `
+_
+&nonbreakingspace
+_
 Quæ vulneráta lánceæ
 Mucróne diro, críminum
 Ut nos laváret sórdibus,
 Manávit unda et sánguine.
-_ `
+_
+&nonbreakingspace
+_
 Impléta sunt quæ cóncinit
 David fidéli cármine,
 Dicéndo natiónibus:
 Regnávit a ligno Deus.
-_ `
+_
+&nonbreakingspace
+_
 Arbor decóra et fúlgida,
 Ornáta regis púrpura,
 Elécta digno stípite
 Tam sancta membra tángere.
-_ `
+_
+&nonbreakingspace
+_
 Beáta, cujus bráchiis
 Prétium pepéndit sǽculi,
 Statéra facta córporis,
 Tulítque prædam tártari.
-_ `
+_
+&nonbreakingspace
+_
 O Crux, ave, spes única,
 Paschále quæ fers gáudium,
 Piis adáuge grátiam,
 Reísque dele crímina.
-_ `
+_
+&nonbreakingspace
+_
 Te, fons salútis, Trínitas,
 Colláudet omnis spíritus:
 Quibus crucis victóriam
 Largíris, adde prǽmium.
 Amen.
+_
+&nonbreakingspace
 _
 _
 !!Communio
