@@ -103,7 +103,7 @@ R. A woman that feareth God she shall be praised.
 
 [Lectio7]
 From the Holy Gospel according to Matthew
-!Matt 13:44
+!Matt 13:44-52
 At that time Jesus spake unto His disciples this parable The kingdom of heaven is like unto treasure hid in a field. And so on.
 _
 Homily by Pope St Gregory the Great
@@ -195,7 +195,7 @@ V. In the cause of truth and mercy and for the sake of justice: may your right h
 
 [Communio]
 !Ps 118:161-162
-PPrinces have persecuted me without cause, and my heart hath been in awe of thy words: I will rejoice at thy words, as one that hath found much spoil. (Allelúja.)
+Princes persecute me without cause, but my heart stands in awe of Your word. I rejoice at Your promise, as one who has found rich spoil.
 
 [Postcommunio]
 @Commune/C6::s/Virgin and // s/N\./N./

@@ -14,6 +14,8 @@ Votive nocturn
 Psalmi Dominica
 Antiphonas horas
 Feria Te Deum
+(sed tempore post septuagesimam)
+no Te Deum
 
 [Capitulum Vespera]
 @Commune/C10:Capitulum Laudes

@@ -349,6 +349,7 @@ sub resolve_refs {
 
   # Concatenate the expansions of the lines with a line break between each.
   push @resolved_lines, '';
+  #jjd todo this is where the new lines are replaced with br
   my $resolved_block = join "<br\/>\n", @resolved_lines;
 
   #removes occasional double linebreaks

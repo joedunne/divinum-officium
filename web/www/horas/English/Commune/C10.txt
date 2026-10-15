@@ -19,6 +19,8 @@ Prefatio=Maria=veneration;
 
 [Versum 1]
 @Commune/C6:Versum 2
+(sed commune C6)
+@:Versum 2
 
 [Ant 1_]
 Blessed Mother and inviolate Maiden! * Glorious Queen of the world! Plead for us with the Lord!
