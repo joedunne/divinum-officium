@@ -495,7 +495,7 @@ _
 _
 ! Deinde faciens crucem cum eadem Patena, deponit Hostiam super Corporale. Diaconus ministrat vinum, Subdiaconus aquam in Calice:
 ! vel si privata est Missa, utrumque infundií Sacerdos, et aquam miscendam in Calice benedicit signo crucis, dicens:
-v. Deus, qui humánæ substántiæ dignitátem mirabíliter condidísti, et mirabílius reformásti: da nobis per hujus aquæ et vini mystérium, ejus divinitátis esse consórtes, qui humanitátis nostræ fíeri dignátus est párticeps,
+v. Deus, + qui humánæ substántiæ dignitátem mirabíliter condidísti, et mirabílius reformásti: da nobis per hujus aquæ et vini mystérium, ejus divinitátis esse consórtes, qui humanitátis nostræ fíeri dignátus est párticeps,
 Jesus Christus, Fílius tuus, Dóminus noster: Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus: per ómnia sǽcula sæculórum. Amen.
 _
 _

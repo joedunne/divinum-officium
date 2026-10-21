@@ -311,7 +311,7 @@ v. Benedicat vos divina maiestas, Pater + et Filius + et Spiritus Sanctus + .
 R. Amen.
 
 !Then he reads the beginning of the Gospel of St. John.
-Initium  sancti Evangélii secúndum Joánnem.
+Initium ++ sancti Evangélii secúndum Joánnem.
 R. Gloria tibi Domine!
 !Joann. 1, 1-14
 !Junctis manibus prosequitur:

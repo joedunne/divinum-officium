@@ -51,7 +51,7 @@ Alleluia, alleluia
 @Tempora/Pasc0-0:Sequentia
 
 [Evangelium]
-Continuation + of the Holy Gospel according to John
+Continuation ++ of the Holy Gospel according to John
 !John 20:1-9
 v.  In that time, on the first day of the week, Mary Magdalen cometh early, when it was yet dark, unto the sepulchre; and she saw the stone taken away from the sepulchre. She ran, therefore, and cometh to Simon Peter, and to the other disciple whom Jesus loved, and saith to them:
 They have taken away the Lord out of the sepulchre, and we know not where they have laid him. Peter therefore went out, and that other disciple, and they came to the sepulchre. And they both ran together, and that other disciple did outrun Peter, and came first to the sepulchre.

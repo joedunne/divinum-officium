@@ -46,7 +46,7 @@ V. An angel of the Lord descended from heaven, and coming, rolled back the stone
 @Tempora/Pasc0-0:Sequentia
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Luke
+Continuation ++ of the Holy Gospel according to Luke
 !Luke 24:13-35
 v. In that time two of them went, the same day, to a town which was sixty furlongs from Jerusalem, named Emmaus. And they talked together of all these things which had happened. And it came to pass, that while they talked and reasoned with themselves, Jesus himself also drawing near, went with them.
 But their eyes were held, that they should not know him. And he said to them: What are these discourses that you hold one with another as you walk, and are sad? And the one of them, whose name was Cleophas, answering, said to him: Art thou only a stranger to Jerusalem, and hast not known the things that have been done there in these days?

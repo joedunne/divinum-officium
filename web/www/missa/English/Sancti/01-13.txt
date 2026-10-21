@@ -30,7 +30,7 @@ $Qui tecum
 @Sancti/01-06
 
 [Evangelium]
-Continuation + of the Holy Gospel according to John
+Continuation ++ of the Holy Gospel according to John
 !John 1:29-34
 At that time, John saw Jesus coming to him, and he said, Behold, the Lamb of God, Who takes away the sin of the world! This is He of Whom I said, ‘After me there comes One Who has been set above me, because He was before me.’ And I did not know Him. But that He may be known to Israel, for this reason have I come baptizing with water.
 And John bore witness, saying, I beheld the Spirit descending as a dove from heaven, and it abode upon Him. And I did not know Him. But He Who sent me to baptize with water said to me, ‘He upon Whom you will see the Spirit descending, and abiding upon Him, He it is Who baptizes with the Holy Spirit.’

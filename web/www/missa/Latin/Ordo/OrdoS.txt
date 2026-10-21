@@ -310,7 +310,7 @@ v. In + Nomine Patris et Filii et Spiritus Sancti. Amen.
 !Et sic inclinatione facta, eo ordine, quo prius accesserunt ad altare jn principio missæ, sic induti cum ceroferariis et cæteris ministris redeant. 
 
 !Sacerdos vero in redeundo dicat Evangelium: In principio.
-Initium  sancti Evangélii secúndum Joánnem.
+Initium ++ sancti Evangélii secúndum Joánnem.
 R. Gloria tibi Domine!
 !Joann. 1, 1-14
 !Junctis manibus prosequitur:
@@ -322,4 +322,3 @@ R. Deo grátias.
 !Deinde dicitur tota Antiphona,
 !Trium puerorum cantemus hymnum quem cantabant in camino ignis benedicentes Dominum.
 
-  

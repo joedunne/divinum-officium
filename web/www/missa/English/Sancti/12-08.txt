@@ -49,7 +49,7 @@ Glorious things are said of thee, O city of God.
 A man is born in her, and the Highest Himself hath founded her.
 
 [Evangelium]
-Continuation + of the Holy Gospel according to Luke
+Continuation ++ of the Holy Gospel according to Luke
 !Luke 1:26-28
 At that time, the angel Gabriel was sent from God to a town of Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin’s name was Mary. And when the angel come to her, he said, Hail, full of grace, the Lord is with you. Blessed are you among women.
 

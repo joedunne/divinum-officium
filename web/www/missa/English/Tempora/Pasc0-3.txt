@@ -46,7 +46,7 @@ V. The Lord is risen indeed, and hath appeared to Simon.
 @Tempora/Pasc0-0:Sequentia
 
 [Evangelium]
-Continuation + of the Holy Gospel according to John
+Continuation ++ of the Holy Gospel according to John
 !John 21:1-14
 v.  In that time, Jesus shewed himself again to the disciples at the sea of Tiberias. And he shewed himself after this manner. There were together Simon Peter, and Thomas, who is called Didymus, and Nathanael, who was of Cana of Galilee, and the sons of Zebedee, and two others of his disciples.
 Simon Peter saith to them: I go a fishing. They say to him: We also come with thee. And they went forth, and entered into the ship: and that night they caught nothing. But when the morning was come, Jesus stood on the shore: yet the disciples knew not that it was Jesus.

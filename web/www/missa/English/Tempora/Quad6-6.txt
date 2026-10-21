@@ -112,7 +112,7 @@ _
 ! After the blessing of the paschal candle the deacon lays aside his white dalmatic and puts on a purple one, and the officiating priest takes off his purple cope and puts on a purple chasuble.
 ! The prophecies are then chanted without any title, while the celebrant, standing at the epistle corner, reads them in a low voice.
 ! The twelve prophecies were formerly addressed to the catechumens, who would find therein outlined the principal points of Christian Doctrine; they were interspersed with prayers and tracts which sum up or explain the teaching contained in the Lessons just read.
-!!The first Prophecy
+!!The First Prophecy
 !!Gen. 1:1-31; 2:1-2
 ! The creation of the world. -- The man created after the image of God and His likeness had dominion over all living creatures.
 In the beginning, God created heaven and earth.  And the earth was void and empty, and darkness was upon the face of the deep: and the Spirit of God moved over the water.  And God said: Be light made.  And light was made.
@@ -148,7 +148,7 @@ O God, who hast wonderfully created man, and more wonderfully restored him: gran
 $Per Dominum
 _
 _
-!!The second Prophecy
+!!The Second Prophecy
 !!Gen. 5, 6, 7, and 8
 ! The deluge. -- The ark is the prefigure of the true Church, which is the Ark of Salvation.
 Noe, when he was five hundred years old, begot Sem, Cham, and Japheth.  And after that men began to be multiplied upon the earth, and daughters were born to them, the sons of God seeing the daughters of men, that they were fair, took to themselves wives of all, which they chose.
@@ -192,7 +192,7 @@ and may the whole world experience and see that what was cast down is raised up,
 $Qui tecum
 _
 _
-!!The third Prophecy
+!!The Third Prophecy
 @:Proph_Gen22
 _
 _
@@ -203,7 +203,7 @@ O God, the supreme Father of all the faithful, who all over the world dost multi
 $Per Dominum
 _
 _
-!!The fourth Prophecy
+!!The Fourth Prophecy
 @:Proph_Exodi14
 _
 v. Let us pray.
@@ -214,7 +214,7 @@ grant that all the nations of the world may become the children of Abraham, and 
 $Per Dominum
 _
 _
-!!The fifth Prophecy
+!!The Fifth Prophecy
 !!Isa 54:17; 55:1-11
 This is the inheritance of the servants of the Lord, and their justice with me, saith the Lord. All you that thirst, come to the waters: and you that have no money make haste, buy, and eat:
 come ye, buy wine and milk without money, and without any price. Why do you spend money for that which is not bread, and your labour for that which doth not satisfy you?
@@ -234,7 +234,7 @@ O almighty and everlasting God, for the glory of thy name, enlarge the promise w
 $Per Dominum
 _
 _
-!!The sixth Prophecy
+!!The Sixth Prophecy
 @:Proph_Baruch3
 _
 _
@@ -245,7 +245,7 @@ O God, who by thy calling of the nations dost increase thy Church, mercifully gr
 $Per Dominum
 _
 _
-!!The seventh Prophecy
+!!The Seventh Prophecy
 @:Proph_Ezech37
 _
 _
@@ -256,7 +256,7 @@ O God, who teaches us by the pages of both testaments to celebrate the paschal m
 $Per Dominum
 _
 _
-!!The eighth Prophecy
+!!The Eighth Prophecy
 @:Proph_Isa4
 _
 v. Let us pray.
@@ -267,7 +267,7 @@ grant to Thy people who are called by the name of the vines and harvests, that t
 $Per Dominum
 _
 _
-!!The ninth Prophecy
+!!The Ninth Prophecy
 !!Exod 12:1-11
 And the Lord said to Moses and Aaron in the land of Egypt: This month shall be to you the beginning of months: it shall be the first in the months of the year. Speak ye to the whole assembly of the children of Israel, and say to them:
 On the tenth day of this month let every man take a lamb by their families and houses. But if the number be less than may suffice to eat the lamb, he shall take unto him his neighbour that joineth to his house, according to the number of souls which may be enough to eat the lamb.
@@ -285,7 +285,7 @@ O almighty everlasting God, who art wonderful in the ordering of all thy works, 
 $Qui tecum
 _
 _
-!!The tenth Prophecy
+!!The Tenth Prophecy
 !!Jonas 3:1-10
 And the word of the Lord came to Jonas the second time, saying: Arise, and go to Ninive the great city: and preach in it the preaching that I bid thee.
 And Jonas arose, and went to Ninive, according to the word of the Lord: now Ninive was a great city of three days' journey. And Jonas began to enter into the city one day's journey: and he cried, and said:
@@ -303,7 +303,7 @@ O God, who hast gathered together the divers nations of earth in the confession 
 $Per Dominum
 _
 _
-!!The eleventh Prophecy
+!!The Eleventh Prophecy
 @:Proph_Deut31
 _
 v. Let us pray.
@@ -314,7 +314,7 @@ stir up thy might uppon all the multitude of peoples that are justified before t
 $Per Dominum
 _
 _
-!!The twelfth Prophecy
+!!The Twelfth Prophecy
 !!Dan 3:1-24.
 King Nabuchodonosor made a statue of gold, of sixty cubits high, and six cubits broad, and he set it up in the plain of Dura of the province of Babylon.
 Then Nabuchodonosor the king sent to call together the nobles, the magistrates, and the judges, the captains, the rulers, and governors, and all the chief men of the provinces, to come to the dedication of the statue which king Nabuchodonosor had set up.
@@ -473,7 +473,7 @@ P. The Lord be in thy heart and on thy lips, that thou mayest worthily and in a 
 ! Then, turning back to towards the book, with his hands joined, the priest -- at Solemn Masses the deacon -- says:
 P. The Lord be with you.
 S. And with thy spirit.
-Continuation ++ of the holy Gospel according to St. Matthew.
+Continuation ++ of the Holy Gospel according to Matthew.
 !Matt 28:1-7
 And in the end of the Sabbath, when it began to dawn toward the first day of the week, came Mary Magdalen and the other Mary to see the sepulchre. And behold there was a great earthquake.
 For an Angel of the Lord descended from heaven, and coming, rolled back the stone and sat upon it: and his countenance was as lightning and his raiment as snow.
@@ -495,8 +495,8 @@ _
 _
 ! Making the Sign of the Cross with the paten, he places the host upon the corporal. He pours wine and water into the chalice, blessing the water before it is mixed.
 ! He pours a few drops of water into the chalice containing wine, in remembrance of the water and blood which flowed from the side of Jesus when pierced by the soldier's lance.
-v. O God, who, in creating human nature, didst wonderfully dignify it, and still more wonderfully restore it, grant that, by the Mystery of this water and wine, we may be made partakers of His divine nature, who vouchsafed to be made partaker of our human nature,
-even Jesus Christ our Lord, Thy Son, who with Thee, liveth and reigneth in the unity of the Holy Ghost, God: world without end. Amen.
+v. O God, + Who in creating human nature, didst wonderfully dignify it, and still more wonderfully restore it, grant that, by the Mystery of this water and wine, we may be made partakers of His divine nature, Who vouchsafed to be made partaker of our human nature,
+even Jesus Christ our Lord, Thy Son, Who with Thee, liveth and reigneth in the unity of the Holy Ghost, God: world without end. Amen.
 _
 _
 ! Then the priest takes the chalice, and offers it, saying:
@@ -647,9 +647,9 @@ vouchsafe to grant some part and fellowship with Thy holy Apostles and Martyrs, 
 into whose company we beseech Thee to admit us, not weighing our merits, but pardoning our offenses. /:He joins his hands.:/ Through Christ our Lord.
 _
 _
-v. By Whom, O Lord, Thou dost ever create, /:He signs thrice the Host and the Chalice, saying::/ sanctify, + quicken, + bless, + and give unto us all these good things.
+v. Through Whom, O Lord, Thou dost ever create, /:He signs thrice the Host and the Chalice, saying::/ sanctify, + quicken, + bless, + and give unto us all these good things.
 ! He uncovers the Chalice, and genuflects: then taking the Host in his right hand, and holding the Chalice in his left, he signs with the Sign of the Cross three times across the Chalice, saying:
-v. By Him, + and with Him, + and in Him + /:He signs twice between the Chalice and his breast.:/ is to Thee, God the Father + almighty, in the unity of the Holy + Ghost,
+v. Through Him, + and with Him, + and in Him + /:He signs twice between the Chalice and his breast.:/ is to Thee, God the Father + almighty, in the unity of the Holy + Ghost,
 ! He elevates a little the Chalice with the Host.
 all honor and glory.
 ! Replacing the Host, and covering the Chalice, he kneels down, and rising again, he says /:or sings:/:
@@ -722,7 +722,7 @@ Therefore I beseech the blessed Mary, ever Virgin, blessed Michael the Archangel
 P. May almighty God have mercy upon you, forgive you your sins, and bring you unto life everlasting.
 S. Amen.
 !Making the Sign of the Cross, he continues:
-P. May the almighty and merciful Lord grant you pardon, † absolution, and remission of your sins.
+P. May the almighty and merciful Lord grant you pardon, + absolution, and remission of your sins.
 S. Amen.
 !Elevating a particle of the Blessed Sacrament and turning towards the people, he says:
 P. Behold the Lamb of God, behold Him who taketh away the sins of the world.
