@@ -40,6 +40,7 @@ Incipit liber secúndus Machabæórum
 [Lectio4]
 Ex Tractátu sancti Joánnis Chrysóstomi super Psalmum quadragésimum tértium 
 _
+!
 Deus, áuribus nostris audívimus, patres nostri annuntiavérunt nobis opus quod operátus es in diébus eórum. Hunc Psalmum dicit quidem prophéta, dicit autem non ex persóna própria, sed ex persóna Machabæórum, narrans et prædícens quæ futúra erant illo témpore. Tales enim sunt prophétæ: ómnia témpora percúrrunt, præséntia, prætérita, futúra. Quinam sint autem hi Machabǽi, quidque passi sint et quid fécerint, necessárium est primum dícere, ut sint apertióra quæ in arguménto dicúntur. Ii enim, cum invasísset Judǽam Antíochus qui dictus est Epíphanes, et ómnia devastásset, et multos qui tunc erant, a pátriis institútis resilíre coëgísset, permansérunt illǽsi ab illis tentatiónibus.
 
 [Responsory4]

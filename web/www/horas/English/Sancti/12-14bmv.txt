@@ -2,7 +2,8 @@
 Seventh Day Within the Octave of the Immaculate Conception of the Blessed Virgin Mary;;Semiduplex;;2.5;;vide Sancti/12-08
 
 [Lectio4]
-!From the Dogmatic Bull of Pope Pius IX. 
+From the Dogmatic Bull of Pope Pius IX.
+_
 It is known to all men, with what care this doctrine of the sinlessness of the conception of the Mother of God hath been handed down, set forth, and defended by the most distinguished Religious Orders, Theologians, Universities, and Doctors skilled in the things of God. All men know likewise how carefully Christian Bishops, even in their public teaching, have professed the doctrine that through the merits of Christ our Lord and Saviour, foreknown by God, the Holy Virgin Mary, Mother of God, was delivered from ever being the victim of original sin, but, on the contrary, had the fruits of redemption applied to her at the very moment of her Conception, and was therefore redeemed in a nobler way than others. But the weightiest fact of all is that the most holy Council of Trent, when, in accordance with the Holy Scriptures, as interpreted by the holy Fathers and the approved Councils, it decreed that all men are conceived in sin, expressly added that it did not mean thereby to say that the blessed and stainless Mary, Mother of God, did not form an exception to the rule. From this declaration of the Fathers of Trent it can clearly be drawn that there is nothing in the Bible, nothing in tradition, and nothing in the Fathers which can rightly be adduced against this prerogative of the most Blessed Virgin; nay, as far as circumstances demanded, they as much as declared her free from the original stain.
 
 [Lectio5]

@@ -2,14 +2,29 @@
 Octave of the Nativity of the Blessed Virgin Mary;;Semiduplex;;2;;ex Sancti/09-08
 
 [Lectio4]
+@:Lectio4o
+(sed rubrica 1888 aut rubrica 1906 dicitur)
+@:Lectio4o:s/hodie cœtum fidelium/cœtum Sanctorum/ s/quod/quæ/ s/convocaris/convocasti/ s/lucerna inextincti luminis/lampas inexstinguibilis/ s/: tu benedicta inter inter mulieres, ejus parens qui benedictus venit in nomine domini/; per quam benedictus, qui venit in nomine Domini, in sanctis Evangeliis nominatur/
+
+[Lectio4o]
 From the Sermons of St. Cyril, Pope of Alexandria
 !Against Nestorius.
 Behold a joyful congregation of all the Saints, who have come together with glad hearts at the bidding of Holy Mary, Mother of God, and always a Virgin. Praise and glory be unto thee, O Holy Trinity ! Who hast called us unto this Feast ! Praise be to thee also, Holy Mother of God ! Thou art the priceless Pearl of earth, thou art the undying lamp, thou art the crown of virginity, thou art the staff of the orthodox faith, thou art the everlasting temple, thou art the limits of the Illimitable, thou art Mother and Maiden, wherethrough cometh He of whom the Gospels tell, that Blessed One Who cometh in the Name of the Lord!
 
 [Lectio5]
+@:Lectio5o
+(sed rubrica 1888 aut rubrica 1906)
+@:Lectio5o:s/dicitur,/celebratur/ s/Omnis/Per te omnis/ s/notitiam/agnitionem/
+
+[Lectio5o]
 Through thee is the name of the Trinity hallowed, through thee is the precious Cross preached and worshipped throughout all the world. Through thee there is joy in heaven, through thee Angels and Archangels shout aloud, through thee the devils are put to flight, and man is recalled to Paradise. Through thee every creature once in bondage to idols turneth to the knowledge of the truth, through thee believers come to holy Baptism, through thee Churches are built in all the earth.
 
 [Lectio6]
+@:Lectio6o
+(sed rubrica 1888 aut rubrica 1906)
+@:Lectio6o:s/Te (?=Prophetæ)/Per te / s/te apostoli summis laudibus celebrarut./per te Apostoli salutem Gentibus prædicarunt/
+
+[Lectio6o]
 By thy help, the heathen turn to repentance. What more ? Through thee the Only-begotten Son of God, He in Whom is Life, and the Life is the Light of men, hath shined upon them that sat in darkness and in the shadow of death. Through thee the Prophets have prophesied, through thee the Apostles have preached salvation unto the Gentiles. Who can set forth all thy praise, O Mary, Mother and Maiden ? Dearly beloved brethren, let us glorify her, while we worship her Son, the Sinless Bridegroom of the Church, unto Whom be honour and glory for ever and ever. Amen.
 
 [Lectio7]

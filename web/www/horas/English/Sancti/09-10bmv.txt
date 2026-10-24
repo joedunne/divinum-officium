@@ -6,7 +6,7 @@ Lectio sancti Evangelii secundum Matthaeum
 !Matt 1:1-17
 Liber generationis Jesu Christi filii David, filii Abraham. Abraham genuit Isaac. Isaac autem genuit Jacob. Et reliqua.
 _
-!De Homilia S.Hieronymi presb.
+De Homilia S.Hieronymi presb.
 Et post transmigrationem Babylonis Iechonias genuit Salathiel. Si uoluerimus Iechoniam in fine primæ tessaradecadis ponere, in sequenti non erunt quattuordecim, sed tredecim. Sciamus igitur Iechoniam priorem ipsum esse quem et Ioacim, secundum autem filium non patrem. Quorum prior describitur; quod scriptorum uitio et longitudine temporum apud Græcos Latinosque confusus est.
 
 [Lectio8]

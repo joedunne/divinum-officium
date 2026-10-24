@@ -30,6 +30,7 @@ Cum audíeris mulíerem illam dicéntem: Beátus venter qui te portávit, et úb
 @:Lectio1t
 
 [Lectio1t]
+!
 Léctio sancti Evangélii secúndum Lucam 
 !Luc 11:27-28 
 In illo témpore: Loquente Jesu ad turbas, extollens vocera quædam mulier de turba, dixit illi: Beatus venter, qui te portavit. Et réliqua. 

@@ -49,7 +49,7 @@ From the letter of St. Paul to the Galatians.
 6 And let him that is instructed in the word, communicate to him that instructeth him, in all good things.
 
 [Lectio2]
-Gal 6:7-13
+!Gal 6:7-13
 7 Be not deceived, God is not mocked.
 8 For what things a man shall sow, those also shall he reap. For he that soweth in his flesh, of the flesh also shall reap corruption. But he that soweth in the spirit, of the spirit shall reap life everlasting.
 9 And in doing good, let us not fail. For in due time we shall reap, not failing.
@@ -59,7 +59,7 @@ Gal 6:7-13
 13 For neither they themselves who are circumcised, keep the law; but they will have you to be circumcised, that they may glory in your flesh.
 
 [Lectio3]
-Gal 6:14-18
+!Gal 6:14-18
 14 But God forbid that I should glory, save in the cross of our Lord Jesus Christ; by whom the world is crucified to me, and I to the world.
 15 For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.
 16 And whosoever shall follow this rule, peace on them, and mercy, and upon the Israel of God.

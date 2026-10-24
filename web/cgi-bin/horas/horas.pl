@@ -203,6 +203,7 @@ sub resolve_refs {
 
   # Concatenate the expansions of the lines with a line break between each.
   push @resolved_lines, '';
+  #todo jjd this is the line that joins with br
   my $resolved_block = join "<br/>\n", @resolved_lines;
 
   #removes occasional double linebreaks
@@ -732,4 +733,77 @@ sub alleluia_required {
   my ($dayname, $votive) = @_;
 
   $dayname =~ /Pasc/i && $votive !~ /C(?:9|12)/;
+}
+
+sub split_reading_for_epub {
+
+    my ($input) = @_;
+    my $processed = "";
+    my $current_chunk = "";
+
+    $input =~ s/~\(/(/g;
+
+    if ($input !~ /[^\n]{375}/) {
+      return $input . "SPLITREADINGEND";
+    }
+
+    my $processed = "";
+
+    for my $line (split /(?<=\n)/, $input) {
+        # Preserve existing newline separately
+        my $newline = $line =~ s/\n$// ? "\n" : "";
+
+        # Keep lines beginning with ! intact
+        if ($line =~ /^!/) {
+            $processed .= $line . $newline;
+            next;
+        }
+
+        # Keep lines beginning with digit intact
+        if ($line =~ /^\d/) {
+            $processed .= $line . $newline;
+            next;
+        }
+
+        # Split long lines into chunks
+        while (length($line) > 350) {
+            my $limit = substr($line, 0, 350);
+            my $break_at = -1;
+
+            # Prefer the last suitable punctuation between 250 and 350.
+            # Keep closing quotes and brackets attached to punctuation.
+            while ($limit =~ /([.!?:,)]+["'”’\)\]]*)/g) {
+                my $pos = pos($limit);
+                my $punctuation = $1;
+                my $start = $pos - length($punctuation);
+
+                next if $pos < 250;
+
+                # Don't split after "St."
+                next if substr($limit, 0, $pos) =~ /\bSt\.$/;
+
+                # Don't split after punctuation immediately before a closing bracket
+                next if $punctuation =~ /[,.]["'”’]*$/ &&
+                        substr($line, $pos, 1) =~ /[\)\]]/;
+
+                $break_at = $pos;
+            }
+            # If no suitable punctuation exists, break at a word boundary
+            if ($break_at < 0) {
+                $break_at = rindex($limit, " ");
+            }
+
+            # Absolute fallback if there is no space
+            $break_at = 350 if $break_at < 0;
+
+            $processed .= substr($line, 0, $break_at) . "\n";
+            $line = substr($line, $break_at);
+            $line =~ s/^ //;
+        }
+
+        $processed .= $line . $newline;
+    }
+    # Append any remaining text left over at the end
+    $processed .=  $current_chunk . "SPLITREADINGEND";
+    return $processed;
 }

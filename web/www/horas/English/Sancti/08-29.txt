@@ -61,10 +61,7 @@ R. And gave him perpetual glory.
 R. And gave him perpetual glory.
 
 [Lectio94]
-From the Treatise concerning Virgins, by St. Ambrose the Bishop
-_
-We must not hurry past the record of blessed Baptist John. We must ask what he was; by whom he was slain; and why and how. He was a righteous man, murdered for his righteousness by adulterers. He was a judge, who suffered condemnation to death by the guilty ones because he had justly judged their guilt. He was the prophet whose death was a fee paid to a dancing-girl for a lascivious dance. And lastly a thing from which even savages would shrink his head was served up as a dish at a banquet. For the order to commit the atrocity was given amid the merriment of a dinner-party; and the servants of the murderer introduced the murder amid the courses of the meal, running from banquet to prison, and from prison to banquet! See how many infamies are contained in this one crime.
-&teDeum
+@:Lectio4
 
 [Lectio7]
 From the Holy Gospel according to Mark

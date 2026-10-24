@@ -297,7 +297,13 @@ sub specials {
 
     if ($item =~ /Martyrologium/) {
       setcomment($label, 'Martyrologium', 0, $lang);
-      push(@s, martyrologium($lang));
+
+        my $processed = split_reading_for_epub(martyrologium($lang));
+
+        # Clean up any trailing double-spaces or newlines starting with spaces
+        $processed =~ s/\n\s+/\n/g;
+
+      push(@s, $processed);
       push(@s, '', '$Pretiosa') unless $rule =~ /ex C9/;
       next;
     }

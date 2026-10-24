@@ -20,7 +20,7 @@ Lesson from the book of Ecclesiastes
 11 There is no remembrance of former things: nor indeed of those things which hereafter are to come, shall there be any remembrance with them that shall be in the latter end.
 
 [Lectio3]
-Eccl 1:12-17
+!Eccl 1:12-17
 12 I Ecclesiastes was king over Israel in Jerusalem,
 13 And I proposed in my mind to seek and search out wisely concerning all things that are done under the sun. This painful occupation hath God given to the children of men, to be exercised therein.
 14 I have seen all things that are done under the sun, and behold all is vanity, and vexation of spirit.

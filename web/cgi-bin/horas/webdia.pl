@@ -728,10 +728,18 @@ sub setcell {
     $text = apply_interlinear($text);
   }
 
+  my $remainingText = "";
+  if ($text =~ /SPLITREADINGEND/) {
+    my ($before, $remaining) = split(/SPLITREADINGEND/, $text, 2);
+    $text = $before;
+    $remainingText = $remaining;
+  }
+
   # Actually Print cell and close it
   $text .= '</p>' if $officium =~ /Eofficium|Emissa/;
   print setfont($blackfont, $text) . "</TD>\n";
   if (!columnsel($lang) || $only) { print "</TR>\n"; }
+  return $remainingText;
 }
 
 #*** topnext_Cell()
@@ -1022,7 +1030,8 @@ sub print_content {
       precedence();
       setsecondcol();
     }
-    setcell($text, $lang1);
+
+    my $lang1after = setcell($text, $lang1);
 
     if ($only) {
       $ind2 = $ind1;
@@ -1039,7 +1048,15 @@ sub print_content {
       precedence();
       setsecondcol();
     }
-    setcell($text, $lang2);
+
+    my $lang2after = setcell($text, $lang2);
+
+    if ($lang1after ne "" || $lang2after ne "") {
+        $column = 1;
+        setcell($lang1after, $lang1);
+        $column = 2;
+        setcell($lang2after, $lang2);
+    }
   }
   ante_post('Post') if $antepost && !$content;
   table_end();

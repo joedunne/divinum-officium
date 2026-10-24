@@ -2,7 +2,8 @@
 Octave of the Immaculate Conception of the Blessed Virgin Mary;;Duplex majus;;4;;vide Sancti/12-08
 
 [Lectio4]
-!From the Dogmatic Bull of Pope Pius IX. 
+From the Dogmatic Bull of Pope Pius IX.
+_
 From of old time continual prayers have been offered to this Apostolic See not only by Bishops, Churchmen, and the Regular Orders, but also by Emperors and Kings, beseeching that the sinlessness of the Conception of the Mother of God might be made the subject of a Dogmatic Definition. These prayers have been still more urgently addressed in recent times to Our Predecessor, of happy memory, Gregory XVI., and to Ourselves, by the Bishops, by the Secular Clergy, by the Regular Orders, and by the most eminent Christian Princes and nations. The knowledge of these things hath caused Our heart to rejoice, and they have been the serious occupation of Our thoughts ever since, in spite of our unworthiness, the inscrutable Providence of God was pleased to set Us in this supreme Chair of Peter, and to put His Church into Our hands, for Us to govern. Since then, We have had nothing so much at heart as to yield to the desires of the Church in this matter, to the increasing of the veneration of which the most holy Virgin is already the object, and to the setting in a clearer light the singular graces with which God hath adorned her, being Ourselves especially drawn to the same by the reverence, love, and affection with which We have been from Our childhood animated towards the same most holy Virgin Mary, Mother of God.
 
 [Lectio5]

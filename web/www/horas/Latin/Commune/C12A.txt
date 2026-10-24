@@ -109,17 +109,17 @@ $Deo gratias
 [Special Prima]
 @Commune/C12:Minor intro
 @Commune/C12:Hymnus minor
-
+_
 #Psalmi
 @Sancti/03-25:Ant Vespera:1 s/^/Ant. / s/;;.*//
 &psalm(53)
-
+_
 &psalm(84)
-
+_
 &psalm(116)
 _
 @Sancti/03-25:Ant Vespera:1 s/^/Ant. / s/;;.*//
-
+_
 #Capitulum
 @Sancti/03-25:Capitulum Laudes
 _
@@ -129,17 +129,17 @@ _
 [Special Tertia]
 @Commune/C12:Minor intro
 @Commune/C12:Hymnus minor
-
+_
 #Psalmi
 @Sancti/03-25:Ant Vespera:2 s/^/Ant. / s/;;.*//
 &psalm(119)
-
+_
 &psalm(120)
-
+_
 &psalm(121)
 _
 @Sancti/03-25:Ant Vespera:2 s/^/Ant. / s/;;.*//
-
+_
 #Capitulum
 @Sancti/03-25:Lectio Prima
 $Deo gratias
@@ -150,17 +150,17 @@ _
 [Special Sexta]
 @Commune/C12:Minor intro
 @Commune/C12:Hymnus minor
-
+_
 #Psalmi
 @Sancti/03-25:Ant Vespera:3 s/^/Ant. / s/;;.*//
 &psalm(122)
-
+_
 &psalm(123)
-
+_
 &psalm(124)
 _
 @Sancti/03-25:Ant Vespera:3 s/^/Ant. / s/;;.*//
-
+_
 #Capitulum
 @Sancti/03-25:Capitulum Sexta
 _
@@ -170,17 +170,17 @@ _
 [Special Nona]
 @Commune/C12:Minor intro
 @Commune/C12:Hymnus minor
-
+_
 #Psalmi
 @Sancti/03-25:Ant Vespera:5 s/^/Ant. / s/;;.*//
 &psalm(125)
-
+_
 &psalm(126)
-
+_
 &psalm(127)
 _
 @Sancti/03-25:Ant Vespera:5 s/^/Ant. / s/;;.*//
-
+_
 #Capitulum
 @Sancti/03-25:Capitulum Laudes
 _
@@ -198,14 +198,14 @@ _
 @Sancti/03-25:Capitulum Laudes
 _
 @Psalterium/Mariaant:Advent:8-9
-
+_
 #Canticum: Nunc dimittis
 @Tempora/Adv1-0:Ant 2:s/^/Ant. /
 &psalm(233)
 @Tempora/Adv1-0:Ant 2:s/^/Ant. /
-
+_
 #Oratio
 @Commune/C12:Pre oratio
 @:Oratio
-
+_
 @Commune/C12::s/.*(.#Conclusio)/$1/s

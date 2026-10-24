@@ -680,7 +680,8 @@ sub lectiones {
     $i = 0 if $rule =~ /Lectio brevis sine absolutio/;
 
     if ($rule !~ /Limit.*?Benedictio/i) {
-      push(@s, prayer('Jube domne', $lang));
+      # push(@s, prayer('Jube domne', $lang));
+      # todo jjd this is where the jube was fixed....
       push(@s, "Benedictio. $a[$i]", '$Amen');
 
       # CIST: alternative to use only one Benediction
@@ -694,6 +695,13 @@ sub lectiones {
         }
       }
     }
+#    todo split large readings here.....
+#    my $reading = lectio($l);
+#    $reading =~ s/(.{1,350}[.!?])\s+/$1\n/g;
+
+#    my $result = lectio($l);
+#    push @s, split(/SPLIT_READING_END/, $result);
+#    push @s, "\n";
     push(@s, "\&lectio($l)", "\n");    # the lesson is going to be added by the subroutine below at a later time
   }
 }
@@ -863,6 +871,7 @@ sub lectio : ScriptFunc {
     # If these Sundays happen to fall on the day after the Apostle's feast, then Scripture is taken  from
     # the following Monday such that there is no repeat of readings. Since May 3 and May 8 have
     # proper 1st Nocturn readings, (at least before 1960) the Monday readings are impeded anyway
+
     %w = StJamesRule(\%w, $lang, $num, $1);
   }
 
@@ -1245,6 +1254,13 @@ sub lectio : ScriptFunc {
   $w =~ s/¶//;               # remove ¶ mark if any
   $w =~ s/\&teDeum\n*//g;    # remove tedeum, will add if needed later
 
+#   todo jjd split here.....
+  my $processed = split_reading_for_epub($w);
+
+  # Clean up any trailing double-spaces or newlines starting with spaces
+  $processed =~ s/\n\s+/\n/g;
+  $w = $processed;
+
   unless ($rule =~ /Limit.*?Benedictio/i || exists($winner{'In Finem Lectio'})) {
 
     #add Tu autem before responsory
@@ -1273,6 +1289,12 @@ sub lectio : ScriptFunc {
         $s = (columnsel($lang)) ? $scriptura{"Responsory$na"} : $scriptura2{"Responsory$na"};
       } else {
         $s = (columnsel($lang)) ? $scriptura{"Lectio$na"} : $scriptura2{"Lectio$na"};
+
+#        $processed = split_reading_for_epub($s);
+
+        # Clean up any trailing double-spaces or newlines starting with spaces
+#        $processed =~ s/\n\s+/\n/g;
+#        $s = $processed;
 
         if ($s =~ /\n\_(.*?)/s) {
           $s = "_$1";
@@ -1364,7 +1386,8 @@ sub lectio : ScriptFunc {
       $initial = 1 if (/^!/ && $nonumbers);
       $_ = "\n$_";
     }
-    $w .= "$_";
+    #jjd insert new line after each verse
+    $w .= "$_\n";
   }
 
   #handle parentheses in non Latin
@@ -1372,6 +1395,12 @@ sub lectio : ScriptFunc {
     process_inline_alleluias(\$w, $lang, $dayname[0] =~ /Pasc/);
     $w =~ s/\(([^(]*?[.,\d][^(]*?)\)/parenthesised_text($1)/eg;
   }
+
+#  my $processed = split_reading_for_epub($w);
+
+  # Clean up any trailing double-spaces or newlines starting with spaces
+#  $processed =~ s/\n\s+/\n/g;
+#  $w = $processed;
 
   $w = replaceNdot($w, $lang);
   $w .= "\n_\n\&teDeum\n" if tedeum_required($num);

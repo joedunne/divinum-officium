@@ -168,7 +168,8 @@ R. And there shall be a time, such as never was since there was a nation even to
 R. And there shall be a time, such as never was since there was a nation even to that same time. (Alleluia.)
 
 [Lectio94]
-That the blessed Archangel Michael hath oftentimes been seen of men is attested on the authority of the Holy Bible, and also by the ancient traditions of the Saints. For this reason such visions are held in remembrance in many places. As of old time did the Synagogue of the Jews, so now doth the Church of God venerate Michael as her watcher and defender. But during the Popedom of Gelasius I, the summit of Mount Gargano in Apulia, at whose foot lieth the town of Siponto, was the scene of an extraordinary appearance of this same Archangel Michael. It was not long after these things that Pope Boniface IV hallowed the Church of St. Michael on Hadrian's Mole at Rome, on the 29th day of September, on the which day the Church also holdeth in remembrance All Angels. But this present day is hallowed in remembrance of the manifestation of the Archangel Michael.
+@:Lectio4
+@:Lectio6:s/.*(Nec ita)/$1/s
 &teDeum
 
 [Lectio7]

@@ -164,7 +164,7 @@
 [Conclusio cisterciensis]
 /:Et quandocumque terminata Hora discendum est a Choro (nisi quando immediate subsequitur Missa aut cum Officio diei Officium Defunctorum, vel Sepultura, vel Processio, aut Litaniæ, ut in Rogationibus, etc.) dicitur::/
 
-[Jube]
+[Jube2]
 /:Extra Chorum, quando ab uno tantum recitatur Officium dicitur: «Jube, Dómine, benedícere;» et subjungitur congruens Benedictio.:/
 
 [NonaAdjuncta]

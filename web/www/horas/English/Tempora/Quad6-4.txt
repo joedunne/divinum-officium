@@ -55,8 +55,7 @@ Lesson from the book of Lamentations
 r. Jerusalem, Jerusalem, return to the Lord thy God.
 
 [Responsory1]
-R. At the Mount of Olives He prayed unto the Father: O My Father, if it be possible, let this cup pass from Me!
-* The spirit indeed is willing, but the flesh is weak.
+R. At the Mount of Olives He prayed unto the Father: O My Father, if it be possible, let this cup pass from Me! * The spirit indeed is willing, but the flesh is weak.
 V. Watch and pray, that ye enter not into temptation.
 R. The spirit indeed is willing, but the flesh is weak.
 
@@ -83,8 +82,7 @@ R. Ye shall flee; and I will go to be offered a sacrifice for you.
 r. Jerusalem, Jerusalem, return to the Lord thy God.
 
 [Responsory3]
-R. Behold, when we shall see Him, He hath no form nor comeliness: there is no beauty in Him: this is He Which hath borne our griefs and carried our sorrows; but He was wounded for our transgressions
-* And with His stripes we are healed.
+R. Behold, when we shall see Him, He hath no form nor comeliness: there is no beauty in Him: this is He Which hath borne our griefs and carried our sorrows; but He was wounded for our transgressions * And with His stripes we are healed.
 V. Surely He hath borne our griefs and carried our sorrows.
 R. And with His stripes we are healed.
 &Gloria
@@ -172,7 +170,11 @@ R. The elders of the people consulted * That they might take Jesus by subtilty, 
 [Oratio Matutinum]
 v. Look down, we beseech thee, O Lord, on this thy family, for which our Lord Jesus Christ did not hesitate to be delivered up into the hands of wicked men, and to suffer the torment of the Cross.
 !Finish silently
+(sed rubrica cisterciensis)
+!
 $Qui tecum
+(rubrica cisterciensis)
+!
 
 [Ant Laudes]
 O Lord, Thou shalt be justified * when Thou speakest, and be clear when Thou art judged.
@@ -197,17 +199,20 @@ _
 $Confiteor
 $Misereatur
 $Indulgentiam
-
+(sed rubrica cisterciensis omittitur)
+(rubrica cisterciensis) $Pater noster
+(rubrica cisterciensis) $Ave Maria
+_
 &psalm(4)
-
+_
 (rubrica tridentina) &psalm(30,1,6)
-
+_
 &psalm(90)
-
+_
 &psalm(133)
-
+_
 &psalm(233)
-
+_
 v. Christ became obedient for us unto death.
 !in secret
 $Pater noster
