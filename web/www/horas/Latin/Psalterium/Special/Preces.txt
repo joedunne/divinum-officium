@@ -130,7 +130,7 @@ Christe, exáudi nos.
 Kýrie, eléison.
 Christe, eléison.
 Kýrie, eléison.
-
+_
 $Pater noster Et
 _
 &psalm(69)
@@ -159,7 +159,7 @@ R. Et de Sion tuére eos.
 V. Dómine, exáudi oratiónem meam.
 R. Et clamor meus ad te véniat.
 &Dominus_vobiscum1
-
+_
 !Oratio
 v. Orémus
 v. Deus, cui próprium est miseréri semper et párcere: súscipe deprecatiónem nostram, ut nos, et omnes fámulos tuos, quos delictórum caténa constríngit, miserátio tuæ pietátis cleménter absólvat.

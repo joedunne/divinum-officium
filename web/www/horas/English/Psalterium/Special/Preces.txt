@@ -130,7 +130,7 @@ Christ, graciously hear us.
 Lord, have mercy on us.
 Christ, have mercy on us.
 Lord, have mercy on us.
-
+_
 $Pater noster Et
 _
 &psalm(69)
@@ -159,7 +159,7 @@ R. And from Sion protect them.
 V. O Lord, hear my prayer.
 R. And let my cry come unto you.
 &Dominus_vobiscum1
-
+_
 !Prayer
 $Oremus
 v. O God, it is according to thy nature always to show mercy and forgiveness. Receive our petition that we and all thy servants, bound by the chains of sin, may, by thy tender mercy, be pardoned.

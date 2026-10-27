@@ -150,7 +150,7 @@ $Aportainferi
 $Requiescant
 $Domine exaudi
 (sed rubrica cisterciensis omittitur)
-
+_
 &Dominus_vobiscum2
 (sed rubrica cisterciensis dicitur)
 &Dominus_vobiscum

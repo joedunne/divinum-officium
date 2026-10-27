@@ -35,6 +35,8 @@ R. As it was in the beginning, is now, * and ever shall be, world without end. A
 
 [Gloria1]
 V. Glory be to the Father, and to the Son, * and to the Holy Ghost.
+(sed rubrica cisterciensis)
+V. Glória Patri, et Fílio, <FONT COLOR=red>*</FONT> et Spirítui Sancto.
 
 [Requiem]
 V. Eternal rest * grant unto them, O Lord. 
@@ -185,7 +187,7 @@ r. Hail Mary
 
 [Conclmart]
 V. And elsewhere many other holy martyrs, confessors, and holy virgins.
-$Deo gratias.
+$Deo gratias
 
 [Pretiosa]
 V. Precious in the sight of the Lord
@@ -216,12 +218,18 @@ v. Lord have mercy upon us, Christ have mercy upon us, Lord have mercy upon us.
 (rubrica 1963)/:Then, in the public recitation of the Office, if the Community is to leave the Choir, the following Versicle is said.:/
 May the divine assistance + remain with us always.
 And with our brothers, who are absent. Amen.
+(sed rubrica cisterciensis)
+Et cum frátribus nostris abséntibus.
 
 [Alleluia Simplex]
 , alleluia.
+(sed rubrica cisterciensis)
+, allelúia.
 
 [Alleluia Duplex]
 Alleluia, alleluia.
+(sed rubrica cisterciensis)
+Allelúia, allelúia.
 
 [Aportainferi]
 V. From the gates of hell.
@@ -271,6 +279,9 @@ Benedictio. The almighty and merciful Lord, + the Father, the Son and the Holy S
 Benedictio. May the blessing of almighty God, + the Father, the Son, and the Holy Spirit come down to us and remain forever.
 
 [Jube domne]
+(rubrica divino)
+V. Grant, Lord, a blessing.
+(sed rubrica 1960 dicitur)
 V. Grant, Lord, a blessing.
 
 [Lectio regulae]

@@ -266,7 +266,8 @@ _
 V. Beáta víscera Maríæ Vírginis, quæ portavérunt ætérni Patris Fílium.
 R. Et beáta úbera, quæ lactavérunt Christum Dóminum.
 _
-/:Et dicitur secreto:/ Pater noster. /:et:/ Ave Maria.
+/:Et dicitur secreto:/ Pater noster.
+/:et:/ Ave Maria.
 
 [Conclmart]
 V. Et álibi aliórum plurimórum sanctórum Mártyrum et Confessórum, atque sanctárum Vírginum.

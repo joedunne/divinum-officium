@@ -39,31 +39,7 @@ Onely and Trinal.
 Amen.
 
 [Hymnus1 Vespera]
-v. This the confessor of the Lord, whose triumph
-Now all the faithful celebrate, with gladness
-On this feast day year by year receiveth
-Merited honors.
-_
-Saintly and prudent, modest in behaviour,
-Peaceful and sober, chaste was he, and lowly.
-While that life’s vigour, coursing through his members,
-Quickened his being.
-_
-Sick ones of old time, to his tomb resorting,
-Sorely by ailments manifold afflicted,
-Oft-times have welcomed health and strength returning,
-At his petition.
-_
-Whence we in chorus gladly do him honour,
-Chanting his praises with devout affection,
-That in his merits we may have a portion,
-Now and forever.
-_
-His be the glory, power and salvation,
-Who over all things reigneth in the highest,
-Earth’s mighty fabric ruling and directing,
-Onely and Trinal.
-Amen.
+@:Hymnus Vespera:s/merited to enter/year by year receiveth/ s/Into his glory/Merited honors/
 
 [Versum 1]
 V. The Lord loved him and beautified him.

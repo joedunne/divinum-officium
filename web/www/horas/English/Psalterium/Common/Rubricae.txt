@@ -22,11 +22,15 @@
 
 [Secreto_C]
 /:In choir, after the Little Office of Our Lady has been finished, is said silently::/
+(sed die Tridui Sacri)
+/:Finito Officio parvo B.M.V. privatim, in Choro dicitur secreto::/
 
 [Secreto a Laudibus]
 /:If Matins and Lauds are separated, then is said silently::/
 (sed rubrica monastica)
 /:On Simplex feasts and on ferial days, and if Matins are separate from Lauds, one begins in silence::/
+(sed rubrica cisterciensis)
+/:Præterquam Officio duodecim Lectionum dicitur secreto::/
 
 [Clara voce_]
 /:Thereafter, with hearable voice, the Versicle is said::/
@@ -45,6 +49,10 @@
 !Skip the rest, unless praying %Lauds% separately.
 (sed rubrica tridentina aut rubrica divino)
 !Skip the rest in Offices of 12 lessons, unless praying %Lauds% separately. On Simplex feasts and on ferial days (be it with three or one reading) the following is always prayed.
+(sed rubrica cisterciensis)
+!Reliqua omittuntur in Officium xij. Lectionum, quas immediatæ subsequuntur %Laudes%. Sed tam in Feriis, quam in Festis iij. Lectionum, in Hieme et in Æstate semper dicuntur ut sequitur.
+(sed rubrica cisterciensis et die Tridui Sacri)
+!Ad finem noni Responsorii accendat Sacrista unum cereum communem super medium gradus Presbyterii, dum prima Antiphona %Laudum% imponitur.
 
 [Deinde secreto]
 /:Thereafter is said silently:/
@@ -66,6 +74,8 @@
 /:Then the Martyrology is read in Choir.:/
 (sed rubrica cisterciensis)
 /:Here Prime ends. Thereafter, the Martyrology is read in the Chapter Hall without blessing. Outside the convent, the Martyrology is not read but one immediately continues with « Pretiósa. » as below.:/
+(sed rubrica cisterciensis)
+/:Hic expletur Prima. Deinde legitur Martyrologium in Capitulo sine benedictione. Extra Conventum non legitur Martyrologium, sed immediate incipitur « Pretiósa. » ut infra.:/
 
 [Regula] (rubrica monastica)
 /:Even outside of Choir, it is laudible to read the Holy Regula; otherwise, the Short Reading is prayed:/

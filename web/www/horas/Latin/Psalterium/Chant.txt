@@ -34,7 +34,6 @@ Vespera:1-5,Magnificat
 7a,8c,5a,6F,8G
 1a,1g2,3g2,3a,5a,7c
 
-
 [Day5]
 6F,2D,7a,5a,1g3,8G
 6F,8G,4e,1f,8G
@@ -92,7 +91,7 @@ Vespera:1-5,Magnificat
 [Matins C7]
 7c,4a,7a,7c,7c,8c,3a,3a2,8a,6a
 
-Matins C8]
+[Matins C8]
 3a,4a,6f,7c,7a,7a,8g,2d,8a,7a
 
 [Matins C9]

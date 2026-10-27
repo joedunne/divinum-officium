@@ -121,7 +121,6 @@ Spíritus sancti grátia † illúminet sensus, et corda nostra.
 
 [Comment]
 The above mentioned set of Benedictions (Feria 6 3L) is rarely used, basically only in solemn Octaves in Winter, and it's not contained in the beginning of Breviaries, so these are copied over from Sabbato de Beata.
-
 Also, the Rubrics below contain the <FONT COLOR> tags, because otherwise I wasn't able to prevent the program to add new line after the </FONT> tag in the code, while making the "Benedictio:" translated and red...
 
 [Rubrica brevis]

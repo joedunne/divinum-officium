@@ -314,6 +314,7 @@ V. Et grátia tua illis succurrénte, mereántur evádere judícium ultiónis.
 V. Et lucis ætérnæ beatitúdine pérfrui.
 
 [Sequentia]
+!
 Dies iræ, dies illa
 Solvet sæclum in favílla:
 Teste David cum Sibýlla.
@@ -397,10 +398,8 @@ Sequéntia ++ sancti Evangélii secúndum Joánnem
 In illo témpore: Dixit Jesus turbis Judæórum: Ego sum panis vivus, qui de cœlo descéndi. Si quis manducáverit ex hoc pane, vivet in ætérnum: et panis, quem ego dabo, caro mea est pro mundi vita. Litigábant ergo Judǽi ad ínvicem, dicéntes: Quómodo potest hic nobis carnem suam dare ad manducándum? Dixit ergo eis Jesus: Amen, amen, dico vobis: nisi manducavéritis carnem Fílii hóminis et bibéritis ejus sánguinem, non habébitis vitam in vobis. Qui mánducat meam carnem et bibit meum sánguinem, habet vitam ætérnam: et ego resuscitábo eum in novíssimo die.
 
 [Offertorium]
-Dómine Jesu Christe, Rex glóriæ, líbera ánimas ómnium fidélium defunctórum de pœnis inférni et de profúndo lacu: líbera eas de ore leónis, ne absórbeat eas tártarus, ne cadant in obscúrum: sed sígnifer sanctus Míchaël repræséntet eas in lucem sanctam: 
-* Quam olim Abrahæ promisísti et sémini ejus.
-V. Hóstias et preces tibi, Dómine, laudis offérimus: tu súscipe pro animábus illis, quarum hódie memóriam fácimus: fac eas, Dómine, de morte transíre ad vitam. 
-* Quam olim Abrahæ promisísti et sémini ejus.
+Dómine Jesu Christe, Rex glóriæ, líbera ánimas ómnium fidélium defunctórum de pœnis inférni et de profúndo lacu: líbera eas de ore leónis, ne absórbeat eas tártarus, ne cadant in obscúrum: sed sígnifer sanctus Míchaël repræséntet eas in lucem sanctam: * Quam olim Abrahæ promisísti et sémini ejus.
+V. Hóstias et preces tibi, Dómine, laudis offérimus: tu súscipe pro animábus illis, quarum hódie memóriam fácimus: fac eas, Dómine, de morte transíre ad vitam. * Quam olim Abrahæ promisísti et sémini ejus.
 
 [Secreta]
 Hóstias, quǽsumus, Dómine, quas tibi pro animábus famulórum famularúmque tuárum offérimus, propitiátus inténde: ut, quibus fídei christiánæ méritum contulísti, dones et prǽmium.
@@ -416,10 +415,8 @@ $Per Dominum.
 
 [Communio]
 !4 Esdr 2:35; 2:34
-Lux ætérna lúceat eis, Dómine: 
-* Cum Sanctis tuis in ætérnum: quia pius es.
-V. Requiem ætérnam dona eis, Dómine: et lux perpétua lúceat eis. 
-* Cum Sanctis tuis in ætérnum: quia pius es.
+Lux ætérna lúceat eis, Dómine: * Cum Sanctis tuis in ætérnum: quia pius es.
+V. Requiem ætérnam dona eis, Dómine: et lux perpétua lúceat eis. * Cum Sanctis tuis in ætérnum: quia pius es.
 
 [Postcommunio]
 Animábus, quǽsumus, Dómine, famulórum famularúmque tuárum orátio profíciat supplicántium: ut eas et a peccátis ómnibus éxuas, et tuæ redemptiónis fácias esse partícipes:
