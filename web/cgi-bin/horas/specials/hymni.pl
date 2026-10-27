@@ -54,13 +54,14 @@ sub gethymn {
   $hymn =~ s/^(?:v\.\s*)?(\p{Lu})/v. $1/;          # add initial
   $hymn =~ s/\*\s*//g;                             # remove star
   $hymn =~ s/_\n(?!!)/_\nr. /g;                    # start stropha with red letter
+  $hymn =~ s/_\n/<span class='text-pre-white-space'> &nbsp; <\/span>\n/g;
 
   # GABC: Versicula are given in Roman Tonus cum Neuma, i.e., g_'/hvGF'E!fgf.
   # For Ant. Monastic changed to Tonus communis, i.e., g_0h/GF'E!fgf.
   if ($lang =~ /gabc/ && $version =~ /monastic/i) { $versum =~ s/g\_\d?\'\/hv?/g\_0h\//g; }
 
   my $output = "$section\n$hymn";
-  $output .= "_\n$versum" if $versum;
+  $output .= "<span class='text-pre-white-space'> &nbsp; </span>\n$versum" if $versum;
   $output;
 }
 
