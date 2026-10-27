@@ -6,4 +6,4 @@ Gloria
 ;;Duplex optional;;2;;vide C5
 
 [Officium]
-S. Peter Claver, priest
+St. Peter Claver, priest

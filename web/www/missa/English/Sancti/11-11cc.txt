@@ -5,7 +5,7 @@ vide C2a-1;
 ;;Simplex;;1.1;;vide C2a-1
 
 [Officium]
-S. Menna, Martyr
+St. Menna, Martyr
 
 [Name]
 Menna

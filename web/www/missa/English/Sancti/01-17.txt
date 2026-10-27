@@ -5,7 +5,7 @@ vide C5b;
 ;;Duplex;;3;;vide C5b
 
 [Officium]
-S. Anthony, Abbot
+St. Anthony, Abbot
 
 [Name]
 Anthony

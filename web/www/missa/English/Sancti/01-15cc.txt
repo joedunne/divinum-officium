@@ -7,9 +7,9 @@ vide C5b;
 ;;Duplex II. classis;;5;;ex C5b
 
 [Officium]
-S. Maur, Abbot
+St. Maur, Abbot
 (sed rubrica 1930)
-S. Maur, Abbot
+St. Maur, Abbot
 
 [Name]
 Maur

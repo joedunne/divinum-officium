@@ -6,7 +6,7 @@ Gloria
 ;;Simplex;;1.1;;vide C2a-1
 
 [Officium]
-S. Pantaleon Martyr
+St. Pantaleon Martyr
 
 [Name]
 Pantaleon

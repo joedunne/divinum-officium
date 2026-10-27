@@ -3,7 +3,7 @@ vide C4;
 Gloria
 
 [Rank](rubrica 196)
-S. Patricii Episcopi et Conf.;;Duplex;;2;;vide C4
+St. Patricii Episcopi et Conf.;;Duplex;;2;;vide C4
 
 [Rank]
 ;;Duplex;;3;;vide C4

@@ -11,7 +11,7 @@ CredoDA
 ;;Simplex;;1.1;;vide C4
 
 [Officium]
-S. Isidore of Seville, Bishop, Confessor and Doctor of the Church
+St. Isidore of Seville, Bishop, Confessor and Doctor of the Church
 
 [Name]
 Isidore

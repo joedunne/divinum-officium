@@ -6,7 +6,7 @@ CredoDA
 ;;Duplex;;3;;vide C4a
 
 [Officium]
-S. Athanasius, Confessor and Doctor of the Church
+St. Athanasius, Confessor and Doctor of the Church
 
 [Name]
 Athanasius

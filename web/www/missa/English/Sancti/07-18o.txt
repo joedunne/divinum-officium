@@ -6,7 +6,7 @@ Gloria
 ;;Simplex;;1.1;;vide C3a
 
 [Officium]
-S. Symphorosa with her Seven Sons, Martyrs
+St. Symphorosa with her Seven Sons, Martyrs
 
 [Name]
 Symphorosa and her sons

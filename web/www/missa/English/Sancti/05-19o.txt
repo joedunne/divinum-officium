@@ -6,7 +6,7 @@ Gloria
 ;;Simplex;;1.1;;vide C6a
 
 [Officium]
-S. Pudentiana Virginis
+St. Pudentiana Virginis
 
 [Name]
 Pudentiana

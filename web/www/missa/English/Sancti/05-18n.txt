@@ -2,7 +2,7 @@
 ;;Duplex optional;;2;;vide C4
 
 [Officium]
-S. John I, pope and martyr
+St. John I, pope and martyr
 
 [Rule]
 Gloria

@@ -5,7 +5,7 @@ vide C6;
 ;;Simplex;;1.1;;vide C6
 
 [Officium]
-S. Apollonia, Virgin and Martyr
+St. Apollonia, Virgin and Martyr
 
 [Name]
 Apollonia

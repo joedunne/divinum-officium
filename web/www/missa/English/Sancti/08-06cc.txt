@@ -2,7 +2,7 @@
 ;;Simplex;;1.1;;vide C3a
 
 [Officium]
-S. Xystus II Pope, Felicissimus and Agapitus, Martyrs
+St. Xystus II Pope, Felicissimus and Agapitus, Martyrs
 
 [Name]
 Sixtus, Felicissimus and Agapitus

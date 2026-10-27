@@ -2,7 +2,7 @@
 ;;Duplex optional;;2;;vide C3
 
 [Officium]
-S. Augustine Zhao Rong and companions, martyrs
+St. Augustine Zhao Rong and companions, martyrs
 
 [Rule]
 vide C3;

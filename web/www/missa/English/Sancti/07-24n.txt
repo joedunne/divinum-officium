@@ -2,7 +2,7 @@
 ;;Duplex optional;;2;;vide C5
 
 [Officium]
-S. Sharbel Makhluf, hermit
+St. Sharbel Makhluf, hermit
 
 [Rule]
 vide C5;

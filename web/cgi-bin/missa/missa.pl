@@ -176,7 +176,9 @@ if ($command =~ /setup(.*)/is) {
   $background = ($whitebground) ? ' class="contrastbg"' : '';
   anteOrdo();
 
-  ordo();
+  if ($winner !~ /Quad6-4/i) {
+    ordo();
+  }
   if ($allmissaofday==1 && $winner{Rule} =~ /(multiple|celebranda aut\s+)(.*)/) {
     my $object = $2;
     my $lim;
@@ -187,14 +189,27 @@ if ($command =~ /setup(.*)/is) {
     } else {
       @missae = split /\baut\s+/i, $object;
     }
-    my $first_element = shift @missae; #already did the first Mass
     my $i = 1;
+    my $index = 1;
+    if ($winner =~ /Quad6-4/i) {
+      @missae = reverse @missae;
+      $i = 3;
+      $index = 0;
+    } else {
+      my $first_element = shift @missae; #already did the first Mass
+    }
+
     for (@missae) {
-       $i = $i + 1;
+       if ($winner =~ /Quad6-4/i) {
+         $i = $i - 1;
+       } else {
+         $i = $i + 1;
+       }
+       $index = $index + 1;
        our $missanumber = $i;
        s/\bmissa/Missa/;
        our $missaname = $_;
-       our $missastartid = 'Missa' . $i . 'top';
+       our $missastartid = 'Missa' . $index . 'top';
 
        loadsetup($setupsave);
        set_runtime_options('general');       #$expand, $version, $lang2

@@ -6,7 +6,7 @@ Gloria
 ;;Simplex;;1.1;;vide C2b-1
 
 [Officium]
-S. Stephen Pope and Martyr
+St. Stephen Pope and Martyr
 
 [Name]
 Stephen

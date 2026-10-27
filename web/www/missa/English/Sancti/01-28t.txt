@@ -5,7 +5,7 @@ vide C6-1;
 ;;Simplex;;1.1;;vide C6-1
 
 [Officium]
-S. Agnes Virgin and Martyr, second
+St. Agnes Virgin and Martyr, second
 
 [Introitus]
 @Commune/C10b

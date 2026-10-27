@@ -7,7 +7,7 @@ Gloria
 ;;Simplex;;1.1;;vide C3a
 
 [Officium]
-S. Eustachius and Companions, Martyrs
+St. Eustachius and Companions, Martyrs
 
 [Name]
 Eustache and his companions

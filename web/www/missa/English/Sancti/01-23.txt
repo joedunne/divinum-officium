@@ -1,5 +1,5 @@
 [Officium]
-S. Raymond of Penafort, Confessor
+St. Raymond of Penafort, Confessor
 
 [Rank]
 ;;Semiduplex;;2.2;;vide C5

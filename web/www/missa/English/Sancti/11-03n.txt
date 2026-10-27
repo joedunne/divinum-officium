@@ -5,4 +5,4 @@ vide C5;
 ;;Duplex optional;;2;;vide C5
 
 [Officium]
-S. Martin de Porres, religious
+St. Martin de Porres, religious
