@@ -61,5 +61,13 @@ Because of all these things they promised unto themselves that they shall enter 
 [Ant 2]
 Beware of false prophets, * which come to you in sheep's clothing, but inwardly they are ravening wolves. Ye shall know them by their fruits. Alleluia.
 
-[Ant 3]
+[Ant 3_]
 A good tree cannot bring forth evil fruit, * neither can a corrupt tree bring forth good fruit. Every tree that bringeth not forth good fruit, is hewn down and cast into the fire. Alleluia.
+
+[Ant 3C]
+Non omnis, * qui dicit mihi: Dómine, Dómine, intrábit in regnum cœlórum: sed qui facit voluntátem Patris mei, qui in cœlis est, ipse intrábit in regnum cœlórum, allelúia.
+
+[Ant 3]
+@:Ant 3_
+(sed rubrica cisterciensis aut rubrica praedicatorum)
+@:Ant 3C

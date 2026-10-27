@@ -33,17 +33,17 @@ _
 $Confiteor
 $Misereatur
 $Indulgentiam
-
+_
 &psalm(4)
-
+_
 (rubrica tridentina) &psalm(30,1,6)
-
+_
 &psalm(90)
-
+_
 &psalm(133)
-
+_
 &psalm(233)
-
+_
 !Secreto
 $Pater noster
 !Aliquantulum altius

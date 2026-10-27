@@ -118,15 +118,15 @@ $Per Dominum
 &special('Initial', 'Latin')
 $Credo
 (sed rubrica 1955 aut rubrica 1960 aut rubrica innovata omittitur)
-
+_
 &psalm(87)
-
+_
 &psalm(27)
-
+_
 &psalm(31)
-
+_
 &special('Oratio mortuorum2', 'Latin')
-
+_
 &special('#Martyrologium', 'Latin')
 _
 V. In memória ætérna erunt justi.
@@ -135,64 +135,64 @@ _
 $Oremus
 v. Deus, véniæ largítor et humánæ salútis amátor: quǽsumus cleméntiam tuam; ut ánimas ómnium fidélium qui ex hoc sǽculo transiérunt, beáta María semper Vírgine intercedénte cum ómnibus Sanctis tuis, ad perpétuæ beatitúdinis consórtium perveníre concédas. Per Christum Dóminum nostrum.
 $Amen
-
+_
 &special('Conclusio', 'Latin')
 
 [Special Tertia]
 &special('Initial', 'Latin')
 (sed rubrica 1955 aut rubrica 1960 aut rubrica innovata omittitur)
-
+_
 &psalm(37,1,11)
-
+_
 &psalm(37,12,23)
-
+_
 &psalm(55)
-
+_
 &special('Oratio mortuorum', 'Latin')
-
+_
 &special('Conclusio', 'Latin')
 
 [Special Sexta]
 &special('Initial', 'Latin')
 (sed rubrica 1955 aut rubrica 1960 aut rubrica innovata omittitur)
-
+_
 &psalm(69)
-
+_
 &psalm(84)
-
+_
 &psalm(85)
-
+_
 &special('Oratio mortuorum', 'Latin')
-
+_
 &special('Conclusio', 'Latin')
 
 [Special Nona]
 &special('Initial', 'Latin')
 (sed rubrica 1955 aut rubrica 1960 aut rubrica innovata omittitur)
-
+_
 &psalm(101,1,13)
-
+_
 &psalm(101,14,23)
-
+_
 &psalm(101,24,29)
-
+_
 &special('Oratio mortuorum', 'Latin')
-
+_
 &special('Conclusio', 'Latin')
 
 [Special Completorium]
 $Confiteor
 $Misereatur
 $Indulgentiam
-
+_
 &psalm(122)
-
+_
 &psalm(141)
-
+_
 &psalm(142)
-
+_
 &psalm(233)
-
+_
 &special('Oratio mortuorum1', 'Latin')
-
+_
 &special('Conclusio', 'Latin')

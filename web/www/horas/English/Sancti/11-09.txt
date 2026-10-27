@@ -3,6 +3,8 @@ Dedication of the Lateran Basilica of Our Savior;;Duplex 2nd class;;5.5;;ex C8
 
 [Rank] (rubrica tridentina)
 Dedication of the Lateran Basilica of Our Savior;;Duplex majus;;4;;ex C8
+(sed rubrica 1906)
+In Dedicatione Archibasilicæ Ss. Salvatoris;;Duplex majus;;4;;ex C8
 
 [Lectio1]
 From the Book of Revelation
@@ -45,11 +47,5 @@ _
 V. Let the Saints be joyful in glory.
 R. Let them sing aloud upon their beds.
 _
-$Oremus.
+$Oremus
 O Almighty and everlasting God, Who again allowest us reverently to keep in one Festival the worthy memory of all thy Saints, be pleased, we beseech thee, to grant unto that great cloud of bedesmen the outpouring of thy mercy whereof we are afain.
-_
-!Commemoration of St. Theodore, Martyr
-@Commune/C2:Oratio proper
-$Oremus.
-O God, Who surround and protect us with the glorious profession of blessed Theodore, Your Martyr, grant us to profit by imitating him and to rejoice in his intercession.
-$Per Dominum

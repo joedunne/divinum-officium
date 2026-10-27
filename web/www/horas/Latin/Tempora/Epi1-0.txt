@@ -78,6 +78,7 @@ Dómine Jesu Christe, qui, Maríæ et Joseph súbditus, domésticam vitam ineffa
 $Qui vivis
 
 [Commemoratio]
+!
 @Tempora/Epi1-0a:Oratio:s/V\. .*/V. Omnes de Saba vénient, allelúja./ s/R\. .*/R. Aurum et thus deferéntes, allelúja./
 (sed rubrica cisterciensis)
 @Tempora/Epi1-0a:Oratio

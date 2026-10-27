@@ -14,6 +14,8 @@ $Per Dominum
 [Commemoratio]
 !Commemoration of the Octave of the Ascension
 @Tempora/Pasc5-4:Oratio
+(sed rubrica cisterciensis)
+@TemporaCist/Pasc5-4:Oratio
 
 [Lectio1]
 Lesson from the first letter of St. John the Apostle

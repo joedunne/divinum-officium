@@ -100,11 +100,7 @@ Nunc, et per omne sǽculum.
 Amen.
 
 [HymnusM Matutinum]
-v. Nardo María pístico,
-Unxit beátos Dómini
-Pedes, rigándo lácrimis,
-Et detergéndo crínibus.
-_
+@:Hymnus Matutinum:1-5
 Honor, decus, impérium,
 Sit Trinitáti únicæ
 Patri, Nato, Paráclito,

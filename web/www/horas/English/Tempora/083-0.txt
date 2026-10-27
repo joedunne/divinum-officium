@@ -1,5 +1,13 @@
-[Ant 1]
+[Ant 1_]
 All wisdom * is of the Lord God, and was with Him from everlasting, yea before time was.
+
+[Ant 1C]
+Sapiéntia * clámitat in platéis: Si quis díligit sapiéntiam, ad me declínet, et eam invéniet: et, cum invénerit, beátus erit si tenúerit eam.
+
+[Ant 1]
+@:Ant 1_
+(sed rubrica cisterciensis aut rubrica praedicatorum)
+@:Ant 1C
 
 [Lectio1]
 Lesson from the book of Wisdom

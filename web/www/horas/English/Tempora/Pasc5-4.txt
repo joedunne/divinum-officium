@@ -233,7 +233,11 @@ Ant. I ascend to my Father * and to your Father: to my God and your God, allelui
 _
 V. The Lord hath prepared, alleluia.
 R. His throne in heaven, alleluia.
+(sed rubrica cisterciensis loco hæc versus dicitur)
+V. Ascéndit Deus in jubilatióne, allelúia.
+R. Et Dóminus in voce tubæ, allelúia.
 _
+$Oremus
 Grant, we beseech thee, Almighty God, that just as we do believe thine Only-Begotten Son, our Saviour, to have this day ascended into the heavens, so we may also in heart and mind thither ascend, and with Him continually dwell.
 $Per eumdem
 
@@ -278,6 +282,13 @@ Ant. O King of glory, Lord of hosts, * Who hast this day exalted thine Own Self,
 _
 V. The Lord hath prepared, alleluia.
 R. His throne in heaven, alleluia.
+(sed rubrica tridentina loco hæc versus dicitur)
+V. The Lord is in heaven, alleluia.
+R. He has established his throne, alleluia.
+(sed rubrica cisterciensis loco hæc versus dicitur)
+V. Ascéndens Christus in altum, allelúia.
+R. Captívam duxit captivitátem, allelúia.
 _
+$Oremus
 Grant, we beseech thee, Almighty God, that just as we do believe thine Only-Begotten Son, our Saviour, to have this day ascended into the heavens, so we may also in heart and mind thither ascend, and with Him continually dwell.
 $Per eumdem

@@ -1,5 +1,13 @@
-[Ant 1]
+[Ant 1_]
 My son, keep thy fathers commandment * and forsake not the law of thy mother, but bind them continually upon thy heart.
+
+[Ant 1C]
+Dóminus possédit me * in inítio viárum suárum, ántequam quidquam fáceret a princípio: necdum erant abyssi, et ego parturiébar: quando præparábat cœlos, áderam, cum eo compónens ómnia.
+
+[Ant 1]
+@:Ant 1_
+(sed rubrica cisterciensis)
+@:Ant 1C
 
 [Lectio1]
 Lesson from the book of Ecclesiasticus

@@ -32,8 +32,13 @@ Amen.
 V. The kings of Tarshish and of the isles shall bring presents.
 R. The kings of Arabia and Saba shall offer gifts.
 
-[Ant 1]
+[Ant 1_]
 When the wise men saw the star * they said one unto another: This is the sign of the Great King; let us go and search diligently for Him, and present unto Him gifts, gold, and frankincense, and myrrh. Alleluia.
+
+[Ant 1]
+@:Ant 1_
+(sed rubrica cisterciensis)
+@:Ant 1_:s/Magi vidéntes \* stellam,/Magi \* vidérunt stellam, et/i
 
 [Oratio]
 O God, Who by the leading of a star didst, as on this day, manifest thine Only-begotten Son to the Gentiles, mercifully grant that we, which know thee now by faith, may after this life have the fruition of thy glorious Godhead:
@@ -163,8 +168,7 @@ Thus also we remark that afterwards the Redeemer was preached among the Gentiles
 
 [Responsory8]
 R. When the wise men saw the star, they rejoiced with exceeding great joy.
-* And when they were come into the house, they found the young Child with Mary His Mother, and fell down and worshipped Him; * 
-and when they had opened their treasures, they presented unto Him gifts; gold, and frankincense, and myrrh.
+* And when they were come into the house, they found the young Child with Mary His Mother, and fell down and worshipped Him; * and when they had opened their treasures, they presented unto Him gifts; gold, and frankincense, and myrrh.
 V. The star which the wise men had seen in the East, went before them, till it came and stood over where the young Child was.
 R. And when they were come into the house, they found the young Child with Mary His Mother, and fell down and worshipped Him.
 &Gloria

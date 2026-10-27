@@ -41,13 +41,13 @@ Ant. Véspere autem Sábbati.
 Ant. Véspere autem sábbati quæ lucéscit in prima sábbati, venit María Magdaléne et áltera María vidére sepúlcrum, allelúja.
 (sed rubrica cisterciensis)
 Ant. Véspere autem Sábbati, * quæ lucéscit in prima Sábbati, venit María Magdaléne, et áltera María vidére sepúlchrum, allelúia.
-
+_
 &Dominus_vobiscum
 v. Orémus.
 v. Spíritum nobis, Dómine, tuæ caritátis infúnde: ut, quos sacraméntis paschálibus satiásti, tua fácias pietáte concórdes.
 $Per Dominum eiusdem
 &Dominus_vobiscum
-
+_
 V. Benedicámus Dómino, allelúja, allelúja.
 R. Deo grátias, allelúja, allelúja.
 (nisi rubrica cisterciensis) $Fidelium animae

@@ -17,7 +17,7 @@ My heart hath looked for * reproach and bitterness and I looked for some to take
 
 [Oratio 1]
 O God, the Protector of all them that trust in thee, without Whom nothing is strong, nothing is Holy increase and multiply upon us thy mercy, that Thou being our ruler and guide, we may so pass through things temporal, that we finally lose not the things eternal.
-$Deo Gratias
+$Per Dominum
 
 [Invit]
 Christ suffered for us, * O come, let us worship Him
@@ -65,7 +65,8 @@ Lesson from the book of Isaias
 6 The foot shall tread it down, the feet of the poor, the steps of the needy.
 
 [Responsory2]
-R. Behold, when we shall see Him, He hath no form nor comeliness there is no beauty in Him this is He Which hath borne our griefs and carried our sorrows but He was wounded for our transgressions * And with His stripes we are healed.
+R. Behold, when we shall see Him, He hath no form nor comeliness there is no beauty in Him this is He Which hath borne our griefs and carried our sorrows but He was wounded for our transgressions
+* And with His stripes we are healed.
 V. Surely He hath borne our griefs and carried our sorrows.
 R. And with His stripes we are healed.
 
@@ -127,36 +128,8 @@ v. Behold, God is my saviour, I will deal confidently, and will not fear: O beca
 $Deo gratias
 
 [Hymnus Laudes]
-v. Jesus, behind thy temple's veil,
-Hid in an ark of gold,
-On stones engraven, lay the law
-thy finger wrote of old.
-_
-But in thy body's temple new,
-thy life-blood's throbbing shrine,
-Held, upon fleshly tables graved,
-The law of love divine.
-_
-And when that heart in death was stilled,
-Each temple's veil was riven:
-And lo, within thy love's red shrine,
-To us to look was given.
-_
-There make us gaze and see the love
-Which drew thee, for our sake,
-O great high-priest, thyself to God
-A sacrifice to make.
-_
-Thou, Saviour, cause that every soul
-Which thou hast loved so well,
-May will within thine open heart
-In life and death to dwell.
-_
-Grant it, O Father, only Son,
-And Spirit, God of grace,
-To whom all worship shall be done,
-In every time and place.
-Amen.
+@Tempora/Pent02-5:Hymnus Laudes:1-25
+@:Doxology_
 
 [Versum 2]
 V. Surely He hath borne our griefs.

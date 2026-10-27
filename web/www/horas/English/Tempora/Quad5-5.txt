@@ -71,6 +71,8 @@ $Qui vivis
 [Commemoratio 1]
 !Commemoration of Thursday of Passion Week
 Ant. With desire I have desired * to eat this Passover with you before I suffer.
+(sed rubrica cisterciensis)
+Ant. Mittens hæc múlier * in corpus meum hoc unguéntum, ad sepeliéndum me fecit.
 _
 V. Deliver me, O Lord, from the evil man.
 R. Preserve me from the wicked man.
@@ -228,11 +230,7 @@ R. Unto Christ, with pure emotion, Raise my contrite heart's devotion, Love to r
 &teDeum
 
 [Ant Laudes]
-I will get me to the mountain of myrrh, * and to the hill of frankincense.
-My beloved * is white and ruddy the hair of his head is like kingly purple, bound in tresses.
-Whither is thy beloved gone, * O thou fairest among women? Whither is thy beloved turned aside?
-A bundle of myrrh is my well-beloved unto me; he shall lie betwixt my breasts.
-Revive me with flowers, * stay me up with apples, for I am swooning with love.
+@:Ant Vespera:s/;;.*//g
 
 [Capitulum Laudes]
 !Isa 53:1-2
@@ -275,7 +273,7 @@ _
 V. Deliver me from mine enemies, O my God.
 R. And defend me from them that rise up against me.
 _
-$Oremus.
+$Oremus
 We beseech thee, O Lord, pour thy grace into our hearts, that all we who of our own will do check our sins with the curb of mortification, may suffer here, and escape condemnation to eternal punishment hereafter.
 $Per Dominum
 

@@ -44,8 +44,16 @@ But thou, O Lord, * knowest all their plans to put me to death.
 All my enemies have heard of my evil, * they have rejoiced that thou, O Lord, hast done it.
 The Lord helpeth them * to right that suffer wrong, but as for the way of the ungodly, he turneth it upside down.
 
-[Ant 2]
+[Ant 2_]
 Simon, do you sleep? * Could you not watch one hour with me?
+
+[Ant 2C]
+Tanto témpore * vobíscum eram docens vos in templo, et non me tenuístis, et ecce flagellátum dúcitis ad crucifigéndum.
+
+[Ant 2]
+@:Ant 2_
+(sed rubrica cisterciensis)
+@:Ant 2C
 
 [Oratio 2]
 O Almighty God, we beseech Thee that we whose transgressions do unceasingly harm us, may find freedom in the Suffering of Thine Only-begotten Son.

@@ -199,8 +199,7 @@ R. Queen of mercy.
 R. Hail, * Queen of mercy.
 
 [Versum Tertia]
-V. There stood by the cross of Jesus his Mother. (Alleluia.)
-R. Sharing in his passion, the Queen of the whole world. (Alleluia.)
+@:Nocturn 2 Versum
 
 [Capitulum Sexta]
 !Sir 24:9-11

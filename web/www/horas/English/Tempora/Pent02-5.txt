@@ -58,6 +58,7 @@ _
 V. Take my yoke upon you, and learn of me.
 R. For I am meek and lowly in Heart.
 _
+$Oremus
 O God, who hast suffered the Heart of thy Son to be wounded by our sins, and in that very Heart hast bestowed on us the abundant riches of thy love: grant that the devout homage of our hearts, which we render unto him, may of thy mercy be deemed a recompence acceptable in thy sight.
 $Per eumdem
 
@@ -278,6 +279,7 @@ _
 V. With joy shall ye draw water.
 R. Out of the fountains of the Saviour.
 _
+$Oremus
 O God, who hast suffered the Heart of thy Son to be wounded by our sins, and in that very Heart hast bestowed on us the abundant riches of thy love: grant that the devout homage of our hearts, which we render unto him, may of thy mercy be deemed a recompence acceptable in thy sight.
 $Per eumdem
 
@@ -340,8 +342,6 @@ _
 V. With joy shall ye draw water.
 R. Out of the fountains of the Saviour.
 _
-O God, the protector of all them that trust in thee, without whom
-nothing is strong, nothing is holy; increase and multiply upon us thy
-mercy, that thou being our ruler and guide, we may so pass through
-things temporal, that we finally lose not the things eternal.
+$Oremus
+O God, the protector of all them that trust in thee, without whom nothing is strong, nothing is holy; increase and multiply upon us thy mercy, that thou being our ruler and guide, we may so pass through things temporal, that we finally lose not the things eternal.
 $Per Dominum

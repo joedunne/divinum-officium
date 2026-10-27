@@ -10,7 +10,7 @@ vide C6a
 
 [Oratio]
 Dómine Jesu Christe, qui investigábiles divítias Cordis tui beátæ Margarítæ Maríæ Vírgini mirabíliter revelásti; da nobis ejus méritis et imitatióne; ut te in ómnibus et super ómnia diligéntes, jugem in eódem Corde tuo mansiónem habére mereámur:
-$Qui vivis.
+$Qui vivis
 
 [Lectio4]
 Margarita Maria Alacóque, in pago diœcesis Augustodunénsis, honesto genere nata, jam inde a teneris annis futuræ sanctitátis indícia præbuit. In Deiparam Vírginem et in augustum Eucharistiæ sacraméntum amóre flagrans, adolescentula Deo virginitátem devovit, id exoptans unice ut ad christianas virtútes vitam compóneret. In deliciis habebat prolixas preces rerumque cæléstium contemplatiónem, sui contemptum, patiéntiam in adversis, corporis afflictatiónem, caritátem in próximos, præsertim egénos; summoque studio nitebátur ut sanctíssima divini Redemptoris exempla pro viribus referret.

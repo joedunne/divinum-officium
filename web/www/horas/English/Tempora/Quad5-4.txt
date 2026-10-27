@@ -23,8 +23,16 @@ The Master saith: My time is at hand; * I will keep the Passover at thy house wi
 Grant, we beseech thee, O Almighty God, that the honour of man's nature, which gluttony hath degraded, may be seasonably renewed by strictness in keeping of this healthful Fast.
 $Per Dominum
 
-[Ant 3]
+[Ant 3_]
 With desire I have desired * to eat this Passover with you before I suffer.
+
+[Ant 3C]
+Mittens hæc múlier * in corpus meum hoc unguéntum, ad sepeliéndum me fecit.
+
+[Ant 3]
+@:Ant 3_
+(sed rubrica cisterciensis aut rubrica praedicatorum)
+@:Ant 3C
 
 [Oratio 3]
 O Lord, we beseech thee deal mercifully with thy people, and fill plentifully with the rich things of thy commandments all them who at this time do, to fulfill thy will, turn away from that which displeaseth thee.

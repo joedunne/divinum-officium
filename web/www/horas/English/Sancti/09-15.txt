@@ -223,11 +223,7 @@ For our prayers and praises prove;
 And Our Lady's woes become
 Endless joys in heaven above.
 _
-Jesus, who for us did die,
-All on thee our love we pour;
-And in the Holy Trinity
-Worship thee forevermore.
-Amen.
+@Tempora/Quad5-5:Doxology
 
 [Versum 2]
 V. By the woes that tortured thee,

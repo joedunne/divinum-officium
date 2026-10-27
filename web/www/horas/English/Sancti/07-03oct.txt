@@ -2,8 +2,7 @@
 Fifth Day Within the Octave of Sts. Peter and Paul, Apostles
 
 [Versum 1]
-V. Thou shalt make them princes over all the earth
-R. They shall remember thy name, O Lord
+@Commune/C1:Nocturn 2 Versum
 
 [Ant 1]
 Apostle Peter * and Paul Doctor of Gentiles, they taught us to your Law O Lord

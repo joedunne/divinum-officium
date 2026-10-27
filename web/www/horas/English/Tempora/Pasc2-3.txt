@@ -9,7 +9,7 @@ And they came with haste, * and found Mary and Joseph, and the Babe lying in a m
 And Jesus Himself began to be about thirty years of age, being (as was supposed) the Son of Joseph. Alleluia.
 
 [Ant 1]
-When as Mary * the Mother of Jesus, was espoused to Joseph, before they came together, she was found with child of the Holy Ghost. Alleluia.
+@Sancti/03-19:Ant Vespera:3 s/;;.*//
 
 [Oratio]
 God, Who in thine unspeakable foreknowledge didst choose thy blessed servant Joseph to be the husband of thine Own most holy Mother; mercifully grant that now that he is in heaven with thee, we who on earth do reverence him for our Defender, may worthily be holpen by the succour of his prayers to thee on our behalf;

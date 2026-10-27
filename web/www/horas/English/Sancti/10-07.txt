@@ -251,11 +251,7 @@ With crown in starry sheen,
 As nigh her Son, in light enthroned,
 She reigns creation's Queen.
 _
-O Jesu, born of Virgin bright,
-All glory be to thee,
-With Father and with Paraclete,
-Through all eternity.
-Amen.
+@Psalterium/Doxologies:Nat
 
 [Versum 2]
 V. God hath chosen her and forechosen her,
@@ -323,11 +319,7 @@ Culled from these mysteries divine,
 And for the Mother of your King
 With loving hands your chaplets twine.
 _
-We lay our homage at thy feet,
-Lord Jesus, thou the Virgin's Son,
-With Father and with Paraclete,
-Reigning while endless ages run.
-Amen.
+@Psalterium/Doxologies:Nat
 
 [Ant 3]
 Blessed Mother * and Inviolate Maiden, Glorious Queen of the World, may all that keep the solemn Feast of thy Most Holy Rosary feel the might of thine assistance.

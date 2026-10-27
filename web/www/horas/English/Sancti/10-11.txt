@@ -166,11 +166,7 @@ O happy Mary, lowly and virgin; and wondrous virginity, which motherhood destroy
 &teDeum
 
 [Ant Laudes]
-Blessed art thou, * O Virgin Mary, who didst bear the Creator of all things.
-Thou didst bring him forth * who made thee, and remainest a Virgin for ever.
-When I was a little one, * I pleased the Most High, and from my womb I have brought forth God and man.
-Daughter, thou art blessed * of the Lord: for by thee we have partaken of the fruit of life.
-The daughters of Sion, * saw her, and called her blessed; and the queens praised her.
+@:Ant Vespera:s/;;.*//gm
 
 [Capitulum Laudes]
 !Sir 24:12-13
@@ -193,11 +189,7 @@ Look thou with a pitying eye;
 And entreat of Jesus grace,
 Till He lay his anger by.
 _
-Honour, glory, virtue, merit,
-Be to Thee, O Virgin’s Son!
-With the Father and the Spirit,
-While eternal ages run.
-Amen.
+@Psalterium/Doxologies:Nat
 
 [Versum 2]
 V. The Root of Jesse hath budded; the Star hath risen out of Jacob. 

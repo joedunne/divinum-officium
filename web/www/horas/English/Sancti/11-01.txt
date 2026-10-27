@@ -38,7 +38,6 @@ Drive from the flock, O Spirit blest!
 The false and faithless race away;
 That all within one fold may rest,
 Secure beneath one shepherd's sway.
-(rubrica 1570 aut rubrica monastica hoc versus omittitur)
 _
 * To God the Father glory be,
 And to his sole-begotten Son;
@@ -173,8 +172,13 @@ Amen.
 [Ant 2_]
 The glorious company of the Apostles praise thee. * The goodly fellowship of the Prophets praise thee. The white-robed army of Martyrs praise thee. All thy Saints and Elect with one voice do acknowledge thee, O Blessed Trinity, One God!
 
+[Ant 2C]
+Beáti estis * Sancti Dei omnes, qui meruístis consórtes fíeri cæléstium virtútum, et pérfrui ætérnæ claritátis glória: idéoque precámur, ut mémores nostri, intercédere dignémini pro nobis ad Dóminum Deum nostrum.
+
 [Ant 2]
 @:Ant 2_
+(sed rubrica cisterciensis)
+@:Ant 2C
 
 [Lectio Prima]
 !Rev 7:12

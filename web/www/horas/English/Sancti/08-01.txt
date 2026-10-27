@@ -59,7 +59,9 @@ When then the Pope put together the Roman chain and that which had been brought 
 From that time forth the honour which before had used to be paid to the profane festivity of the Gentiles, (held in memory of the dedication of the temple of Mars, and of the birth of Claudius,) began to be turned to the Chains of Peter, whose very touch healed the sick, and drove out devils. Among other such cases there befell in the year of man's Redemption 969, that of a certain Count, a servant of the Emperor Otho, who was possessed by an unclean spirit, and tore himself with his own teeth. This man the Emperor ordered to be taken to Pope John, and as soon as he had touched the Count's neck with the hallowed chains, the foul spirit came out of him, and left him free. And thenceforward the reverence for these holy chains greatly increased in the City.
 
 [Responsory6]
-@Sancti/06-29:Responsory6
+@Sancti/02-22:Responsory4
+&Gloria
+R. Therefore unto thee hath He given the keys of the kingdom of heaven.
 
 [Lectio94]
 In the reign of the Emperor Theodosius the younger, his wife Eudocia was gifted in Jerusalem with, among other things, an iron chain, which they affirmed to be the same wherewith the Apostle Peter had been bound by King Herod. Eudocia, with godly reverence, sent this chain to her daughter Eudoxia in Rome, where it was placed by the Pope with another chain wherewith the same blessed Apostle had been shackled under the Emperor Nero. The two chains got so entangled the one with the other that they seemed no longer two but one chain made by a single workman. The very touch of these holy fetters often healed the sick and drave out devils, and so they began to receive such honour, that Eudoxia's Church of St. Peter on the Esquiline Mount was dedicated under the name of St. Peter-in-Chains, and a Feastday in its memory instituted upon the first day of August, replacing the profane festívity of the pagans held on that day.
@@ -78,7 +80,9 @@ Peter was the only one of the Apostles who was worthy to hear the words Amen, I 
 If his shadow as a visitor was so healthful, what is his chain now that he bindeth and looseth. If his empty image in the air had healing power, how much power must have been contracted from his body by those chains, whose iron weight sank into his holy limbs during his suffering. If, before he testified, he was so mighty to aid them that called upon him, how much mightier is he now since his victory. Blessed were the links, doomed to be changed from fetters and shackles, into a crown, which by touching the Apostle, made him a Martyr. Blessed were the chains, whose prisoner left them for the Cross of Christ, and which brought him thither, not as the instruments of condemnation, but of sanctification.
 
 [Responsory8]
-@Sancti/06-29:Responsory8
+@Sancti/02-22:Responsory7
+&Gloria
+R. And I say unto thee, that thou art Peter, and upon this rock I will build My Church.
 
 [Ant 3]
 Thou to whom God hath given the keys * of the kingdom of heaven, loosen the chains which bind the sordid souls of the earthly.

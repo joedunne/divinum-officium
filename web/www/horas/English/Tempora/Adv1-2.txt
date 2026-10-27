@@ -43,5 +43,13 @@ R. To visit you in peace.
 [Ant 2]
 Before they came together, * Mary was found with child of the Holy Ghost. Alleluia.
 
-[Ant 3]
+[Ant 3_]
 Seek ye the Lord * while He may be found; call ye upon Him while He is near. Alleluia.
+
+[Ant 3C]
+Erúmpant montes * jucunditátem, et colles justítiam, quia lux mundi Dóminus cum poténtia venit.
+
+[Ant 3]
+@:Ant 3_
+(sed rubrica cisterciensis)
+@:Ant 3C

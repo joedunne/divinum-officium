@@ -29,7 +29,7 @@ Puer Sámuel * ministrábat ante Deum coram Heli, et sermo Dómini erat pretiós
 
 [Oratio]
 Sancti nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum: quia nunquam tua gubernatióne destítuis, quos in soliditáte tuæ dilectiónis instítuis.
-$Per Dominum.
+$Per Dominum
 
 [Commemoratio]
 !Commemoratio de Octava Corporis Christi

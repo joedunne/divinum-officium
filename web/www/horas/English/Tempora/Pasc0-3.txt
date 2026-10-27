@@ -43,5 +43,13 @@ It may likewise be asked why, when the disciples were toiling in the sea, the Lo
 [Ant 2]
 Cast the net on the right side of the ship, * and ye shall find, alleluia.
 
-[Ant 3]
+[Ant 3_]
 Jesus saith * unto His disciples: Bring of the fish which ye have now caught. Simon Peter went up, and drew the net to land, full of great fishes, alleluia.
+
+[Ant 3C]
+Hoc jam tértio * manifestávit se Jesus, postquam resurréxit a mórtuis, allelúja.
+
+[Ant 3]
+@:Ant 3_
+(sed rubrica cisterciensis)
+@:Ant 3C

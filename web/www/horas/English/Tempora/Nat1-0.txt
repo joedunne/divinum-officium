@@ -13,9 +13,7 @@ O Almighty and everlasting God, do Thou order all our actions in conformity with
 $Qui tecum
 
 [Responsory3](rubrica 1960)
-@Sancti/12-25:Responsory4
-&Gloria
-R. Blessed is that Virgin whose womb was made meet to bear our Lord Christ.
+@Sancti/12-25:Responsory3
 
 [Lectio4]
 From the Sermons of Pope St. Leo (the Great.)

@@ -1,5 +1,7 @@
 [Officium]
 Dominica Sanctissimae Trinitatis
+(sed rubrica tridentina)
+Festum Sanctissimæ Trinitatis
 
 [Ant Vespera]
 Glory be to thee, O equal Trinity * one Deity, from before all ages, so now and for evermore.
@@ -64,7 +66,7 @@ _
 V. Let the evening prayer ascend unto thee, O Lord.
 R. And let there descend upon us thy mercy.
 _
-$Oremus.
+$Oremus
 O God, the Strength of all them that put their trust in thee, mercifully accept our prayers, and because through the weakness of our mortal nature we can do no good thing without thee, grant us the help of thy grace, that in keeping of thy commandments we may please thee, both in will and deed.
 $Per Dominum
 
@@ -305,6 +307,6 @@ _
 V. Let my prayer, O Lord, be set forth.
 R. As incense before thee.
 _
-$Oremus.
+$Oremus
 O God, the Strength of all them that put their trust in thee, mercifully accept our prayers, and because through the weakness of our mortal nature we can do no good thing without thee, grant us the help of thy grace, that in keeping of thy commandments we may please thee, both in will and deed.
 $Per Dominum

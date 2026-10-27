@@ -20,10 +20,7 @@ Lesson from the letter of St. James the Apostle
 11 Behold, we account them blessed who have endured. You have heard of the patience of Job, and you have seen the end of the Lord, that the Lord is merciful and compassionate
 
 [Responsory2]
-R. It is a good thing to give thanks unto the Lord. Alleluia.
-* And to sing praises. Alleluia.
-V. Upon an instrument of ten strings, upon the harp with a solemn sound.
-R. And to sing praises. Alleluia.
+@Tempora/Pasc4-0:Responsory8
 &Gloria
 R. And to sing praises. Alleluia.
 

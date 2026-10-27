@@ -25,10 +25,7 @@ Lesson from the letter of St. James the Apostle
 26 For even as the body without the spirit is dead; so also faith without works is dead.
 
 [Responsory3]
-R. Let now the redeemed of the Lord. Alleluia.
-* Say: Alleluia, Alleluia, Alleluia.
-V. Let them whom He hath redeemed from the hand of the enemy, and gathered them out of the lands.
-R. Say: Alleluia, Alleluia, Alleluia.
+@Tempora/Pasc4-1:Responsory1
 &Gloria
 R. Say: Alleluia, Alleluia, Alleluia.
 

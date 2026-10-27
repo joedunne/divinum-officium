@@ -22,5 +22,13 @@ Lesson from the book of Isaias
 12 They shall give glory to the Lord, and shall declare his praise in the islands.
 13 The Lord shall go forth as a mighty man, as a man of war shall he stir up zeal: he shall shout and cry: he shall prevail against his enemies.
 
-[Ant 2]
+[Ant 2_]
 Awake, awake, * put on strength, O arm of the Lord!
+
+[Ant 2C]
+Dies Dómini sicut fur * in nocte ita véniet, et vos estóte paráti, quia qua hora non putátis, Fílius hóminis véniet.
+
+[Ant 2]
+@:Ant 2_
+(sed rubrica cisterciensis)
+@:Ant 2C
