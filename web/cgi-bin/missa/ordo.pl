@@ -95,12 +95,14 @@ sub ordo {
       $missa_common_name =~ s/<([^>]+)>/($1)/g;
       $missa_common_name =~ s/\R+\z//;         # Removes all trailing newlines
       $missa_common_name =~ s/\R/<br\/>/g;     # Replaces internal newlines
+      $missa_common_name =~ s/;.+//;
 #      $missaname .= "<br/>" . $missa_common_name;
       print "<H3>$missa_common_name</H3>\n" if $content;
       print STDERR "Missa Name : $missa_common_name\n";
   } elsif ($officium_name && $officium_name !~ /Officium missing!/) {
       $officium_name =~ s/<([^>]+)>/($1)/g;
       $officium_name =~ s/\R/<br\/>/g;
+      $officium_name =~ s/;.+//;
       print "<H3>$officium_name</H3>\n" if $content;
       print STDERR "Missa Name : $officium_name\n";
   } else {
@@ -200,6 +202,7 @@ sub resolve_refs {
 
     # Should this line be joined to the next? Strip off the continuation
     # character as we check.
+#    $line =~ s/~~$/<br>~/;
     my $merge_with_next = ($line =~ s/~$//);
     my $is_communicantes = ($line =~ /communicantes/);
     my $is_hancigitur = ($line =~ /hancigitur/);
@@ -321,6 +324,9 @@ sub resolve_refs {
     $line =~ s{/:sbi(.*?):/}{setfont('-1 italic', $1)}eg;
     $line =~ s{/:sb(.*?):/}{setfont($smallblack, $1)}eg;
     $line =~ s{/:(.*?):/}{setfont($redfont, $1)}eg;
+
+#    $line =~ s|/#startkeepwithnext#/|<div class="table-block">|g;
+#    $line =~ s|/#endkeepwithnext#/|</div>|g;
 
     # First letter initial.
     $line =~ s/

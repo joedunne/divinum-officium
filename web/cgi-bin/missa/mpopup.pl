@@ -87,14 +87,15 @@ print "<H2 ALIGN=CENTER id='H2_Litanies'><FONT COLOR=MAROON><B><I>Litanies</I></
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of The Saints", ("LitanyOfTheSaints"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of The Most Precious Blood", ("LitanyOfTheMostPreciousBlood"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of The Sacred Heart", ("LitanyOfTheSacredHeart"));
-#print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of The Most Holy Name of Jesus", ("LitanyOfTheMostHolyNameOfJesus"));
-#print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of The Blessed Virgin", ("LitanyOfTheBlessedVirgin"));
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of The Holy Name of Jesus", ("LitanyOfTheMostHolyNameOfJesus"));
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of Loreto", ("LitanyOfTheBlessedVirgin"));
+#Litany of Our Lady of the Seven Sorrows : LitanyOfOurLadySevenSorrows
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Dominican Litany to the Blessed Virgin Mary", ("DominicanLitanyToTheBlessedVirginMary"));
 #print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of St. Joseph", ("LitanyOfStJoseph"));
-#Litany of Our Lady of the Seven Sorrows
-#Litany of the Holy Ghost
-#Litany of the Holy Face of Jesus
-#Litany of St. Michael the Archangel
-#Litany of Humility
+#Litany of the Holy Ghost : LitanyOfTheHolyGhost
+#Litany of the Holy Face of Jesus : LitanyOfTheHolyFaceOfJesus
+#Litany of St. Michael the Archangel : LitanyOfStMichaelTheArchangel
+#Litany of Humility : LitanyOfHumility
 
 
 print "<H2 ALIGN=CENTER id='H2_EssentialPrayers'><FONT COLOR=MAROON><B><I>Essential Prayers</I></B></FONT></H2>\n";
@@ -111,7 +112,32 @@ print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Professi
 #Evening Prayers
 #Prayer before any work & Prayer after work
 #Antiphons to the Blessed Virgin
+
+#Prayers to the Blessed Virgin Mary
+#print "<H2 ALIGN=CENTER id='H2_PrayersToTheBlessedVirginMary'><FONT COLOR=MAROON><B><I>Prayers to the Blessed Virgin Mary</I></B></FONT></H2>\n";
+#Salve Regina | Hail Holy Queen
+#Memorare
+#Magnificat
+#Ave Maris Stella
+#Alma Redemptoris Mater | Nurturing Mother of the Redeemer
+#Ave Regina Caelorum
+#Inviolata | Inviolate
+#The Seven Sorrows of Our Lady / Chaplet of Seven Sorrows
+#Tota pulchra es Maria | You are all beautiful, Mary,
+#Flos Carmeli | Flower of Carmel
+#Chaplet of Twelve Stars
+
 #Prayers to St. Joseph
+#print "<H2 ALIGN=CENTER id='H2_PrayersToStJoseph'><FONT COLOR=MAROON><B><I>Prayers to St. Joseph</I></B></FONT></H2>\n";
+#Prayer to St. Joseph | Oratio ad Sanctum Iosephum
+#Commemoration of St. Joseph | Commemoratio Sancti Ioseph
+#Memorare of St Joseph
+#Invocation of Holy Joseph
+#Memento nostri, beate Ioseph | Be mindful of us, O Blessed Joseph
+#Ioseph, Virgo Pater Iesu | Joseph, Virgin-Father of Jesus
+#Guardian of Virgins | Virginum Custos
+#Seven Sorrows and Seven Joys of St Joseph
+
 #Adoration and Divine Praises
 
 print_baptism($lang1, $devotion_sections1, $lang2, $devotion_sections2);
@@ -152,6 +178,9 @@ sub print_prayer {
       my $str2 = ${$sections_lang2}{$item};
       $str1 =  resolve_refs($str1, $lang1);
       $str2 =  resolve_refs($str2, $lang2);
+
+      $str1 =~ s/\*([^\n\.]*)/<i>$1<\/i>/g;
+      $str2 =~ s/\*([^\n\.]*)/<i>$1<\/i>/g;
 
       push(@script1, "\n");
       push(@script1, split('_', $str1));
