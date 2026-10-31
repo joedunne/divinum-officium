@@ -240,8 +240,7 @@ V. Let not the enemy prevail against us.
 R. Nor the son of evil have power to hurt us.
 V. Lord, deal not with us according to our sins.
 R. Nor requite us according to our evil doings.
-V. Let us pray for our Sovereign Pontiff~
-r. N.
+V. Let us pray for our Sovereign Pontiff N.
 R. The Lord watch over him and give him life and happiness on earth, and deliver him not to the will of his enemies.
 V. Let us pray for our benefactors.
 R. Be so kind, O Lord, as to give eternal life to all those who do us good, for thy name's sake. Amen.
@@ -265,8 +264,7 @@ r. O God, it is according to thy nature always to show mercy and forgiveness. Re
 r. We beg thee, O Lord, hear our prayers as we kneel before thee. Pardon our sins, as we confess them to thee, so that thou mayest, in thy kindness, give us pardon as well as peace.
 r. In thy kindness show us, O Lord, thy unutterable mercy, and at one and the same time free us from all our sins, and snatch us away from the punishment which we deserve for them.
 r. O God, thou art offended by sin, and placated by penance. Look with favor upon the prayers of thy people kneeling before thee. Turn away the scourges of thine anger which we have deserved for our sins.
-r. Almighty, everlasting God, have mercy on thy servant~
-r. N., our Sovereign Pontiff. Direct him, according to thy mercy into the path of eternal salvation so that, by thy grace, he may both desire those things that are pleasing to thee, and may perform them with all his strength.
+r. Almighty, everlasting God, have mercy on thy servant N., our Sovereign Pontiff. Direct him, according to thy mercy into the path of eternal salvation so that, by thy grace, he may both desire those things that are pleasing to thee, and may perform them with all his strength.
 r. O God, from whom all holy desires, all good counsels, and all just works do proceed; Give unto thy servants that peace which the world cannot give, so that, with our hearts set to obey thy commandments, and freed from the fear of the enemy, we may pass our lives in peace under thy protection.
 r. Inflame our hearts and our desires, O Lord, with the fire of the Holy Spirit, so that we may serve thee with a chaste body, and please thee with a pure heart.
 r. O God, thou art the creator and redeemer of all the faithful. Grant to the souls of thy servants departed the remission of all their sins, so that by our faithful prayers they may obtain the pardon they have always desired.
@@ -577,22 +575,612 @@ $Oremus
 V. Grant, we beseech Thee, O Lord God, unto us Thy servants, that we may rejoice in continual health of mind and body; and, by the glorious intercession of Blessed Mary ever Virgin, may be delivered from present sadness, and enter into the joy of Thine eternal gladness. Through Christ our Lord. * Amen.
 
 [LitanyOfStJoseph]
-x
+#Litany of St. Joseph
+r. Lord, have mercy on us.
+r. Christ have mercy on us.
+r. Lord, have mercy on us.
+r. Christ, hear us.
+r. Christ, graciously hear us.
+_
+&nonbreakingspace
+_
+r. God the Father of Heaven, * have mercy on us.
+r. God the Son, Redeemer of the world, * have mercy on us.
+r. God the Holy Spirit, * have mercy on us.
+r. Holy Trinity, One God, * have mercy on us.
+_
+&nonbreakingspace
+_
+r. Holy Mary, * pray for us.
+_
+&nonbreakingspace
+_
+r. St. Joseph, * pray for us.
+r. Noble scion of David, * pray for us.
+r. Light of the Patriarchs, * pray for us.
+r. Spouse of the Mother of God, * pray for us.
+r. Chaste Guardian of the Virgin, * pray for us.
+r. Foster-father of the Son of God, * pray for us.
+r. Sedulous Defender of Christ, * pray for us.
+r. Head of the Holy Family, * pray for us.
+r. Joseph most just, * pray for us.
+r. Joseph most chaste, * pray for us.
+r. Joseph most prudent, * pray for us.
+r. Joseph most valiant, * pray for us.
+r. Joseph most obedient, * pray for us.
+r. Joseph most faithful, * pray for us.
+r. Mirror of patience, * pray for us.
+r. Lover of poverty, * pray for us.
+r. Model of all who labor, * pray for us.
+r. Glory of family life, * pray for us.
+r. Protector of virgins, * pray for us.
+r. Pillar of families, * pray for us.
+r. Consolation of the afflicted, * pray for us.
+r. Hope of the sick, * pray for us.
+r. Patron of the dying, * pray for us.
+r. Terror of the demons, * pray for us.
+r. Protector of Holy Church, * pray for us.
+_
+&nonbreakingspace
+_
+r. Lamb of God, Who takes away the sins of the world, * spare us, O Lord.
+r. Lamb of God, Who takes away the sins of the world, * graciously hear us, O Lord.
+r. Lamb of God, Who takes away the sins of the world, * have mercy on us.
+_
+&nonbreakingspace
+_
+r. He made him the lord of his household. * And prince over all his possessions.
+_
+&nonbreakingspace
+_
+$Oremus
+V. God, Who, in Thine ineffable Providence didst vouchsafe to choose blessed Joseph to be the Spouse of Thy most holy Mother; grant, we beseech Thee, that we may be worthy to have him for our intercessor in Heaven whom, on earth, we venearate as our protector. Who livest and reignest world without end. * Amen.
 
 [LitanyOfOurLadySevenSorrows]
-x
+#Litany of Our Lady of Sorrows
+r. Lord, have mercy on us.
+r. Christ, have mercy on us.
+r. Lord, have mercy on us.
+r. Christ, hear us.
+r. Christ, graciously hear us.
+_
+&nonbreakingspace
+_
+r. God the Father of heaven, * have mercy on us.
+r. God the Son, Redeemer of the world, * have mercy on us.
+r. God the Holy Spirit, * have mercy on us.
+r. Holy Trinity, one God, * have mercy on us.
+_
+&nonbreakingspace
+_
+r. Holy Mary, * pray for us.
+r. Holy Mother of God, * pray for us.
+r. Holy Virgin of virgins, * pray for us.
+r. Mother crucified, * pray for us.
+r. Mother sorrowful, * pray for us.
+r. Mother tearful, * pray for us.
+r. Mother afflicted, * pray for us.
+r. Mother forsaken, * pray for us.
+r. Mother desolate, * pray for us.
+r. Mother bereft of thy Son, * pray for us.
+r. Mother pierced with the sword, * pray for us.
+r. Mother worn out with grief, * pray for us.
+r. Mother filled with anguish, * pray for us.
+r. Mother nailed to the cross in thy heart, * pray for us.
+r. Mother most sad, * pray for us.
+r. Fount of tears, * pray for us.
+r. Sum of sufferings, * pray for us.
+r. Mirror of patience, * pray for us.
+r. Rock of constancy, * pray for us.
+r. Anchor of confidence, * pray for us.
+r. Refuge of the forsaken, * pray for us.
+r. Shield of the oppressed, * pray for us.
+r. Conqueror of the unbelieving, * pray for us.
+r. Solace of the wretched, * pray for us.
+r. Medicine of the sick, * pray for us.
+r. Strength of the weak, * pray for us.
+r. Harbour of the shipwrecked, * pray for us.
+r. Calm in the storm, * pray for us.
+r. Resort of the mourning, * pray for us.
+r. Terror of the treacherous, * pray for us.
+r. Treasure of the faithful, * pray for us.
+r. Eye of the Prophets, * pray for us.
+r. Staff of the Apostles, * pray for us.
+r. Crown of Martyrs, * pray for us.
+r. Light of Confessors, * pray for us.
+r. Pearl of Virgins, * pray for us.
+r. Consolation of Widows, * pray for us.
+r. Joy of all the Saints, * pray for us.
+_
+&nonbreakingspace
+_
+r. Lamb of God, who takest away the sins of the world, * spare us, O Lord.
+r. Lamb of God, who takest away the sins of the world, * graciously hear us, O Lord.
+r. Lamb of God, who takest away the sins of the world, * have mercy on us.
+_
+&nonbreakingspace
+_
+V. Pray for us, O Virgin most sorrowful.
+R. That we may be made worthy of the promises of Christ.
+_
+&nonbreakingspace
+_
+$Oremus
+r. O God, in whose Passion, according to the prophecy of Simeon, a sword of sorrow pierced the most sweet soul of the glorious Virgin and Mother Mary: mercifully grant that we, who venerate her sorrows, may obtain the blessed fruit of thy Passion. Who livest and reignest for ever and ever. * Amen.
 
 [LitanyOfTheHolyGhost]
-x
+#Litany of the Holy Ghost
+r. Lord, have mercy.
+r. Christ, have mercy.
+r. Lord, have mercy.
+_
+&nonbreakingspace
+_
+r. Holy Ghost proceeding from the Father and the Son, * have mercy on us.
+r. Spirit of the Lord, the God of Israel, * have mercy on us.
+r. Lord of men, * have mercy on us.
+r. Filling the whole earth, * have mercy on us.
+r. Having every virtue, * have mercy on us.
+r. Author of all good, watchman over all, * have mercy on us.
+r. Adorning the heavens, stable and secure, * have mercy on us.
+r. Spirit of truth, furnishing and distributing everything, * have mercy on us.
+r. Spirit of wisdom and understanding, * have mercy on us.
+r. Spirit of counsel, fortitude, knowledge, and piety, * have mercy on us.
+r. Spirit of fear of the Lord and prudence, * have mercy on us.
+r. Spirit, through Whose inspiration the holy men of God spake, * have mercy on us.
+r. Who announces the things to come, * have mercy on us.
+r. Gift and promise of the Father, * have mercy on us.
+r. Holy Ghost, the Paraclete, accuser of the world, * have mercy on us.
+r. Spirit, by Whom demons are expelled, * have mercy on us.
+r. Spirit, through Whom we are reborn, * have mercy on us.
+r. Spirit, through Whom the love of God is diffused into our hearts, * have mercy on us.
+r. Spirit of adoption of the sons of God, * have mercy on us.
+r. Spirit of grace and mercy, * have mercy on us.
+r. Spirit helping our weaknesses and restoring witness to us, that we are sons of God, * have mercy on us.
+r. Spirit of sweetness and kindness, sweeter than honey, * have mercy on us.
+r. Spirit, Who art the pledge of our inheritance, leading us into righteous lands, * have mercy on us.
+r. Spirit of principal, life-giving and strengthening, * have mercy on us.
+r. Spirit of salvation, judgment, and joy, * have mercy on us.
+r. Spirit of faith, peace, and love, * have mercy on us.
+r. Spirit of humility, charity, and chastity, * have mercy on us.
+r. Spirit of kindness, goodness, patience, and gentleness, * have mercy on us.
+r. Spirit of mildness, truth, unity, and consolation, * have mercy on us.
+r. Spirit of good conscience, promise, renewal, and sanctification, * have mercy on us.
+r. Spirit of life, patience, continence, and modesty, * have mercy on us.
+r. Spirit of every grace, * have mercy on us.
+_
+&nonbreakingspace
+_
+r. Be merciful, * spare us, O Holy Ghost.
+r. Be merciful, * graciously hear us, O Holy Ghost.
+_
+&nonbreakingspace
+_
+r. From the spirit of error, * deliver us, Spirit of the Living God.
+r. From an unclean spirit, * deliver us, Spirit of the Living God.
+r. From the spirit of blasphemy, * deliver us, Spirit of the Living God.
+r. From all stubbornness and despair, * deliver us, Spirit of the Living God.
+r. From every presumption and contradiction of the truth, * deliver us, Spirit of the Living God.
+r. From every malice and depraved habit, * deliver us, Spirit of the Living God.
+r. From the disdain of fraternal charity, * deliver us, Spirit of the Living God.
+r. From final impenitence, * deliver us, Spirit of the Living God.
+r. Through Thy eternal procession from the Father and the Son, * deliver us, Spirit of the Living God.
+r. Through Thy invisible anointing, * deliver us, Spirit of the Living God.
+r. Through every fullness of grace, in which Thou didst always possess the Virgin Mary, * deliver us, Spirit of the Living God.
+r. Through that overflowing abyss of sanctity, which Thou didst pour forth upon the Mother of God at the conception of the Word, * deliver us, Spirit of the Living God.
+r. Through Thy holy apparition at Christ's baptism, * deliver us, Spirit of the Living God.
+r. Through Thy saving advent upon the apostles at Pentecost, * deliver us, Spirit of the Living God.
+r. Through Thy limitless goodness, by which Thou dost govern the Church, advise leaders, strengthen martyrs, illumine teachers, and establish religious institutes, * deliver us, Spirit of the Living God.
+_
+&nonbreakingspace
+_
+r. We sinners, * we beseech Thee, hear us.
+r. That we may walk in spirit, and not filled with earthly desires, * we beseech Thee, hear us.
+r. That we may never sadden Thee, * we beseech Thee, hear us.
+r. That Thou wouldst deign to preserve all in Holy Orders in holy religion and the spirit of truth, * we beseech Thee, hear us.
+r. That Thou wouldst deign to grant the whole Christian people one heart and one soul, * we beseech Thee, hear us.
+r. That Thou wouldst deign to grant us every virtue, * we beseech Thee, hear us.
+r. That Thou wouldst deign to hear us, * we beseech Thee, hear us.
+r. Spirit of God, * we beseech Thee, hear us.
+_
+&nonbreakingspace
+_
+r. Lamb of God, Who taketh away the sins of the world, * pour forth the Holy Spirit in us.
+r. Lamb of God, Who taketh away the sins of the world, * send forth the Spirit, the promise of theFather, to us.
+r. Lamb of God, Who taketh away the sins of the world, * grant us the good spirit.
+_
+&nonbreakingspace
+_
+V. The Spirit of the Lord hath filled the Earth:
+R. It is all-embracing, and knows man's utterances.
+_
+&nonbreakingspace
+_
+$Oremus
+r. We beseech Thee, O Lord, that the strength of the Holy Ghost Who mercifully cleanses our hearts and protects us from all adversity be with us. Through our Lord Jesus Christ Thy Son, Who liveth and reigneth with Thee in the unity of that selfsame Holy Ghost, God, for ever and ever. * Amen.
+
+[LitanyOfTheHolyGhost2]
+#Litany of the Holy Ghost II
+V. Lord, have mercy.
+R. Christ, have mercy.
+V. Lord, have mercy.
+_
+&nonbreakingspace
+_
+r. Holy Ghost, * hear us.
+r. Holy Ghost, * graciously hear us.
+_
+&nonbreakingspace
+_
+r. God the Father of heaven, * have mercy on us.
+r. God the Son, Redeemer of the world, * have mercy on us.
+r. God the Holy Ghost, * have mercy on us.
+r. Holy Trinity, one God, * have mercy on us.
+_
+&nonbreakingspace
+_
+r. Spirit of truth, * have mercy on us.
+r. Spirit of peace, * have mercy on us.
+r. Spirit of wisdom, * have mercy on us.
+r. Spirit of patience, * have mercy on us.
+r. Spirit of understanding, * have mercy on us.
+r. Spirit of kindness, * have mercy on us.
+r. Spirit of courage, * have mercy on us.
+r. Spirit of goodness, * have mercy on us.
+r. Spirit of mercy, * have mercy on us.
+r. Spirit of long-suffering, * have mercy on us.
+r. Spirit of right counsel, * have mercy on us.
+r. Spirit of meekness, * have mercy on us.
+r. Spirit of knowledge, * have mercy on us.
+r. Spirit of faith and hope, * have mercy on us.
+r. Spirit of holy fear, * have mercy on us.
+r. Spirit of modesty, * have mercy on us.
+r. Spirit of clarity, * have mercy on us.
+r. Spirit of conscience, * have mercy on us.
+r. Spirit of joy, * have mercy on us.
+r. Spirit of chastity, * have mercy on us.
+r. Spirit of humility, * have mercy on us.
+r. Spirit of the virtues, * have mercy on us.
+r. Spirit of prudence, * have mercy on us.
+r. Spirit of many forms of grace, * have mercy on us.
+r. Spirit of life and salvation, * have mercy on us.
+r. Spirit of the adoption of the children of God, * have mercy on us.
+_
+&nonbreakingspace
+_
+r. Purifier of our souls, * have mercy on us.
+r. Ruler and Sanctifier of the Catholic Church, * have mercy on us.
+r. God searching hearts and minds, * have mercy on us.
+r. Distributor of heavenly gifts, * have mercy on us.
+r. Director of the thoughts and intentions of the heart, * have mercy on us.
+r. A secure refuge in every adversity, * have mercy on us.
+r. Sweetness of those who begin to serve Thee, * have mercy on us.
+r. Strength of those who are proficient in Thee, * have mercy on us.
+r. Crown of the perfect, * have mercy on us.
+r. Joy of the Angels, * have mercy on us.
+r. Light of the Patriarchs, * have mercy on us.
+r. Mouth and wisdom of the Apostles, * have mercy on us.
+r. Victory of the Martyrs, * have mercy on us.
+r. Knowledge of Confessors, * have mercy on us.
+r. Purity of Virgins, * have mercy on us.
+r. Anointing of all the Saints, * have mercy on us.
+_
+&nonbreakingspace
+_
+r. Be merciful, * spare us, O Holy Ghost.
+r. Be merciful, * graciously hear us, O Holy Ghost.
+_
+&nonbreakingspace
+_
+r. From all evil, * deliver us, O Holy Ghost.
+r. From all sin, * deliver us, O Holy Ghost.
+r. From all the temptations and snares of the devil, * deliver us, O Holy Ghost.
+r. From all stubborness and despair, * deliver us, O Holy Ghost.
+r. From resistance to the acknowledged truth, * deliver us, O Holy Ghost.
+r. From all envy of fraternal grace, * deliver us, O Holy Ghost.
+r. From all obstinacy and impenitence, * deliver us, O Holy Ghost.
+r. From all negligence and torpidity of soul, * deliver us, O Holy Ghost.
+r. From all impurity of mind and body, * deliver us, O Holy Ghost.
+r. From all heresies and errors, * deliver us, O Holy Ghost.
+r. From every evil spirit, * deliver us, O Holy Ghost.
+r. From the evil of eternal death, * deliver us, O Holy Ghost.
+r. Through Thine eternal proceeding from the Father and the Son, * deliver us, O Holy Ghost.
+r. Through the miraculous conception of the Son of God, * deliver us, O Holy Ghost.
+r. Through Thine descent upon the baptized Christ, * deliver us, O Holy Ghost.
+r. Through Thine holy apparition in the Transfiguration of the Lord, * deliver us, O Holy Ghost.
+r. Through Thine descent upon the disciples of Christ, * deliver us, O Holy Ghost.
+r. On the Day of Judgment, * deliver us, O Holy Ghost.
+_
+&nonbreakingspace
+_
+r. We sinners, * we beseech thee, hear us.
+r. That Thou wouldst spare us, * we beseech thee, hear us.
+r. That Thou wouldst quicken and sanctify all the members of the Church, * we beseech thee, hear us.
+r. That Thy holy and efficacious grace may preserve, accompany and follow us everywhere, * we beseech thee, hear us.
+r. That Thou wouldst deign to give us the gift of true piety, devotion and prayer, * we beseech thee, hear us.
+r. That Thou wouldst sanctify and direct all our thoughts, words, and actions heavenwards, * we beseech thee, hear us.
+r. That Thou wouldst deign to grant us the protection of true humility and of all virtues, * we beseech thee, hear us.
+r. That Thou wouldst deign to increase in us the study of holy poverty, * we beseech thee, hear us.
+r. That Thou wouldst deign to plant in us the gift of meek patience, * we beseech thee, hear us.
+r. That Thou wouldst deign to give us the grace of tears, * we beseech thee, hear us.
+r. That Thou wouldst deign to make us continually aspire to true justice, * we beseech thee, hear us.
+r. That Thou wouldst deign to inspire us with sincere feelings of mercy and charity, * we beseech thee, hear us.
+r. That Thou wouldst deign to create in us a new spirit and a clean heart, * we beseech thee, hear us.
+r. That Thou wouldst deign to make us worthy and strong to endure persecutions for the sake of justice, * we beseech thee, hear us.
+r. That Thou wouldst deign to strengthen us in Thy grace, * we beseech thee, hear us.
+r. That Thou wouldst receive us into the number of Thine elect, * we beseech thee, hear us.
+r. That Thou wouldst graciously hear us, * we beseech thee, hear us.
+r. Holy Spirit of God, * we beseech thee, hear us.
+_
+&nonbreakingspace
+_
+r. Lamb of God, Who taketh away the sins of the world, * pour forth the Holy Spirit in us.
+r. Lamb of God, Who taketh away the sins of the world, * send forth the Spirit, the promise of the Father, to us.
+r. Lamb of God, Who taketh away the sins of the world, * grant us the good spirit.
+_
+&nonbreakingspace
+_
+r. Holy Ghost, * hear us.
+r. Holy Ghost, * graciously hear us.
+_
+&nonbreakingspace
+_
+V. Lord have mercy.
+R. Christ have mercy.
+V. Lord have mercy.
+_
+&nonbreakingspace
+_
+r. Our Father ... (in secret until)
+_
+&nonbreakingspace
+_
+V. And lead us not into temptation.
+R. But deliver us from evil.
+V. Send forth Thy Spirit and they shall be created,
+R. And Thou shalt renew the face of the earth.
+V. Create a clean heart in me, O God.
+R. And renew a right spirit within my bowels.
+V. Cast me not away from Thy Face.
+R. And take not take Thy Holy Spirit from me.
+V. Restore unto me the joy of Thy salvation.
+R. And strengthen me with a perfect spirit.
+V. May the grace of the Holy Ghost;
+R. Enlighten our senses and our hearts.
+V. O Lord, hear my prayer.
+R. And let my cry come unto Thee.
+_
+&nonbreakingspace
+_
+$Oremus
+r. O God, Who hast instructed the hearts of the faithful by the light of the Holy Spirit, grant that by the same Spirit we may be always truly wise, and ever rejoice in His consolation.
+Almighty and everlasting God, by Whose Spirit the whole body of the Church is sanctified and governed: hear our humble pleading for all the orders thereof; that by the gift of Thy grace all in their several degrees may faithfully serve Thee. Through our Lord Jesus Christ. * Amen.
+_
+&nonbreakingspace
+_
+V. Let us bless the Lord.
+R. Thanks be to God.
+V. And may the souls of the faithful departed, through the mercy of God, rest in peace.
+R. Amen.
 
 [LitanyOfTheHolyFaceOfJesus]
-x
+#Litany of the Holy Face of Jesus
+r. Lord, have mercy on us. * Christ, have mercy on us.
+r. Lord, have mercy on us. Christ, hear us. * Christ, graciously hear us.
+_
+&nonbreakingspace
+_
+r. Holy Mary, * pray for us.
+r. Holy Mother of God, * pray for us.
+r. Holy Virgin of virgins, * pray for us.
+_
+&nonbreakingspace
+_
+r. Adorable Face of Jesus, have mercy on us.
+r. Face of Jesus, which art from all eternity the object of the complacency of Thy Heavenly Father, * have mercy on us.
+r. Face of Jesus, which art the splendor and unspotted mirror of the Divine Majesty, * have mercy on us.
+r. Face of Jesus, which the Angels in heaven contemplate without ceasing, * have mercy on us.
+r. Face of Jesus, which in Thy beauty surpassest all the children of men, * have mercy on us.
+r. Face of Jesus, wrapped in swaddling clothes at Thy Birth, * have mercy on us.
+r. Face of Jesus, bathed in tears in the manger, * have mercy on us.
+r. Face of Jesus, celebrated in the temple by the prophecies of Simeon and Anna, * have mercy on us.
+r. Face of Jesus, at whose sight the idols were destroyed during the flight into Egypt, * have mercy on us.
+r. Face of Jesus, hidden and submissive in Nazareth, * have mercy on us.
+r. Face of Jesus, astonishing the doctors in the temple by Thy admirable wisdom, * have mercy on us.
+r. Face of Jesus, resplendent in the Jordan at Thy baptism by John, * have mercy on us.
+r. Face of Jesus, transfigured on Thabor with divine brilliance, * have mercy on us.
+r. Face of Jesus, weeping with tears over Jerusalem, * have mercy on us.
+r. Face of Jesus, profaned by the kiss of the traitor Judas, * have mercy on us.
+r. Face of Jesus, bathed in a bloody sweat in the Garden of Gethsemane, * have mercy on us.
+r. Face of Jesus, assailed by the threats and insults of Thy unjust accusers, * have mercy on us.
+r. Face of Jesus, struck by the sacrilegious buffets of the impious, * have mercy on us.
+r. Face of Jesus, covered with a veil and mocked with blows, * have mercy on us.
+r. Face of Jesus, denied with an oath by Saint Peter, * have mercy on us.
+r. Face of Jesus, despised after Thy scourging in the praetorium of Pilate, * have mercy on us.
+r. Face of Jesus, wounded by a crown of thorns and stained with blood, * have mercy on us.
+r. Face of Jesus, basely spit upon by the soldiers, * have mercy on us.
+r. Face of Jesus, struck with a reed and adored in mockery on bended knees, * have mercy on us.
+r. Face of Jesus, inhumanly condemned to the death of the Cross, * have mercy on us.
+r. Face of Jesus, defiled with sweat, blood, and mud on the way to Calvary, * have mercy on us.
+r. Face of Jesus, wiped with a veil by the pious Veronica, * have mercy on us.
+r. Face of Jesus, cruelly lifted up on the throne of the Cross, * have mercy on us.
+r. Face of Jesus, torn by blasphemies and reproaches, * have mercy on us.
+r. Face of Jesus, suffering a burning thirst in Thy torments, * have mercy on us.
+r. Face of Jesus, bowed down in sadness at Thy death, * have mercy on us.
+r. Face of Jesus, bedewed with the tears of Thy most holy Mother, * have mercy on us.
+r. Face of Jesus, wrapped in a shroud and spices in the tomb, * have mercy on us.
+r. Face of Jesus, made glorious and immortal at Thy r. surrection, * have mercy on us.
+r. Face of Jesus, ascending in triumph into heaven to Thy Father, * have mercy on us.
+r. Face of Jesus, ever shining in the most Holy Trinity, * have mercy on us.
+r. Face of Jesus, who shalt appear on the Last Day with great power and majesty, * have mercy on us.
+r. Face of Jesus, who shalt cause eternal joy to the just, * have mercy on us.
+_
+&nonbreakingspace
+_
+r. Lamb of God, who takest away the sins of the world, * spare us, O Lord.
+r. Lamb of God, who takest away the sins of the world, * graciously hear us, O Lord.
+r. Lamb of God, who takest away the sins of the world, * have mercy on us.
+_
+&nonbreakingspace
+_
+$Oremus
+r. O God, our Protector, look down upon us, and cast Thine eyes upon the Face of Thy Christ, and grant that according to the likeness of Thy Face, the image of Thy Son may be formed in us, so that we may merit to be heard for evermore. Through Christ our Lord. * Amen.
 
 [LitanyOfStMichaelTheArchangel]
-x
+#Litany of St. Michael the Archangel
+r. Lord, have mercy on us. * Christ, have mercy on us.
+r. Lord, have mercy on us. Christ, hear us. * Christ, graciously hear us.
+_
+&nonbreakingspace
+_
+r. God the Father of Heaven, * have mercy on us.
+r. God the Son, Redeemer of the world, * have mercy on us.
+r. God the Holy Ghost, * have mercy on us.
+r. Holy Trinity, one God, * have mercy on us.
+_
+&nonbreakingspace
+_
+r. Holy Mary, Queen of Angels, * pray for us.
+r. Saint Michael, * pray for us.
+r. Saint Michael, filled with the wisdom of God, * pray for us.
+r. Saint Michael, perfect adorer of the Divine Word, * pray for us.
+r. Saint Michael, crowned with honor and glory, * pray for us.
+r. Saint Michael, most powerful Prince of the heavenly host, * pray for us.
+r. Saint Michael, standard-bearer of the Most Holy Trinity,* pray for us.
+r. Saint Michael, guardian of Paradise, * pray for us.
+r. Saint Michael, guide and comforter of the People of God, * pray for us.
+r. Saint Michael, strength of the Church Militant, * pray for us.
+r. Saint Michael, honor and joy of the Church Triumphant, * pray for us.
+r. Saint Michael, light of Angels, * pray for us.
+r. Saint Michael, bulwark of Christians in the wake of death, * pray for us.
+r. Saint Michael, pledge of salvation to those who trust in thee, * pray for us.
+r. Saint Michael, helper in times of distress, * pray for us.
+r. Saint Michael, consoler of souls in Purgatory, * pray for us.
+r. Saint Michael, who leadest the souls of the elect into the place of refreshment, * pray for us.
+r. Saint Michael, vanquisher of the enemies of our souls, * pray for us.
+r. Saint Michael, terror of the evil spirits, * pray for us.
+r. Saint Michael, under whose banner we conquer, * pray for us.
+r. Saint Michael, our protector in all dangers, * pray for us.
+r. Saint Michael, our intercessor before God, * pray for us.
+_
+&nonbreakingspace
+_
+V. Pray for us, O Saint Michael the Archangel.
+R. That we may be made worthy of the promises of Christ.
+_
+&nonbreakingspace
+_
+$Oremus
+r. O Lord Jesus Christ, sanctify us by a holy blessing, and grant us through the intercession of Saint Michael the Archangel, that wisdom which teaches us to lay up treasures in Heaven, and to choose eternal goods before those of earth. Who livest and reignest world without end. * Amen.
 
 [LitanyOfHumility]
-x
+#Litany of Humility
+r. O Jesus, meek and humble of heart, * hear me.
+_
+&nonbreakingspace
+_
+r. From the desire of being loved, * deliver me, Jesus.
+r. From the desire of being esteemed, * deliver me, Jesus.
+r. From the desire of being extolled, * deliver me, Jesus.
+r. From the desire of being honored, * deliver me, Jesus.
+r. From the desire of being praised, * deliver me, Jesus.
+r. From the desire of being preferred to others, * deliver me, Jesus.
+r. From the desire of being consulted, * deliver me, Jesus.
+r. From the desire of being approved, * deliver me, Jesus.
+_
+&nonbreakingspace
+_
+r. From the fear of being humiliated, * deliver me, Jesus.
+r. From the fear of being despised, * deliver me, Jesus.
+r. From the fear of suffering rebukes, * deliver me, Jesus.
+r. From the fear of being calumniated, * deliver me, Jesus.
+r. From the fear of being forgotten, * deliver me, Jesus.
+r. From the fear of being ridiculed, * deliver me, Jesus.
+r. From the fear of being wronged, * deliver me, Jesus.
+r. From the fear of being suspected, * deliver me, Jesus.
+_
+&nonbreakingspace
+_
+r. That others may be loved more than I, * Jesus, grant me the grace to desire it.
+r. That others may be esteemed more than I, * Jesus, grant me the grace to desire it.
+r. That in the opinion of the world, others may increase and I may decrease, * Jesus, grant me the grace to desire it.
+r. That others may be chosen and I set aside, * Jesus, grant me the grace to desire it.
+r. That others may be praised and I unnoticed, * Jesus, grant me the grace to desire it.
+r. That others may be preferred to me in everything, * Jesus, grant me the grace to desire it.
+r. That others may become holier than I, provided that I become as holy as I should, * Jesus, grant me the grace to desire it.
+
+[LitanyForTheDying]
+#Litany for the Dying
+r. Lord, have mercy on him.
+r. Christ, have mercy on him.
+r. Lord, have mercy on him.
+_
+&nonbreakingspace
+_
+r. Holy Mary, * pray for him.
+r. All ye holy Angels and Archangels, * pray for him.
+r. Saint Abel, * pray for him.
+r. All ye choirs of the just, * pray for him.
+r. Saint Abraham, * pray for him.
+r. Saint John the Baptist, * pray for him.
+r. Saint Joseph, * pray for him.
+r. All ye holy Patriarchs and Prophets, * pray for him.
+r. Saint Peter, * pray for him.
+r. Saint Paul, * pray for him.
+r. Saint Andrew, * pray for him.
+r. Saint John, * pray for him.
+r. All ye holy Apostles and Evangelists, * pray for him.
+r. All ye holy Disciples of the Lord, * pray for him.
+r. All ye Holy Innocents, * pray for him.
+r. Saint Stephen, * pray for him.
+r. Saint Lawrence, * pray for him.
+r. All ye holy Martyrs, * pray for him.
+r. Saint Sylvester, * pray for him.
+r. Saint Gregory, * pray for him.
+r. Saint Augustine, * pray for him.
+r. All ye holy Bishops and Confessors, * pray for him.
+r. Saint Benedict, * pray for him.
+r. Saint Francis, * pray for him.
+r. Saint Camillus, * pray for him.
+r. Saint John of God, * pray for him.
+r. All ye holy Monks and Hermits, * pray for him.
+r. Saint Mary Magdalene, * pray for him.
+r. Saint Lucy, * pray for him.
+r. All ye holy Virgins and Widows, * pray for him.
+r. All ye Saints of God, * pray for him.
+_
+&nonbreakingspace
+_
+r. Be merciful, * spare him, O Lord.
+r. Be merciful, * deliver him, O Lord.
+r. From thy wrath, * deliver him, O Lord.
+r. From the danger of death, * deliver him, O Lord.
+r. From an evil death, * deliver him, O Lord.
+r. From the pains of hell, * deliver him, O Lord.
+r. From all evil, * deliver him, O Lord.
+r. From the power of the devil, * deliver him, O Lord.
+r. By thy nativity, * deliver him, O Lord.
+r. By thy cross and passion, * deliver him, O Lord.
+r. By thy death and burial, * deliver him, O Lord.
+r. By thy glorious resurrection, * deliver him, O Lord.
+r. By thy wonderful ascension, * deliver him, O Lord.
+r. By the grace of the Holy Spirit the Comforter, * deliver him, O Lord.
+r. In the day of judgement, * deliver him, O Lord.
+_
+&nonbreakingspace
+_
+r. We sinners, * we beseech thee, hear us.
+r. That thou wouldst spare him, * we beseech thee, hear us.
+r. Lord, have mercy on him.
+r. Christ, have mercy on him.
+r. Lord, have mercy on him.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Go forth, Christian soul, from this world, in the name of God the Father almighty, who created thee; in the name of Jesus Christ, Son of the living God, who suffered for thee; in the name of the Holy Spirit, who was poured out upon thee;
+in the name of the Angels and Archangels; in the name of the Thrones and Dominations; in the name of the Principalities and Powers; in the name of the Cherubim and Seraphim; in the name of the Patriarchs and Prophets; in the name of the holy Apostles and Evangelists;
+in the name of the holy Martyrs and Confessors; in the name of the holy Monks and Hermits; in the name of the holy Virgins and of all the Saints of God: may thy place be this day in peace, and thy dwelling in holy Sion. Through Christ our Lord. * Amen.
 
 [DominicanLitanyToTheBlessedVirginMary]
 V. + O God, come to my assistance.

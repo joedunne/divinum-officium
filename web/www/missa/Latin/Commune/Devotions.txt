@@ -240,8 +240,7 @@ V. Nihil profíciat inimícus in nobis.
 R. Et fílius iniquitátis non appónat nocére nobis.
 V. Dómine, non secúndum peccáta nostra fácias nobis.
 R. Neque secúndum iniquitátes nostras retríbuas nobis.
-V. Orémus pro Pontífice nostro~
-r. N.
+V. Orémus pro Pontífice nostro N.
 R. Dóminus consérvet eum, et vivíficet eum, et beátum fáciat eum in terra, et non tradat eum in ánimam inimicórum ejus.
 V. Orémus pro benefactóribus nostris.
 R. Retribúere dignáre, Dómine, ómnibus, nobis bona faciéntibus propter nomen tuum, vitam ætérnam. Amen.
@@ -265,8 +264,7 @@ r. Deus, cui próprium est miseréri semper et párcere: súscipe deprecatiónem
 r. Exáudi, quǽsumus, Dómine, súpplicum preces, et confiténtium tibi parce peccátis: ut páriter nobis indulgéntiam tríbuas benígnus et pacem.
 r. Ineffábilem nobis, Dómine, misericórdiam tuam cleménter osténde: ut simul nos et a peccátis ómnibus éxuas, et a pœnis, quas pro his merémur, erípias.
 r. Deus, qui culpa offénderis, pœniténtia placáris: preces pópuli tui supplicántis propítius réspice; et flagélla tuæ iracúndiæ, quæ pro peccátis nostris merémur, avérte.
-r. Omnípotens sempitérne Deus, miserére fámulo tuo Pontífici nostro~
-r. N., et dírige eum secúndum tuam cleméntiam in viam salútis ætérnæ: ut, te donánte, tibi plácita cúpiat, et tota virtúte perfíciat.
+r. Omnípotens sempitérne Deus, miserére fámulo tuo Pontífici nostro N., et dírige eum secúndum tuam cleméntiam in viam salútis ætérnæ: ut, te donánte, tibi plácita cúpiat, et tota virtúte perfíciat.
 r. Deus, a quo sancta desidéria, recta consília et justa sunt ópera: da servis tuis illam, quam mundus dare non potest, pacem; ut et corda nostra mandátis tuis dédita, et, hóstium subláta formídine, témpora sint, tua protectióne, tranquílla.
 r. Ure igne Sancti Spíritus renes nostros et cor nostrum, Dómine: ut tibi casto córpore serviámus, et mundo corde placeámus.
 r. Fidélium, Deus, ómnium Cónditor et Redémptor, animábus famulórum famularúmque tuárum remissiónem cunctórum tríbue peccatórum: ut indulgéntiam, quam semper optavérunt, piis supplicatiónibus consequántur.
@@ -577,22 +575,612 @@ $Oremus
 V. Concede nos famulos tuos, quaesumus, Domine Deus, perpetua mentis et corporis sanitate gaudere: et gloriosa beatae Mariae semper Virginis intercessione, a praesenti liberari tristitia, et aeterna perfrui laetitia. Per Christum Dominum nostrum. * Amen.
 
 [LitanyOfStJoseph]
-x
+#Litaniae Sancti Ioseph
+r. Kyrie, eleison.
+r. Christe, eleison.
+r. Kyrie, eleison.
+r. Christe, audi nos.
+r. Christe, exaudi nos.
+_
+&nonbreakingspace
+_
+r. Pater de caelis, Deus, * miserere nobis.
+r. Fili, Redemptor mundi, Deus, * miserere nobis.
+r. Spiritus Sancte Deus, * miserere nobis.
+r. Sancta Trinitas, unus Deus, * miserere nobis.
+_
+&nonbreakingspace
+_
+r. Sancta Maria, * ora pro nobis.
+_
+&nonbreakingspace
+_
+r. Sancte Ioseph, * ora pro nobis.
+r. Proles David inclyta, * ora pro nobis.
+r. Lumen Patriarcharum, * ora pro nobis.
+r. Dei Genetricis Sponse, * ora pro nobis.
+r. Custos pudice Virginis, * ora pro nobis.
+r. Filii Dei nutricie, * ora pro nobis.
+r. Christi defensor sedule, * ora pro nobis.
+r. Almae Familiae praeses, * ora pro nobis.
+r. Ioseph iustissime, * ora pro nobis.
+r. Ioseph castissime, * ora pro nobis.
+r. Ioseph prudentissime, * ora pro nobis.
+r. Ioseph fortissime, * ora pro nobis.
+r. Ioseph oboedientissime, * ora pro nobis.
+r. Ioseph fidelissime, * ora pro nobis.
+r. Speculum patientiae, * ora pro nobis.
+r. Amator paupertatis, * ora pro nobis.
+r. Exemplar opificum, * ora pro nobis.
+r. Domesticae vitae decus, * ora pro nobis.
+r. Custos virginum, * ora pro nobis.
+r. Familiarum columen, * ora pro nobis.
+r. Solatium miserorum, * ora pro nobis.
+r. Spes aegrotantium, * ora pro nobis.
+r. Patrone morientium, * ora pro nobis.
+r. Terror daemonum, * ora pro nobis.
+r. Protector sanctae Ecclesiae, * ora pro nobis.
+_
+&nonbreakingspace
+_
+r. Agnus Dei, qui tollis peccata mundi, * parce nobis, Domine.
+r. Agnus Dei, qui tollis peccata mundi, * exaudi nobis, Domine.
+r. Agnus Dei, qui tollis peccata mundi, * miserere nobis.
+_
+&nonbreakingspace
+_
+r. Constituit eum dominum domus suae. * Et principem omnis possessionis suae.
+_
+&nonbreakingspace
+_
+$Oremus
+V. Deus, qui in ineffabili providentia beatum Ioseph sanctissimae Genetricis tuae Sponsum eligere dignatus es, praesta, quaesumus, ut quem protectorem veneramur in terris, intercessorem habere mereamur in caelis: Qui vivis et regnas in saecula saeculorum. * Amen.
 
 [LitanyOfOurLadySevenSorrows]
-x
+#Litaniae Dominae nostrae Dolorum
+r. Kyrie, eleison.
+r. Christe, eleison.
+r. Kyrie, eleison.
+r. Christe, audi nos.
+r. Christe, exaudi nos.
+_
+&nonbreakingspace
+_
+r. Pater de caelis, Deus, * miserere nobis.
+r. Fili, Redemptor mundi, Deus, * miserere nobis.
+r. Spiritus Sancte, Deus, * miserere nobis.
+r. Sancta Trinitas, unus Deus, * miserere nobis.
+_
+&nonbreakingspace
+_
+r. Sancta Maria, * ora pro nobis.
+r. Sancta Dei Genitrix, * ora pro nobis.
+r. Sancta Virgo virginum, * ora pro nobis.
+r. Mater crucifixa, * ora pro nobis.
+r. Mater dolorosa, * ora pro nobis.
+r. Mater lacrimosa, * ora pro nobis.
+r. Mater afflicta, * ora pro nobis.
+r. Mater derelicta, * ora pro nobis.
+r. Mater desolata, * ora pro nobis.
+r. Mater Filio orbata, * ora pro nobis.
+r. Mater gladio transfixa, * ora pro nobis.
+r. Mater aerumnis confecta, * ora pro nobis.
+r. Mater angoribus repleta, * ora pro nobis.
+r. Mater corde affixa cruci, * ora pro nobis.
+r. Mater tristissima, * ora pro nobis.
+r. Fons lacrimarum, * ora pro nobis.
+r. Cumulus passionum, * ora pro nobis.
+r. Speculum patientiae, * ora pro nobis.
+r. Rupes constantiae, * ora pro nobis.
+r. Anchora confidentiae, * ora pro nobis.
+r. Refugium derelictorum, * ora pro nobis.
+r. Clypeus oppressorum, * ora pro nobis.
+r. Debellatrix incredulorum, * ora pro nobis.
+r. Solamen miserorum, * ora pro nobis.
+r. Medicina languentium, * ora pro nobis.
+r. Fortitudo debilium, * ora pro nobis.
+r. Portus naufragantium, * ora pro nobis.
+r. Sedatio procellarum, * ora pro nobis.
+r. Recursus maerentium, * ora pro nobis.
+r. Terror insidiantium, * ora pro nobis.
+r. Thesaurus fidelium, * ora pro nobis.
+r. Oculus Prophetarum, * ora pro nobis.
+r. Baculus Apostolorum, * ora pro nobis.
+r. Corona Martyrum, * ora pro nobis.
+r. Lumen Confessorum, * ora pro nobis.
+r. Margarita Virginum, * ora pro nobis.
+r. Consolatio Viduarum, * ora pro nobis.
+r. Laetitia Sanctorum omnium, * ora pro nobis.
+_
+&nonbreakingspace
+_
+r. Agnus Dei, qui tollis peccata mundi, * parce nobis, Domine.
+r. Agnus Dei, qui tollis peccata mundi, * exaudi nos, Domine.
+r. Agnus Dei, qui tollis peccata mundi, * miserere nobis.
+_
+&nonbreakingspace
+_
+V. Ora pro nobis, Virgo dolorosissima.
+R. Ut digni efficiamur promissionibus Christi.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Deus, in cuius passione, secundum Simeonis prophetiam, dulcissimam animam gloriosae Virginis et Matris Mariae doloris gladius pertransivit: concede propitius, ut qui dolores eius venerando recolimus, passionis tuae effectum felicem consequamur. Qui vivis et regnas in saecula saeculorum. * Amen.
 
 [LitanyOfTheHolyGhost]
-x
+#Litaniæ de Sancto Spiritu
+r. Kyrie, eleison.
+r. Christe, eleison.
+r. Kyrie, eleison.
+_
+&nonbreakingspace
+_
+r. Spiritus sancte a Patre Filioque procedens, * miserere nobis.
+r. Spiritus Domini Deus Israël, * miserere nobis.
+r. Dominator hominum, * miserere nobis.
+r. Replens orbem terrarum, * miserere nobis.
+r. Habens omnem virtutem, * miserere nobis.
+r. Omnia bona operans, et omnia prospiciens, * miserere nobis.
+r. Ornans cælos, stabilis, et securus, * miserere nobis.
+r. Spiritus veritatis omnia suggerens, et distribuens, * miserere nobis.
+r. Spiritus sapientiæ et intellectus, * miserere nobis.
+r. Spiritus consilii, fortitudinis, scientiæ, et pietatis, * miserere nobis.
+r. Spiritus timoris Domini et prudentiæ, * miserere nobis.
+r. Spiritus, quo inspirante locuti sunt sancti Dei homines, * miserere nobis.
+r. Quæ ventura annuntians, * miserere nobis.
+r. Donum et promissio Patris, * miserere nobis.
+r. Spiritus sancte Paraclite arguens mundum, * miserere nobis.
+r. Spiritus, in quo dæmonia eiiciuntur, * miserere nobis.
+r. Spiritus, ex quo renascimur, * miserere nobis.
+r. Spiritus, per quem caritas Dei diffusa est in cordibus nostris, * miserere nobis.
+r. Spiritus adoptionis filiorum Dei, * miserere nobis.
+r. Spiritus gratiae et misericordiæ, * miserere nobis.
+r. Spiritus adiuvans infirmitatem nostram et reddens testimonium spiritui nostro, quod simus filii Dei, * miserere nobis.
+r. Spiritus suavis, benigne, super mel dulcis, * miserere nobis.
+r. Spiritus pignus hereditatis nostræ, deducens nos in terram rectam, * miserere nobis.
+r. Spiritus principalis, vivificans et confortans, * miserere nobis.
+r. Spiritus salutis, iudicii et gaudii, * miserere nobis.
+r. Spiritus humilitatis, caritatis, et castitatis, * miserere nobis.
+r. Spiritus fidei, pacis, et ardoris, * miserere nobis.
+r. Spiritus benignitatis, bonitatis, longanimitatis, ac mansuetudinis, * miserere nobis.
+r. Spiritus lenitatis, veritatis, unitatis ac consolationis, * miserere nobis.
+r. Spiritus compunctionis, promissionis, renovationis, ac sanctificationis, * miserere nobis.
+r. Spiritus vitæ, patientiæ, continentiæ, ac modestiæ, * miserere nobis.
+r. Spiritus omnium gratiarum, * miserere nobis.
+_
+&nonbreakingspace
+_
+r. Propitius esto, * parce nobis sancte Spiritus.
+r. Propitius esto, * exaudi nos sancte Spiritus.
+_
+&nonbreakingspace
+_
+r. A spiritu erroris, * libera nos, Spiritus Dei vivi.
+r. A spiritu immundo, * libera nos, Spiritus Dei vivi.
+r. A spiritu blasphemiæ, * libera nos, Spiritus Dei vivi.
+r. Ab omni obstinatione et desperatione, * libera nos, Spiritus Dei vivi.
+r. Ab omni præsumptione et veritatis contradictione, * libera nos, Spiritus Dei vivi.
+r. Ab omni malitia, et prava consuetudine, * libera nos, Spiritus Dei vivi.
+r. Ab invidia fraternæ caritatis, * libera nos, Spiritus Dei vivi.
+r. A finali impaenitentia, * libera nos, Spiritus Dei vivi.
+r. Per æternam a Patre et Filio processionem tuam, * libera nos, Spiritus Dei vivi.
+r. Per invisibilem unctionem tuam, * libera nos, Spiritus Dei vivi.
+r. Per omnem gratiarum plenitudinem, qua Virginem Mariam semper possedisti, * libera nos, Spiritus Dei vivi.
+r. Per supereffluentem sanctitatis abyssum, qua conceptione Verbi Matrem Dei inundare fecisti, * libera nos, Spiritus Dei vivi.
+r. Per sanctam in baptismo Christi apparitionem tuam, * libera nos, Spiritus Dei vivi.
+r. Per salutarem super apostolos adventum tuum, * libera nos, Spiritus Dei vivi.
+r. Per ineffabilem bonitatem tuam, qua Ecclesiam gubernas, concilias Præsides, Martyres corroboras, Doctores illuminas, Religiones instituis, * libera nos, Spiritus Dei vivi.
+_
+&nonbreakingspace
+_
+r. Peccatores, * te rogamus, audi nos.
+r. Ut in spiritu ambulemus, et desideria carnis non adimpleamus, * te rogamus, audi nos.
+r. Ut Te numquam contristemus, * te rogamus, audi nos.
+r. Ut omnes Ecclesiasticos Ordines in sancta religione, et vero spiritu conservare digneris, * te rogamus, audi nos.
+r. Ut cuncto populo Christiano cor unum et animam unam donare digneris, * te rogamus, audi nos.
+r. Ut virtutem omnium complementum nobis donare digneris, * te rogamus, audi nos.
+r. Ut nos exaudire digneris, * te rogamus, audi nos.
+r. Spiritus Dei, * te rogamus, audi nos.
+_
+&nonbreakingspace
+_
+r. Agnus Dei, qui tollis peccata mundi, * effunde in nos Sanctum Spiritum.
+r. Agnus Dei, qui tollis peccata mundi, * emitte in nos promissum Patris Spiritum.
+r. Agnus Dei, qui tollis peccata mundi, * da nobis spiritum bonum.
+_
+&nonbreakingspace
+_
+V. Spiritus Domini replevit orbem terrarum :
+R. Et hoc, quod continet omnia, scientiam habet vocis.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Adsit nobis, quæsumus Domine, virtus Spiritus Sancti : quæ et corda nostra clementer expurget, et ab omnibus tueatur adversis. Per Dominum nostrum Iesum Christum filium tuum, qui tecum vivit et regnat in unitate eiusdem Spiritus Sancti, Deus, per omnia sæcula sæculorum. * Amen.
+
+[LitanyOfTheHolyGhost2]
+#Litaniæ de Sancto Spiritu II
+V. Kyrie, eleison.
+R. Christe, eleison.
+V. Kyrie, eleison.
+_
+&nonbreakingspace
+_
+r. Spiritus Sancte, * audi nos.
+r. Spiritus Paraclite, * exaudi nos.
+_
+&nonbreakingspace
+_
+r. Pater de cœlis Deus, * miserere nobis.
+r. Fili Redemptor mundi Deus, * miserere nobis.
+r. Spiritus Sancte Deus, * miserere nobis.
+r. Sancta Trinitas unus Deus, * miserere nobis.
+_
+&nonbreakingspace
+_
+r. Spiritus veritatis, * miserere nobis.
+r. Spiritus pacis, * miserere nobis.
+r. Spiritus sapientiæ, * miserere nobis.
+r. Spiritus patientiæ, * miserere nobis.
+r. Spiritus intellectus, * miserere nobis.
+r. Spiritus benignitatis, * miserere nobis.
+r. Spiritus fortitudinis, * miserere nobis.
+r. Spiritus bonitatis, * miserere nobis.
+r. Spiritus pietatis, * miserere nobis.
+r. Spiritus longanimitatis, * miserere nobis.
+r. Spiritus recti consilii, * miserere nobis.
+r. Spiritus mansuetudinis, * miserere nobis.
+r. Spiritus scientiæ, * miserere nobis.
+r. Spiritus fidei et spei, * miserere nobis.
+r. Spiritus sancti timoris, * miserere nobis.
+r. Spiritus modestiæ, * miserere nobis.
+r. Spiritus charitatis, * miserere nobis.
+r. Spiritus conscientiæ, * miserere nobis.
+r. Spiritus gaudii, * miserere nobis.
+r. Spiritus castitatis, * miserere nobis.
+r. Spiritus humilitatis, * miserere nobis.
+r. Spiritus virtutum, * miserere nobis.
+r. Spiritus prudentiæ, * miserere nobis.
+r. Spiritus multiformis gratiæ, * miserere nobis.
+r. Spiritus vitæ et salutis, * miserere nobis.
+r. Spiritus adoptionis filiorum Dei, * miserere nobis.
+_
+&nonbreakingspace
+_
+r. Purificator animarum nostrarum, * miserere nobis.
+r. Ecclesiæ Catholicæ sanctificator et rector, * miserere nobis.
+r. Scrutans corda et renes Deus, * miserere nobis.
+r. Cœlestium donorum distributor, * miserere nobis.
+r. Director cogitationum et intentionum cordis, * miserere nobis.
+r. Securum in omni adversitate præsidium, * miserere nobis.
+r. Dulcedo in tuo servitio incipientium, * miserere nobis.
+r. Virtus in te proficientium, * miserere nobis.
+r. Corona perfectorum, * miserere nobis.
+r. Gaudium Angelorum, * miserere nobis.
+r. Illuminatio Patriarcharum, * miserere nobis.
+r. Os et sapientia Apostolorum, * miserere nobis.
+r. Victoria Martyrum, * miserere nobis.
+r. Scientia Confessorum, * miserere nobis.
+r. Puritas Virginum, * miserere nobis.
+r. Unctio Sanctorum omnium, * miserere nobis.
+_
+&nonbreakingspace
+_
+r. Propitius esto, * parce nobis Sancte Spiritus.
+r. Propitius esto, * exaudi nos Sancte Spiritus.
+_
+&nonbreakingspace
+_
+r. Ab omni malo, * libera nos Sancte Spiritus.
+r. Ab omni peccato, * libera nos Sancte Spiritus.
+r. Ab omnibus tentationibus et insidiis diaboli, * libera nos Sancte Spiritus.
+r. Ab omni præsumptione et desperatione, * libera nos Sancte Spiritus.
+r. Ab impugnatione veritatis agnitæ, * libera nos Sancte Spiritus.
+r. Ab omni invidentia fraternæ gratiæ, * libera nos Sancte Spiritus.
+r. Ab omni obstinatione et impœnitentia, * libera nos Sancte Spiritus.
+r. Ab omni negligentia et torpore animi, * libera nos Sancte Spiritus.
+r. Ab omni immunditia mentis et corporis, * libera nos Sancte Spiritus.
+r. Ab hæresibus et erroribus universis, * libera nos Sancte Spiritus.
+r. Ab omni malo spiritu, * libera nos Sancte Spiritus.
+r. A mala æterna morte, * libera nos Sancte Spiritus.
+r. Per æternam ex Patre Filioque processionem tuam, * libera nos Sancte Spiritus.
+r. Per miraculosam conceptionem Filii Dei, * libera nos Sancte Spiritus.
+r. Per descensionem tuam super Christum baptizatum, * libera nos Sancte Spiritus.
+r. Per sanctam apparitionem tuam in Transfiguratione Domini, * libera nos Sancte Spiritus.
+r. Per adventum tuum super discipulos Christi, * libera nos Sancte Spiritus.
+r. In die Judicii, * libera nos Sancte Spiritus.
+_
+&nonbreakingspace
+_
+r. Peccatores, * te rogamus, audi nos.
+r. Ut nobis parcas, * te rogamus, audi nos.
+r. Ut omnia Ecclesiæ membra vivificare et sanctificare digneris, * te rogamus, audi nos.
+r. Ut gratia tua sancta et efficaci nos ubique prævenire, comitari et subsequi digneris, * te rogamus, audi nos.
+r. Ut veræ pietatis, devotionis et orationis donum nobis dare digneris, * te rogamus, audi nos.
+r. Ut omnes cogitationes, verba et opera nostra ad te dirigere et sanctificare digneris, * te rogamus, audi nos.
+r. Ut veræ humilitatis omniumque virtutum præsidia nobis dare digneris, * te rogamus, audi nos.
+r. Ut sanctæ paupertatis studium in nobis augere digneris, * te rogamus, audi nos.
+r. Ut donum mansuetæ patientiæ in nobis plantare digneris, * te rogamus, audi nos.
+r. Ut gratiam lacrymarum nobis dare digneris, * te rogamus, audi nos.
+r. Ut ad veram justitiam nos continuo aspirare digneris, * te rogamus, audi nos.
+r. Ut sinceros misericordiæ charitatisque affectus nobis inspirare digneris, * te rogamus, audi nos.
+r. Ut spiritum novum et cor mundum in nobis creare digneris, * te rogamus, audi nos.
+r. Ut ad tolerandas propter justitiam persecutiones nos dignos et fortes efficias, * te rogamus, audi nos.
+r. Ut nos in gratia tua confirmare digneris, * te rogamus, audi nos.
+r. Ut nos in numerum electorum tuorum recipias, * te rogamus, audi nos.
+r. Ut nos exaudire digneris, * te rogamus, audi nos.
+r. Spiritus Sancte Dei, * te rogamus, audi nos.
+_
+&nonbreakingspace
+_
+r. Agnus Dei, qui tollis peccata mundi, * effunde in nos Spiritum Sanctum.
+r. Agnus Dei, qui tollis peccata mundi, * emitte promissum in nos Patris Spiritum.
+r. Agnus Dei, qui tollis peccata mundi, * da nobis Spiritum bonum.
+_
+&nonbreakingspace
+_
+r. Spiritus Sancte, * audi nos.
+r. Spiritus Paraclite, * exaudi nos.
+_
+&nonbreakingspace
+_
+V. Kyrie eleison.
+R. Christe eleison.
+V. Kyrie eleison.
+_
+&nonbreakingspace
+_
+r. Pater noster ... (secreto usque ad)
+_
+&nonbreakingspace
+_
+V. Et ne nos inducas in tentationem.
+R. Sed libera nos a malo.
+V. Emitte Spiritum tuum, et creabuntur,
+R. Et renovabis faciem terræ.
+V. Cor mundum crea in me Deus.
+R. Et spiritum rectum innova in visceribus meis.
+V. Ne projicias mea a facie tua.
+R. Et spiritum sanctum tuum ne auferas a me.
+V. Redde mihi lætitiam salutaris tui.
+R. Et spiritu principali confirma me.
+V. Spiritus Sancti gratia.
+R. Illuminet sensus et corda nostra.
+V. Domine exaudi orationem meam.
+R. Et clamor meus ad te veniat.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Deus, qui corda fidelium Sancti Spiritus illustratione docuisti, da nobis in eodem Spiritu recta sapere, et de ejus semper consolatione gaudere.
+Omnipotens sempiterne Deus, cujus Spiritu totum corpus Ecclesiæ sanctificatur et regitur: exaudi nos pro universis ordinibus supplicantes, ut gratiæ tuæ munere ab omnibus tibi gradibus fideliter serviatur. Per Dominum nostrum Iesum Christum. * Amen.
+_
+&nonbreakingspace
+_
+V. Benedicamus Domino.
+R. Deo gratias.
+V. Et fidelium animæ per misericordiam Dei requiescant in . pace.
+R. Amen.
 
 [LitanyOfTheHolyFaceOfJesus]
-x
+#Litania Sancti Vultus Domini Nostri Jesu Christi
+r. Kyrie, eleison. * Christe, eleison.
+r. Kyrie, eleison. Christe, audi nos. * Christe, exaudi nos.
+_
+&nonbreakingspace
+_
+r. Sancta Maria, * ora pro nobis.
+r. Sancta Dei Genetrix, * ora pro nobis.
+r. Sancta Virgo virginum, * ora pro nobis.
+_
+&nonbreakingspace
+_
+r. Vultus adorabilis Jesu, * miserere nobis.
+r. Vultus Jesu, qui ab æterno es obiectum complacentiæ Patris cœlestis, * miserere nobis.
+r. Vultus Jesu, qui es splendor et speculum sine macula maiestatis divinæ, * miserere nobis.
+r. Vultus Jesu, quem Angeli in cælis sine intermissione contemplantur, * miserere nobis.
+r. Vultus Jesu, qui formositate tua superas omnes filios hominum, * miserere nobis.
+r. Vultus Jesu, in Nativitate tua pannis involutus, * miserere nobis.
+r. Vultus Jesu, lacrimis in præsepio madidus, * miserere nobis.
+r. Vultus Jesu, in templo Simeonis et Annæ prophetiis celebratus, * miserere nobis.
+r. Vultus Jesu, ad cuius aspectum in Ægyptum fugientis destructa sunt idola, * miserere nobis.
+r. Vultus Jesu, in Nazareth absconditus et submissus, * miserere nobis.
+r. Vultus Jesu, sapientia admirabili doctores in templo stupendus, * miserere nobis.
+r. Vultus Jesu, in Iordane sub baptismo Ioannis resplendens, * miserere nobis.
+r. Vultus Jesu, in Thabor claritate divina transfiguratus, * miserere nobis.
+r. Vultus Jesu, super Ierusalem cum lacrimis defletus, * miserere nobis.
+r. Vultus Jesu, ab Iuda proditore osculo profanatus, * miserere nobis.
+r. Vultus Jesu, in horto Gethsemani sanguineo sudore perfusus, * miserere nobis.
+r. Vultus Jesu, minis et iniuriis inique accusatorum appetitus, * miserere nobis.
+r. Vultus Jesu, sacrilegis impiorum alapis percussus, * miserere nobis.
+r. Vultus Jesu, velamine tectus et per ludibrium percussus, * miserere nobis.
+r. Vultus Jesu, a Petro cum iuramento negatus, * miserere nobis.
+r. Vultus Jesu, in prætorio Pilati post flagellationem contemptus, * miserere nobis.
+r. Vultus Jesu, spinea corona vulneratus et sanguine cruentatus, * miserere nobis.
+r. Vultus Jesu, a militibus inique consputus, * miserere nobis.
+r. Vultus Jesu, arundine percussus et illusis flexis genibus adoratus, * miserere nobis.
+r. Vultus Jesu, ad mortem crucis inhumaniter damnatus, * miserere nobis.
+r. Vultus Jesu, sudore, sanguine, et luto in via Calvariæ fœdatus, * miserere nobis.
+r. Vultus Jesu, a pia Veronica linteo tersus, * miserere nobis.
+r. Vultus Jesu, in throno Crucis crudeliter elevatus, * miserere nobis.
+r. Vultus Jesu, blasphemiis et opprobriis laniatus, * miserere nobis.
+r. Vultus Jesu, in tormentis siti laborans, * miserere nobis.
+r. Vultus Jesu, in obitu tuo tristi inclinatione dimissus, * miserere nobis.
+r. Vultus Jesu, lacrimis sanctissimæ Matris tuæ rigatus, * miserere nobis.
+r. Vultus Jesu, in sepulcro sindone et aromatibus involutus, * miserere nobis.
+r. Vultus Jesu, in Resurrectione tua gloriosa et immortalis effectus, * miserere nobis.
+r. Vultus Jesu, in cælum ad Patrem cum triumpho ascendens, * miserere nobis.
+r. Vultus Jesu, in beatissima Trinitate semper fulgens, * miserere nobis.
+r. Vultus Jesu, qui in die iudicii cum potestate magna et maiestate apparebis, * miserere nobis.
+r. Vultus Jesu, iustis gaudium sempiternum effecturus, * miserere nobis.
+_
+&nonbreakingspace
+_
+r. Agnus Dei, qui tollis peccata mundi, *parce nobis, Domine.
+r. Agnus Dei, qui tollis peccata mundi, * exaudi nos, Domine.
+r. Agnus Dei, qui tollis peccata mundi, * miserere nobis.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Respice, Deus Protector noster, et aspice in faciem Christi tui, et concede nobis ut secundum formam Vultus tui fiat in nobis imago Filii tui, ut exaudire mereamur in æternum. Per Christum Dominum nostrum. * Amen.
 
 [LitanyOfStMichaelTheArchangel]
-x
+#Litaniæ Sancti Michaëlis Archangeli
+r. Kyrie, eleison. * Christe, eleison.
+r. Kyrie, eleison. Christe, audi nos. * Christe, exaudi nos.
+_
+&nonbreakingspace
+_
+r. Pater de cælis, Deus, miserere nobis.
+r. Fili, Redemptor mundi, Deus, miserere nobis.
+r. Spiritus Sancte, Deus, miserere nobis.
+r. Sancta Trinitas, unus Deus, miserere nobis.
+_
+&nonbreakingspace
+_
+r. Sancta Maria, Regina Angelorum, * ora pro nobis.
+r. Sancte Michaël, * ora pro nobis.
+r. Sancte Michaël, sapientiæ divinæ plenissime, * ora pro nobis.
+r. Sancte Michaël, perfectus divini Verbi adorator, * ora pro nobis.
+r. Sancte Michaël, corona gloriæ et honoris, * ora pro nobis.
+r. Sancte Michaël, cælestis exercitus potentissime Princeps, * ora pro nobis.
+r. Sancte Michaël, Trinitatis amice, * ora pro nobis.
+r. Sancte Michaël, Paradisi custos, * ora pro nobis.
+r. Sancte Michaël, dux et consolator populi Dei, * ora pro nobis.
+r. Sancte Michaël, fortitudo militantis Ecclesiæ, * ora pro nobis.
+r. Sancte Michaël, honor et decus triumphantis Ecclesiæ, * ora pro nobis.
+r. Sancte Michaël, lumen Angelorum, * ora pro nobis.
+r. Sancte Michaël, præsidium christianorum in discrimine mortis, * ora pro nobis.
+r. Sancte Michaël, pignus salutis sperantium in te, * ora pro nobis.
+r. Sancte Michaël, in tribulationibus adiutor, * ora pro nobis.
+r. Sancte Michaël, animarum in purgatorio consolator, * ora pro nobis.
+r. Sancte Michaël, qui animas electorum in locum refrigerii perducis, * ora pro nobis.
+r. Sancte Michaël, de hostibus animarum nostrarum triumphator, * ora pro nobis.
+r. Sancte Michaël, terris terris daemonum ac terror, * ora pro nobis.
+r. Sancte Michaël, sub cuius vexillo vincimus, * ora pro nobis.
+r. Sancte Michaël, noster in periculis protector, * ora pro nobis.
+r. Sancte Michaël, noster intercessor apud Deum, * ora pro nobis.
+_
+&nonbreakingspace
+_
+V. Ora pro nobis, Sancte Michaël Archangele.
+R. Ut digni efficiamur promissionibus Christi.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Domine Iesu Christe, benedictione sanctifica nos, et concede per intercessionem sancti Michaëlis Archangeli, illam sapientiam qua doceamur thesaurizare thesaurum in cælis, et pro terrenis bona æterna deligere. Qui vivis et regnas in sæcula sæculorum. * Amen.
 
 [LitanyOfHumility]
-x
+#Litania Humilitatis
+r. O Jesu, mitis et humilis corde, * exaudi me.
+_
+&nonbreakingspace
+_
+r. A desiderio, ut amer, * libera me, Jesu.
+r. A desiderio, ut aestimer, * libera me, Jesu.
+r. A desiderio, ut exaltem, * libera me, Jesu.
+r. A desiderio, ut honorer, * libera me, Jesu.
+r. A desiderio, ut lauder, * libera me, Jesu.
+r. A desiderio, ut aliis praeferar, * libera me, Jesu.
+r. A desiderio, ut consulatur, * libera me, Jesu.
+r. A desiderio, ut approber, * libera me, Jesu.
+_
+&nonbreakingspace
+_
+r. A timore, ne humilier, * libera me, Jesu.
+r. A timore, ne spernar, * libera me, Jesu.
+r. A timore, ne contemnar, * libera me, Jesu.
+r. A timore, ne calumniam feram, * libera me, Jesu.
+r. A timore, ne oblivioni tradar, * libera me, Jesu.
+r. A timore, ne irridear, * libera me, Jesu.
+r. A timore, ne iniuriam accipiam, * libera me, Jesu.
+r. A timore, ne suspiciar, * libera me, Jesu.
+_
+&nonbreakingspace
+_
+r. Ut alii plus amentur quam ego, * Jesu, da mihi gratiam ita desiderandi.
+r. Ut alii plus aestimentur quam ego, * Jesu, da mihi gratiam ita desiderandi.
+r. Ut alii in mundo extollantur, ego autem minuar, * Jesu, da mihi gratiam ita desiderandi.
+r. Ut alii eligantur, ego autem praeterear, * Jesu, da mihi gratiam ita desiderandi.
+r. Ut alii laudem ferant, ego autem inobservatus maneam, * Jesu, da mihi gratiam ita desiderandi.
+r. Ut alii praeferantur mihi in omnibus, * Jesu, da mihi gratiam ita desiderandi.
+r. Ut alii sanctiores me fiant, dummodo ego tam sanctus fiam quam debeo, * Jesu, da mihi gratiam ita desiderandi.
+
+[LitanyForTheDying]
+#Litaniae pro Morientibus
+r. Kyrie, eleison.
+r. Christe, eleison.
+r. Kyrie, eleison.
+_
+&nonbreakingspace
+_
+r. Sancta Maria, * ora pro eo.
+r. Omnes sancti Angeli et Archangeli, * ora pro eo.
+r. Sancte Abel, * ora pro eo.
+r. Omnis chorus iustorum, * ora pro eo.
+r. Sancte Abraham, * ora pro eo.
+r. Sancte Ioannes Baptista, * ora pro eo.
+r. Sancte Ioseph, * ora pro eo.
+r. Omnes sancti Patriarchae et Prophetae, * ora pro eo.
+r. Sancte Petre, * ora pro eo.
+r. Sancte Paule, * ora pro eo.
+r. Sancte Andrea, * ora pro eo.
+r. Sancte Ioannes, * ora pro eo.
+r. Omnes sancti Apostoli et Evangelistae, * ora pro eo.
+r. Omnes sancti Discipuli Domini, * ora pro eo.
+r. Omnes sancti Innocentes, * ora pro eo.
+r. Sancte Stephane, * ora pro eo.
+r. Sancte Laurenti, * ora pro eo.
+r. Omnes sancti Martyres, * ora pro eo.
+r. Sancte Silvester, * ora pro eo.
+r. Sancte Gregori, * ora pro eo.
+r. Sancte Augustine, * ora pro eo.
+r. Omnes sancti Pontifices et Confessores, * ora pro eo.
+r. Sancte Benedicte, * ora pro eo.
+r. Sancte Francisce, * ora pro eo.
+r. Sancte Camille, * ora pro eo.
+r. Sancte Ioannes de Deo, * ora pro eo.
+r. Omnes sancti Monachi et Eremitae, * ora pro eo.
+r. Sancta Maria Magdalena, * ora pro eo.
+r. Sancta Lucia, * ora pro eo.
+r. Omnes sanctae Virgines et Viduae, * ora pro eo.
+r. Omnes Sancti et Sanctae Dei, * ora pro eo.
+_
+&nonbreakingspace
+_
+r. Propitius esto, * parce ei, Domine.
+r. Propitius esto, * libera eum, Domine.
+r. Ab ira tua, * libera eum, Domine.
+r. A periculo mortis, * libera eum, Domine.
+r. A mala morte, * libera eum, Domine.
+r. A poenis inferni, * libera eum, Domine.
+r. Ab omni malo, * libera eum, Domine.
+r. A potestate diaboli, * libera eum, Domine.
+r. Per nativitatem tuam, * libera eum, Domine.
+r. Per crucem et passionem tuam, * libera eum, Domine.
+r. Per mortem et sepulturam tuam, * libera eum, Domine.
+r. Per gloriosam resurrectionem tuam, * libera eum, Domine.
+r. Per admirabilem ascensionem tuam, * libera eum, Domine.
+r. Per gratiam Spiritus Sancti Paracliti, * libera eum, Domine.
+r. In die iudicii, * libera eum, Domine.
+_
+&nonbreakingspace
+_
+r. Peccatores, * te rogamus, audi nos.
+r. Ut ei parcas, * te rogamus, audi nos.
+r. Kyrie, eleison.
+r. Christe, eleison.
+r. Kyrie, eleison.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Proficiscere, anima christiana, de hoc mundo, in nomine Dei Patris omnipotentis, qui te creavit; in nomine Iesu Christi, Filii Dei vivi, qui pro te passus est; in nomine Spiritus Sancti, qui in te effusus est;
+in nomine Angelorum et Archangelorum; in nomine Thronorum et Dominationum; in nomine Principatuum et Potestatum; in nomine Cherubim et Seraphim; in nomine Patriarcharum et Prophetarum; in nomine sanctorum Apostolorum et Evangelistarum;
+in nomine sanctorum Martyrum et Confessorum; in nomine sanctorum Monachorum et Eremitarum; in nomine sanctarum Virginum et omnium Sanctorum et Sanctarum Dei: hodie sit in pace locus tuus, et habitatio tua in sancta Sion. Per Christum Dominum nostrum. * Amen.
 
 [DominicanLitanyToTheBlessedVirginMary]
 V. + Deus in adjutorium meum intende.

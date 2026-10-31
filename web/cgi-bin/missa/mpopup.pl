@@ -89,13 +89,15 @@ print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany o
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of The Sacred Heart", ("LitanyOfTheSacredHeart"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of The Holy Name of Jesus", ("LitanyOfTheMostHolyNameOfJesus"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of Loreto", ("LitanyOfTheBlessedVirgin"));
-#Litany of Our Lady of the Seven Sorrows : LitanyOfOurLadySevenSorrows
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of Our Lady of the Seven Sorrows", ("LitanyOfOurLadySevenSorrows"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Dominican Litany to the Blessed Virgin Mary", ("DominicanLitanyToTheBlessedVirginMary"));
-#print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of St. Joseph", ("LitanyOfStJoseph"));
-#Litany of the Holy Ghost : LitanyOfTheHolyGhost
-#Litany of the Holy Face of Jesus : LitanyOfTheHolyFaceOfJesus
-#Litany of St. Michael the Archangel : LitanyOfStMichaelTheArchangel
-#Litany of Humility : LitanyOfHumility
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of St. Joseph", ("LitanyOfStJoseph"));
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of the Holy Ghost", ("LitanyOfTheHolyGhost"));
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of the Holy Ghost II", ("LitanyOfTheHolyGhost2"));
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of the Holy Face of Jesus", ("LitanyOfTheHolyFaceOfJesus"));
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of St. Michael the Archangel", ("LitanyOfStMichaelTheArchangel"));
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of Humility", ("LitanyOfHumility"));
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany for the Dying", ("LitanyForTheDying"));
 
 
 print "<H2 ALIGN=CENTER id='H2_EssentialPrayers'><FONT COLOR=MAROON><B><I>Essential Prayers</I></B></FONT></H2>\n";
@@ -108,11 +110,13 @@ print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Apostles
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Nicene Creed", ("NiceneCreed"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Profession of the Tridentine Faith", ("PiusIVCreed"));
 
+#(LITTLE OFFICE) HOURS OF THE HOLY GHOST
+
 #Morning Prayers
 #Evening Prayers
 #Prayer before any work & Prayer after work
-#Antiphons to the Blessed Virgin
 
+#Antiphons to the Blessed Virgin
 #Prayers to the Blessed Virgin Mary
 #print "<H2 ALIGN=CENTER id='H2_PrayersToTheBlessedVirginMary'><FONT COLOR=MAROON><B><I>Prayers to the Blessed Virgin Mary</I></B></FONT></H2>\n";
 #Salve Regina | Hail Holy Queen
