@@ -98,6 +98,7 @@ print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany o
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of St. Michael the Archangel", ("LitanyOfStMichaelTheArchangel"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany of Humility", ("LitanyOfHumility"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany for the Dying", ("LitanyForTheDying"));
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Litany for the Holy Souls in Purgatory", ("LitanyForTheHolySoulsInPurgatory"));
 
 
 print "<H2 ALIGN=CENTER id='H2_EssentialPrayers'><FONT COLOR=MAROON><B><I>Essential Prayers</I></B></FONT></H2>\n";
@@ -109,12 +110,7 @@ print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Athanasi
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Apostles Creed", ("ApostlesCreed"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Nicene Creed", ("NiceneCreed"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Profession of the Tridentine Faith", ("PiusIVCreed"));
-
-#(LITTLE OFFICE) HOURS OF THE HOLY GHOST
-
-#Morning Prayers
-#Evening Prayers
-#Prayer before any work & Prayer after work
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Act of Consecration of the Human Race to the Sacred Heart of Jesus", ("ACT OF CONSECRATION OF THE HUMAN RACE TO THE SACRED HEART OF JESUS"));
 
 #Antiphons to the Blessed Virgin
 #Prayers to the Blessed Virgin Mary
@@ -144,10 +140,34 @@ print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Professi
 
 #Adoration and Divine Praises
 
+#Morning Prayers
+#Evening Prayers
+#Prayer before any work & Prayer after work
+
+# Act of Consecration of the Human Race to the Sacred Heart of Jesus
+# Act of Reparation to the Sacred Heart of Jesus
+
+#Votive Masses
+
+print_little_office_holy_ghost($lang1, $devotion_sections1, $lang2, $devotion_sections2);
+
 print_baptism($lang1, $devotion_sections1, $lang2, $devotion_sections2);
 
 print "<P ALIGN=CENTER><A HREF=# onclick=\"window.close()\">Close</A></P>";
 htmlEnd();
+
+sub print_little_office_holy_ghost {
+  my ($lang1, $sections_lang1 ,$lang2, $sections_lang2) = @_;
+  print "<H2 ALIGN=CENTER id='H2_LittleOfficeHolyGhost'><FONT COLOR=MAROON><B><I>Little Office of the Holy Ghost</I></B></FONT></H2>\n";
+  print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "At Matins", ("LittleOfficeHolyGhostAtMatins"));
+  print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "At Prime", ("LittleOfficeHolyGhostAtPrime"));
+  print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "At Terce", ("LittleOfficeHolyGhostAtTerce"));
+  print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "At Sext", ("LittleOfficeHolyGhostAtSext"));
+  print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "At None", ("LittleOfficeHolyGhostAtNone"));
+  print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "At Vespers", ("LittleOfficeHolyGhostAtVespers"));
+  print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "At Compline", ("LittleOfficeHolyGhostAtCompline"));
+
+}
 
 sub print_baptism {
   my ($lang1, $sections_lang1 ,$lang2, $sections_lang2) = @_;

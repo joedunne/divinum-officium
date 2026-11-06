@@ -213,17 +213,14 @@ _
 &nonbreakingspace
 _
 !Psalm 69
-r. Deign, O Lord, to rescue me;
-O Lord, make haste to help me.
-Let them be put to shame and confounded who seek my life.
-Let them be turned back in disgrace who desire my ruin.
-Let them retire in their shame who say to me, "Aha, aha!"
-But may all who seek Thee exult and be glad in Thee,
-And may those who love Thy salvation say ever, "God be glorified!"
-But I am afflicted and poor;
-O God, hasten to me!
-Thou art my help and my deliverer;
-O Lord, hold not back!
+r. Deign, O Lord, to rescue me; <i>O Lord, make haste to help me</i>.
+r. Let them be put to shame and confounded <i>who seek my life</i>.
+r. Let them be turned back in disgrace <i>who desire my ruin</i>.
+r. Let them retire in their shame <i>who say to me, "Aha, aha!"</i>.
+r. But may all who seek Thee <i>exult and be glad in Thee</i>.
+r. And may they always say: "Great is the Lord", <i>all those who delight in Thy salvation</i>.
+r. But I am afflicted and poor; <i>O God, hasten to me!</i>
+r. Thou art my help and my deliverer; <i>O Lord, hold not back!</i>
 _
 &nonbreakingspace
 _
@@ -1183,6 +1180,7 @@ in the name of the Angels and Archangels; in the name of the Thrones and Dominat
 in the name of the holy Martyrs and Confessors; in the name of the holy Monks and Hermits; in the name of the holy Virgins and of all the Saints of God: may thy place be this day in peace, and thy dwelling in holy Sion. Through Christ our Lord. * Amen.
 
 [DominicanLitanyToTheBlessedVirginMary]
+#Dominican Litany to the Blessed Virgin Mary
 V. + O God, come to my assistance.
 R. O Lord, make haste to help me.
 _
@@ -1590,3 +1588,354 @@ Priest: Receive this burning light, and keep thy Baptism so as to be without bla
 #Last Words of Good Will
 Priest: N., go in peace and the Lord be with you. Amen.
 Sponsor/Catechumen: Amen.
+
+[LittleOfficeHolyGhostAtMatins]
+#At Matins
+!the start of the day
+V. May the grace of the Holy Ghost illuminate our senses and our hearts.
+R. Amen.
+V. O Lord, open my lips.
+R. And my mouth will announce Thy praise.
+V. O God, come to my assistance.
+R. O Lord, make haste to help me.
+V. Glory be to the Father, and to the Son, and to the Holy Ghost.
+R. As it was in the beginning, is now, and ever shall be, world without end. Alleluia.
+! From Septuagesima until Easter, instead of the “alleluia” the following is said:
+Praise to Thee, O Lord, King of everlasting glory.
+_
+&nonbreakingspace
+_
+r. The grace of the Holy Ghost free unto us befall: Wherewith was overshadowed the maid of maidens all. When the angel Gabriel his salutation said, The Word itself flesh became and virgin fruitful made.
+_
+&nonbreakingspace
+_
+Ant. Come Holy Ghost, fill the hearts of Thy faithful and kindle in them the fire of Thy love.
+V. Send forth Thy Spirit, and they shall be created.
+R. And Thou shalt renew the face of the earth.
+_
+&nonbreakingspace
+_
+$Oremus
+r. We beseech Thee, O Lord, send down upon us the power of the Holy Ghost; may He mercifully purify our hearts and protect us from all adversity. Through Jesus Christ our Lord, Who livest and reignest in the unity of the Holy Ghost, God, for ever and ever.
+R. Amen.
+
+[LittleOfficeHolyGhostAtPrime]
+#At Prime
+!the first hour of the day; i.e. 6:00 am
+V. May the grace of the Holy Ghost illuminate our senses and our hearts.
+R. Amen.
+V. O God, come to my assistance.
+R. O Lord, make haste to help me.
+V. Glory be to the Father, and to the Son, and to the Holy Ghost.
+R. As it was in the beginning, is now, and ever shall be, world without end. Alleluia.
+! From Septuagesima until Easter, instead of the “alleluia” the following is said:
+Praise to Thee, O Lord, King of everlasting glory.
+_
+&nonbreakingspace
+_
+r. Christ our Savior was born of Mary blessed maid Who crucified was and dead and in sepulcher laid: Rising to His disciples He shewed Himself anew And was to the heavens high assumpted in their view.
+_
+&nonbreakingspace
+_
+Ant. Come Holy Ghost, fill the hearts of Thy faithful and kindle in them the fire of Thy love.
+V. Send forth Thy Spirit, and they shall be created.
+R. And Thou shalt renew the face of the earth.
+_
+&nonbreakingspace
+_
+$Oremus
+r. We beseech Thee, O Lord, send down upon us the power of the Holy Ghost; may He mercifully purify our hearts and protect us from all adversity. Through Jesus Christ our Lord, Who livest and reignest in the unity of the Holy Ghost, God, for ever and ever.
+R. Amen.
+
+[LittleOfficeHolyGhostAtTerce]
+#At Terce
+!the third hour of the day; i.e. 9:00 am
+V. May the grace of the Holy Ghost illuminate our senses and our hearts.
+R. Amen.
+V. O God, come to my assistance.
+R. O Lord, make haste to help me.
+V. Glory be to the Father, and to the Son, and to the Holy Ghost.
+R. As it was in the beginning, is now, and ever shall be, world without end. Alleluia.
+! From Septuagesima until Easter, instead of the “alleluia” the following is said:
+Praise to Thee, O Lord, King of everlasting glory.
+_
+&nonbreakingspace
+_
+r. God His Holy Spirit sent to His Apostles dear, On the day of Pentecost to yield them gladsome cheer, And with fiery tongues in them did ardent zeal impress: By no means could He endure to leave them comfortless.
+_
+&nonbreakingspace
+_
+Ant. Come Holy Ghost, fill the hearts of Thy faithful and kindle in them the fire of Thy love.
+V. Send forth Thy Spirit, and they shall be created.
+R. And Thou shalt renew the face of the earth.
+_
+&nonbreakingspace
+_
+$Oremus
+r. We beseech Thee, O Lord, send down upon us the power of the Holy Ghost; may He mercifully purify our hearts and protect us from all adversity. Through Jesus Christ our Lord, Who livest and reignest in the unity of the Holy Ghost, God, for ever and ever.
+R. Amen.
+
+[LittleOfficeHolyGhostAtSext]
+#At Sext
+!the sixth hour of the day; i.e. Midday
+V. May the grace of the Holy Ghost illuminate our senses and our hearts.
+R. Amen.
+V. O God, come to my assistance.
+R. O Lord, make haste to help me.
+V. Glory be to the Father, and to the Son, and to the Holy Ghost.
+R. As it was in the beginning, is now, and ever shall be, world without end. Alleluia.
+! From Septuagesima until Easter, instead of the “alleluia” the following is said:
+Praise to Thee, O Lord, King of everlasting glory.
+_
+&nonbreakingspace
+_
+r. Then did they the sevenfold grace abundantly receive, Whereupon all languages they fully did perceive. To the world's sundry coasts they then departed all: And did preach the Christian faith which Catholic we call.
+_
+&nonbreakingspace
+_
+Ant. Come Holy Ghost, fill the hearts of Thy faithful and kindle in them the fire of Thy love.
+V. Send forth Thy Spirit, and they shall be created.
+R. And Thou shalt renew the face of the earth.
+_
+&nonbreakingspace
+_
+$Oremus
+r. We beseech Thee, O Lord, send down upon us the power of the Holy Ghost; may He mercifully purify our hearts and protect us from all adversity. Through Jesus Christ our Lord, Who livest and reignest in the unity of the Holy Ghost, God, for ever and ever.
+R. Amen.
+
+[LittleOfficeHolyGhostAtNone]
+#At None
+!the ninth hour of the day; i.e. 3:00 pm
+V. May the grace of the Holy Ghost illuminate our senses and our hearts.
+R. Amen.
+V. O God, come to my assistance.
+R. O Lord, make haste to help me.
+V. Glory be to the Father, and to the Son, and to the Holy Ghost.
+R. As it was in the beginning, is now, and ever shall be, world without end. Alleluia.
+! From Septuagesima until Easter, instead of the “alleluia” the following is said:
+Praise to Thee, O Lord, King of everlasting glory.
+_
+&nonbreakingspace
+_
+r. Called it was the Holy Ghost that comfort thus did bring, The gift of God, Charity, and the reviving spring, The unction Spiritual, and eke the fire that flames, Sevenfold grace, precious gift, so called by many names.
+_
+&nonbreakingspace
+_
+Ant. Come Holy Ghost, fill the hearts of Thy faithful and kindle in them the fire of Thy love.
+V. Send forth Thy Spirit, and they shall be created.
+R. And Thou shalt renew the face of the earth.
+_
+&nonbreakingspace
+_
+$Oremus
+r. We beseech Thee, O Lord, send down upon us the power of the Holy Ghost; may He mercifully purify our hearts and protect us from all adversity. Through Jesus Christ our Lord, Who livest and reignest in the unity of the Holy Ghost, God, for ever and ever.
+R. Amen.
+
+[LittleOfficeHolyGhostAtVespers]
+#At Vespers
+!evening prayer; i.e. 6:00 pm
+V. May the grace of the Holy Ghost illuminate our senses and our hearts.
+R. Amen.
+V. O God, come to my assistance.
+R. O Lord, make haste to help me.
+V. Glory be to the Father, and to the Son, and to the Holy Ghost.
+R. As it was in the beginning, is now, and ever shall be, world without end. Alleluia.
+! From Septuagesima until Easter, instead of the “alleluia” the following is said:
+Praise to Thee, O Lord, King of everlasting glory.
+_
+&nonbreakingspace
+_
+r. The finger of God's right hand, the ghostly virtue still, Us defend, and set us free from every kind of ill: To the end the hellish ghost do us no hurtful deed: Under His wings He us keep, and there us nurse and feed.
+_
+&nonbreakingspace
+_
+Ant. Come Holy Ghost, fill the hearts of Thy faithful and kindle in them the fire of Thy love.
+V. Send forth Thy Spirit, and they shall be created.
+R. And Thou shalt renew the face of the earth.
+_
+&nonbreakingspace
+_
+$Oremus
+r. We beseech Thee, O Lord, send down upon us the power of the Holy Ghost; may He mercifully purify our hearts and protect us from all adversity. Through Jesus Christ our Lord, Who livest and reignest in the unity of the Holy Ghost, God, for ever and ever.
+R. Amen.
+
+[LittleOfficeHolyGhostAtCompline]
+#At Compline
+!end of the day; before sleep
+V. May the grace of the Holy Ghost illuminate our senses and our hearts.
+R. Amen.
+V. Convert Thou us, O God our Saviour.
+R. And turn away Thy wrath from us.
+V. O God, come to my assistance.
+R. O Lord, make haste to help me.
+V. Glory be to the Father, and to the Son, and to the Holy Ghost.
+R. As it was in the beginning, is now, and ever shall be, world without end. Alleluia.
+! From Septuagesima until Easter, instead of the “alleluia” the following is said:
+Praise to Thee, O Lord, King of everlasting glory.
+_
+&nonbreakingspace
+_
+r. The Spirit the comforter assist us by His might: Our steps to direct and guide to clear us with His light: That when God at last shall come to be the judge of all. At His right hand He may please us joyfully to call.
+_
+&nonbreakingspace
+_
+Ant. Come Holy Ghost, fill the hearts of Thy faithful and kindle in them the fire of Thy love.
+V. Send forth Thy Spirit, and they shall be created.
+R. And Thou shalt renew the face of the earth.
+_
+&nonbreakingspace
+_
+$Oremus
+r. We beseech Thee, O Lord, send down upon us the power of the Holy Ghost; may He mercifully purify our hearts and protect us from all adversity. Through Jesus Christ our Lord, Who livest and reignest in the unity of the Holy Ghost, God, for ever and ever.
+R. Amen.
+_
+&nonbreakingspace
+_
+r. These hours Canonical with devotion to Thee, And with godly respect O Holy Ghost I did say, That by inspiration visited we may be, In Thy heavenly region to live alway with Thee.
+R. Amen.
+
+[LitanyForTheHolySoulsInPurgatory]
+#Litany for the Holy Souls in Purgatory
+r. Lord, have mercy on us. * Lord, have mercy on us.
+r. Christ, have mercy on us. * Christ, have mercy on us.
+r. Lord, have mercy on us. * Lord, have mercy on us.
+r. Christ, hear us. * Christ, graciously hear us.
+_
+&nonbreakingspace
+_
+r. God the Father of Heaven, * have mercy on the souls of the faithful departed.
+r. God the Son, Redeemer of the world, * have mercy on the souls of the faithful departed.
+r. God the Holy Ghost, * have mercy on the souls of the faithful departed.
+r. Holy Trinity, One God, * have mercy on the souls of the faithful departed.
+_
+&nonbreakingspace
+_
+r. Holy Mary, * pray for the souls of the faithful departed.
+r. Holy Mother of God, *  pray for them.
+r. Holy Virgin of virgins, *  pray for them.
+_
+&nonbreakingspace
+_
+r. St. Michael, * pray for them.
+r. All ye Angels and Archangels, * pray for them.
+r. All ye orders of Blessed Spirits, * pray for them.
+r. St. John the Baptist, * pray for them.
+r. St. Joseph, * pray for them.
+r. All ye Holy Patriarchs and Prophets, * pray for them.
+_
+&nonbreakingspace
+_
+r. St. Peter, * pray for them.
+r. St. Paul, * pray for them.
+r. St. John, * pray for them.
+r. All ye Holy Apostles and Evangelists, * pray for them.
+r. St. Stephen, * pray for them.
+r. St. Lawrence, * pray for them.
+r. All ye Holy Martyrs, * pray for them.
+_
+&nonbreakingspace
+_
+r. St. Gregory, * pray for them.
+r. St. Ambrose, * pray for them.
+r. St. Augustine, * pray for them.
+r. St. Jerome, pray * for them.
+r. All ye Holy Bishops and Confessors, * pray for them.
+r. All ye Holy Doctors, * pray for them.
+r. All ye Holy Priests and Levites, * pray for them.
+r. All ye Holy Monks and Hermits, * pray for them.
+_
+&nonbreakingspace
+_
+r. St. Mary Magdalene, * pray for them.
+r. St. Catherine, * pray for them.
+r. St. Barbara, * pray for them.
+r. All ye Holy Virgins and Widows, * pray for them.
+r. All ye Saints of God, * pray for them.
+_
+&nonbreakingspace
+_
+r. Be merciful, * spare them, O Lord.
+r. Be merciful, * graciously hear us, O Lord.
+_
+&nonbreakingspace
+_
+r. From all evil, * deliver them, O Lord.
+r. From Thy wrath, * deliver them, O Lord.
+r. From the rigor of Thy justice, * deliver them, O Lord.
+r. From the power of the devil, * deliver them, O Lord.
+r. From the gnawing worm of conscience, * deliver them, O Lord.
+r. From cruel flames, * deliver them, O Lord.
+r. From intolerable darkness, * deliver them, O Lord.
+r. From dreadful weeping and wailing, * deliver them, O Lord.
+r. By Thine admirable Conception, * deliver them, O Lord.
+r. By Thy Holy Nativity, * deliver them, O Lord.
+r. By Thy most sweet Name, * deliver them, O Lord.
+r. By Thy Baptism and Holy Fasting, * deliver them, O Lord.
+r. By Thine profound Humility, * deliver them, O Lord.
+r. By Thy prompt Obedience, * deliver them, O Lord.
+r. By Thine infinite Love, * deliver them, O Lord.
+r. By Thy Sorrow and Anguish, * deliver them, O Lord.
+r. By Thy Bloody Sweat, * deliver them, O Lord.
+r. By Thy Bonds, * deliver them, O Lord.
+r. By Thy Scourging, * deliver them, O Lord.
+r. By Thy Crowning with thorns, * deliver them, O Lord.
+r. By Thy carrying of the Cross, * deliver them, O Lord.
+r. By Thy most cruel Death, * deliver them, O Lord.
+r. By Thy Holy Wounds, * deliver them, O Lord.
+r. By Thy Resurrection, * deliver them, O Lord.
+r. By Thine Ascension, * deliver them, O Lord.
+r. By the coming of the Holy Ghost, the Comforter, * deliver them, O Lord.
+r. In the day of judgment, * deliver them, O Lord.
+_
+&nonbreakingspace
+_
+r. We sinners, * we beseech Thee, hear us.
+r. Thou Who didst forgive Magdalene, and didst hearken to the prayer of the thief, * we beseech Thee, hear us.
+r. Thou Who savest freely Thine elect, * we beseech Thee, hear us.
+r. Thou Who hast the keys of death and of hell, * we beseech Thee, hear us.
+r. That Thou wouldst be pleased to deliver the souls of our parents, relations, friends, and benefactors from the pains of Purgatory, * we beseech Thee, hear us.
+r. That Thou wouldst be pleased to have mercy on those of whom no special remembrance is made on earth, * we beseech Thee, hear us.
+r. That Thou wouldst be pleased to grant them all the remission of their sins, * we beseech Thee, hear us.
+r. That Thou wouldst be pleased to receive them into the kingdoms of eternal bliss, * we beseech Thee, hear us.
+r. King of awful Majesty, * we beseech Thee, hear us.
+r. Son of God, * we beseech Thee, hear us.
+_
+&nonbreakingspace
+_
+r. Lamb of God, who takest away the sins of the world, * grant them rest.
+r. Lamb of God, who takest away the sins of the world, * grant them rest.
+r. Lamb of God, who takest away the sins of the world, * grant them rest everlasting.
+_
+&nonbreakingspace
+_
+V. Christ, hear us.
+R. Christ, graciously hear us.
+V. Lord, have mercy on us.
+R. Christ, have mercy on us.
+V. Lord, have mercy on us.
+_
+&nonbreakingspace
+_
+r. From the gate of hell, * Deliver their souls, O Lord.
+r. O Lord, hear my prayer, * And let my cry come unto Thee.
+_
+&nonbreakingspace
+_
+$Oremus
+r. O God, the Creator and Redeemer of all the faithful, grant unto the souls of Thy servants departed the remission of all their sins; that, by pious supplications, they may obtain that pardon which they have always desired. Who livest and reignest world without end. * Amen.
+
+[ACT OF CONSECRATION OF THE HUMAN RACE TO THE SACRED HEART OF JESUS]
+#Act of Consecration of the Human Race to the Sacred Heart of Jesus
+Most sweet Jesus, Redeemer of the human race, look down upon us humbly prostrate before Thine Altar.  We are Thine, and Thine we wish to be; but to be more surely united to Thee, behold, each one of us this day freely dedicates himself to Thy Most Sacred Heart.  Many, indeed, have never known Thee; many, too, despising Thy precepts have rejected Thee.  Have mercy on them all, most merciful Jesus, and draw them to Thy Sacred Heart.
+_
+&nonbreakingspace
+_
+Be Thou King, O Lord not only of the faithful who have never forsaken Thee, but also of the prodigal sons who have abandoned Thee; grant that they may quickly return to their Father's house, lest they perish of wretchedness and hunger.  Be Thou King of those whom heresy holds in error or discord keeps aloof; call them back to the harbour of truth and the unity of faith, so that soon there may be but one fold and one Shepherd.
+_
+&nonbreakingspace
+_
+Be Thou King of all those who even now sit in the shadow of idolatry or Islam, and refuse not Thou to bring them into the light of Thy kingdom.  Look, finally, with eyes of pity upon the children of that race, which was for so long a time Thy chosen people; and let Thy Blood, which was once invoked upon them in vengeance, now descend upon them also in a cleansing flood of redemption and eternal life.
+_
+&nonbreakingspace
+_
+Grant, O Lord, to Thy Church assurance of freedom and immunity from harm; unto all nations give an ordered tranquillity; bring it to pass that from pole to pole the earth may resound with one cry: Praise to the divine Heart that wrought our salvation; to It be honour and glory for ever and ever.  Amen.

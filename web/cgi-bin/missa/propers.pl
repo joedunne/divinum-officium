@@ -950,12 +950,12 @@ sub LectionesTemporum {
   my $s = '';
 
   for ($i = 1; $i <= $n; $i++) {
-    $s .= "\n_\n#" . translate_label('Lectio', $lang) . "\n";
-    $s .= $w{"LectioL$i"} . "\n_\n";
+    $s .= "\n__TABLECELLBREAK\n#" . translate_label('Lectio', $lang) . "\n";
+    $s .= $w{"LectioL$i"} . "\n_TABLECELLBREAK\n";
 
     if (exists($w{"GradualeL$i"})) {
       $s .= "\n#" . translate_label('Graduale', $lang) . "\n";
-      $s .= $w{"GradualeL$i"} . "\n_\n";
+      $s .= $w{"GradualeL$i"} . "\n_TABLECELLBREAK\n";
     }
     $s .= "#" . translate_label('Oratio', $lang) . "\n";
 
@@ -1199,6 +1199,7 @@ sub CheckQuiDixisti { our $votive =~ /Defunct|C9/i || our $rule =~ /no Qui Dixis
 sub CheckPax { !(our $solemn) || our $votive =~ /Defunct|C9/i || our $rule =~ /no Pax/i; }
 sub CheckBlessing { our $votive =~ /Defunct|C9/i || our $rule =~ /no Benedictio/i; }
 sub CheckUltimaEv { our $rule =~ /no Ultima Evangelium/i; }
+sub CheckLeoninePrayers { our $rule =~ /Post Missam/i; }
 
 sub communio : ScriptFunc {
   my $lang = shift;

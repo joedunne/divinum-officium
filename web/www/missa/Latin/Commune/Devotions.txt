@@ -213,17 +213,14 @@ _
 &nonbreakingspace
 _
 !Psalmus 69
-r. Deus in adjutorium meum intende:
-Domine ad adjuvandum me festina.
-Confundantur, et revereantur, / qui quaerunt animam meam.
-Avertantur retrorsum et erubescant, / qui volunt mihi mala.
-Avertantur staim erubescentes, / qui dicunt mihi: Euge, euge.
-Exsultent et laetentur in te omnes qui quaerunt te, / et dicant semper:
-Magnificetur Dominus: qui diligunt salutare tuum.
-Ego vero egenus, et pauper sum:
-Deus, adjuva me.
-Adjutor meus, et liberator meus est tu:
-Domine, ne moreris.
+r. Deus in adjutorium meum intende: <i>Domine ad adjuvandum me festina</i>.
+r. Confundantur, et revereantur, <i>qui quaerunt animam meam</i>.
+r. Avertantur retrorsum et erubescant, <i>qui volunt mihi mala</i>.
+r. Avertantur staim erubescentes, <i>qui dicunt mihi: Euge, euge</i>.
+r. Exsultent et laetentur in te <i>omnes qui quaerunt te</i>,
+r. Et dicant semper: Magnificetur Dominus: <i>qui diligunt salutare tuum</i>.
+r. Ego vero egenus, et pauper sum: <i>Deus, adjuva me</i>.
+r. Adjutor meus, et liberator meus est tu: <i>Domine, ne moreris</i>.
 _
 &nonbreakingspace
 _
@@ -1183,6 +1180,7 @@ in nomine Angelorum et Archangelorum; in nomine Thronorum et Dominationum; in no
 in nomine sanctorum Martyrum et Confessorum; in nomine sanctorum Monachorum et Eremitarum; in nomine sanctarum Virginum et omnium Sanctorum et Sanctarum Dei: hodie sit in pace locus tuus, et habitatio tua in sancta Sion. Per Christum Dominum nostrum. * Amen.
 
 [DominicanLitanyToTheBlessedVirginMary]
+#Litaniae B. Mariae Virginis Ab Ordine Receptae
 V. + Deus in adjutorium meum intende.
 R. Domine ad adjuvandum me festina.
 _
@@ -1590,3 +1588,354 @@ Priest: Accipe lampadem ardentem, et irreprehensibilis custodi Baptismum tuum: s
 #Ultima Verba Bonae Voluntatis
 Priest: N., vade in pace et Dominus sit tecum. Amen.
 Sponsor/Catechumen: Amen.
+
+[LittleOfficeHolyGhostAtMatins]
+#Ad Matutinum
+!initium diei
+V. Spíritus Sancti grátia, illúminet sensus et corda nostra.
+R. Amen.
+V. Dómine lábia mea apéries.
+R. Et os meum annuntiábit láudem tuam.
+V. Deus in adjutórium meum intende.
+R. Dómine ad adjuvándum me festína.
+V. Glória Patri, et Fílio, et Spíritui Sancto.
+R. Sicut erat in princípio, et nunc, et semper, et in sæcula sæculórum. Allelúia.
+!A Septuagesima usque ad Pascha, loco Alleluia, dicitur :
+Laus tibi, Dómine, Rex æternæ glóriæ.
+_
+&nonbreakingspace
+_
+r. Nobis Sancti Spiritus gratia sit data, De qua virgo virginum fuit obumbrata, Cum per sanctum Angelum fuit salutata, Verbum caro factum est, virgo fecundata.
+_
+&nonbreakingspace
+_
+Ant. Veni Sancte Spíritus, reple tuoórum corda fidélium : et tui amóris in eis ignem accénde.
+V. Emítte Spíritum tuum, et creabúntur.
+R. Et renovábis fáciem terræ.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Adsit nobis, quæsumus Dómine, virtus Spíritus Sancti : quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis. Per Dóminum nostrum Iesum Christum fílium tuum : Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sæcula sæculórum.
+R. Amen.
+
+[LittleOfficeHolyGhostAtPrime]
+#Ad Primam
+!hora diei prima; id est 6:00 ante meridiem
+V. Spíritus Sancti grátia, illúminet sensus et corda nostra.
+R. Amen.
+V. Deus in adjutórium meum intende.
+R. Dómine ad adjuvándum me festína.
+V. Glória Patri, et Fílio, et Spíritui Sancto.
+R. Sicut erat in princípio, et nunc, et semper, et in sæcula sæculórum. Allelúia.
+!A Septuagesima usque ad Pascha, loco Alleluia, dicitur :
+Laus tibi, Dómine, Rex æternæ glóriæ.
+_
+&nonbreakingspace
+_
+r. De virgine Maria Christus fuit natus, Crucifixus, mortuus, atque tumulatus : Resurgens discipulis fuit demonstratus, Et ipsis cernentibus, in cælis elevatus.
+_
+&nonbreakingspace
+_
+Ant. Veni Sancte Spíritus, reple tuoórum corda fidélium : et tui amóris in eis ignem accénde.
+V. Emítte Spíritum tuum, et creabúntur.
+R. Et renovábis fáciem terræ.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Adsit nobis, quæsumus Dómine, virtus Spíritus Sancti : quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis. Per Dóminum nostrum Iesum Christum fílium tuum : Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sæcula sæculórum.
+R. Amen.
+
+[LittleOfficeHolyGhostAtTerce]
+#Ad Tertiam
+!tertia hora diei; id est 9:00 ante meridiem
+V. Spíritus Sancti grátia, illúminet sensus et corda nostra.
+R. Amen.
+V. Deus in adjutórium meum intende.
+R. Dómine ad adjuvándum me festína.
+V. Glória Patri, et Fílio, et Spíritui Sancto.
+R. Sicut erat in princípio, et nunc, et semper, et in sæcula sæculórum. Allelúia.
+!A Septuagesima usque ad Pascha, loco Alleluia, dicitur :
+Laus tibi, Dómine, Rex æternæ glóriæ.
+_
+&nonbreakingspace
+_
+r. Suum Sanctum Spiritum Deus delegavit. In die Pentecostes Apostolos confortavit. Et de linguis igneis ipsos inflammavit : Relinquere orphanos eos denegavit.
+_
+&nonbreakingspace
+_
+Ant. Veni Sancte Spíritus, reple tuoórum corda fidélium : et tui amóris in eis ignem accénde.
+V. Emítte Spíritum tuum, et creabúntur.
+R. Et renovábis fáciem terræ.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Adsit nobis, quæsumus Dómine, virtus Spíritus Sancti : quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis. Per Dóminum nostrum Iesum Christum fílium tuum : Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sæcula sæculórum.
+R. Amen.
+
+[LittleOfficeHolyGhostAtSext]
+#Ad Sextam
+!sexta hora diei; id est medio die
+V. Spíritus Sancti grátia, illúminet sensus et corda nostra.
+R. Amen.
+V. Deus in adjutórium meum intende.
+R. Dómine ad adjuvándum me festína.
+V. Glória Patri, et Fílio, et Spíritui Sancto.
+R. Sicut erat in princípio, et nunc, et semper, et in sæcula sæculórum. Allelúia.
+!A Septuagesima usque ad Pascha, loco Alleluia, dicitur :
+Laus tibi, Dómine, Rex æternæ glóriæ.
+_
+&nonbreakingspace
+_
+r. Septiformem gratiam tunc acceptaverunt, Quare idiomata cuncta cognoverunt. Ad diversa climata mundi recesserunt : Et fidem catholicam tunc prædicaverunt.
+_
+&nonbreakingspace
+_
+Ant. Veni Sancte Spíritus, reple tuoórum corda fidélium : et tui amóris in eis ignem accénde.
+V. Emítte Spíritum tuum, et creabúntur.
+R. Et renovábis fáciem terræ.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Adsit nobis, quæsumus Dómine, virtus Spíritus Sancti : quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis. Per Dóminum nostrum Iesum Christum fílium tuum : Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sæcula sæculórum.
+R. Amen.
+
+[LittleOfficeHolyGhostAtNone]
+#Ad Nonam
+!hora nona diei; id est 3:00 post meridiem
+V. Spíritus Sancti grátia, illúminet sensus et corda nostra.
+R. Amen.
+V. Deus in adjutórium meum intende.
+R. Dómine ad adjuvándum me festína.
+V. Glória Patri, et Fílio, et Spíritui Sancto.
+R. Sicut erat in princípio, et nunc, et semper, et in sæcula sæculórum. Allelúia.
+!A Septuagesima usque ad Pascha, loco Alleluia, dicitur :
+Laus tibi, Dómine, Rex æternæ glóriæ.
+_
+&nonbreakingspace
+_
+r. Spiritus paraclitus fuit appellatus, Donum Dei, caritas, fons vivificatus, Spiritalis unctio, ignis inflammatus, Septiformis gratia, charisma vocatus.
+_
+&nonbreakingspace
+_
+Ant. Veni Sancte Spíritus, reple tuoórum corda fidélium : et tui amóris in eis ignem accénde.
+V. Emítte Spíritum tuum, et creabúntur.
+R. Et renovábis fáciem terræ.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Adsit nobis, quæsumus Dómine, virtus Spíritus Sancti : quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis. Per Dóminum nostrum Iesum Christum fílium tuum : Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sæcula sæculórum.
+R. Amen.
+
+[LittleOfficeHolyGhostAtVespers]
+#Ad Vesperas
+!vesperæ; id est 6:00 post meridiem
+V. Spíritus Sancti grátia, illúminet sensus et corda nostra.
+R. Amen.
+V. Deus in adjutórium meum intende.
+R. Dómine ad adjuvándum me festína.
+V. Glória Patri, et Fílio, et Spíritui Sancto.
+R. Sicut erat in princípio, et nunc, et semper, et in sæcula sæculórum. Allelúia.
+!A Septuagesima usque ad Pascha, loco Alleluia, dicitur :
+Laus tibi, Dómine, Rex æternæ glóriæ.
+_
+&nonbreakingspace
+_
+r. Dexteræ Dei digitus, virtus Spiritalis, Nos defendat, eruat ab omnibus malis. Ut nobis non noceat dæmon infernalis : Protegat, et nutriat, foveat sub alis.
+_
+&nonbreakingspace
+_
+Ant. Veni Sancte Spíritus, reple tuoórum corda fidélium : et tui amóris in eis ignem accénde.
+V. Emítte Spíritum tuum, et creabúntur.
+R. Et renovábis fáciem terræ.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Adsit nobis, quæsumus Dómine, virtus Spíritus Sancti : quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis. Per Dóminum nostrum Iesum Christum fílium tuum : Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sæcula sæculórum.
+R. Amen.
+
+[LittleOfficeHolyGhostAtCompline]
+#Ad Completorium
+!diei extremum; ante somnum
+V. Spíritus Sancti grátia, illúminet sensus et corda nostra.
+R. Amen.
+V. Convérte nos, Deus salútaris noster.
+R. Et avérte iram tuam a nobis.
+V. Deus in adjutórium meum intende.
+R. Dómine ad adjuvándum me festína.
+V. Glória Patri, et Fílio, et Spíritui Sancto.
+R. Sicut erat in princípio, et nunc, et semper, et in sæcula sæculórum. Allelúia.
+!A Septuagesima usque ad Pascha, loco Alleluia, dicitur :
+Laus tibi, Dómine, Rex æternæ glóriæ.
+_
+&nonbreakingspace
+_
+r. Spiritus paraclitus nos velit juvare, Gressus nostros regere et illuminare : Ut cum Deus venerit omnes judicare, Nos velit ad dexteram omnes appellare.
+_
+&nonbreakingspace
+_
+Ant. Veni Sancte Spíritus, reple tuoórum corda fidélium : et tui amóris in eis ignem accénde.
+V. Emítte Spíritum tuum, et creabúntur.
+R. Et renovábis fáciem terræ.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Adsit nobis, quæsumus Dómine, virtus Spíritus Sancti : quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis. Per Dóminum nostrum Iesum Christum fílium tuum : Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, per ómnia sæcula sæculórum.
+R. Amen.
+_
+&nonbreakingspace
+_
+r. Has horas canonicas cum devotione Tibi Sancte Spiritus pia ratione Dixi, ut nos visites inspiratione, Et vivamus iugiter cæli regione.
+R. Amen.
+
+[LitanyForTheHolySoulsInPurgatory]
+#Litaniæ pro Animabus Fidelium Defunctorum
+r. Kyrie, eleison. * Kyrie, eleison.
+r. Christe, eleison. * Christe, eleison.
+r. Kyrie, eleison* Kyrie, eleison.
+r. Christe, audi nos. * Christe, exaudi nos.
+_
+&nonbreakingspace
+_
+r. Pater de cælis, Deus, * miserere animabus fidelium defunctorum.
+r. Fili, Redemptor mundi, Deus, * miserere animabus fidelium defunctorum.
+r. Spiritus Sancte, Deus, * miserere animabus fidelium defunctorum.
+r. Sancta Trinitas, unus Deus, * miserere animabus fidelium defunctorum.
+_
+&nonbreakingspace
+_
+r. Sancta Maria, * ora pro animabus fidelium defunctorum.
+r. Sancta Dei Genitrix *, ora pro eis.
+r. Sancta Virgo virginum, * ora pro eis.
+_
+&nonbreakingspace
+_
+r. Sancte Michael, * ora pro eis.
+r. Omnes sancti Angeli et Archangeli, * orate pro eis.
+r. Omnes sancti beatorum Spirituum ordines, * orate pro eis.
+r. Sancte Ioannes Baptista, * ora pro eis.
+r. Sancte Ioseph, * ora pro eis.
+r. Omnes sancti Patriarchæ et Prophetæ, * orate pro eis.
+_
+&nonbreakingspace
+_
+r. Sancte Petre, * ora pro eis.
+r. Sancte Paule, * ora pro eis.
+r. Sancte Ioannes, * ora pro eis.
+r. Omnes sancti Apostoli et Evangelistæ, * orate pro eis.
+r. Sancte Stephane, * ora pro eis.
+r. Sancte Laurenti, * ora pro eis.
+r. Omnes sancti Martyres, * orate pro eis.
+_
+&nonbreakingspace
+_
+r. Sancte Gregori, * ora pro eis.
+r. Sancte Ambrosi, * ora pro eis.
+r. Sancte Augustine, * ora pro eis.
+r. Sancte Hieronyme, * ora pro eis.
+r. Omnes sancti Pontifices et Confessores, * orate pro eis.
+r. Omnes sancti Doctores, * orate pro eis.
+r. Omnes sancti Sacerdotes et Levitæ, * orate pro eis.
+r. Omnes sancti Monachi et Eremitæ, * orate pro eis.
+_
+&nonbreakingspace
+_
+r. Sancta Maria Magdalena, * ora pro eis.
+r. Sancta Catharina, * ora pro eis.
+r. Sancta Barbara, * ora pro eis.
+r. Omnes sanctæ Virgines et Viduæ, * orate pro eis.
+r. Omnes Sancti et Sanctæ Dei, * intercedite pro eis.
+_
+&nonbreakingspace
+_
+r. Propitius esto, * parce eis, Domine.
+r. Propitius esto, * exaudi nos, Domine.
+_
+&nonbreakingspace
+_
+r. Ab omni malo, * libera eas, Domine.
+r. Ab ira tua, * libera eas, Domine.
+r. A iustitia severa, * libera eas, Domine.
+r. A potestate diaboli, * libera eas, Domine.
+r. A vermi conscientiæ rodente, * libera eas, Domine.
+r. A flammis cruciantibus, * libera eas, Domine.
+r. A caligine intolerabili, * libera eas, Domine.
+r. A fletu et ululatu horrendo, * libera eas, Domine.
+r. Per admirabilem Conceptionem tuam, * libera eas, Domine.
+r. Per sanctam Nativitatem tuam, * libera eas, Domine.
+r. Per dulcissimum Nomen tuum, * libera eas, Domine.
+r. Per Baptismum et sanctum Ieiunium tuum, * libera eas, Domine.
+r. Per profundam Humilitatem tuam, * libera eas, Domine.
+r. Per promptam Obedientiam tuam, * libera eas, Domine.
+r. Per infinitam Caritatem tuam, * libera eas, Domine.
+r. Per Dolorem et Angustiam tuam, * libera eas, Domine.
+r. Per Sudorem tuum Sanguineum, * libera eas, Domine.
+r. Per Vincula tua, * libera eas, Domine.
+r. Per Flagellationem tuam, * libera eas, Domine.
+r. Per Coronationem tuam spinis, * libera eas, Domine.
+r. Per Baiulationem Crucis tuæ, * libera eas, Domine.
+r. Per acerbissimam Mortem tuam, * libera eas, Domine.
+r. Per sanctissima Vulnera tua, * libera eas, Domine.
+r. Per Resurrectionem tuam, * libera eas, Domine.
+r. Per Ascensionem tuam, * libera eas, Domine.
+r. Per adventum Spiritus Sancti Paracliti, * libera eas, Domine.
+r. In die iudicii, * libera eas, Domine.
+_
+&nonbreakingspace
+_
+r. Peccatores, * te rogamus, audi nos.
+r. Qui Magdalenam absolvisti, et latronem exaudisti, * te rogamus, audi nos.
+r. Qui salvandos salvas gratis, * te rogamus, audi nos.
+r. Qui claves habes mortis et inferni, * te rogamus, audi nos.
+r. Ut animas parentum, propinquorum, amicorum et benefactorum nostrorum a purgatorii pœnis eripere digneris, * te rogamus, audi nos.
+r. Ut animas eorum, quorum in terris nulla est specialis memoria, misereri digneris, * te rogamus, audi nos.
+r. Ut omnibus fidelibus defunctis remissionem omnium peccatorum tribuere digneris, * te rogamus, audi nos.
+r. Ut eos in æterna beatitudinis gaudia suscipere digneris, * te rogamus, audi nos.
+r. Rex tremendæ maiestatis, * te rogamus, audi nos.
+r. Fili Dei, * te rogamus, audi nos.
+_
+&nonbreakingspace
+_
+r. Agnus Dei, qui tollis peccata mundi, * dona eis requiem.
+r. Agnus Dei, qui tollis peccata mundi, * dona eis requiem.
+r. Agnus Dei, qui tollis peccata mundi, * dona eis requiem sempiternam.
+_
+&nonbreakingspace
+_
+V. Christe, audi nos.
+R. Christe, exaudi nos.
+V. Kyrie, eleison.
+R. Christe, eleison.
+V. Kyrie, eleison.
+_
+&nonbreakingspace
+_
+r. A porta inferi, * Erue animas eorum, Domine.
+r. Domine, exaudi orationem meam, * Et clamor meus ad te veniat.
+_
+&nonbreakingspace
+_
+$Oremus
+r. Deus, omnium fidelium Creator et Redemptor, animabus famulorum famularumque tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam, quam semper optaverunt, piis supplicationibus consequantur. Qui vivis et regnas in sæcula sæculorum. Amen.
+
+[ACT OF CONSECRATION OF THE HUMAN RACE TO THE SACRED HEART OF JESUS]
+#Actus Consecrationis Humani Generis in Corde Sacratissimo Iesu
+Jesu Dulcissime, Redemptor humani generis, respice nos ad altare tuum humillime provolutos.  Tui sumus, tui esse volumus; quo autem tibi conjuncti firmius esse possimus, en hodie sacratissimo Cordi tuo se quisque nostrum sponte dedicat.  Te quidem multi novere numquam; te, spretis mandatis tuis, multi repudiarunt.  Miserere utrorumque, benignissime Jesu, atque ad sanctum Cor tuum rape universos.
+_
+&nonbreakingspace
+_
+Rex esto, Domine, nec fidelium tantum qui nullo tempore discessere a te, sed etiam prodigorum filiorum qui te reliquerunt: fac hos, ut domum paternam cito repetant, ne miseria et fame pereant.  Rex esto eorum, quos aut opinionum error deceptos habet, aut discordia separatos, eosque ad portum veritatis atque ad unitatem fidei revoca, ut brevi fiat unum ovile et unus pastor.
+_
+&nonbreakingspace
+_
+Rex esto eorum omnium, qui in tenebris idololatriae aut islamismi adhuc versantur, eosque in lumen regnumque tuum vindicare ne renuas.  Respice denique misericordiae oculis illius gentis filios, quae tamdiu populus electus fuit: et Sanguis, qui olim super eos invocatus est, nunc in illos quoque redemptionis vitaeque lavacrum descendat.
+_
+&nonbreakingspace
+_
+Largire, Domine, Ecclesiae tuae securam cum incolumitate libertatem; largire cunctis gentibus tranquillitatem ordinis; perfice, ut ab utroque terrae vertice una resonet vox: Sit laus divino Cordi, per quod nobis parta salus: ipsi gloria et honor in saecula. Amen.

@@ -446,6 +446,7 @@ S. And with thy spirit.
 &Ultimaev
 !
 
+!*&CheckLeoninePrayers
 # Leonine Prayers
 !To be said kneeling after the celebration of Low Mass. 
 P. Hail Mary, full of grace; The Lord is with thee; Blessed art thou amongst women, And blessed is the fruit of thy womb, Jesus.

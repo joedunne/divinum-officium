@@ -12,6 +12,7 @@ no Credo
 Prefatio=Defunctorum
 celebranda aut missa Prima aut missa Secunda aut missa Tertia
 Sequentia
+Post Missam
 
 [Oratio]
 O God, Who forgives sins and desires to save mankind, we beseech Your mercy to grant, by the intercession of Blessed Mary, ever Virgin, and that of all Your Saints, that the souls of Your servants and handmaids who have departed this life may enter upon the enjoyment of unending happiness.
@@ -35,3 +36,55 @@ $Per Dominum
 [Postcommunio]
 Grant, we beseech You, O almighty and merciful God, that the souls of Your servants and handmaids for whom we have offered this sacrifice of praise to Your Majesty, cleansed of all sins by the virtue of this sacrament, may, by Your mercy, receive the joy of perpetual light.
 $Per Dominum
+
+[Post Missam]
+#Absolution at the Catafalque
+R. Deliver me, O Lord, from death eternal in that awful day.
+When the heavens and the earth shall be moved: When Thou shalt come to judge the world by fire.
+_
+V. Dread and trembling have laid hold on me, and I fear exceedingly because of the judgement and of the wrath to come.
+R. When the heavens and the earth shall be moved: When Thou shalt come to judge the world by fire.
+_
+V. O that day, that day of wrath, of sore distress and of all wretchedness, that great day and exceeding bitter.
+R. When Thou shalt come to judge the world by fire.
+_
+V. Eternal rest grant unto them, O Lord, and let light perpetual shine upon them.
+R. Deliver me, O Lord, from death eternal in that awful day. When the heavens and the earth shall be moved: When Thou shalt come to judge the world by fire.
+_
+&nonbreakingspace
+_
+!Incense is spooned, and the Priest blesses it, saying: Be blessed by Him in Whose honour Thou art burnt. Amen.
+_
+Lord, have mercy. Christ, have mercy. Lord, have mercy.
+_
+&nonbreakingspace
+_
+Our Father... (silently, as far as)
+_
+&nonbreakingspace
+_
+V. And lead us not into temptation.
+R. But deliver us from evil.
+V. From the gate of Hell.
+R. Deliver their soul, O Lord.
+V. May they rest in peace.
+R. Amen.
+_
+&nonbreakingspace
+_
+V. O Lord, hear my prayer.
+R. And let my cry come unto Thee.
+V. The Lord be with you.
+R. And with thy spirit.
+_
+&nonbreakingspace
+_
+V. Absolve, we beseech Thee, O Lord, the souls of Thy servants and handmaids from every bond of sin, that in the glory of the resurrection they may be raised up and live anew among Thy Saints and elect. Through Christ our Lord.
+R. Amen.
+_
+&nonbreakingspace
+_
+V. Eternal rest grant unto them, O Lord.
+R. And let perpetual light shine upon them.
+V. May they rest in peace.
+R. Amen.

@@ -513,10 +513,13 @@ sub activate_links {
 sub setcell {
   my $text = shift;
   my $lang = shift;
+  my $process_resolve_refs = shift;
   my $width = ($only) ? 100 : 50;
 
   return unless ($Ck || ($text && $text !~ /^[_\s]+$/));
-  $text = resolve_refs($text, $lang);
+  if ($process_resolve_refs) {
+    $text = resolve_refs($text, $lang);
+  }
   return unless ($Ck || $text);    # No empty cells in 'Lineamenta'
 
   if (!$Ck || !($missa || $singleCell)) {
@@ -969,8 +972,9 @@ sub html_dayhead {
 
 sub print_content {
   my ($lang1, $script1, $lang2, $script2, $antepost) = @_;
-  our $version, $version1, $version2, $only, $expandind, $column;
+  our $version, $version1, $version2, $only, $expandind, $column, $multiple_readings;
   my ($ind1, $ind2);
+  my (@readings1, @readings2);
 
   table_start();
   ante_post('Ante') if $antepost && !$content;
@@ -978,6 +982,9 @@ sub print_content {
   while ($ind1 < @$script1 || $ind2 < @$script2) {
 
     $column = 1;
+    $multiple_readings = 0;
+    @readings1 = ();
+    @readings2 = ();
     ($text, $ind1) = getunit($script1, $ind1);
 
     $expandind++ if ($text =~ /^\#/);
@@ -989,7 +996,17 @@ sub print_content {
       precedence();
       setsecondcol();
     }
-    setcell($text, $lang1);
+
+    #  special case where there are multiple readings - break them into their own cells
+    $mtext = resolve_refs($text, $lang1);
+    if ($mtext =~ /TABLECELLBREAK/) {
+       $multiple_readings = 1;
+       @readings1 = split /TABLECELLBREAK/, $mtext;
+    }
+
+    if (!$multiple_readings) {
+      setcell($text, $lang1, 1);
+    }
 
     if ($only) {
       $ind2 = $ind1;
@@ -1006,7 +1023,21 @@ sub print_content {
       precedence();
       setsecondcol();
     }
-    setcell($text, $lang2);
+    $mtext = resolve_refs($text, $lang2);
+    if ($mtext =~ /TABLECELLBREAK/) {
+       @readings2 = split /TABLECELLBREAK/, $mtext;
+    }
+
+    if (!$multiple_readings) {
+      setcell($text, $lang2, 1);
+    }
+
+    if ($multiple_readings) {
+       foreach my $i (0 .. $#readings1) {
+           setcell($readings1[$i], $lang1, 0);
+           setcell($readings2[$i], $lang2, 0);
+       }
+    }
   }
   ante_post('Post') if $antepost && !$content;
   table_end();
