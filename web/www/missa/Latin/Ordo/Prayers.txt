@@ -274,8 +274,8 @@ Gospel
 Commemoration
 
 [ThanksgivingAfterMass]
-/:sbi Quilibet Sacerdos, ex concessione Leonis XIII sub die 20 Dec. 1884, lucrari potest Indulgentiam unius anni, si post Missam celebratam, dicto Cantico trium Puerorum et Psalmo 150 cum adnexa Antiphona, Versiculis et Orémus, item ut infra, recitet Orationem S. Thomæ Aquinatis Gratias tibi ago, et Orationem S. Bonaventuræ Transfíge.:/
-Ant. Trium puerórum * cantémus hymnum, quem cantábant Sancti in camíno ignis, benedicéntes Dóminum. (T. P. Allelúja.)
+/:sbi Quilibet Sacerdos, ex concessione Leonis XIII sub die 20 Dec. 1884, lucrari potest Indulgentiam unius anni, si post Missam celebratam, dicto Cantico trium Puerorum et Psalmo 150 cum adnexa Antiphona, Versiculis et Orémus, item ut infra, recitet Orationem Sanctus Thomæ Aquinatis Gratias tibi ago, et Orationem Sanctus Bonaventuræ Transfíge.:/
+Ant. Trium puerórum * cantémus hymnum, quem cantábant Sancti in camíno ignis, benedicéntes Dóminum. (Allelúja.)
 !Quæ Antiphona in Duplicibus tantum duplicatur.
 !Canticum trium Puerorum
 !Dan. 3, 57-88 et 56
