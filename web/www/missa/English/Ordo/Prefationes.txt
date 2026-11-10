@@ -1,9 +1,9 @@
 [Adv]
 !Advent
-v. It is truly fitting and proper, right and profitable to salvation, that we should at all times and in all places give thanks to You, Lord, holy Father, Almighty and everlasting God, through Christ our Lord.
-For You have promised Him, O faithful and merciful One, as a Saviour for the lost human race; so that His truth might instruct the ignorant, His holiness might sanctify sinners, and His power might strengthen the weak.
-Since, therefore, the time of His coming is near, and the day of our liberation is dawning, we trust in Your promises and exult with joyous love.
-And, therefore, with Angels and Archangels, with Thrones and Dominations, and with the whole host of the heavenly army, we sing a hymn to Your glory, saying without ceasing:
+v. It is truly meet and just, right and for our salvation, that we should at all times and in all places give thanks to Thee, holy Lord, Father almighty, eternal God, through Christ our Lord.
+Whom Thou, clement and faithful, promised as a Savior to the lost race of men; Whose truth instructed the ignorant, Whose sanctity justified the impious, Whose virtue strengthened the weak.
+Therefore while the advent approaches of Him Whom Thou shalt send, and the day of our deliverance shines forth, we exult in pious joys in this confidence of Thy promises.
+And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army we sing a hymn to Thy glory, evermore saying:
 
 [Nat]
 !Nativity
@@ -104,27 +104,27 @@ And therefore with Angels and Archangels, with Thrones and Dominations, and with
 
 [Dedicatio]
 !Dedication of a Church
-v. It is truly right and just, proper and helpful toward salvation, that we always and everywhere give thanks to you, O Lord, holy Father, Almighty and eternal God, for you, the giver of all good gifts, inhabit this house of prayer which we have built, and unceasingly sanctify the Church which you founded.
-For your Church is the true house of prayer signified by these visible buildings, the temple where your glory dwells, the seat of unchangeable truth, the sanctuary of eternal charity.
-She is the ark which rescues us from the flood of this world and brings us into the port of salvation.
-She is the one beloved Bride whom Christ acquired by his blood and quickens by his Holy Spirit. In her bosom we are born anew by your grace, nourished by the milk of the Word, strengthened by the bread of life, encouraged by your merciful aid.
-With the help of her Bridegroom she struggles faithfully on earth and, crowned by him, is triumphant forever in heaven.
-Therefore with the Angels and Archangels, the Thrones and Dominations, and all the militant hosts of heaven, we continuously praise your glory in song, and say:
+v. It is truly meet and just, right and for our salvation, that we should at all times and in all places give thanks to Thee, holy Lord, Father almighty, eternal God: Thou Who inhabitest this house of prayer, which we have built, as the bestower of all goods, and Who sanctifiest the Church, which Thou hast founded, by unceasing operation.
+For this is truly a house of prayer, figured by visible buildings, a temple for the dwelling of Thy glory, an unchanging seat of truth, a sanctuary of eternal charity.
+This is ark that leads us, snatched from the inundation of the world, into the port of salvation.
+This 1s the beloved and only betrothed, whom Christ has won by His blood, whom He enlivens by His Ghost, in whose bosom reborn by Thy grace we are nourished by the milk of the word, fortified by the bread of life, warmed by the help of Thy mercy.
+She contends faithfully on earth with help of the Bridegroom, Who Himself crowns her triumphant forever in heaven.
+And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army we sing a hymn to Thy glory, evermore saying:
 
 [Sacramento]
 !Blessed Sacrament
-v. It is truly right and just, proper and helpful toward salvation, that we always and everywhere give thanks to you, O Lord, holy Father, almighty and eternal God, through Christ our Lord;
-for he abolished the animal sacrifices that were empty shadows and entrusted to us his own body and blood for a sacrifice, so that in every place might be offered to your name that clean oblation which alone has pleased you.
-So in this mystery of unsearchable wisdom and boundless love, being himself the one who offers and the victim, he ever wondrously effects what he accomplished once on the cross.
-Making us one victim with himself, he invites us to the sacred banquet in which he, our food, is eaten, the memory of his passion is renewed, the soul is filled with grace and a pledge of future glory is given.
-Therefore with the Angels and Archangels, the Thrones and Dominations, and all the militant hosts of heaven, we continuously praise your glory in song, and say:
+v. It is truly meet and just, right and for our salvation, that we should at all times and in all places give thanks to Thee, holy Lord, Father almighty, eternal God, through Christ our Lord.
+Who, without need of the empty shades of fleshly victims, committed His Body and Blood as a sacrifice for us: that a pure sacrifice, which alone has pleased Thee, might be offered to Thy name in every place.
+Therefore in this mystery of Thy inscrutable wisdom and boundless charity, that very thing which He once accomplished on the Cross does not cease to be accomplished, He Himself both sacrificing and sacrificed.
+And He invites us, made a single victim with Him, to the holy banquet, in which He Himself is taken up as our food, the memory of His Passion is renewed, the mind is filled with grace, and a pledge of future glory is given us.
+And therefore with Angels and Archangels, with Thrones and Dominations, and with all the hosts of the heavenly army we sing a hymn to Thy glory, evermore saying:
 
 [Sanctis]
 !All Saints and Holy Patrons
-v. It is truly right and just, proper and helpful toward salvation, that we always and everywhere give thanks to you, O Lord, holy Father, almighty and eternal God;
-for you are glorified amid the assembly of the saints and in crowning their merits are crowning the gifts you have given them. You afford us in their lives good example, a place in their fellowship, help through their intercession.
-Surrounded with such a cloud of witnesses we can run our appointed course with patience and receive with them the unfading crown of glory, through Jesus Christ our Lord, whose blood gives us entrance into the eternal kingdom.
-Through him also the Angels adore your majesty in awe, and all the spirits of the heavenly choirs join in one grand chorus of joyous praise. We beg you, let our voices blend with theirs, as in humble praise we say:
+v. It is truly meet and just, right and for our salvation, that we should at all times and in all places give thanks to Thee, holy Lord, Father almighty, eternal God:
+Thou Who art glorified in the assembly of the saints, and Who by crowning their merits, crownest Thy own gifts: Thou Who bestowest on us edification by their intercourse, partnership by their communion, aid by their intercession.
+So that, having been endowed with such a great throng of witnesses, we might with perseverance run the contest that is set for us, and together with them attain an unwilting crown of glory. Through Jesus Christ our Lord, by Whose blood entry into the eternal kingdom is prepared for us.
+Through Whom the trembling Angels adore Thy majesty, and all the choirs of heavenly spirits together celebrate in common exultation. And we entreat that Thou wouldst bid our voices also to be heard with theirs, singing with lowly praise:
 
 [Baptista]
 !St. John the Baptist

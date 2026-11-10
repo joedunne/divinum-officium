@@ -5,6 +5,7 @@ In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli;;Duplex maius;;4;;ex C
 ex C8;
 Gloria
 CredoDA
+(sed rubrica 1960)
 Prefatio=Dedicatio
 
 [Officium]

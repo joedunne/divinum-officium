@@ -144,6 +144,8 @@ _
 ! In fine lectionis, vel post canticum, dicuntur orationes hoc modo: omnes surgunt; celebrans dicit Orémus, diaconus Flectámus genua, et omnes, una cum ipso celebrante, flexis genibus, per aliquod temporis spatium in silentio orant; dicto a diacono Leváte, omnes surgunt, et celebrans dicit orationem, in tono feriali, et iunctis manibus.
 ! (In fine lectionis, vel post canticum, dicuntur orationes hoc modo: omnes surgunt; sacerdos, stans ante legile, dicit: Orémus. Flectámus genua, et omnes, una cum ipso sacerdote, flexis genibus, per aliquod temporis spatium in silentio orant; dicto a sacerdote Leváte, omnes surgunt, et ipse dicit orationem, in tono feriali, et iunctis manibus.)
 ! Leguntur vero quatuor sequentes lectiones, cum suis canticis, et orationibus.
+_
+_
 !!Lectio prima
 !Gen. 1:1-31; 2:1-2
 In princípio creavit Deus cœlum et terram. Terra autem erat inánis et vácua, et ténebræ erant super fáciem abýssi: et Spíritus Dei ferebátur super aquas. Dixítque Deus: Fiat lux. Et facta est lux.
@@ -177,7 +179,7 @@ Deus, qui mirabíliter creásti hóminem, et mirabílius redemísti: da nobis, q
 $Per Dominum
 _
 _
-! Lectio secunda
+!! Lectio secunda
 !Exod 14:24-31; 15:1
 In diébus illis: Factum est in vigília matutina, et ecce, respíciens Dóminus super castra Ægyptiórum per colúmnam ignis et nubis, interfécit exércitum eórum: et subvértit rotas cúrruum, ferebantúrque in profúndum.
 Dixérunt ergo Ægýptii: Fugiámus Israélem: Dóminus enim pugnat pro eis contra nos. Et ait Dóminus ad Móysen: Exténde manum tuam super mare, ut revertántur aquæ ad Ægýptios super currus et équites eórum.
@@ -200,7 +202,7 @@ præsta; ut in Abrahæ fílios, et in Israelíticam dignitátem, totíus mundi t
 $Per Dominum
 _
 _
-! Lectio tertia
+!! Lectio tertia
 !Isa 4:2-6
 In die illa erit germen Dómini in magnificéntia et glória, et fructus terræ súblimis, et exsultátio his, qui salváti fúerint de Israël.
 Et erit: Omnis, qui relíctus fúerit in Sion et resíduus in Jerúsalem, sanctus vocábitur, omnis, qui scriptus est in vita in Jerúsalem.
@@ -222,7 +224,7 @@ tríbue pópulis tuis, qui et vineárum apud te nómine censéntur, et ségetum;
 $Per Dominum
 _
 _
-! Lectio quarta
+!! Lectio quarta
 !Deut 31:22-30
 In diébus illis: Scripsit Móyses canticum, et dócuit fílios Israël. Præcepítque Dóminus Josue, fílio Nun, et ait: Confortáre, et esto robústus:
 tu enim introdúces fílios Israël in terram, quam pollícitus sum, et ego ero tecum. Postquam ergo scripsit Móyses verba legis hujus in volúmine, atque complévit:

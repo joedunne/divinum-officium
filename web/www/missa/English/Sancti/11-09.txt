@@ -6,6 +6,7 @@ ex C8;
 Festum Domini
 Gloria
 Credo
+(sed rubrica 1960)
 Prefatio=Dedicatio
 
 [Officium]
