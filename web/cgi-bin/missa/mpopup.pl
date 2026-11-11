@@ -110,7 +110,7 @@ print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Athanasi
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Apostles Creed", ("ApostlesCreed"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Nicene Creed", ("NiceneCreed"));
 print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Profession of the Tridentine Faith", ("PiusIVCreed"));
-print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Act of Consecration of the Human Race to the Sacred Heart of Jesus", ("ACT OF CONSECRATION OF THE HUMAN RACE TO THE SACRED HEART OF JESUS"));
+print_prayer($lang1, $devotion_sections1, $lang2, $devotion_sections2, "Act of Consecration of the Human Race to the Sacred Heart of Jesus", ("ActOfConsecrationHumanRaceSacredHeartJesus"));
 
 #Antiphons to the Blessed Virgin
 #Prayers to the Blessed Virgin Mary

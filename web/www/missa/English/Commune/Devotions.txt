@@ -315,7 +315,7 @@ r. Through the same Christ our Lord.
 Amen.
 
 [ReginaCaeli]
-#Regina Cæli
+#Regina Caeli
 V. Queen of Heaven, rejoice, alleluia.
 R. For He whom you did merit to bear, alleluia.
 _
@@ -1924,7 +1924,7 @@ _
 $Oremus
 r. O God, the Creator and Redeemer of all the faithful, grant unto the souls of Thy servants departed the remission of all their sins; that, by pious supplications, they may obtain that pardon which they have always desired. Who livest and reignest world without end. * Amen.
 
-[ACT OF CONSECRATION OF THE HUMAN RACE TO THE SACRED HEART OF JESUS]
+[ActOfConsecrationHumanRaceSacredHeartJesus]
 #Act of Consecration of the Human Race to the Sacred Heart of Jesus
 Most sweet Jesus, Redeemer of the human race, look down upon us humbly prostrate before Thine Altar.  We are Thine, and Thine we wish to be; but to be more surely united to Thee, behold, each one of us this day freely dedicates himself to Thy Most Sacred Heart.  Many, indeed, have never known Thee; many, too, despising Thy precepts have rejected Thee.  Have mercy on them all, most merciful Jesus, and draw them to Thy Sacred Heart.
 _

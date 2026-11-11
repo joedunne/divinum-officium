@@ -1924,7 +1924,7 @@ _
 $Oremus
 r. Deus, omnium fidelium Creator et Redemptor, animabus famulorum famularumque tuarum remissionem cunctorum tribue peccatorum: ut indulgentiam, quam semper optaverunt, piis supplicationibus consequantur. Qui vivis et regnas in sæcula sæculorum. Amen.
 
-[ACT OF CONSECRATION OF THE HUMAN RACE TO THE SACRED HEART OF JESUS]
+[ActOfConsecrationHumanRaceSacredHeartJesus]
 #Actus Consecrationis Humani Generis in Corde Sacratissimo Iesu
 Jesu Dulcissime, Redemptor humani generis, respice nos ad altare tuum humillime provolutos.  Tui sumus, tui esse volumus; quo autem tibi conjuncti firmius esse possimus, en hodie sacratissimo Cordi tuo se quisque nostrum sponte dedicat.  Te quidem multi novere numquam; te, spretis mandatis tuis, multi repudiarunt.  Miserere utrorumque, benignissime Jesu, atque ad sanctum Cor tuum rape universos.
 _
