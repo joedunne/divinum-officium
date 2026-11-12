@@ -76,6 +76,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Miserére, Dómine, pópulo tuo: et contínuis tribulatiónibus laborántem, propítius respiráre concéde.
+r. Humiliáte cápita vestra Deo.
+r. Miserére, Dómine, pópulo tuo: et contínuis tribulatiónibus laborántem, propítius respiráre concéde.
 $Per Dominum

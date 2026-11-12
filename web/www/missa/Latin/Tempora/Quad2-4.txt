@@ -75,6 +75,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Adésto, Dómine, fámulis tuis, et perpétuam benignitátem largíre poscéntibus: ut iis, qui te auctóre et gubernatóre gloriántur, et congregáta restáures et restauráta consérves.
+r. Humiliáte cápita vestra Deo.
+r. Adésto, Dómine, fámulis tuis, et perpétuam benignitátem largíre poscéntibus: ut iis, qui te auctóre et gubernatóre gloriántur, et congregáta restáures et restauráta consérves.
 $Per Dominum

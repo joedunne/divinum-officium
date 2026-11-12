@@ -99,6 +99,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Páteant aures misericórdiæ tuæ. Dómine, précibus supplicántium: et, ut peténtibus desideráta concédas; fac eos, quæ tibi sunt plácita, postuláre.
+r. Humiliáte cápita vestra Deo.
+r. Páteant aures misericórdiæ tuæ. Dómine, précibus supplicántium: et, ut peténtibus desideráta concédas; fac eos, quæ tibi sunt plácita, postuláre.
 $Per Dominum

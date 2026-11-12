@@ -74,6 +74,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Deus, qui sperántibus in te miseréri pótius éligis quam irásci: da nobis digne flere mala, quæ fécimus; ut tuæ consolatiónis grátiam inveníre mereámur.
+r. Humiliáte cápita vestra Deo.
+r. Deus, qui sperántibus in te miseréri pótius éligis quam irásci: da nobis digne flere mala, quæ fécimus; ut tuæ consolatiónis grátiam inveníre mereámur.
 $Per Dominum

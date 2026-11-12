@@ -85,6 +85,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. Let Your mercy come to our help, O Lord, that under Your protection we may be found worthy to be snatched from the threatening dangers of our sins, and saved by Your deliverance.
+r. Bow your heads to God.
+r. Let Your mercy come to our help, O Lord, that under Your protection we may be found worthy to be snatched from the threatening dangers of our sins, and saved by Your deliverance.
 $Per Dominum

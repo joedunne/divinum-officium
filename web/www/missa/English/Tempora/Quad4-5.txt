@@ -91,6 +91,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. Grant us, we beseech You, almighty God, that, conscious of our weakness, we may place our trust in Your strength, and rejoice forever in Your fatherly love.
+r. Bow your heads to God.
+r. Grant us, we beseech You, almighty God, that, conscious of our weakness, we may place our trust in Your strength, and rejoice forever in Your fatherly love.
 $Per Dominum

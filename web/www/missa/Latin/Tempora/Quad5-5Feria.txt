@@ -95,6 +95,6 @@ $Qui vivis
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Concéde, quǽsumus, omnípotens Deus: ut, qui protectiónis tuæ grátiam quǽrimus, liberáti a malis ómnibus, secúra tibi mente serviámus.
+r. Humiliáte cápita vestra Deo.
+r. Concéde, quǽsumus, omnípotens Deus: ut, qui protectiónis tuæ grátiam quǽrimus, liberáti a malis ómnibus, secúra tibi mente serviámus.
 $Per Dominum

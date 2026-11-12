@@ -75,6 +75,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Pópuli tui, Deus, institútor et rector, peccáta, quibus impugnátur, expélle: ut semper tibi plácitus, et tuo munímine sit secúrus.
+r. Humiliáte cápita vestra Deo.
+r. Pópuli tui, Deus, institútor et rector, peccáta, quibus impugnátur, expélle: ut semper tibi plácitus, et tuo munímine sit secúrus.
 $Per Dominum

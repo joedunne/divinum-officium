@@ -74,6 +74,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. O God, Who would rather show mercy than anger toward those who hope in you, make us truly sorry for the evil we have done, that we may be worthy of your merciful consolation.
+r. Bow your heads to God.
+r. O God, Who would rather show mercy than anger toward those who hope in you, make us truly sorry for the evil we have done, that we may be worthy of your merciful consolation.
 $Per Dominum

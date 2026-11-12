@@ -82,6 +82,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. O God, restorer and lover of innocence, direct the hearts of Your servants towards You, so that, filled with the fervor of Your spirit, they may be found steadfast in faith and rich in good works.
+r. Bow your heads to God.
+r. O God, restorer and lover of innocence, direct the hearts of Your servants towards You, so that, filled with the fervor of Your spirit, they may be found steadfast in faith and rich in good works.
 $Per Dominum

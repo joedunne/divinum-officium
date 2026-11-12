@@ -93,6 +93,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. Grant, we beseech You, almighty God, that we who trust in Your protection may, by Your assistance, triumph over all adversities.
+r. Bow your heads to God.
+r. Grant, we beseech You, almighty God, that we who trust in Your protection may, by Your assistance, triumph over all adversities.
 $Per Dominum

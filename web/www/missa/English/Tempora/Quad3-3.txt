@@ -84,6 +84,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-Grant, almighty God, we beseech You, that we who seek the grace of Your protection, delivered from all evils, may serve You with untroubled minds.
+r. Bow your heads to God.
+r. Grant, almighty God, we beseech You, that we who seek the grace of Your protection, delivered from all evils, may serve You with untroubled minds.
 $Per Dominum

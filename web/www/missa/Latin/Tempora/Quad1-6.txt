@@ -142,6 +142,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Fidéles tuos, Deus, benedíctio desideráta confírmet: quæ eos et a tua voluntáte numquam fáciat discrepáre, et tuis semper indúlgeat benefíciis gratulári.
+r. Humiliáte cápita vestra Deo.
+r. Fidéles tuos, Deus, benedíctio desideráta confírmet: quæ eos et a tua voluntáte numquam fáciat discrepáre, et tuis semper indúlgeat benefíciis gratulári.
 $Per Dominum

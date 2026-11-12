@@ -125,6 +125,7 @@ sub ordo {
     @script2 = getordinarium($lang2, $command);
     @script2 = specials(\@script2, $lang2);
   }
+
   $solemn = $savesolemn;
   $searchind = 0;
 

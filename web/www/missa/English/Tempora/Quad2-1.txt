@@ -81,6 +81,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. Give heed to our humble prayers, almighty God, and kindly grant Your oft-given mercy to those upon whom You bestow great hope in Your goodness.
+r. Bow your heads to God.
+r. Give heed to our humble prayers, almighty God, and kindly grant Your oft-given mercy to those upon whom You bestow great hope in Your goodness.
 $Per Dominum

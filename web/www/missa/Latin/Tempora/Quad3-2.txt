@@ -71,6 +71,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Tua nos, Dómine, protectióne defénde: et ab omni semper iniquitáte custódi.
+r. Humiliáte cápita vestra Deo.
+r. Tua nos, Dómine, protectióne defénde: et ab omni semper iniquitáte custódi.
 $Per Dominum

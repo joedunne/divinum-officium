@@ -78,6 +78,6 @@ $Per Dominum eiusdem
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Tuére, Dómine, pópulum tuum et ab ómnibus peccátis cleménter emúnda: quia nulla ei nocébit advérsitas, si nulla ei dominétur iníquitas.
+r. Humiliáte cápita vestra Deo.
+r. Tuére, Dómine, pópulum tuum et ab ómnibus peccátis cleménter emúnda: quia nulla ei nocébit advérsitas, si nulla ei dominétur iníquitas.
 $Per Dominum

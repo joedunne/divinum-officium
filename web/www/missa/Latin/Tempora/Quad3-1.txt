@@ -85,6 +85,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Subvéniat nobis, Dómine, misericórdia tua: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári.
+r. Humiliáte cápita vestra Deo.
+r. Subvéniat nobis, Dómine, misericórdia tua: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári.
 $Per Dominum

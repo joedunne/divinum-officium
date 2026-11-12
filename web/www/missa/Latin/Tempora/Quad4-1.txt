@@ -85,6 +85,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Deprecatiónem nostram, quǽsumus. Dómine, benígnus exáudi: et, quibus supplicándi præstas afféctum, tríbue defensiónis auxílium.
+r. Humiliáte cápita vestra Deo.
+r. Deprecatiónem nostram, quǽsumus. Dómine, benígnus exáudi: et, quibus supplicándi præstas afféctum, tríbue defensiónis auxílium.
 $Per Dominum

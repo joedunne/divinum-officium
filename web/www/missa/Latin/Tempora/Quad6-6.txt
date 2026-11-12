@@ -787,7 +787,7 @@ _
 V. Dóminus vobíscum.
 R. Et cum spíritu tuo.
 ! Et Diaconus vertens se ad populum, cantat:
-v. Ite, Missa est, allelúja, allelúja.
+V. Ite, Missa est, allelúja, allelúja.
 R. Deo grátias, allelúja, allelúja.
 _
 _
@@ -796,8 +796,7 @@ v. Pláceat tibi, sancta Trínitas, obséquium servitútis meæ: et præsta; ut 
 _
 _
 ! Deinde osculatur Altare: et elevatis oculis, extendens, elevans et jungens manus, caputque Cruci inclínans, dicit:
-v. Benedícat vos omnípotens Deus,
-v. Pater, et Fílius, + et Spíritus Sanctus.
+P. Benedícat vos omnípotens Deus, Pater, et Fílius, + et Spíritus Sanctus.
 R. Amen.
 _
 _

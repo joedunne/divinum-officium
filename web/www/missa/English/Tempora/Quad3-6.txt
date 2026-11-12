@@ -91,6 +91,6 @@ $Qui tecum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. Stretch forth to Your faithful people, O Lord, the hand of divine help, that they may seek You with their whole heart, and may be found worthy to obtain the things they implore in the right way.
+r. Bow your heads to God.
+r. Stretch forth to Your faithful people, O Lord, the hand of divine help, that they may seek You with their whole heart, and may be found worthy to obtain the things they implore in the right way.
 $Per Dominum

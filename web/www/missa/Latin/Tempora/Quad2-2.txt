@@ -75,6 +75,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Propitiáre, Dómine, supplicatiónibus nostris, et animárum nostrárum medére languóribus: ut, remissióne percépta, in tua semper benedictióne lætámur.
+r. Humiliáte cápita vestra Deo.
+r. Propitiáre, Dómine, supplicatiónibus nostris, et animárum nostrárum medére languóribus: ut, remissióne percépta, in tua semper benedictióne lætámur.
 $Per Dominum

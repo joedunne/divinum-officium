@@ -71,6 +71,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. Be merciful to Your people, we beseech You, O Lord, that as they reject whatever displeases You, they may the more delight in Your commandments.
+r. Bow your heads to God.
+r. Be merciful to Your people, we beseech You, O Lord, that as they reject whatever displeases You, they may the more delight in Your commandments.
 $Per Dominum

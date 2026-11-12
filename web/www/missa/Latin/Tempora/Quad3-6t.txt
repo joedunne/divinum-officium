@@ -91,6 +91,6 @@ $Qui tecum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Præténde, Dómine, fidélibus tuis déxteram cœléstis auxílii: ut te toto corde perquírant; et, quæ digne póstulant, cónsequi mereántur.
+r. Humiliáte cápita vestra Deo.
+r. Præténde, Dómine, fidélibus tuis déxteram cœléstis auxílii: ut te toto corde perquírant; et, quæ digne póstulant, cónsequi mereántur.
 $Per Dominum

@@ -86,6 +86,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. Grant unto Your people, we beseech You, O Lord, health of mind and body, that, by persevering in good works, we may be worthy to be protected by Your mighty power.
+r. Bow your heads to God.
+r. Grant unto Your people, we beseech You, O Lord, health of mind and body, that, by persevering in good works, we may be worthy to be protected by Your mighty power.
 $Per Dominum

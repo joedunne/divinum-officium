@@ -71,6 +71,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum  
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Fidéles tui, Deus, per tua dona firméntur: ut éadem et percipiéndo requírant, et quæréndo sine fine percípiant.
+r. Humiliáte cápita vestra Deo.
+r. Fidéles tui, Deus, per tua dona firméntur: ut éadem et percipiéndo requírant, et quæréndo sine fine percípiant.
 $Per Dominum

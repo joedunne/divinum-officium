@@ -78,6 +78,6 @@ $Per Dominum eiusdem
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. Watch over Your people, O Lord, and mercifully cleanse them from all their sins; for no harm can come to them if no evil has power over them.
+r. Bow your heads to God.
+r. Watch over Your people, O Lord, and mercifully cleanse them from all their sins; for no harm can come to them if no evil has power over them.
 $Per Dominum

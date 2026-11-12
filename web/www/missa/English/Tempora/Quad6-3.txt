@@ -188,6 +188,6 @@ $Per eundem
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God. 
-v.Look down we beseech thee, O Lord, on this thy family on whose sake our Lord Jesus Christ refused not to yield himself into the hands of the wicked and to suffer the torments of the cross.
+r. Bow your heads to God.
+r. Look down we beseech thee, O Lord, on this thy family on whose sake our Lord Jesus Christ refused not to yield himself into the hands of the wicked and to suffer the torments of the cross.
 $Qui tecum

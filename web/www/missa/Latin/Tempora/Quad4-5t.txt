@@ -86,6 +86,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Da nobis, quǽsumus, omnípotens Deus: ut, qui infirmitátis nostræ cónscii, de tua virtúte confídimus, sub tua semper pietáte gaudeámus.
+r. Humiliáte cápita vestra Deo.
+r. Da nobis, quǽsumus, omnípotens Deus: ut, qui infirmitátis nostræ cónscii, de tua virtúte confídimus, sub tua semper pietáte gaudeámus.
 $Per Dominum

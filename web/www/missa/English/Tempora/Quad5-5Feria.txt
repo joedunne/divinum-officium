@@ -95,6 +95,6 @@ $Qui vivis
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. Grant, we beseech You, almighty God, that we who seek the grace of Your protection, having been delivered from all evils, may serve You with untroubled minds.
+r. Bow your heads to God.
+r. Grant, we beseech You, almighty God, that we who seek the grace of Your protection, having been delivered from all evils, may serve You with untroubled minds.
 $Per Dominum

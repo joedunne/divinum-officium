@@ -104,6 +104,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. May Your merciful ears be open, O Lord, to the prayers of those who humbly entreat You; grant that they may ask for what pleases You so that You may fulfill their desires.
+r. Bow your heads to God.
+r. May Your merciful ears be open, O Lord, to the prayers of those who humbly entreat You; grant that they may ask for what pleases You so that You may fulfill their desires.
 $Per Dominum

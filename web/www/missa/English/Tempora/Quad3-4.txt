@@ -67,6 +67,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. May Your heavenly favor, O God, increase the number of Your subjects, and help them always to obey Your commands.
+r. Bow your heads to God.
+r. May Your heavenly favor, O God, increase the number of Your subjects, and help them always to obey Your commands.
 $Per Dominum

@@ -74,6 +74,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Da nobis, quǽsumus, Dómine: perseverántem in tua voluntáte famulátum; ut in diébus nostris, et mérito et número, pópulus tibi sérviens augeátur.
+r. Humiliáte cápita vestra Deo.
+r. Da nobis, quǽsumus, Dómine: perseverántem in tua voluntáte famulátum; ut in diébus nostris, et mérito et número, pópulus tibi sérviens augeátur.
 $Per Dominum

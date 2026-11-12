@@ -71,6 +71,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. May Your faithful people, O God, be strengthened by Your gifts; that by receiving them, they may still desire them, and by desiring them, may evermore receive them.
+r. Bow your heads to God.
+r. May Your faithful people, O God, be strengthened by Your gifts; that by receiving them, they may still desire them, and by desiring them, may evermore receive them.
 $Per Dominum

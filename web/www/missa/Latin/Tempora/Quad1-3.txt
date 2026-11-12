@@ -90,6 +90,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-V. Mentes nostras, quǽsumus, Dómine, lúmine tuæ claritátis illústra: ut vidére possímus, quæ agénda sunt; et, quæ recta sunt, ágere valeámus.
+r. Humiliáte cápita vestra Deo.
+r. Mentes nostras, quǽsumus, Dómine, lúmine tuæ claritátis illústra: ut vidére possímus, quæ agénda sunt; et, quæ recta sunt, ágere valeámus.
 $Per Dominum

@@ -82,6 +82,6 @@ All my enemies shall be put to shame in utter terror; they shall fall back in su
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. Graciously hear us, merciful God, and reveal to our minds the light of Your grace.
+r. Bow your heads to God.
+r. Graciously hear us, merciful God, and reveal to our minds the light of Your grace.
 $Per Dominum

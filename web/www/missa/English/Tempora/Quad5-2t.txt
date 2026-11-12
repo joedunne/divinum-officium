@@ -74,6 +74,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. O Lord, we beseech You, make us always obedient servants of Your will, so that in our days Your faithful people may increase both in merit and in number.
+r. Bow your heads to God.
+r. O Lord, we beseech You, make us always obedient servants of Your will, so that in our days Your faithful people may increase both in merit and in number.
 $Per Dominum

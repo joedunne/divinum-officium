@@ -84,6 +84,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray. 
-v. Bow your heads to God. 
-v. Loose the bonds of our sins, we beseech You, O Lord, and mercifully turn aside whatever punishment we deserve for them.
+r. Bow your heads to God.
+r. Loose the bonds of our sins, we beseech You, O Lord, and mercifully turn aside whatever punishment we deserve for them.
 $Per Dominum

@@ -82,6 +82,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Deus, innocéntiæ restitútor et amátor, dírige ad te tuórum corda servórum: ut, spíritus tui fervóre concépto, et in fide inveniántur stábiles, et in ópere efficáces.
+r. Humiliáte cápita vestra Deo.
+r. Deus, innocéntiæ restitútor et amátor, dírige ad te tuórum corda servórum: ut, spíritus tui fervóre concépto, et in fide inveniántur stábiles, et in ópere efficáces.
 $Per Dominum

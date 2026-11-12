@@ -85,6 +85,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. Generously heed our entreaty, O Lord, we beseech You, and grant Your helpful protection to those who have been given a desire to pray.
+r. Bow your heads to God.
+r. Generously heed our entreaty, O Lord, we beseech You, and grant Your helpful protection to those who have been given a desire to pray.
 $Per Dominum

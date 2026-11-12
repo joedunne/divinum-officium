@@ -90,6 +90,6 @@ $Per Dominum
 [Super populum]
 !Oratio super populum
 v. Orémus.
-v. Humiliáte cápita vestra Deo.
-v. Famíliam tuam, quǽsumus, Dómine, contínua pietáte custódi: ut, quæ in sola spe grátiæ cœléstis innítitur, cœlésti étiam protectióne muniátur.
+r. Humiliáte cápita vestra Deo.
+r. Famíliam tuam, quǽsumus, Dómine, contínua pietáte custódi: ut, quæ in sola spe grátiæ cœléstis innítitur, cœlésti étiam protectióne muniátur.
 $Per Dominum

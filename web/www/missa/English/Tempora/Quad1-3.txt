@@ -90,6 +90,6 @@ $Per Dominum
 [Super populum]
 !Prayer over the people
 v. Let us pray.
-v. Bow your heads to God.
-v. O Lord, we beseech You, shed light upon our minds by the brightness of Your glory, so that we may see what we must do and have strength to do what is right.
+r. Bow your heads to God.
+r. O Lord, we beseech You, shed light upon our minds by the brightness of Your glory, so that we may see what we must do and have strength to do what is right.
 $Per Dominum
